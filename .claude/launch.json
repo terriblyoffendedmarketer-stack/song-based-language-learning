@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "songwon-dev",
+      "runtimeExecutable": "/bin/sh",
+      "runtimeArgs": ["-c", "cd '/Users/apple/Documents/Claude Code/language learning through songs/songwon' && /opt/homebrew/bin/npx next dev --turbopack"],
+      "port": 3000
+    }
+  ]
+}
