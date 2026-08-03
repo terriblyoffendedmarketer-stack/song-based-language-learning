@@ -1,0 +1,368 @@
+{
+  "id": "lesson-ha-hyun-sang-lighthouse",
+  "songId": "ha-hyun-sang-lighthouse",
+  "level": "intermediate",
+  "title": "Lighthouse — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Ha Hyun Sang — Lighthouse",
+      "content": "In this lesson, we'll learn words related to grief, forced composure, waiting.\nGrammar: -아/어지다 (passive/involuntary) (Turns a verb into something that happens to you ra)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Lighthouse is a quiet, late-night ballad about someone standing at the edge of the sea, unable to cry even though they want to, waiting for a dawn that never seems to bring relief. The singer keeps fo...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "아무리 울어도 울어지지 않는 날에",
+        "조용히 파도가 말을 걸어오는 길에",
+        "언제까지 머물 거냐는 누군가의 말은",
+        "금방 돌아가겠다고 대답해보지만"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "아무리 울어도 울어지지 않는 날에",
+        "조용히 파도가 말을 걸어오는 길에",
+        "언제까지 머물 거냐는 누군가의 말은",
+        "금방 돌아가겠다고 대답해보지만"
+      ],
+      "lyricTranslations": [
+        "On days when I cry but nothing comes out",
+        "on the road where the waves quietly speak to me",
+        "to someone's question of how long I'll stay",
+        "I answer that I'll head back soon"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "길",
+      "wordData": {
+        "word": {
+          "korean": "길",
+          "english": "road, path",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "길",
+          "english": "road, path",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "길",
+          "english": "road, path",
+          "pos": "noun"
+        },
+        "songLine": "조용히 파도가 말을 걸어오는 길에",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "웃다",
+      "wordData": {
+        "word": {
+          "korean": "웃다",
+          "english": "to laugh, smile",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "웃다",
+          "english": "to laugh, smile",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "웃다",
+          "english": "to laugh, smile",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "남다",
+      "wordData": {
+        "word": {
+          "korean": "남다",
+          "english": "to remain",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "남다",
+          "english": "to remain",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "남다",
+          "english": "to remain",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "On days when I cry but nothing comes out",
+          "options": [
+            "조용히 파도가 말을 걸어오는 길에",
+            "금방 돌아가겠다고 대답해보지만",
+            "아무리 울어도 울어지지 않는 날에",
+            "언제까지 머물 거냐는 누군가의 말은"
+          ],
+          "correctAnswer": "아무리 울어도 울어지지 않는 날에",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "on the road where the waves quietly speak to me",
+          "options": [
+            "금방 돌아가겠다고 대답해보지만",
+            "조용히 파도가 말을 걸어오는 길에",
+            "언제까지 머물 거냐는 누군가의 말은",
+            "아무리 울어도 울어지지 않는 날에"
+          ],
+          "correctAnswer": "조용히 파도가 말을 걸어오는 길에",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "to someone's question of how long I'll stay",
+          "options": [
+            "조용히 파도가 말을 걸어오는 길에",
+            "금방 돌아가겠다고 대답해보지만",
+            "아무리 울어도 울어지지 않는 날에",
+            "언제까지 머물 거냐는 누군가의 말은"
+          ],
+          "correctAnswer": "언제까지 머물 거냐는 누군가의 말은",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Turns a verb into something that happens to you rather than something you do. 울어지지 않는다 — 'crying won't happen [even though I try].' Marks actions the speaker can't force even when they want to.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어지다 (passive/involuntary)",
+        "meaning": "Turns a verb into something that happens to you rather than something you do. 울어지지 않는다 — 'crying won't happen [even though I try].' Marks actions the speaker can't force even when they want to.",
+        "songExample": {
+          "korean": "아무리 울어도 울어지지 않는 날에",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'road, path'의 한국어는?",
+          "options": [
+            "길",
+            "웃다",
+            "사랑",
+            "남다"
+          ],
+          "correctAnswer": "길"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to laugh, smile'의 한국어는?",
+          "options": [
+            "웃다",
+            "길",
+            "남다",
+            "사람"
+          ],
+          "correctAnswer": "웃다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to remain'의 한국어는?",
+          "options": [
+            "남다",
+            "시간",
+            "웃다",
+            "길"
+          ],
+          "correctAnswer": "남다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "아무리 울어도 울어지지 않는 날에",
+        "조용히 파도가 말을 걸어오는 길에",
+        "언제까지 머물 거냐는 누군가의 말은",
+        "금방 돌아가겠다고 대답해보지만",
+        "나만 또 제자리에 서성이며",
+        "남아 있는데",
+        "어느 새벽달이 지나가네",
+        "난 오늘도 전하지 못한 말들이 있나"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "길",
+            "english": "road, path"
+          },
+          {
+            "korean": "웃다",
+            "english": "to laugh, smile"
+          },
+          {
+            "korean": "남다",
+            "english": "to remain"
+          }
+        ],
+        "patternLearned": "-아/어지다 (passive/involuntary)"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Ha Hyun Sang - Lighthouse",
+    "artist": "Ha Hyun Sang",
+    "song": "Lighthouse",
+    "curriculum_level": 4
+  }
+}

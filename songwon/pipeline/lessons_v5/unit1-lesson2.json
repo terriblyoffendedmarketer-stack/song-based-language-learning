@@ -1,0 +1,858 @@
+{
+  "id": "v5-unit1-lesson2",
+  "meta": {
+    "songId": "gaho",
+    "songTitle": "시작",
+    "artist": "Gaho",
+    "unit": 1,
+    "lessonNumber": 2,
+    "grammarFocus": "-고 싶다",
+    "grammarMeaning": "want to do",
+    "koreanRatio": 0.6
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "꿈",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "love",
+            "correct": false
+          },
+          {
+            "text": "sky",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": true
+          },
+          {
+            "text": "rain",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꿈 = dream."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "Gaho — 시작",
+      "content": "Expressing desires. One of the first things you need in any language.\n\n시작 means 'beginning' or 'start.' It's the OST for Itaewon Class (이태원 클라쓰), a 2020 Korean drama where the main character, Park Saeroyi, watches his father get killed, gets expelled from school, and goes to prison — all before he's 20. When he gets out, he opens a tiny bar in Itaewon and spends years building it up to take down the conglomerate that destroyed his family.\n\nIn this lesson, you'll learn the grammar pattern **-고 싶다**, which means \"want to do.\" We'll see how Gaho uses it in \"시작.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **찾다** — to find\n- **사람** — person\n- **찾고 싶다** — to want to find\n- **말하고 싶다** — to want to say\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "새로운 시작은 늘 설레게 하지",
+        "모든 걸 이겨낼 것처럼",
+        "시간을 뒤쫓는 시계바늘처럼",
+        "앞질러 가고 싶어 하지"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "새로운 시작은 늘 설레게 하지",
+          "english": "A new beginning always makes your heart race",
+          "highlights": []
+        },
+        {
+          "korean": "모든 걸 이겨낼 것처럼",
+          "english": "as if you could overcome everything",
+          "highlights": []
+        },
+        {
+          "korean": "시간을 뒤쫓는 시계바늘처럼",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "앞질러 가고 싶어 하지",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "찾다",
+        "english": "to find",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "찾다"
+          ]
+        },
+        "audioKey": "찾다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "찾다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "person",
+            "correct": false
+          },
+          {
+            "text": "to find",
+            "correct": true
+          },
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "to want to find",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "찾다 = to find"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "열쇠를 찾고 있어요.",
+        "english": "I'm looking for my keys.",
+        "highlights": [
+          "찾고"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "열쇠를 ___ 있어요.",
+        "promptTranslation": "I'm looking for my keys.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "찾고",
+            "correct": true
+          },
+          {
+            "text": "찾고 싶다",
+            "correct": false
+          },
+          {
+            "text": "찾다",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "열쇠를 찾고 있어요. = I'm looking for my keys."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "찾고 싶다",
+        "english": "to want to find",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "찾고 싶다"
+          ]
+        },
+        "audioKey": "찾고 싶다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "찾고 싶다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to disappear",
+            "correct": false
+          },
+          {
+            "text": "person",
+            "correct": false
+          },
+          {
+            "text": "to be beautiful",
+            "correct": false
+          },
+          {
+            "text": "to want to find",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "찾고 싶다 = to want to find"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "너를 찾고 싶어요.",
+        "english": "I want to find you.",
+        "highlights": [
+          "찾고 싶"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "너를 ___어요.",
+        "promptTranslation": "I want to find you.",
+        "options": [
+          {
+            "text": "찾고 싶",
+            "correct": true
+          },
+          {
+            "text": "찾다",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "찾고 싶다",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "너를 찾고 싶어요. = I want to find you."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "새로운 시작은 늘 설레게 하지",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "I can hear other things too",
+            "correct": false
+          },
+          {
+            "text": "A new beginning always makes your heart race",
+            "correct": true
+          },
+          {
+            "text": "as if you could overcome everything",
+            "correct": false
+          },
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "새로운 시작은 늘 설레게 하지 = A new beginning always makes your heart race"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "사람",
+        "english": "person",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "사람"
+          ]
+        },
+        "audioKey": "사람"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "사람",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to want to find",
+            "correct": false
+          },
+          {
+            "text": "to want to say",
+            "correct": false
+          },
+          {
+            "text": "person",
+            "correct": true
+          },
+          {
+            "text": "to hide",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "사람 = person"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "좋은 사람이에요.",
+        "english": "They're a good person.",
+        "highlights": [
+          "사람"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "좋은 ___이에요.",
+        "promptTranslation": "They're a good person.",
+        "options": [
+          {
+            "text": "사람",
+            "correct": true
+          },
+          {
+            "text": "찾고",
+            "correct": false
+          },
+          {
+            "text": "세상",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "좋은 사람이에요. = They're a good person."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "열쇠를 찾고 있어요.",
+          "english": "I'm looking for my keys.",
+          "highlights": [
+            "찾고"
+          ]
+        },
+        {
+          "korean": "좋은 사람이에요.",
+          "english": "They're a good person.",
+          "highlights": [
+            "사람"
+          ]
+        }
+      ],
+      "note": "찾다 + 사람 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "A new beginning always makes your heart race",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "시간을 뒤쫓는 시계바늘처럼",
+            "correct": false
+          },
+          {
+            "text": "모든 걸 이겨낼 것처럼",
+            "correct": false
+          },
+          {
+            "text": "새로운 시작은 늘 설레게 하지",
+            "correct": true
+          },
+          {
+            "text": "앞질러 가고 싶어 하지",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "새로운 시작은 늘 설레게 하지"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-고 싶다",
+        "meaning": "want to do",
+        "explanation": "Expressing desires. One of the first things you need in any language.",
+        "songExample": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "고 싶다"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "말하고 싶다",
+        "english": "to want to say",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-고 싶다 = want to do",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "말하고 싶다"
+          ]
+        },
+        "audioKey": "말하고 싶다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "말하고 싶다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "to want to find",
+            "correct": false
+          },
+          {
+            "text": "to want to say",
+            "correct": true
+          },
+          {
+            "text": "person",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "말하고 싶다 = to want to say"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "말하고 싶은 게 있어요.",
+        "english": "There's something I want to say.",
+        "highlights": [
+          "말하고 싶"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "말하___",
+        "promptTranslation": "to want to say",
+        "options": [
+          {
+            "text": "고 싶다",
+            "correct": true
+          },
+          {
+            "text": "는데",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -고 싶다예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "What does -고 싶다 express?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "but / however",
+            "correct": false
+          },
+          {
+            "text": "not at all",
+            "correct": false
+          },
+          {
+            "text": "always / every time",
+            "correct": false
+          },
+          {
+            "text": "want to do",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "-고 싶다 = want to do"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "말하고 싶다",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사람",
+            "correct": false
+          },
+          {
+            "text": "찾다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "찾다 = to find"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (person)",
+        "options": [
+          {
+            "text": "찾다",
+            "correct": false
+          },
+          {
+            "text": "사람",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "사람 = person"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "찾고 싶다",
+        "promptTranslation": "\"to want to find\" 를 한국어로?",
+        "options": [
+          {
+            "text": "찾고 싶다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "찾다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "찾고 싶다 = to want to find"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "먹___ 싶어요.",
+        "promptTranslation": "I want to eat.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "고 싶다",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -고 싶다!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"시작은\", \"설레게\", \"새로운\", \"하지\", \"늘\"]",
+        "promptTranslation": "A new beginning always makes your heart race",
+        "options": [
+          {
+            "text": "새로운 시작은 늘 설레게 하지",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "새로운 시작은 늘 설레게 하지"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "새로운 시작은 늘 설레게 하지",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "모든 걸 이겨낼 것처럼",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "시간을 뒤쫓는 시계바늘처럼",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "앞질러 가고 싶어 하지",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그어 놓은 선을 넘어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "저마다 삶을 향해",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "때론 원망도 하겠지",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그 선을 먼저 넘지 말라고",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "찾다",
+          "english": "to find",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "사람",
+          "english": "person",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "찾고 싶다",
+          "english": "to want to find",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "말하고 싶다",
+          "english": "to want to say",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-고 싶다",
+        "meaning": "want to do"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

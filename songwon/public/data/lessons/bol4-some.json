@@ -1,0 +1,368 @@
+{
+  "id": "lesson-bol4-some",
+  "songId": "bol4-some",
+  "level": "beginner",
+  "title": "Some — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "BOL4 — Some",
+      "content": "In this lesson, we'll learn words related to crush, 타는 썸 (situationship), self-encouragement.\nGrammar: -아/어 볼 거야 ('I'm going to try doing ___.' Appears repeatedly ()",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "This song is a direct celebration of 썸 (sseom) — the specifically Korean dating-culture stage before you're official, where you're texting constantly, hanging out one-on-one, and everyone around you c...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "표현이 서툰 것도 잘못인가요",
+        "나 차가운 도시에 따뜻한 여잔데",
+        "그냥 좋아한단 말도 안 되는가요",
+        "솔직하게 난 말하고 싶어요"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "표현이 서툰 것도 잘못인가요",
+        "나 차가운 도시에 따뜻한 여잔데",
+        "그냥 좋아한단 말도 안 되는가요",
+        "솔직하게 난 말하고 싶어요"
+      ],
+      "lyricTranslations": [
+        "Is it wrong that I'm bad at expressing myself?",
+        "I'm a warm woman in a cold city",
+        "is it that strange to just say I like you?",
+        "I want to say it honestly"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "사랑은 이렇게 생기는 게 아니겠어",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "만나다",
+      "wordData": {
+        "word": {
+          "korean": "만나다",
+          "english": "to meet",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "만나다",
+          "english": "to meet",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "만나다",
+          "english": "to meet",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Is it wrong that I'm bad at expressing myself?",
+          "options": [
+            "표현이 서툰 것도 잘못인가요",
+            "그냥 좋아한단 말도 안 되는가요",
+            "나 차가운 도시에 따뜻한 여잔데",
+            "솔직하게 난 말하고 싶어요"
+          ],
+          "correctAnswer": "표현이 서툰 것도 잘못인가요",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I'm a warm woman in a cold city",
+          "options": [
+            "솔직하게 난 말하고 싶어요",
+            "나 차가운 도시에 따뜻한 여잔데",
+            "표현이 서툰 것도 잘못인가요",
+            "그냥 좋아한단 말도 안 되는가요"
+          ],
+          "correctAnswer": "나 차가운 도시에 따뜻한 여잔데",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "is it that strange to just say I like you?",
+          "options": [
+            "나 차가운 도시에 따뜻한 여잔데",
+            "표현이 서툰 것도 잘못인가요",
+            "그냥 좋아한단 말도 안 되는가요",
+            "솔직하게 난 말하고 싶어요"
+          ],
+          "correctAnswer": "그냥 좋아한단 말도 안 되는가요",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'I'm going to try doing ___.' Appears repeatedly (타볼 거야, 달려가 볼 거야) — frames every action as an attempt, not a guarantee, which fits the uncertainty of the 썸 stage.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어 볼 거야",
+        "meaning": "'I'm going to try doing ___.' Appears repeatedly (타볼 거야, 달려가 볼 거야) — frames every action as an attempt, not a guarantee, which fits the uncertainty of the 썸 stage.",
+        "songExample": {
+          "korean": "그냥 좋아한단 말도 안 되는가요",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "만나다",
+            "사랑",
+            "사라지다"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "만나다",
+            "사랑",
+            "사라지다",
+            "세상"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to meet'의 한국어는?",
+          "options": [
+            "만나다",
+            "사라지다",
+            "사랑",
+            "바람"
+          ],
+          "correctAnswer": "만나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "표현이 서툰 것도 잘못인가요",
+        "나 차가운 도시에 따뜻한 여잔데",
+        "그냥 좋아한단 말도 안 되는가요",
+        "솔직하게 난 말하고 싶어요",
+        "사라져 아니 사라지지 마",
+        "네 맘을 보여줘 아니 보여주지 마",
+        "하루 종일 머릿속에 네 미소만",
+        "우리 그냥 한번 만나볼래요"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          },
+          {
+            "korean": "만나다",
+            "english": "to meet"
+          }
+        ],
+        "patternLearned": "-아/어 볼 거야"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "BOL4 - Some",
+    "artist": "BOL4",
+    "song": "Some",
+    "curriculum_level": 2
+  }
+}

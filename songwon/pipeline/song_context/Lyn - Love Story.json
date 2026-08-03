@@ -1,0 +1,66 @@
+{
+  "safe_name": "Lyn - Love Story",
+  "artist": "Lyn",
+  "song": "Love Story",
+  "song_story": {
+    "overview": "This is a big, sweeping ballad about a love so overwhelming it feels unreal — the narrator keeps checking whether she's dreaming, because the feeling is too good to trust. It moves through the classic ballad arc: the disbelief of falling into something this intense, the fear that it's just a dream, the declaration that no amount of wealth or comfort could replace it, and finally a quiet certainty that this person was the one she was always going to find. It's built for a big vocal moment — the kind of song where the singer holds nothing back on the chorus.",
+    "cultural_root": "The song runs on 인연 (inyeon) — a Buddhist-rooted idea of a connection between two people that was always going to happen, sometimes described as being forged across past lives. It's a very common frame in Korean love songs: instead of 'I chose you,' the emotional logic is closer to 'we were always going to find each other.' Lines like '그 사람 그 사랑을 난 꼭 찾을 거라고' (I'll definitely find that person, that love) only make sense inside that belief — she isn't hoping to meet someone, she's certain a specific, fated person exists and will eventually arrive.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "언제나 같은 꿈에Eonjena gat-eun kkum-e / 나체선 얼굴을 하고nachseon eolgul-eul hago / 멈춰진 시간 속에meomchwojin sigan sog-e / 너와 마주쳤던 나neowa majuchyeossdeon na / 조금 두려웠나봐jogeum dulyeowossnabwa",
+        "literal": "Always in the same dream / wearing an unfamiliar face / in time that had stopped / I ran into you",
+        "context": "The song opens inside a recurring dream — 멈춰진 시간 (stopped time) sets the whole song in a suspended, almost unreal space before any of the 'real' declarations start. This distances the encounter just enough that the singer can question, in the next verse, whether any of it is real."
+      },
+      "verse_2": {
+        "lines": "영원히 꿈일까봐yeong-wonhi kkum-ilkkabwa / 이젠 눈을 뜨도 너야ijen nun-eul tteodo neoya / 감출 수가 없는gamchul suga eobsneun / 너만 보는 두 눈을neoman boneun du nun-eul / 감을 수가 없는 난gam-eul suga eobsneun nan",
+        "literal": "I guess I was a little scared / afraid it would be a dream forever / now even when I open my eyes, it's you",
+        "context": "-나 봐 signals a guess about your own feelings, as if watching yourself from outside — 'I guess I was scared' rather than 'I was scared,' which reads as more vulnerable. The pivot line is 눈을 뜨도 너야: waking up doesn't end the dream, it confirms it's real, since you're still there."
+      },
+      "chorus_1": {
+        "lines": "세상 모든 것을sesang modeun geos-eul / 나에게 모두 준다 해도naege modu jundaedo / 너와 바꿀 수 없어 내 사랑을neowa bakkul su eobs-eo nae salang-eul / 언젠가 단 한 번쯤eonjenga dan hanbeonjjeum / 나에게 와줄 거라고naege wajul geolago",
+        "literal": "This is love story / eyes that can't be hidden / eyes that only look at you / I can't close them",
+        "context": "The wordplay is in 감출/감을 — 감추다 (to hide) and 감다 (to close, as in eyes) sound similar but mean different things, and the lyric uses both back to back. She can't hide her eyes' obsession, and she can't close them either — the gaze is stuck open, fully exposed."
+      },
+      "chorus_2": {
+        "lines": "그 사람 그 사랑을geu salam geu salang-eul / 난 꼭 찾을 거라고nan kkog chaj-eul geolago / 많이 아프겠지만manh-i apeugessjiman / 다시 나에게 물어도dasi naege mul-eodo / 정말 사랑이란jeongmal salang-ijanh-a",
+        "literal": "This is amazing / even if I were given / everything in the world / I couldn't trade my love for you",
+        "context": "-ㄴ다 해도 means 'even if' — a hypothetical concession used to make a comparison as extreme as possible. Offering 'everything in the world' as the trade is the standard way Korean ballads scale up devotion; the point isn't that the offer is realistic, it's that no amount is enough."
+      },
+      "bridge": {
+        "lines": "감출 수가 없는gamchul suga eobsneun / 너만 보는 두 눈을neoman boneun du nun-eul / 감을 수가 없는 난gam-eul suga eobsneun nan / 세상 모든 것을sesang modeun geos-eul / 나에게 모두 준다 해도naege modu jundaedo",
+        "literal": "That someday, just once / they would come to me / that person, that love / I would definitely find",
+        "context": "This is the inyeon logic laid bare (see cultural_root) — before this relationship even started, she believed a specific person and a specific love were owed to her by fate. -ㄹ 거라고 repeated twice in a row is her rehearsing an old private belief, now confirmed."
+      },
+      "final_line": {
+        "lines": "바꿀 수가 없어bakkul suga eobs-eo / 너의 가슴 속에서neoui gaseum sog-eseo / 깊이 잠들고 싶어gip-i jamdeulgo sip-eo / 이건 사랑이야igeon salang-iya / 이게 행복이야ige haengbog-iya / 혹시 꿈 속일까봐hogsi kkum sog-ilkkabwa / 눈을 뜰 수가 없어nun-eul tteul suga eobs-eo / 사랑해 너만을salanghae neoman-eul",
+        "literal": "It'll probably hurt a lot, but / even if you ask me again / this really is love",
+        "context": "-겠지만 concedes future pain while refusing to let it change the verdict. Even knowing love this consuming usually costs something, she's answering the hypothetical question in advance: yes, still love, ask me again and I'll say the same thing."
+      }
+    }
+  },
+  "artist_context": "Lyn (린) is a veteran Korean vocalist known for a powerful, controlled ballad voice, the kind built for exactly this style of song — long sustained notes, a big emotional swell into the chorus, and a delivery that trusts the melody to carry the weight rather than over-acting it.",
+  "honorific_level": "informal — 반말 throughout, delivered as an internal, almost diary-like confession",
+  "themes": [
+    "fated love",
+    "disbelief",
+    "devotion",
+    "certainty"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-나 봐",
+      "usage": "Expresses a guess about one's own state, as if observing yourself from outside. 두려웠나봐 ('I guess I was scared') reads softer and more vulnerable than a direct statement.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-ㄴ/는다 해도",
+      "usage": "Means 'even if.' Used here to build the biggest possible hypothetical (being given everything in the world) just to reject it, which is a common intensifying move in Korean love lyrics.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-ㄹ 거라고",
+      "usage": "Reported/quoted future intention or belief — 'that [I/they] would.' Appears twice in the bridge, rehearsing a long-held private conviction rather than stating a plan.",
+      "topik_level": 3
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "id": "lesson-10cm-phonecert",
+  "songId": "10cm-phonecert",
+  "level": "intermediate",
+  "title": "Phonecert — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "10cm — Phonecert",
+      "content": "In this lesson, we'll learn words related to playfulness, intimacy, nervousness.\nGrammar: -지 않게 ('So that ~ doesn't happen.' 바닥나지 않게 — 'so that it )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Phonecert (폰서트) is a pun combining 'phone' and 'concert' — the entire premise is a private show performed just for one person over a phone call. The narrator sets it up like an actual concert, with in...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이건 세상에서 제일 비싼 단독 공연",
+        "가수는 나고 관객은 너 하나",
+        "화려한 막이 이제 곧 올라가기 전에",
+        "그저 몇 가지만 주의해줘요"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "이건 세상에서 제일 비싼 단독 공연",
+        "가수는 나고 관객은 너 하나",
+        "화려한 막이 이제 곧 올라가기 전에",
+        "그저 몇 가지만 주의해줘요"
+      ],
+      "lyricTranslations": [
+        "This is the most expensive solo concert in the world",
+        "the singer is me, and the one audience member is you",
+        "before the glamorous curtain rises soon",
+        "just pay attention to a few things"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "이건 세상에서 제일 비싼 단독 공연",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "웃다",
+      "wordData": {
+        "word": {
+          "korean": "웃다",
+          "english": "to laugh, smile",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "웃다",
+          "english": "to laugh, smile",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "웃다",
+          "english": "to laugh, smile",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "맞다",
+      "wordData": {
+        "word": {
+          "korean": "맞다",
+          "english": "to be hit; to be correct",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "맞다",
+          "english": "to be hit; to be correct",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "맞다",
+          "english": "to be hit; to be correct",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "This is the most expensive solo concert in the world",
+          "options": [
+            "화려한 막이 이제 곧 올라가기 전에",
+            "이건 세상에서 제일 비싼 단독 공연",
+            "그저 몇 가지만 주의해줘요",
+            "가수는 나고 관객은 너 하나"
+          ],
+          "correctAnswer": "이건 세상에서 제일 비싼 단독 공연",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "the singer is me, and the one audience member is you",
+          "options": [
+            "가수는 나고 관객은 너 하나",
+            "화려한 막이 이제 곧 올라가기 전에",
+            "그저 몇 가지만 주의해줘요",
+            "이건 세상에서 제일 비싼 단독 공연"
+          ],
+          "correctAnswer": "가수는 나고 관객은 너 하나",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "before the glamorous curtain rises soon",
+          "options": [
+            "이건 세상에서 제일 비싼 단독 공연",
+            "가수는 나고 관객은 너 하나",
+            "그저 몇 가지만 주의해줘요",
+            "화려한 막이 이제 곧 올라가기 전에"
+          ],
+          "correctAnswer": "화려한 막이 이제 곧 올라가기 전에",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "이건 ___에서 제일 비싼 단독 공연",
+          "options": [
+            "세상",
+            "웃다",
+            "세상",
+            "맞다"
+          ],
+          "correctAnswer": "세상"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'So that ~ doesn't happen.' 바닥나지 않게 — 'so that it doesn't run out (bottom out)' — used for practical instructions.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-지 않게",
+        "meaning": "'So that ~ doesn't happen.' 바닥나지 않게 — 'so that it doesn't run out (bottom out)' — used for practical instructions.",
+        "songExample": {
+          "korean": "배터리가 바닥나지 않게 조심하고",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "사랑",
+            "세상",
+            "웃다",
+            "맞다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to laugh, smile'의 한국어는?",
+          "options": [
+            "웃다",
+            "세상",
+            "맞다",
+            "시간"
+          ],
+          "correctAnswer": "웃다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to be hit; to be correct'의 한국어는?",
+          "options": [
+            "시간",
+            "맞다",
+            "세상",
+            "웃다"
+          ],
+          "correctAnswer": "맞다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-잖아' 패턴은 어떤 의미예요?",
+          "options": [
+            "you know, isn't it (reminding)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "you know, isn't it (reminding)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이건 세상에서 제일 비싼 단독 공연",
+        "가수는 나고 관객은 너 하나",
+        "화려한 막이 이제 곧 올라가기 전에",
+        "그저 몇 가지만 주의해줘요",
+        "세상에서 제일 편한 옷을 갈아 입고",
+        "제일 좋아하는 자리에 누워",
+        "배터리가 바닥나지 않게 조심하고",
+        "통화상태를 항상 유지해줘요"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "웃다",
+            "english": "to laugh, smile"
+          },
+          {
+            "korean": "맞다",
+            "english": "to be hit; to be correct"
+          }
+        ],
+        "patternLearned": "-지 않게"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "10cm - Phonecert",
+    "artist": "10cm",
+    "song": "Phonecert",
+    "curriculum_level": 3
+  }
+}

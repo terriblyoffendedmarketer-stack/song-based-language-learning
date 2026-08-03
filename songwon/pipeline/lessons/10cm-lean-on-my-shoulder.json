@@ -1,0 +1,380 @@
+{
+  "id": "lesson-10cm-lean-on-my-shoulder",
+  "songId": "10cm-lean-on-my-shoulder",
+  "level": "intermediate",
+  "title": "Lean On My Shoulder — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "10cm — Lean On My Shoulder",
+      "content": "In this lesson, we'll learn words related to comfort, support, quiet devotion.\nGrammar: -지 말아요 (Gentle negative request/imperative. 떠나가지 말아요 — 'pl)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Lean On My Shoulder is a quiet, steady comfort song — the narrator watches someone he cares about pulling away, wearing them down day by day, and instead of demanding they explain themselves, he just ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나의 두 눈에 보여지는 그 뒷모습이",
+        "서글퍼지는 마음이라 눈물이 글썽여",
+        "하루 또 하루 지나가면 더 멀어질까 봐",
+        "이렇게 또 불안한 마음만"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "나의 두 눈에 보여지는 그 뒷모습이",
+        "서글퍼지는 마음이라 눈물이 글썽여",
+        "하루 또 하루 지나가면 더 멀어질까 봐",
+        "이렇게 또 불안한 마음만"
+      ],
+      "lyricTranslations": [
+        "That figure I keep seeing, walking away, their back turned",
+        "it makes my heart feel so sorrowful that tears well up",
+        "afraid that as one day after another passes, we'll grow further apart",
+        "just this anxious feeling, again"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈물",
+      "wordData": {
+        "word": {
+          "korean": "눈물",
+          "english": "tear",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈물",
+          "english": "tear",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈물",
+          "english": "tear",
+          "pos": "noun"
+        },
+        "songLine": "서글퍼지는 마음이라 눈물이 글썽여",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "온 세상을 다 줄게요 나 그대에게",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "That figure I keep seeing, walking away, their back turned",
+          "options": [
+            "서글퍼지는 마음이라 눈물이 글썽여",
+            "하루 또 하루 지나가면 더 멀어질까 봐",
+            "이렇게 또 불안한 마음만",
+            "나의 두 눈에 보여지는 그 뒷모습이"
+          ],
+          "correctAnswer": "나의 두 눈에 보여지는 그 뒷모습이",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "it makes my heart feel so sorrowful that tears well up",
+          "options": [
+            "하루 또 하루 지나가면 더 멀어질까 봐",
+            "서글퍼지는 마음이라 눈물이 글썽여",
+            "이렇게 또 불안한 마음만",
+            "나의 두 눈에 보여지는 그 뒷모습이"
+          ],
+          "correctAnswer": "서글퍼지는 마음이라 눈물이 글썽여",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "afraid that as one day after another passes, we'll grow further apart",
+          "options": [
+            "이렇게 또 불안한 마음만",
+            "서글퍼지는 마음이라 눈물이 글썽여",
+            "나의 두 눈에 보여지는 그 뒷모습이",
+            "하루 또 하루 지나가면 더 멀어질까 봐"
+          ],
+          "correctAnswer": "하루 또 하루 지나가면 더 멀어질까 봐",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-1",
+          "type": "fill-blank",
+          "prompt": "서글퍼지는 마음이라 ___이 글썽여",
+          "options": [
+            "세상",
+            "사라지다",
+            "세상",
+            "눈물"
+          ],
+          "correctAnswer": "눈물"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Gentle negative request/imperative. 떠나가지 말아요 — 'please don't leave' — softer than a command, appropriate for a plea rather than an order.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-지 말아요",
+        "meaning": "Gentle negative request/imperative. 떠나가지 말아요 — 'please don't leave' — softer than a command, appropriate for a plea rather than an order.",
+        "songExample": {
+          "korean": "날 떠나가지 말아요",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'tear'의 한국어는?",
+          "options": [
+            "눈물",
+            "사라지다",
+            "사람",
+            "세상"
+          ],
+          "correctAnswer": "눈물"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "행복",
+            "세상",
+            "눈물",
+            "사라지다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "세상",
+            "눈물",
+            "사라지다",
+            "시간"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어지다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to become (a state)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to become (a state)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나의 두 눈에 보여지는 그 뒷모습이",
+        "서글퍼지는 마음이라 눈물이 글썽여",
+        "하루 또 하루 지나가면 더 멀어질까 봐",
+        "이렇게 또 불안한 마음만",
+        "날 떠나가지 말아요",
+        "가슴속으로 그댈 향해 외치는 말",
+        "돌아가지는 말아요",
+        "그대 있는 곳 다시 사라지지 말아요"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "눈물",
+            "english": "tear"
+          },
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          }
+        ],
+        "patternLearned": "-지 말아요"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "10cm - Lean On My Shoulder",
+    "artist": "10cm",
+    "song": "Lean On My Shoulder",
+    "curriculum_level": 4
+  }
+}

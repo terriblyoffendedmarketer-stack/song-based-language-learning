@@ -1,0 +1,56 @@
+{
+  "safe_name": "10cm - Lean On My Shoulder",
+  "artist": "10cm",
+  "song": "Lean On My Shoulder",
+  "song_story": {
+    "overview": "Lean On My Shoulder is a quiet, steady comfort song — the narrator watches someone he cares about pulling away, wearing them down day by day, and instead of demanding they explain themselves, he just asks them not to leave and offers his shoulder for however long they need it. There's no resolution or grand promise here, just presence: I'll be here, however hard it gets.",
+    "cultural_root": "The song sits inside Korea's strong tradition of 위로 (wiro, comfort/consolation) songs — music whose entire job is to sit with someone in a hard moment rather than fix it or rush them out of it. 기대다 (to lean on someone) is used both literally and as the central metaphor: allowing yourself to rely on another person, which culturally carries a slight vulnerability, since self-reliance and not burdening others is often the default expectation.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "나의 두 눈에 보여지는 그 뒷모습이 / 서글퍼지는 마음이라 눈물이 글썽여 / 하루 또 하루 지나가면 더 멀어질까 봐 / 이렇게 또 불안한 마음만 / 날 떠나가지 말아요 / 가슴속으로 그댈 향해 외치는 말",
+        "literal": "That figure I keep seeing, walking away, their back turned / it makes my heart feel so sorrowful that tears well up / afraid that as one day after another passes, we'll grow further apart / just this anxious feeling, again",
+        "context": "뒷모습 (dwitmoseup) — literally 'back-appearance,' the view of someone from behind, walking away — is a very common image in Korean songs for watching someone leave or pull away emotionally. 글썽이다 (for tears to well up, without necessarily falling) captures restrained, quiet sadness rather than open crying."
+      },
+      "chorus": {
+        "lines": "돌아가지는 말아요 / 그대 있는 곳 다시 사라지지 말아요 / 외로운 맘에 서러워도 울지 말아요 / 나의 어깨에 기대어요 그대 괜찮다면 / 어떤 날에는 더 아프고 또 슬프겠지만 / 내가 그대 곁에 있을게요",
+        "literal": "Please don't leave me / these are the words I'm shouting toward you, deep inside my chest / please don't turn back / please don't disappear again from where you are",
+        "context": "가슴속으로 외치는 말 ('the words I'm shouting inside my chest') signals this plea is internal, maybe never actually said out loud — a private prayer rather than a demand made to the person's face. -지 말아요 is a gentle imperative, requesting rather than commanding."
+      },
+      "verse_2": {
+        "lines": "날 떠나가지 말아요 / 가슴속으로 그댈 향해 외치는 말 / 돌아가지는 말아요 / 그대 있는 곳 다시 사라지지 말아요 / 지금은 아닐거에요 / 우리 헤어지는 건",
+        "literal": "Even if your lonely heart feels wronged and sad, please don't cry / lean on my shoulder, if that's alright with you / some days will hurt more and be sadder still / but I'll be right here beside you",
+        "context": "서럽다 describes a specific flavor of sadness that includes feeling wronged or unfairly treated, not just generic sorrow. 그대 괜찮다면 ('if that's okay with you') keeps the offer of comfort conditional on consent rather than assumed — he's not forcing closeness, just making the option available."
+      },
+      "verse_3": {
+        "lines": "내게서 멀어지지 말아요 / 내 곁에 있어줘 / 나의 품에 안겨줘요 / 슬픈 날들이 지나가면 그때라면 / 온 세상을 다 줄게요 나 그대에게 / 지금 내 말 듣고 있나요 / 나를 떠나가지 말아요",
+        "literal": "Let yourself be held in my arms / once the sad days have passed, at that time / I'll give you the whole world, I will, to you / are you listening to what I'm saying right now?",
+        "context": "온 세상을 다 줄게요 (I'll give you the whole world) is deferred to a future 그때 (that time, once the hard days pass) rather than promised immediately — the priority right now is just getting through the sad days together, not a grand gesture yet. 지금 내 말 듣고 있나요 (are you listening right now?) breaks the poetic tone with a small, real worry that she might not even be able to hear him through her own pain."
+      }
+    }
+  },
+  "artist_context": "This song fits 10cm's gentler, more sincere register — where songs like Stalker or My Eyes use humor to process romantic feelings, Lean On My Shoulder drops the comedy entirely for a plain, steady offer of support, showing the range within the band's catalog between playful and tender.",
+  "honorific_level": "polite — 해요체 throughout, giving the offer of comfort a gentle, respectful distance rather than presumptuous closeness",
+  "themes": [
+    "comfort",
+    "support",
+    "quiet devotion",
+    "fear of loss"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-지 말아요",
+      "usage": "Gentle negative request/imperative. 떠나가지 말아요 — 'please don't leave' — softer than a command, appropriate for a plea rather than an order.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-(으)ㄹ까 봐",
+      "usage": "'Worried/afraid that ~ might happen.' 멀어질까 봐 — 'afraid we'll grow apart' — expresses anxiety about a possible future outcome.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-다면",
+      "usage": "'If ~ (hypothetical condition).' 괜찮다면 — 'if it's okay with you' — makes an offer conditional on the other person's consent.",
+      "topik_level": 3
+    }
+  ]
+}

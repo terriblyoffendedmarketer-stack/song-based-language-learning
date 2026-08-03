@@ -1,0 +1,355 @@
+{
+  "id": "lesson-gaho",
+  "songId": "gaho",
+  "level": "intermediate",
+  "title": "시작 — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Gaho — 시작",
+      "content": "In this lesson, we'll learn words related to perseverance, starting over, defiance.\nGrammar: -(으)ㄹ 테니까 (States intention as justification — 'because I wil)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "시작 means 'beginning' or 'start.' It's the OST for Itaewon Class (이태원 클라쓰), a 2020 Korean drama where the main character, Park Saeroyi, watches his father get killed, gets expelled from school, and goe...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "새로운 시작은 늘 설레게 하지",
+        "모든 걸 이겨낼 것처럼"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "새로운 시작은 늘 설레게 하지",
+        "모든 걸 이겨낼 것처럼"
+      ],
+      "lyricTranslations": [
+        "A new beginning always makes your heart race",
+        "as if you could overcome everything"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "빛나지 않아도 내 꿈을 응원해",
+        "dailySentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "원하다",
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "멈추다",
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "A new beginning always makes your heart race",
+          "options": [
+            "...",
+            "...",
+            "새로운 시작은 늘 설레게 하지",
+            "모든 걸 이겨낼 것처럼"
+          ],
+          "correctAnswer": "새로운 시작은 늘 설레게 하지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "as if you could overcome everything",
+          "options": [
+            "모든 걸 이겨낼 것처럼",
+            "새로운 시작은 늘 설레게 하지",
+            "...",
+            "..."
+          ],
+          "correctAnswer": "모든 걸 이겨낼 것처럼",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "States intention as justification — 'because I will/intend to.' Appears in 갈 테니까, 가질 테니, 단단해질 테니. Stubborn grammar — you're using your own decision as the reason.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄹ 테니까",
+        "meaning": "States intention as justification — 'because I will/intend to.' Appears in 갈 테니까, 가질 테니, 단단해질 테니. Stubborn grammar — you're using your own decision as the reason.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "사랑",
+            "꿈",
+            "원하다",
+            "멈추다"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to want'의 한국어는?",
+          "options": [
+            "시간",
+            "꿈",
+            "원하다",
+            "멈추다"
+          ],
+          "correctAnswer": "원하다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to stop'의 한국어는?",
+          "options": [
+            "꿈",
+            "멈추다",
+            "사랑",
+            "원하다"
+          ],
+          "correctAnswer": "멈추다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "새로운 시작은 늘 설레게 하지",
+        "모든 걸 이겨낼 것처럼",
+        "시간을 뒤쫓는 시계바늘처럼",
+        "앞질러 가고 싶어 하지",
+        "그어 놓은 선을 넘어",
+        "저마다 삶을 향해",
+        "때론 원망도 하겠지",
+        "그 선을 먼저 넘지 말라고"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "원하다",
+            "english": "to want"
+          },
+          {
+            "korean": "멈추다",
+            "english": "to stop"
+          }
+        ],
+        "patternLearned": "-(으)ㄹ 테니까"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Gaho - 시작",
+    "artist": "Gaho",
+    "song": "시작",
+    "curriculum_level": 3
+  }
+}

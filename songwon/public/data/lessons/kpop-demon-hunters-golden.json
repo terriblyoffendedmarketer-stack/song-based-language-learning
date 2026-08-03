@@ -1,0 +1,338 @@
+{
+  "id": "lesson-kpop-demon-hunters-golden",
+  "songId": "kpop-demon-hunters-golden",
+  "level": "beginner",
+  "title": "Golden — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Kpop Demon Hunters — Golden",
+      "content": "In this lesson, we'll learn words related to self-acceptance, identity, empowerment.\nGrammar: -어진 (passive/resultative) (어두워진 앞길 — 'a path that has become dark' — 어/아지다 tu)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Golden is the anthem for HUNTR/X, the fictional girl group at the center of the 2025 Netflix animated film Kpop Demon Hunters, in which the members are secretly demon hunters who use the power of thei...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "어"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "어"
+      ],
+      "lyricTranslations": [
+        "I was a ghost, I was alone"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "빛나다",
+      "wordData": {
+        "word": {
+          "korean": "빛나다",
+          "english": "to shine",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "빛나다",
+          "english": "to shine",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "빛나다",
+          "english": "to shine",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "영원히",
+      "wordData": {
+        "word": {
+          "korean": "영원히",
+          "english": "forever",
+          "pos": "adverb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "영원히",
+          "english": "forever",
+          "pos": "adverb",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "영원히 깨질 수 없는 (that can never be broken forever)",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "영원히",
+          "english": "forever",
+          "pos": "adverb"
+        },
+        "songLine": "영원히 깨질 수 없는 gonna be, gonna be golden",
+        "dailySentence": {
+          "korean": "영원히 깨질 수 없는 (that can never be broken forever)",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "어둡다",
+      "wordData": {
+        "word": {
+          "korean": "어둡다",
+          "english": "dark",
+          "pos": "adjective",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "어둡다",
+          "english": "dark",
+          "pos": "adjective",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "어둡다",
+          "english": "dark",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I was a ghost, I was alone",
+          "options": [
+            "...",
+            "...",
+            "...",
+            "어"
+          ],
+          "correctAnswer": "어",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "어두워진 앞길 — 'a path that has become dark' — 어/아지다 turns an adjective into 'become X,' describing a change of state.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-어진 (passive/resultative)",
+        "meaning": "어두워진 앞길 — 'a path that has become dark' — 어/아지다 turns an adjective into 'become X,' describing a change of state.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to shine'의 한국어는?",
+          "options": [
+            "어둡다",
+            "영원히",
+            "세상",
+            "빛나다"
+          ],
+          "correctAnswer": "빛나다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'forever'의 한국어는?",
+          "options": [
+            "마음",
+            "빛나다",
+            "영원히",
+            "어둡다"
+          ],
+          "correctAnswer": "영원히"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'dark'의 한국어는?",
+          "options": [
+            "빛나다",
+            "영원히",
+            "어둡다",
+            "하늘"
+          ],
+          "correctAnswer": "어둡다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어지다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to become (a state)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to become (a state)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "어",
+        "두워진",
+        "앞",
+        "길속에 (",
+        "But now that's how I'm getting paid, 끝없이 on stage",
+        "영원히 깨질 수 없는 gonna be, gonna be golden",
+        "Born to be, born to be glowin', 밝게 빛나는 우리"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "빛나다",
+            "english": "to shine"
+          },
+          {
+            "korean": "영원히",
+            "english": "forever"
+          },
+          {
+            "korean": "어둡다",
+            "english": "dark"
+          }
+        ],
+        "patternLearned": "-어진 (passive/resultative)"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Kpop Demon Hunters - Golden",
+    "artist": "Kpop Demon Hunters",
+    "song": "Golden",
+    "curriculum_level": 2
+  }
+}

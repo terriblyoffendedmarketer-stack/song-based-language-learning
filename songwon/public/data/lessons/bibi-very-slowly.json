@@ -1,0 +1,392 @@
+{
+  "id": "lesson-bibi-very-slowly",
+  "songId": "bibi-very-slowly",
+  "level": "beginner",
+  "title": "Very, Slowly — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "BIBI — Very, Slowly",
+      "content": "In this lesson, we'll learn words related to taking it slow, healing, trust.\nGrammar: -만으로 알 수가 있지 ('Just from ___ alone, I can tell.' Appears twice ()",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "This is a love song about refusing to rush. The singer has been hurt before — she says as much, 'we hesitated, we were collapsing under reality' — and now that someone gentle has shown up, she's not t...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "눈빛만으로 알 수가 있지",
+        "어떤 세상을 살아왔는지",
+        "처음 내민 너의 따뜻한 손길에",
+        "내 마음이 전부 녹아내"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "눈빛만으로 알 수가 있지",
+        "어떤 세상을 살아왔는지",
+        "처음 내민 너의 따뜻한 손길에",
+        "내 마음이 전부 녹아내"
+      ],
+      "lyricTranslations": [
+        "Just from your eyes I can tell",
+        "what kind of world you've lived through",
+        "at your first warm touch reaching out",
+        "my whole heart melted"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "어떤 세상을 살아왔는지",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "어떤 세상을 살아왔는지",
+        "dailySentence": {
+          "korean": "어떤 세상을 살아왔는지",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": {
+          "korean": "날 바라봐 주던 그 눈빛",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "눈빛만으로 알 수가 있지",
+        "dailySentence": {
+          "korean": "날 바라봐 주던 그 눈빛",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Just from your eyes I can tell",
+          "options": [
+            "처음 내민 너의 따뜻한 손길에",
+            "눈빛만으로 알 수가 있지",
+            "내 마음이 전부 녹아내",
+            "어떤 세상을 살아왔는지"
+          ],
+          "correctAnswer": "눈빛만으로 알 수가 있지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "what kind of world you've lived through",
+          "options": [
+            "내 마음이 전부 녹아내",
+            "어떤 세상을 살아왔는지",
+            "눈빛만으로 알 수가 있지",
+            "처음 내민 너의 따뜻한 손길에"
+          ],
+          "correctAnswer": "어떤 세상을 살아왔는지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "at your first warm touch reaching out",
+          "options": [
+            "눈빛만으로 알 수가 있지",
+            "내 마음이 전부 녹아내",
+            "처음 내민 너의 따뜻한 손길에",
+            "어떤 세상을 살아왔는지"
+          ],
+          "correctAnswer": "처음 내민 너의 따뜻한 손길에",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "___만으로 알 수가 있지",
+          "options": [
+            "눈빛",
+            "세상",
+            "지나다",
+            "하늘"
+          ],
+          "correctAnswer": "눈빛"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Just from ___ alone, I can tell.' Appears twice (눈빛만으로, 손짓만으로) — a repeated structure showing she reads people through small signals, not words.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-만으로 알 수가 있지",
+        "meaning": "'Just from ___ alone, I can tell.' Appears twice (눈빛만으로, 손짓만으로) — a repeated structure showing she reads people through small signals, not words.",
+        "songExample": {
+          "korean": "눈빛만으로 알 수가 있지",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "시간",
+            "세상",
+            "눈빛",
+            "지나다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "지나다",
+            "눈빛",
+            "시간",
+            "세상"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "눈빛",
+            "세상",
+            "지나다",
+            "하늘"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-던' 패턴은 어떤 의미예요?",
+          "options": [
+            "past retrospective modifier",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "past retrospective modifier"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "눈빛만으로 알 수가 있지",
+        "어떤 세상을 살아왔는지",
+        "처음 내민 너의 따뜻한 손길에",
+        "내 마음이 전부 녹아내",
+        "우린 서로 앞을 주저하고",
+        "현실 속에 무너져 가던",
+        "이런 나를 잊어가게 해",
+        "너에게 가는 중"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          },
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          }
+        ],
+        "patternLearned": "-만으로 알 수가 있지"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "BIBI - Very, Slowly",
+    "artist": "BIBI",
+    "song": "Very, Slowly",
+    "curriculum_level": 2
+  }
+}

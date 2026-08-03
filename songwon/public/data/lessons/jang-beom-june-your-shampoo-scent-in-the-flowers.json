@@ -1,0 +1,368 @@
+{
+  "id": "lesson-jang-beom-june-your-shampoo-scent-in-the-flowers",
+  "songId": "jang-beom-june-your-shampoo-scent-in-the-flowers",
+  "level": "intermediate",
+  "title": "Your Shampoo Scent In The Flowers — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Jang Beom June — Your Shampoo Scent In The Flowers",
+      "content": "In this lesson, we'll learn words related to unspoken feelings, hesitation, everyday longing.\nGrammar: -아/어 보지만 ('I try to do X, but...' Appears in 용기내 보지만 — 'I tr)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "This song is about the small, repetitive ritual of almost reaching out to someone and never quite doing it. The narrator keeps catching a hint of familiar shampoo scent among flowers and turns around ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+        "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya",
+        "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+        "그냥 사람들만 보이는 거야geunyang saramdeulman boineungeoya"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+        "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya",
+        "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+        "그냥 사람들만 보이는 거야geunyang saramdeulman boineungeoya"
+      ],
+      "lyricTranslations": [
+        "Among the flowers swaying in the wind",
+        "I catch the scent of your shampoo",
+        "did you pass by just now? I turn around, but",
+        "it's just strangers I see"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꽃",
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun"
+        },
+        "songLine": "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "아프다",
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "계절",
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun"
+        },
+        "songLine": "어떤 계절이 너를eotteon gyejeori neoreul",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Among the flowers swaying in the wind",
+          "options": [
+            "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+            "그냥 사람들만 보이는 거야geunyang saramdeulman boineungeoya",
+            "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya",
+            "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo"
+          ],
+          "correctAnswer": "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I catch the scent of your shampoo",
+          "options": [
+            "그냥 사람들만 보이는 거야geunyang saramdeulman boineungeoya",
+            "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+            "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+            "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya"
+          ],
+          "correctAnswer": "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "did you pass by just now? I turn around, but",
+          "options": [
+            "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+            "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya",
+            "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+            "그냥 사람들만 보이는 거야geunyang saramdeulman boineungeoya"
+          ],
+          "correctAnswer": "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'I try to do X, but...' Appears in 용기내 보지만 — 'I try to gather courage, but [fail].' Marks repeated, failed attempts.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어 보지만",
+        "meaning": "'I try to do X, but...' Appears in 용기내 보지만 — 'I try to gather courage, but [fail].' Marks repeated, failed attempts.",
+        "songExample": {
+          "korean": "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'flower'의 한국어는?",
+          "options": [
+            "꽃",
+            "아프다",
+            "세상",
+            "계절"
+          ],
+          "correctAnswer": "꽃"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'sick, hurt'의 한국어는?",
+          "options": [
+            "꽃",
+            "사랑",
+            "아프다",
+            "계절"
+          ],
+          "correctAnswer": "아프다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'season'의 한국어는?",
+          "options": [
+            "꽃",
+            "사랑",
+            "계절",
+            "아프다"
+          ],
+          "correctAnswer": "계절"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄹ까 (제안/추측)' 패턴은 어떤 의미예요?",
+          "options": [
+            "shall we?/I wonder if (suggestion/conjecture)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "shall we?/I wonder if (suggestion/conjecture)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "흔들리는 꽃들 속에서heundeullineun kkoccdeul sogeseo",
+        "네 향풍향이 느껴져야ne syampuhyangi neukkyeojingeoya",
+        "스쳐 지나간 건가 뒤돌아보지만seuchyeojinagangeonga dwidorabojiman",
+        "그냥 사람들만 보이는 거야geunyang saramdeulman boineungeoya",
+        "다와가는 집 근처에서dawaganeun jipgeuncheoeseo",
+        "괜히 핸드폰만 만지는 거야gwaenhi haendeuponman manjineungeoya",
+        "한 번 연락해 볼까 용기내 보지만hanbeon yeonrakhae bolkka yongginae bojiman",
+        "그냥 내 마음만 아픈 거야geunyang nae maeumman aswiun geoya"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꽃",
+            "english": "flower"
+          },
+          {
+            "korean": "아프다",
+            "english": "sick, hurt"
+          },
+          {
+            "korean": "계절",
+            "english": "season"
+          }
+        ],
+        "patternLearned": "-아/어 보지만"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Jang Beom June - Your Shampoo Scent In The Flowers",
+    "artist": "Jang Beom June",
+    "song": "Your Shampoo Scent In The Flowers",
+    "curriculum_level": 3
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "safe_name": "IU - Blueming",
+  "artist": "IU",
+  "song": "Blueming",
+
+  "song_story": {
+    "overview": "Blueming is about the earliest, giddiest stage of a relationship that's happening entirely through text messages. IU narrates the tiny psychological games of a new crush — overanalyzing which emoji to use, staying up refusing to admit she's not sleeping because she's waiting to hear back, pretending she's busy when she's not. The whole song is built on a pun: 블루밍 (blooming) sounds like 블루 (blue), so the metaphor slides between a flower opening up and the anxious blue feeling of waiting for a reply, sometimes in the very same line.",
+
+    "cultural_root": "The song is built around Korean mobile texting culture specifically — the two-character message '뭐해?' (what are you doing?) is practically a cultural shorthand for testing the water with someone you like without saying anything real. Korean has a whole vocabulary around this kind of coy, low-stakes flirting via message (밀당, push-and-pull), and Blueming captures that stage before anyone's said anything real, where every emoji choice and reply-speed carries enormous, unspoken meaning.",
+
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "Opening verse — the '뭐해' text message section",
+        "literal": "In the two characters that spell 'what are you doing?' / I hide my real feelings, 'I miss you' / inside each little emoticon / does he know how my subtle feelings keep changing?",
+        "context": "뭐해? is the single most common opening line in Korean texting — deliberately vague, low commitment, easy to send. The song's whole premise is that this throwaway two-character message is secretly loaded with everything she actually wants to say but won't."
+      },
+      "verse_2": {
+        "lines": "Second verse — denying she's busy or unable to sleep",
+        "literal": "No, I'm not busy, nothing, no no / I'm not asleep, insomnia, nia, nia / I'm not with someone else right now / yeah, I'm thinking about you too",
+        "context": "This verse is a string of denials to unasked questions — she's pre-answering things he hasn't even said, which shows how much she's already rehearsing the conversation in her head before it happens."
+      },
+      "chorus": {
+        "lines": "Main chorus — 'Our little square is bloom' section",
+        "literal": "Our little square [of the chat box] is bloom / with my thumb I make a rose blossom / I think I'll get drunk on the scent / it's our own secret garden, just the two of us",
+        "context": "네모 칸 — literally 'the little square' — refers to the chat message box. 엄지손가락으로 장미꽃을 피워 — 'making a rose bloom with my thumb' — describes sending the rose emoji, turning a single tap into a whole floral metaphor for the relationship blooming."
+      },
+      "bridge": {
+        "lines": "Bridge before final chorus — 'ddieosseugieopsiboonaelge' typing-without-spaces line",
+        "literal": "I'll send it without spaces, I think this is love / will you bloom a million roses with me? / color the flower petals however our hearts feel like / pretty even when they wilt",
+        "context": "띄어쓰기없이보낼게 — 'I'll send it without spaces' — is a specific texting behavior in Korean, where removing spaces between words signals a rush of emotion or that you're speaking faster than you can type properly. It's a very specific, relatable detail rather than a generic love metaphor."
+      }
+    }
+  },
+
+  "artist_context": "IU is one of Korea's most commercially dominant solo artists, known for writing or co-writing much of her own catalog. Blueming, released in 2019, became one of her signature songs and is frequently cited as an example of her ability to turn small, specific everyday moments — like waiting for a text back — into full pop songs.",
+
+  "honorific_level": "informal — casual 반말 throughout, matching the private, internal-monologue feel of texting someone you like",
+
+  "themes": ["new love", "texting culture", "anticipation", "playful anxiety"],
+
+  "grammar_highlights": [
+    {
+      "pattern": "-지 않아",
+      "usage": "Casual negation, 'not X.' Used repeatedly in the pre-emptive denials: 바쁘지 않아, 잠들어 있지 않아 — she's answering questions before they're asked.",
+      "topik_level": 1
+    },
+    {
+      "pattern": "-을 것 같아",
+      "usage": "'I think it will/might.' Appears in 취할 것 같아, 터질 것 같아 — softens strong feelings (getting drunk on scent, about to burst) into tentative guesses.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-(으)ㄹ래?",
+      "usage": "Casual question asking if someone wants to do something together. Appears in 피워볼래? — 'will you bloom [these] with me?' — an invitation rather than a statement.",
+      "topik_level": 2
+    }
+  ]
+}

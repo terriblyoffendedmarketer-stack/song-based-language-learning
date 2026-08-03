@@ -1,0 +1,56 @@
+{
+  "safe_name": "Sogyumo Acacia Band - Butterfly",
+  "artist": "Sogyumo Acacia Band",
+  "song": "Butterfly",
+  "song_story": {
+    "overview": "Butterfly (나비) is a half-asleep song about following something delicate and impossible to hold onto — a butterfly that keeps rising just out of reach, that the narrator keeps drifting toward and losing consciousness inside of. It's built almost entirely out of the physical sensations of falling asleep and half-waking — eyes closing, eyes unable to open, being buried in wings — rather than telling a clear story, which makes the butterfly read easily as a stand-in for a memory or a love that can only be approached in that same drifting, half-conscious way.",
+    "cultural_root": "The song draws on 호접지몽 (hojeopjimong, the 'butterfly dream'), the classical East Asian parable — most famously from the philosopher Zhuangzi — about a man who dreams he is a butterfly, then wakes unsure whether he is a man who dreamed of being a butterfly, or a butterfly now dreaming he is a man. That parable is deeply embedded in East Asian literary and artistic tradition, including Korean poetry, and a song this focused on sleep, wings, and losing track of which state is real sits squarely inside that lineage.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "나즈막이 숨쉬고 / 눈을 감으면 / 너를 따라 오랜 듯 / 넌 날아오르고",
+        "literal": "Breathing low and quiet / when I close my eyes / as if following you for a long time / you rise up, flying",
+        "context": "나즈막이 (softly, in a low/hushed way) sets the whole song's register before anything else happens — this is a quiet, private, almost whispered experience. The butterfly rising the instant eyes close ties the image directly to sleep and dreaming rather than a waking encounter."
+      },
+      "chorus": {
+        "lines": "눈을 뜰 수 없어 금새 / 난 잠들고 너의 날개 속에 / 묻혀 잠들고",
+        "literal": "I can't open my eyes, and soon / I fall asleep, and inside your wings / I fall asleep, buried",
+        "context": "묻혀 잠들고 (falling asleep, buried/covered) is the song's most striking image — sleep here isn't just closing your eyes, it's being physically enveloped by the butterfly's wings, disappearing into them. The repetition of 잠들고 (falling asleep) twice in three lines mimics actually drifting off, the phrase itself trailing and repeating like consciousness fading."
+      },
+      "verse_2": {
+        "lines": "멀리 날려 보내고 / 눈을 감지만 / 아직 내 곁 있는 듯 넌 / 날아오르고",
+        "literal": "I send it flying far away / and close my eyes, but / as if you're still right beside me / you rise, flying",
+        "context": "The contradiction here is the emotional center — actively letting the butterfly go (날려 보내고) while still feeling its presence (아직 내 곁 있는 듯, 'as if still beside me'). Letting go and still feeling held are happening in the same breath, which fits reading the butterfly as a memory that persists after you've consciously released it."
+      },
+      "bridge": {
+        "lines": "잠을 깨고 / 날아가려해 애써 / 눈뜨고 널 보내",
+        "literal": "I wake up / and try hard to fly away / opening my eyes, I send you off",
+        "context": "This is the only moment the song shifts from drifting into deliberate effort — 애써 (trying hard, with effort) marks waking and letting go as work, unlike the passive falling-asleep imagery everywhere else. Opening the eyes (눈뜨고) to actually say goodbye contrasts directly with the closed-eyes state where the butterfly lived."
+      },
+      "closing": {
+        "lines": "다시 잠들어 / 날아가려해 / 너의 날개를 따라",
+        "literal": "I fall asleep again / and try to fly away / following your wings",
+        "context": "Right after the effort of waking and letting go, the song immediately returns to sleep — 다시 잠들어 (falling asleep again) — undoing the goodbye almost as soon as it happened. The butterfly, and whatever it represents, only lets itself be followed in that drifting, half-conscious state, never in full waking clarity."
+      }
+    }
+  },
+  "artist_context": "Sogyumo Acacia Band (소규모아카시아밴드) helped define Korea's early-2000s indie folk scene with gentle, literary songwriting, and 나비 (Butterfly) has become something close to a modern folk standard in Korea, covered widely and beloved across generations for exactly this kind of soft, dreamlike imagery.",
+  "honorific_level": "informal — 반말 throughout, dreamy and unhurried",
+  "themes": ["impermanence", "dreams and memory", "letting go", "fleeting beauty"],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)면",
+      "usage": "'If/when.' 눈을 감으면 ('when I close my eyes') sets the conditional trigger for the whole song's dream state — every time this happens, the butterfly appears.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-지만",
+      "usage": "'But/although.' 눈을 감지만 ('I close my eyes, but...') sets up the song's central contradiction between letting go and still feeling presence.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-(으)려 해 애써",
+      "usage": "'Try hard to...' 날아가려해 애써 marks the one moment of real effort in an otherwise passive, drifting song — waking up and letting go takes conscious work, unlike falling asleep.",
+      "topik_level": 4
+    }
+  ]
+}

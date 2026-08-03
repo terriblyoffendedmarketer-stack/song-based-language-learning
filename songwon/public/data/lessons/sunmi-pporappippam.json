@@ -1,0 +1,374 @@
+{
+  "id": "lesson-sunmi-pporappippam",
+  "songId": "sunmi-pporappippam",
+  "level": "intermediate",
+  "title": "pporappippam — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "SUNMI — pporappippam",
+      "content": "In this lesson, we'll learn words related to fleeting romance, temporary happiness, nighttime freedom.\nGrammar: -대 (reported speech) (Casual quoting ending relaying someone else's word)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "보라빛 밤 (pporappippam, 'purple night') is about a night that's too good to last, and knowing it while it's happening. Someone is offering her everything — they'll say whatever she wants to hear, promise...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "내게 뭘 원하냬",
+        "그냥 말만 하래",
+        "하늘에 별도 따주겠대",
+        "다른 건 안 바래"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "내게 뭘 원하냬",
+        "그냥 말만 하래",
+        "하늘에 별도 따주겠대",
+        "다른 건 안 바래"
+      ],
+      "lyricTranslations": [
+        "He asks what I want",
+        "says just tell him, that's all",
+        "says he'll even pluck a star from the sky for me",
+        "I don't want anything else"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "꿈인가 싶다가도kkumin-ga sipdagado",
+        "dailySentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "원하다",
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "He asks what I want",
+          "options": [
+            "다른 건 안 바래",
+            "그냥 말만 하래",
+            "하늘에 별도 따주겠대",
+            "내게 뭘 원하냬"
+          ],
+          "correctAnswer": "내게 뭘 원하냬",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "says just tell him, that's all",
+          "options": [
+            "하늘에 별도 따주겠대",
+            "그냥 말만 하래",
+            "다른 건 안 바래",
+            "내게 뭘 원하냬"
+          ],
+          "correctAnswer": "그냥 말만 하래",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "says he'll even pluck a star from the sky for me",
+          "options": [
+            "내게 뭘 원하냬",
+            "하늘에 별도 따주겠대",
+            "다른 건 안 바래",
+            "그냥 말만 하래"
+          ],
+          "correctAnswer": "하늘에 별도 따주겠대",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Casual quoting ending relaying someone else's words — 원하냬, 따주겠대 — used throughout the opening verse to recount his promises at a slight emotional distance.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-대 (reported speech)",
+        "meaning": "Casual quoting ending relaying someone else's words — 원하냬, 따주겠대 — used throughout the opening verse to recount his promises at a slight emotional distance.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "바람",
+            "꿈",
+            "사라지다",
+            "원하다"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "원하다",
+            "꿈",
+            "사라지다",
+            "시간"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to want'의 한국어는?",
+          "options": [
+            "바람",
+            "꿈",
+            "원하다",
+            "사라지다"
+          ],
+          "correctAnswer": "원하다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "내게 뭘 원하냬",
+        "그냥 말만 하래",
+        "하늘에 별도 따주겠대",
+        "다른 건 안 바래",
+        "내게 뭘 원하냬naege mwol wonhanyae",
+        "그냥 말만 하래geunyang malman harae",
+        "하늘에 별도 따주겠대haneure byeoldo ttajugetdae",
+        "다른 건 안 바래dareun geon an barae"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          },
+          {
+            "korean": "원하다",
+            "english": "to want"
+          }
+        ],
+        "patternLearned": "-대 (reported speech)"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "SUNMI - pporappippam",
+    "artist": "SUNMI",
+    "song": "pporappippam",
+    "curriculum_level": 3
+  }
+}

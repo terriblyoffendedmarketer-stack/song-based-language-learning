@@ -1,0 +1,56 @@
+{
+  "safe_name": "BTS - Save Me",
+  "artist": "BTS",
+  "song": "Save Me",
+  "song_story": {
+    "overview": "Save Me (2016) is a single connected to BTS's HYYH (The Most Beautiful Moment in Life) narrative universe, and it plays like a distress call sent from inside a nightmare the singer can't wake up from. He describes being trapped inside himself, suffocating, terrified of the dark — and one person's presence is the only thing bright enough to reach him. It's simple and desperate in a way BTS's more lyrically dense songs aren't: the chorus is almost entirely just the words 'save me,' repeated like someone actually drowning.",
+    "cultural_root": "The song draws on 구원 (guwon) — salvation, rescue — treating another person's love as something close to religious deliverance rather than ordinary romantic support. This kind of language, elevating a partner or loved one to the role of savior, shows up a lot in Korean ballads and reflects how heavily collectivist culture frames connection to others as the thing that keeps you from disappearing.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "난 숨쉬고 싶어, 이 밤이 싫어 (이 밤이 싫어) / 이젠 깨고 싶어, 꿈속이 싫어 (꿈속이 싫어) / 내 안에 갇혀서 난 죽어 있어 (난 죽어있어) / 왜 이리 깜깜한 건지? / 네가 없는 이 곳은? / 위험하잖아, 망가진 내 모습 / 구해줘 날, 나도 날 잡을 수 없어, 수 없어 / 내 심장소릴 들어봐 / 제멋대로 널 부르잖아 / 이 까만 어둠 속에서 / 너는 이렇게 빛나니까 / 그 손을 내밀어줘, save me, save me",
+        "literal": "I want to breathe, I hate this night / I want to wake up now, I hate being in this dream / trapped inside myself, I'm dead already / don't want to be lonely, just want to be yours / why is it so dark? / this place without you? / it's dangerous, my broken self / save me, I can't even hold on to myself",
+        "context": "꿈속이 싫어 — 'I hate being inside this dream' — recasts 'dream' not as something beautiful (as in most K-ballads) but as a trap he wants out of. 갇혀서 (trapped, confined) makes the interior of his own mind sound like a locked room."
+      },
+      "pre_chorus": {
+        "lines": "그 손을 내밀어줘, save me, save me / 그 손을 내밀어줘, save me, save me / 그 손을 내밀어줘, save me, save me / 오늘따라 달이 빛나 (빛나) / 내 기억 속의 빈칸 (빈칸) / 날 삼켜버린 이 lunatic (Uh) / 이 치기 어린 광기 속 / 나를 구원해줄 이 밤 / 난 알았지 / 알았지 / 너란 구원이 / 내 삶의 일부며 아픔을",
+        "literal": "Listen to the sound of my heartbeat / it's calling out for you on its own / in this pitch-black darkness / you shine like this",
+        "context": "제멋대로 (jemeotdaero) means 'on its own, willfully, without permission' — even his own heartbeat is acting outside his control, calling for this person before he consciously decides to. That loss of control over even his own body is the point."
+      },
+      "chorus": {
+        "lines": "감싸줄 유일한 손길 / 난 너밖에 없지 (Ayy) / 나 다시 웃을 수 있도록 / 더 높여줘 네 목소릴, play on / 내 심장소릴 들어봐 / 제멋대로 널 부르잖아 / 이 까만 어둠 속에서 / 너는 이렇게 빛나니까 / 그 손을 내밀어줘, save me, save me (Save me) / 그 손을 내밀어줘, save me, save me (Save me) / 그 손을 내밀어줘, save me, save me / 그 손을 내밀어줘, save me, save me (Fall)",
+        "literal": "Reach out that hand, save me, save me / I need your love before I fall, fall / reach out that hand, save me, save me / (repeated)",
+        "context": "그 손을 내밀어줘 — 'reach that hand out to me' — is the one Korean line anchoring an otherwise English chorus, and it's a request for a physical gesture, not just emotional support — something concrete to hold onto."
+      },
+      "bridge": {
+        "lines": "고마워, 내가 나이게 해줘서 (해줘서) / 이 내가 날게 해줘서 (해줘서) / 이런 내게 날갤 줘서 (갤 줘서) / 꼬깃하던 날개 줘서 (개 줘서) / 답답하던 날 깨줘서 ( / 깨줘서 / 꿈 속에만 살던 날 깨워줘서 ( / 깨워줘서 / 널 생각하면, 날 개어서 ( / 슬픔 따윈 나 개 줬어 ( / Thank you, \"우리\" 가 돼줘서 / 그 손을 내밀어줘, save me, save me / 그 손을 내밀어줘, save me, save me",
+        "literal": "Thank you for letting me be me / thank you for letting me fly / thank you for giving wings to someone like me / wings that used to be crumpled / thank you for waking me from being stuck in this dream / thank you for waking me up from living only in dreams / when I think of you, I fold away / I gave away things like sadness / thank you for becoming 'us' with me",
+        "context": "This entire bridge is a wordplay chain built on the syllable 개 (gae) — 날개 (wings), 깨워 (wake up), 개어 (folding/clearing up, also punning on weather clearing) — a dense pun that's largely untranslatable but shows BTS's lyricists (notably RM) using sound-based wordplay even inside an emotionally raw song."
+      }
+    }
+  },
+  "artist_context": "Save Me arrived as a single connecting BTS's HYYH narrative universe to Wings, and its music video became one of the key visual texts fans use to piece together the group's ongoing 'BU' (Bangtan Universe) storyline about youth, trauma, and connection.",
+  "honorific_level": "informal — 반말, addressed directly to the one person who can 'save' him",
+  "themes": [
+    "despair",
+    "isolation",
+    "salvation through connection",
+    "gratitude"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-고 싶어 / -기 싫어",
+      "usage": "'Want to / hate to.' 숨쉬고 싶어, 밤이 싫어 — basic desire/aversion structures stacked rapid-fire to convey panic rather than calm reflection.",
+      "topik_level": 1
+    },
+    {
+      "pattern": "제멋대로",
+      "usage": "'On its own accord, willfully.' Describes an action happening without the speaker's permission — here, his own heart calling out involuntarily.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-아/어줘서 고마워",
+      "usage": "'Thank you for doing ___.' The entire bridge is built from this pattern (나이게 해줘서, 날게 해줘서) — gratitude expressed as a list of specific things the other person did.",
+      "topik_level": 2
+    }
+  ]
+}

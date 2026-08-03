@@ -1,0 +1,61 @@
+{
+  "safe_name": "TWICE - Feel Special",
+  "artist": "TWICE",
+  "song": "Feel Special",
+  "song_story": {
+    "overview": "Feel Special is TWICE's 2019 title track, and it plays like a direct address to the group's fandom, ONCE, even though the lyrics are written as a love song to an unnamed 'you.' It moves from a specific, familiar low — the feeling of walking into a room and feeling like you don't belong anywhere — into someone's voice pulling you back out of it. TWICE has been open about the song being about leaning on fans during hard stretches, so 'you' reads naturally both as a person and as an entire fandom's worth of support.",
+    "cultural_root": "The song centers on 위로 (wiro) — comfort, consolation, the specific act of being talked back from a bad place by someone who cares. K-pop leans heavily on songs that thank fans directly, treating the idol-fan bond as something closer to family than fandom — the person being thanked here isn't praised for grand gestures, just for a voice, a text, a name being called at the right moment.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "그런 날이 있어 / 갑자기 혼자인 것만 같은 날 / 어딜 가도 내 자리가 아닌 것만 같고 / 고갠 떨궈지는 날 / 그럴 때마다 내게 / 얼마나 내가 소중한지 / 말해주는 너의 그 한마디에",
+        "literal": "There are days like that / days when I suddenly feel completely alone / days when wherever I go feels like it's not my place / days when my head just drops",
+        "context": "-것만 같은 (feels just like) repeated twice softens the claim slightly — she's not saying she IS alone, just that it FEELS that way, which is a more honest description of low moments than a flat statement would be. 고갠 떨궈지다 (the head just droops) is a small, physical, unglamorous detail that makes the verse feel real rather than generic."
+      },
+      "pre_chorus": {
+        "lines": "초라한 nobody 에서 다시 somebody / 특별한 나로 변해 / 세상이 아무리 날 주저앉혀도 / 아프고 아픈 말들이 날 찔러도 / 네가 있어 난 다시 웃어 / 아무것도 아닌 존재 같다가도 / 사라져도 모를 사람 같다가도",
+        "literal": "Every time that happens / your one sentence, telling me / how precious I am / and everything's alright",
+        "context": "한마디 — literally 'one word/phrase' — emphasizes how little it actually takes. Not a grand rescue, just one sentence, said at the right time. The structure builds toward the payoff of Everything's alright, showing the turn from low to comforted happening within a single breath."
+      },
+      "chorus": {
+        "lines": "날 부르는 네 목소리에 / 자꾸 숨고만 싶어서 / 마주 하기가 싫어서 / 모든 게 의미를 잃은 듯이 / 내가 의미를 잃은 듯이 / 가만히 주저앉아 있을 때 / 그때 내 앞에 나타난 너의",
+        "literal": "You make me feel special / no matter how much the world knocks me down / even if painful words keep stabbing me / because you're here, I smile again",
+        "context": "주저앉히다 means to force someone to sit down, to knock them down and keep them there — a strong image for how relentless the low feeling can be. 찌르다 (to stab/pierce) does the same for hurtful words. Against both of those, 네가 있어 (because you exist, because you're here) is presented as enough — not fixing the problem, just making it survivable."
+      },
+      "verse_2": {
+        "lines": "따뜻한 미소와 손길에 / 초라한 nobody 에서 다시 somebody / 특별한 나로 변해 / 세상이 아무리 날 주저앉혀도 / 아프고 아픈 말들이 날 찔러도 / 네가 있어 난 다시 웃어 / 아무것도 아닌 존재 같다가도",
+        "literal": "Because I just keep wanting to hide / because I don't want to face things / as if everything has lost meaning / as if I've lost meaning / while I'm sitting there still, not moving",
+        "context": "The parallel 모든 게 의미를 잃은 듯이 / 내가 의미를 잃은 듯이 (as if everything lost meaning / as if I lost meaning) escalates the feeling from the world being meaningless to the self feeling meaningless — a much heavier claim, made quietly, in the middle of an otherwise upbeat pop song."
+      },
+      "bridge": {
+        "lines": "사라져도 모를 사람 같다가도 / 날 부르는 네 목소리에 / 구름이 쫙 낀 햇살 한 줌 없는 날 / 네가 바로 나의 shining light / 아무리 어두운 밤도 다시 낮 / 세상이 아무리 날 주저앉혀도 / 아프고 아픈 말들이 날 찔러도 / 네가 있어 난 다시 웃어 / 아무것도 아닌 존재 같다가도 / 사라져도 모를 사람 같다가도 / 날 부르는 네 목소리에",
+        "literal": "You make everything alright / on a day thick with clouds, without a single ray of sunlight / you are exactly my shining light / that's what you do",
+        "context": "한 줌 — 'a handful' — 햇살 한 줌 없는 날 (a day without even a handful of sunlight) is a specific, almost tactile way to describe a completely gray day, which makes 'you' being the shining light land harder as a direct contrast."
+      }
+    }
+  },
+  "artist_context": "TWICE members have discussed writing Feel Special as thanks to ONCE, their fandom, during a period where several members were open about anxiety and pressure. The song is one of the clearer examples in their catalog of the K-pop convention where a love song and a fan-gratitude song are the same song, meant to be heard both ways at once.",
+  "honorific_level": "informal — 반말, addressed directly and intimately to 'you'",
+  "themes": [
+    "comfort",
+    "loneliness",
+    "gratitude",
+    "belonging"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-것만 같다",
+      "usage": "'Feels just like, seems as if.' 혼자인 것만 같은 날 — softens a strong feeling into a perception rather than a fact, useful for describing emotional states honestly.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아무리 ~아도/어도",
+      "usage": "'No matter how much ~.' 아무리 날 주저앉혀도 — 'no matter how much it knocks me down' — sets up a contrast the second half of the sentence then overturns.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-듯이",
+      "usage": "'As if.' 의미를 잃은 듯이 — 'as if it lost meaning' — used twice in parallel to build and intensify a feeling.",
+      "topik_level": 4
+    }
+  ]
+}

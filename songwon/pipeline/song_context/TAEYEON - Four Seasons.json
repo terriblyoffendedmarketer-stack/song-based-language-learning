@@ -1,0 +1,61 @@
+{
+  "safe_name": "TAEYEON - Four Seasons",
+  "artist": "TAEYEON",
+  "song": "Four Seasons",
+  "song_story": {
+    "overview": "Four Seasons is a 2019 single where TAEYEON walks through an entire relationship using the literal cycle of seasons — spring falling in love, summer and winter as the extremes they put each other through, and the ending arriving the way seasons change, quietly and on their own schedule. It's not an angry breakup song. It's someone looking back at a relationship that gave everything and asking, honestly, whether it was really love or just intensity.",
+    "cultural_root": "The song draws on 계절 (gyejeol, season) as a stand-in for the natural passage of time in a relationship — a common device in Korean pop lyrics, where love isn't framed as a single decision but as something that moves through phases like weather, arriving and leaving without asking permission. The question 정말 너를 사랑했을까 ('did I really love you') reflects a specifically Korean pop-ballad habit of ending on doubt rather than closure — not sure your own past feelings were real, only sure that they're over now.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "사계절이 와 / 그리고 또 떠나 / 내 겨울을 주고 또 여름도 주었던 / 온 세상이던 널 / 보낼래 / 정말 너를 사랑했을까 / 언제야, 봄이던가 / 맞아 그땐 한참 서로가",
+        "literal": "The four seasons come / and then leave again / you, who gave me my winter and also my summer / who were my whole world / I'm going to let you go",
+        "context": "온 세상이던 널 — 'you, who used to be my whole world' — the past tense 이던 already marks him as something that's over, even while she's still describing how big he was. 보낼래 (I'll send you off / let you go) is a decision stated plainly, without drama, right at the top of the song."
+      },
+      "verse_2": {
+        "lines": "셰익스피어의 연극 같은 / 마지막이 될 사랑 마주한 듯 / 둘밖에 안 보였나 봐 / 다른 걸 좀 보고파 / 너만이 전부라 / 내 겨울을 주고 / 또 여름도 주었지 / 뜨겁고 차갑던 그 계절에",
+        "literal": "When was it, was it spring? / Right, back then we really were / like a Shakespeare play / like we'd found the love that would be our last",
+        "context": "The Shakespeare reference (연극, play/drama) points at how theatrical the early relationship felt — like they were living out a grand, fated romance instead of an ordinary one. 마지막이 될 사랑 — 'the love that would turn out to be the last one' — is the exact belief the rest of the song walks back."
+      },
+      "pre_chorus": {
+        "lines": "정말 너를 사랑했을까 / 내가 너를 사랑했을까 / 서로를 그리워했고 / 서로를 지겨워하지 / 그 긴 낮과 밤들이 / 낡아 녹슬기 전에 / 우리 다시 반짝이자 / 또 계절이 바뀌잖아",
+        "literal": "I gave you the world / because you were everything / I gave you my winter and my summer too / in that season that was hot and cold / did I really love you?",
+        "context": "뜨겁고 차갑던 — 'that was hot and cold' — describes both the relationship's extremes and, subtly, its instability. The chorus's question isn't rhetorical self-pity; -을까 genuinely leaves it open. Giving someone 'your winter and your summer' means giving them your worst and best selves, not just good moments."
+      },
+      "bridge": {
+        "lines": "너만이 전부라 / 내 겨울을 주고 / 또 여름도 주었지 / 뜨겁고 차갑던 그 계절에 / 정말 너를 사랑했을까 / 내가 너를 사랑했을까 / 가도 돼 / 뒤돌아볼 때쯤엔 난 없어 oh, oh",
+        "literal": "We missed each other / and grew tired of each other / before those long days and nights / grow old and rust / let's shine again / the season is changing again anyway",
+        "context": "지겨워하다 (to grow bored/tired of) sitting right next to 그리워하다 (to miss) captures how both feelings existed at once. 낡아 녹슬다 — literally 'grow old and rust' — treats the relationship like metal that needs maintenance, and 계절이 바뀌잖아 (the season's changing anyway) uses the natural cycle as an excuse to try once more, or an admission that trying is running out of time."
+      },
+      "outro": {
+        "lines": "우리 꽤 괜찮았어 / 그거면 된 거야 / 떠날 때, hah / 사계절이 와 / 그리고 또 떠나 / 내 겨울을 주고 / 온 세상이던 널 보낼래 / 정말 너를 사랑했을까 / 내가 너를 사랑했을까 / 내가 너를 사랑했을까",
+        "literal": "You can go / by the time you look back, I won't be there / we were pretty good, actually / that's enough",
+        "context": "가도 돼 — 'you're allowed to go' — is permission, not a plea to stay. 꽤 괜찮았어 (we were pretty good) and 그거면 된 거야 (that's enough) land the song on acceptance without romanticizing it further: it happened, it was good while it lasted, and that's a complete enough story on its own."
+      }
+    }
+  },
+  "artist_context": "TAEYEON has built a solo catalog that consistently treats breakups as something to examine rather than just mourn — Four Seasons fits alongside songs like 11:11 in that it uses a concrete image (a clock, a season) to structure the emotional arc instead of just stating feelings directly.",
+  "honorific_level": "informal — 반말, reflective interior monologue tone",
+  "themes": [
+    "breakup",
+    "reflection",
+    "seasons as metaphor",
+    "acceptance"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-던 (retrospective modifier)",
+      "usage": "Marks something that used to be true but no longer is. 온 세상이던 널 — 'you, who used to be my whole world' — the grammar itself carries the sense of loss.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-을까 (uncertain self-question)",
+      "usage": "정말 너를 사랑했을까 — asking herself something she genuinely doesn't have a settled answer to, repeated as the chorus's emotional center.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-기 전에",
+      "usage": "'Before ~ happens.' 낡아 녹슬기 전에 — 'before it grows old and rusts' — used to create urgency, a last attempt before decay sets in.",
+      "topik_level": 3
+    }
+  ]
+}

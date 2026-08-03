@@ -1,0 +1,56 @@
+{
+  "safe_name": "LUCY - I Got U",
+  "artist": "LUCY",
+  "song": "I Got U",
+  "song_story": {
+    "overview": "I Got U is a bright, breathless song about locking eyes with someone across a crowded room and deciding, right then, that this is it. LUCY describes the moment of noticing someone as if they're a diamond hidden among countless people, and rather than waiting to see what happens, she declares outright that she's found them and isn't letting go. The song treats falling for someone as an act of choice and pursuit rather than something that just happens to you.",
+    "cultural_root": "The song frames romantic pursuit through the phrase 맘 가는 대로 어린애처럼 — 'the way my heart goes, like a child' — leaning on childlike impulsiveness as something positive rather than something to grow out of. This is a notable departure from more cautious, deliberate courtship themes common elsewhere in Korean pop; here, acting on instinct without overthinking is treated as the honest, right way to fall for someone.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "I got you-ooh-ooh-ooh 너를 잡을게 / 누가 먼저든 상관없잖아 / 맘 가는 대로 어린애처럼, I got you / 수많은 사람들 속 / 우린 어디 숨어있다 / 이제 만났는지 ([?]) / 내 맘이 already over you / 얼레리꼴레리",
+        "literal": "Among so many people / I'm locked into you (I got you) / were we hiding somewhere / until we finally met now?",
+        "context": "locked into you — the English phrase is used directly, paired with the Korean structure around it, a common bilingual blending style in K-pop that lets the hook land in English while the surrounding narration stays in Korean."
+      },
+      "chorus": {
+        "lines": "언제까지 숨길 수는 없는걸 / 널 찾을 수 있게 / 내게 다가와 주면 돼 / I got you-ooh-ooh-ooh 너를 잡을게 / 누가 먼저든 상관없잖아 / 맘 가는 대로 어린애처럼, I got you / 별다른 말없이도 웃어주는 너 / 이대로면 우리 대화는 for 24 hours (Oh, ooh)",
+        "literal": "I got you, I'll catch you / it doesn't matter who moves first / I'll find you, you're my diamond / following wherever my heart goes, like a child, I got you",
+        "context": "누가 먼저든 상관없잖아 — 'it doesn't matter who goes first' — removes the usual anxiety in Korean courtship narratives around who has to make the first move, treating mutual initiative as obviously fine rather than a risk."
+      },
+      "verse_2": {
+        "lines": "I got you-ooh-ooh-ooh 너를 잡을게 / 누가 먼저든 상관없잖아 / 맘 가는 대로 어린애처럼 / 오늘 이 밤 내 인생 최고의 밤 인진 몰라도 / 그대와 함께 한 이 순간 / 절대 잊지 못할 거야 / 두려워져 if you go away, (Go away), ah-ah / 난 꿈이라 해도 괜찮아",
+        "literal": "You, who smiles without saying much / if we stay like this, our conversation could go on for 24 hours",
+        "context": "별다른 말없이도 웃어주는 너 — 'you, who smiles at me without needing to say anything special' — captures comfortable, low-effort intimacy, contrasting with the overthinking and second-guessing found in a lot of other songs about new crushes."
+      },
+      "bridge": {
+        "lines": "어딜 가든 I'll find you / I got you-ooh-ooh-ooh 너를 잡을게 / 누가 먼저든 상관없잖아 / 맘 가는 대로 어린애처럼 / 세상이 끝나도 너와 나는 / 같이 놀 수 있을 거야 / 세상이 끝나도 오늘 하루는 / 절대 잊지 못할 거야",
+        "literal": "Tonight, I don't know if it's the best night of my life or not / but this moment together with you / I'll never be able to forget / it scares me, if you go away / even if it turns out to be a dream, I don't mind / wherever you go, I'll find you",
+        "context": "꿈이라 해도 괜찮아 — 'even if it's a dream, it's fine' — she preemptively accepts the possibility that this feeling might not be real or lasting, but decides to commit to it anyway rather than letting that fear stop her."
+      }
+    }
+  },
+  "artist_context": "LUCY is a Korean band known for blending pop, rock, and electronic elements with warm, optimistic songwriting, and I Got U fits their catalog of upbeat tracks about chasing connection with open-hearted enthusiasm rather than hesitation.",
+  "honorific_level": "informal — casual 반말 with heavy English mixing, giving it a light, breezy tone",
+  "themes": [
+    "instant connection",
+    "pursuit",
+    "impulsiveness",
+    "joyful commitment"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-든",
+      "usage": "'Whether/regardless of which.' Appears in 누가 먼저든 — 'whoever goes first,' dismissing the question of who initiates as unimportant.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-아/어도 괜찮아",
+      "usage": "'Even if X, it's fine.' Appears in 꿈이라 해도 괜찮아 — accepting a feared outcome (this being just a dream) without it changing her commitment.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-는 대로",
+      "usage": "'According to / following the way X goes.' Appears in 맘 가는 대로 — 'following wherever my heart goes,' framing instinct as a guide rather than something to resist.",
+      "topik_level": 3
+    }
+  ]
+}

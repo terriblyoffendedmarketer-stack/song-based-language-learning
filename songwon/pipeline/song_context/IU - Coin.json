@@ -1,0 +1,56 @@
+{
+  "safe_name": "IU - Coin",
+  "artist": "IU",
+  "song": "Coin",
+  "song_story": {
+    "overview": "Coin turns a poker table into a metaphor for going all-in on life. IU adopts a swaggering gambler persona, betting everything on one last hand with no plan to fold or look back at her cards. It's not a song about love or heartbreak like most of her catalog — it's about recklessness as a kind of freedom, embracing an unfair world by playing it harder than anyone else at the table.",
+    "cultural_root": "The song plays against the more common Korean cultural message of caution and playing it safe — 도박 (gambling) carries heavy negative connotation in Korean society, tied to real anxieties about gambling addiction and financial ruin. IU deliberately leans into that taboo image, using gambling as a metaphor for defiant self-determination rather than literal risk-taking, similar to how English pop songs use 'all in' as a metaphor for full commitment without meaning literal betting.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "강자에게 더 세게 I love gamble / 과감할수록 신세계 on my table / I'm sorry 세상이 원래 불공평해 / So 더럽게 재미있지 / Baby 알잖아 내가 한 번 미치면",
+        "literal": "To the strong, I go harder, I love gamble / the bolder I am, the more it's a new world on my table / I'm sorry, the world was never fair to begin with / so it's filthy fun",
+        "context": "강자에게 더 세게 — 'harder against the strong' — flips the usual underdog narrative; instead of resenting an unfair system, she says the unfairness itself is what makes the game 더럽게 재미있지 (filthy fun, using 더럽게 as a slang intensifier like 'insanely')."
+      },
+      "chorus": {
+        "lines": "어디까지 가는지 / 마지막 게임이니만큼 / 후회 없는 실수를 저질러 / 배운 적 없지 even no tutor / 최악의 패를 가지고 싹 쓸어",
+        "literal": "I can't die, I'm all-in, all-in / I can't die, I'm all-in",
+        "context": "The English phrase 'all-in' is used directly as poker terminology — betting every chip you have on one hand. Pairing it with '난 안 죽어' (I can't die / I won't die) turns a card-game term into a statement of pure refusal to be beaten, repeated like a mantra rather than sung as a full line."
+      },
+      "verse_2": {
+        "lines": "한 수 배우고 싶음 더 예의 있게 굴어 / 승리를 손에 꽉 잡아 말아 쥐어 / 저리 가서 놀아줘 it's no kids zone / 매경기 살벌하게 / 난 목숨을 걸어 like a bullfight",
+        "literal": "Born to be a gambler / never learned it, even without a tutor / I sweep the pot holding the worst possible hand / if you want to learn a trick or two, be more polite / I grip victory tight in my hand, or maybe I fold it up",
+        "context": "최악의 패를 가지고 싹 쓸어 — 'sweeping everything with the worst hand' — the boast isn't that she has good luck, it's that she wins even from the weakest position, which fits the persona of someone who succeeds through sheer nerve rather than good circumstances."
+      },
+      "bridge": {
+        "lines": "Baby 알잖아 내가 지금 이 판에 / 도대체 뭘 거는지 / 마지막 betting이니만큼 / 엉망으로 테이블을 어질러 / 구걸하지 않는 눈빛 / 우리 game의 rule / 끝내줄게 그만 여기서",
+        "literal": "Queen, nicely done / my bad, you lose / a gaze that doesn't beg / that's the rule of our game / come on, give it up / wholly, you lose / I'll finish this, right here",
+        "context": "This section switches to addressing an opponent directly, in English-Korean code-switching typical of IU's more playful, confident tracks. 구걸하지 않는 눈빛 — 'a look that doesn't beg' — sets the rule of the whole song: pride over pleading, even in defeat."
+      }
+    }
+  },
+  "artist_context": "Coin is a change of pace within IU's catalog, trading her usual introspective balladry for a brash, high-energy persona track. It showcases her range beyond the gentle, vulnerable image most associated with her earlier work.",
+  "honorific_level": "informal — blunt 반말 and English slang mixed throughout, matching the confident gambler persona",
+  "themes": [
+    "defiance",
+    "recklessness",
+    "self-determination",
+    "confidence"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ수록",
+      "usage": "'The more you do X, the more Y.' Appears in 과감할수록 신세계 — 'the bolder [I am], the more it's a new world.'",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-았/었었는데",
+      "usage": "Past-in-past, describing something discovered about the past. Appears in 배운 적 없지 — used here more simply as 'never learned' but reflects on a lifelong trait.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어 줘",
+      "usage": "Casual request or command form. Appears in 굴어 (act, behave) within 예의 있게 굴어 — 'act more politely,' a sharp, commanding tone.",
+      "topik_level": 2
+    }
+  ]
+}

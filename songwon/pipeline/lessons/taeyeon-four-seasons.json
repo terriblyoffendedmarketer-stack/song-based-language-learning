@@ -1,0 +1,386 @@
+{
+  "id": "lesson-taeyeon-four-seasons",
+  "songId": "taeyeon-four-seasons",
+  "level": "intermediate",
+  "title": "Four Seasons — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "TAEYEON — Four Seasons",
+      "content": "In this lesson, we'll learn words related to breakup, reflection, seasons as metaphor.\nGrammar: -던 (retrospective modifier) (Marks something that used to be true but no longer)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Four Seasons is a 2019 single where TAEYEON walks through an entire relationship using the literal cycle of seasons — spring falling in love, summer and winter as the extremes they put each other thro...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "사계절이 와",
+        "그리고 또 떠나",
+        "내 겨울을 주고 또 여름도 주었던",
+        "온 세상이던 널"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "사계절이 와",
+        "그리고 또 떠나",
+        "내 겨울을 주고 또 여름도 주었던",
+        "온 세상이던 널"
+      ],
+      "lyricTranslations": [
+        "The four seasons come",
+        "and then leave again",
+        "you, who gave me my winter and also my summer",
+        "who were my whole world"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "온 세상이던 널",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "계절",
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun"
+        },
+        "songLine": "사계절이 와",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "사랑했던 말들",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "정말 너를 사랑했을까",
+        "dailySentence": {
+          "korean": "사랑했던 말들",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "The four seasons come",
+          "options": [
+            "사계절이 와",
+            "온 세상이던 널",
+            "그리고 또 떠나",
+            "내 겨울을 주고 또 여름도 주었던"
+          ],
+          "correctAnswer": "사계절이 와",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "and then leave again",
+          "options": [
+            "온 세상이던 널",
+            "그리고 또 떠나",
+            "사계절이 와",
+            "내 겨울을 주고 또 여름도 주었던"
+          ],
+          "correctAnswer": "그리고 또 떠나",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "you, who gave me my winter and also my summer",
+          "options": [
+            "내 겨울을 주고 또 여름도 주었던",
+            "사계절이 와",
+            "온 세상이던 널",
+            "그리고 또 떠나"
+          ],
+          "correctAnswer": "내 겨울을 주고 또 여름도 주었던",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "사___이 와",
+          "options": [
+            "사랑",
+            "세상",
+            "마음",
+            "계절"
+          ],
+          "correctAnswer": "계절"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Marks something that used to be true but no longer is. 온 세상이던 널 — 'you, who used to be my whole world' — the grammar itself carries the sense of loss.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-던 (retrospective modifier)",
+        "meaning": "Marks something that used to be true but no longer is. 온 세상이던 널 — 'you, who used to be my whole world' — the grammar itself carries the sense of loss.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "마음",
+            "세상",
+            "계절",
+            "사랑"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'season'의 한국어는?",
+          "options": [
+            "세상",
+            "시간",
+            "계절",
+            "사랑"
+          ],
+          "correctAnswer": "계절"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "계절",
+            "사람",
+            "세상"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-던' 패턴은 어떤 의미예요?",
+          "options": [
+            "past retrospective modifier",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "past retrospective modifier"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "사계절이 와",
+        "그리고 또 떠나",
+        "내 겨울을 주고 또 여름도 주었던",
+        "온 세상이던 널",
+        "보낼래",
+        "정말 너를 사랑했을까",
+        "언제야, 봄이던가",
+        "맞아 그땐 한참 서로가"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "계절",
+            "english": "season"
+          },
+          {
+            "korean": "사랑",
+            "english": "love"
+          }
+        ],
+        "patternLearned": "-던 (retrospective modifier)"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "TAEYEON - Four Seasons",
+    "artist": "TAEYEON",
+    "song": "Four Seasons",
+    "curriculum_level": 4
+  }
+}

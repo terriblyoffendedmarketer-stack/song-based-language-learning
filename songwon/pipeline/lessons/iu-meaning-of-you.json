@@ -1,0 +1,380 @@
+{
+  "id": "lesson-iu-meaning-of-you",
+  "songId": "iu-meaning-of-you",
+  "level": "intermediate",
+  "title": "Meaning of you — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IU — Meaning of you",
+      "content": "In this lesson, we'll learn words related to infatuation, confusion, quiet longing.\nGrammar: -지 않는 (Present negative modifier, 'that doesn't X.' Appea)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Meaning of You is about someone who has taken over every part of your inner world without you fully understanding why. IU describes a person whose smallest gestures — a single word, a glance, even the...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "너의 그 한 마디 말도",
+        "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+        "너의 그 작은 눈빛도",
+        "쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야)"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "너의 그 한 마디 말도",
+        "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+        "너의 그 작은 눈빛도",
+        "쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야)"
+      ],
+      "lyricTranslations": [
+        "Even your one word",
+        "and that smile too, to me they're a huge meaning",
+        "even your small glance",
+        "even your lonely-looking back, to me they're a heavy promise"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "너의 그 작은 눈빛도",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "의미",
+      "wordData": {
+        "word": {
+          "korean": "의미",
+          "english": "meaning, significance",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "의미",
+          "english": "meaning, significance",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "의미",
+          "english": "meaning, significance",
+          "pos": "noun"
+        },
+        "songLine": "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "바람",
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun"
+        },
+        "songLine": "스쳐 불어온 넌 향긋한 바람",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Even your one word",
+          "options": [
+            "너의 그 작은 눈빛도",
+            "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+            "너의 그 한 마디 말도",
+            "쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야)"
+          ],
+          "correctAnswer": "너의 그 한 마디 말도",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "and that smile too, to me they're a huge meaning",
+          "options": [
+            "너의 그 한 마디 말도",
+            "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+            "너의 그 작은 눈빛도",
+            "쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야)"
+          ],
+          "correctAnswer": "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "even your small glance",
+          "options": [
+            "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+            "너의 그 한 마디 말도",
+            "쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야)",
+            "너의 그 작은 눈빛도"
+          ],
+          "correctAnswer": "너의 그 작은 눈빛도",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-1",
+          "type": "fill-blank",
+          "prompt": "그 웃음도 나에겐 커다란 ___ (나에게 하는 얘긴 아닌 것 같은데)",
+          "options": [
+            "의미",
+            "바람",
+            "눈빛",
+            "바람"
+          ],
+          "correctAnswer": "의미"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Present negative modifier, 'that doesn't X.' Appears in 풀리지 않는 — 'that won't come undone,' describing the unsolvable riddle.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-지 않는",
+        "meaning": "Present negative modifier, 'that doesn't X.' Appears in 풀리지 않는 — 'that won't come undone,' describing the unsolvable riddle.",
+        "songExample": {
+          "korean": "풀리지 않는 수수께끼가 되네 (괜히 마음 상할 것 같다)",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "바람",
+            "눈빛",
+            "시간",
+            "의미"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'meaning, significance'의 한국어는?",
+          "options": [
+            "바람",
+            "의미",
+            "하늘",
+            "눈빛"
+          ],
+          "correctAnswer": "의미"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'wind'의 한국어는?",
+          "options": [
+            "사랑",
+            "의미",
+            "바람",
+            "눈빛"
+          ],
+          "correctAnswer": "바람"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-네(요) (감탄/발견)' 패턴은 어떤 의미예요?",
+          "options": [
+            "exclamatory ending noting new realization",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "exclamatory ending noting new realization"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "너의 그 한 마디 말도",
+        "그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데)",
+        "너의 그 작은 눈빛도",
+        "쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야)",
+        "너의 모든 것은 내게로 와 (말하지 말아)",
+        "풀리지 않는 수수께끼가 되네 (괜히 마음 상할 것 같다)",
+        "슬픔은 간이역의 코스모스로 피고",
+        "스쳐 불어온 넌 향긋한 바람"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          },
+          {
+            "korean": "의미",
+            "english": "meaning, significance"
+          },
+          {
+            "korean": "바람",
+            "english": "wind"
+          }
+        ],
+        "patternLearned": "-지 않는"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IU - Meaning of you",
+    "artist": "IU",
+    "song": "Meaning of you",
+    "curriculum_level": 4
+  }
+}

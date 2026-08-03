@@ -1,0 +1,355 @@
+{
+  "id": "lesson-bewhy-ok-prod-by-gray",
+  "songId": "bewhy-ok-prod-by-gray",
+  "level": "beginner",
+  "title": "OK — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "BewhY — OK",
+      "content": "In this lesson, we'll learn words related to self-confidence, faith, competition.\nGrammar: -든지 (Means 'no matter what/whether' — used to dismiss a)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "OK came out during Show Me the Money 6, the survival rap show that basically decides who matters in Korean hip-hop each year. BewhY had already won Season 5, and this track was his way of saying he wa...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "넌 너가 너 내가 나인 것 같니",
+        "자유가 결여되어 사는 삶이",
+        "나의 어제를 지워갔네",
+        "행복한척해야 멋진 사람이"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "넌 너가 너 내가 나인 것 같니",
+        "자유가 결여되어 사는 삶이",
+        "나의 어제를 지워갔네",
+        "행복한척해야 멋진 사람이"
+      ],
+      "lyricTranslations": [
+        "I'm OK",
+        "Everything I do turns out fine",
+        "I proved it already, so what's left to say"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "수",
+      "wordData": {
+        "word": {
+          "korean": "수",
+          "english": "Wednesday (abbreviation)",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "수",
+          "english": "Wednesday (abbreviation)",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "수",
+          "english": "Wednesday (abbreviation)",
+          "pos": "noun"
+        },
+        "songLine": "박수보단 이제 야유가 더 익숙해져 가",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "월",
+      "wordData": {
+        "word": {
+          "korean": "월",
+          "english": "Monday (abbreviation)",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "월",
+          "english": "Monday (abbreviation)",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "월",
+          "english": "Monday (abbreviation)",
+          "pos": "noun"
+        },
+        "songLine": "우월해지니까",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "화",
+      "wordData": {
+        "word": {
+          "korean": "화",
+          "english": "Tuesday (abbreviation)",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "화",
+          "english": "Tuesday (abbreviation)",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "화",
+          "english": "Tuesday (abbreviation)",
+          "pos": "noun"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I'm OK",
+          "options": [
+            "자유가 결여되어 사는 삶이",
+            "나의 어제를 지워갔네",
+            "넌 너가 너 내가 나인 것 같니",
+            "행복한척해야 멋진 사람이"
+          ],
+          "correctAnswer": "넌 너가 너 내가 나인 것 같니",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "Everything I do turns out fine",
+          "options": [
+            "넌 너가 너 내가 나인 것 같니",
+            "자유가 결여되어 사는 삶이",
+            "행복한척해야 멋진 사람이",
+            "나의 어제를 지워갔네"
+          ],
+          "correctAnswer": "자유가 결여되어 사는 삶이",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I proved it already, so what's left to say",
+          "options": [
+            "자유가 결여되어 사는 삶이",
+            "나의 어제를 지워갔네",
+            "행복한척해야 멋진 사람이",
+            "넌 너가 너 내가 나인 것 같니"
+          ],
+          "correctAnswer": "나의 어제를 지워갔네",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Means 'no matter what/whether' — used to dismiss alternatives. 뭐라 하든지 (no matter what they say). Shows indifference to outside opinions.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-든지",
+        "meaning": "Means 'no matter what/whether' — used to dismiss alternatives. 뭐라 하든지 (no matter what they say). Shows indifference to outside opinions.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'Wednesday (abbreviation)'의 한국어는?",
+          "options": [
+            "월",
+            "수",
+            "화",
+            "바람"
+          ],
+          "correctAnswer": "수"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'Monday (abbreviation)'의 한국어는?",
+          "options": [
+            "수",
+            "하늘",
+            "월",
+            "화"
+          ],
+          "correctAnswer": "월"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'Tuesday (abbreviation)'의 한국어는?",
+          "options": [
+            "사람",
+            "수",
+            "화",
+            "월"
+          ],
+          "correctAnswer": "화"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "넌 너가 너 내가 나인 것 같니",
+        "자유가 결여되어 사는 삶이",
+        "나의 어제를 지워갔네",
+        "행복한척해야 멋진 사람이",
+        "되는 건 어찌 보면 유행이 됐어",
+        "그래야 슬퍼하는 쟤보단",
+        "우월해지니까",
+        "그 기분을 얻어야만 쿨해지니까"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "수",
+            "english": "Wednesday (abbreviation)"
+          },
+          {
+            "korean": "월",
+            "english": "Monday (abbreviation)"
+          },
+          {
+            "korean": "화",
+            "english": "Tuesday (abbreviation)"
+          }
+        ],
+        "patternLearned": "-든지"
+      }
+    }
+  ],
+  "xpReward": 20,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "BewhY - OK (Prod. by GRAY)",
+    "artist": "BewhY",
+    "song": "OK",
+    "curriculum_level": 1
+  }
+}

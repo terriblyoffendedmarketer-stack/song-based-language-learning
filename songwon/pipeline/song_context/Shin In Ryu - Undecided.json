@@ -1,0 +1,56 @@
+{
+  "safe_name": "Shin In Ryu - Undecided",
+  "artist": "Shin In Ryu",
+  "song": "Undecided",
+  "song_story": {
+    "overview": "Undecided is a quiet, restrained song about a conversation that's already effectively ending, told from the outside looking in — sitting in a corner seat with coffee, watching someone else's story reach a conclusion that no longer includes the narrator. Nothing dramatic happens across the song; it's built almost entirely out of small, precise observations (an unfinished sentence, a rushed ending, a phrase left out) that add up to the sense of being quietly written out of someone's life.",
+    "cultural_root": "The song sits inside 여운 (yeoun) — the Korean aesthetic value placed on what lingers after something ends, the emotional aftertaste of an unresolved or understated moment rather than a clean, explicit conclusion. Nothing in the lyrics is stated as a direct accusation or plea; the pain comes entirely through suggestion — a dropped phrase, a rushed goodbye — which reflects a broader preference in Korean indie songwriting for restraint over open declaration.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "천천히 오가는 대화 속에 / 남는 단어는 몇 개 일까요 / 구석진 자릴 앉아 커피를 마셔 / 그대의 일부 식지 않도록 / 더 이상 내 얘기가 아니었던 / 황급히 쓰는 결말 끝에서",
+        "literal": "In a conversation that goes back and forth slowly / how many words actually remain / I sit in a corner seat, drinking coffee / so that a part of you doesn't go cold",
+        "context": "남는 단어 (words that remain/stay behind) treats conversation like something with residue — most of it disappears, only a few words actually stick. 식지 않도록 (so that [it] doesn't go cold) applied to '일부' (a part of you) rather than the coffee itself quietly transfers the physical detail into an emotional one — keeping some part of the person warm/present a little longer."
+      },
+      "verse_2": {
+        "lines": "빼 먹은 구절이 또 생각이 나면 / 그 다정을 어찌 지나칠까요 / 담담했던 저 하늘 끝으로 내게 / 왠지 비가 내릴 것 같죠 / 그대 노곤히 풀린 몸에 맡겨 / 이내 슬프진 않겠구나",
+        "literal": "At the end of a hastily written conclusion / that wasn't really my story anymore / if I remember a phrase that got left out / how could I just pass by that warmth",
+        "context": "황급히 쓰는 결말 (a hastily written ending) suggests the relationship's ending felt rushed, almost sloppy, rather than carefully considered. 다정 (warmth, affection, tenderness) surviving in a leftover, unincluded phrase is the song's central small tragedy — the good part existed, it just didn't make it into the final version of the story."
+      },
+      "pre_chorus": {
+        "lines": "기울인 새벽의 모습 속에 / 서두른 단어 몇 개 일까요 / 그곳에 존재했던 사랑의 말로 / 그대의 등장 해치지 않도록 / 더 이상 내 얘기가 아니었던 / 모두가 있는 대화 속에서",
+        "literal": "Toward that composed-looking sky, toward me / somehow it feels like rain is going to fall / entrusting myself to your tired, loosened body / I guess I won't be sad after all",
+        "context": "담담하다 (composed, unshaken, showing no strong emotion) describing the sky projects the narrator's own attempted composure outward onto the weather. The final line's -겠구나 (a soft realization/conclusion) reads as someone trying to convince themselves of comfort rather than genuinely feeling it."
+      },
+      "verse_3": {
+        "lines": "명백한 결말이 또 내려진다면 / 그 이유가 어찌 중요할까요 / 담담했던 저 하늘 끝으로 내게 / 왠지 비가 내릴 것 같죠 / 그대 노곤히 풀린 몸에 맡겨 / 이내 슬프진 않겠구나",
+        "literal": "In the tilted shape of dawn / how many rushed words were there / with the words of love that once existed there / so as not to disrupt your entrance",
+        "context": "기울인 새벽 (a leaning/tilted dawn) is a delicate, almost visual way to describe the early hours of a hard conversation. 해치지 않도록 (so as not to harm/disrupt) shows the narrator still protecting the other person's comfort even while being the one left out of the ending."
+      }
+    }
+  },
+  "artist_context": "Shin In Ryu works in Korea's independent singer-songwriter scene, the kind of act typically found through streaming curation rather than television promotion, writing in a restrained, diary-like register that favors implication over direct statement.",
+  "honorific_level": "polite — 요 endings used softly throughout, giving the song a gentle, slightly formal distance rather than raw intimacy",
+  "themes": [
+    "restraint",
+    "unspoken ending",
+    "quiet exclusion",
+    "lingering affection"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-도록",
+      "usage": "'So that.' 식지 않도록, 해치지 않도록 both frame small protective actions — keeping something warm, not disrupting someone — as quiet, almost invisible acts of care.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-(으)ㄹ까요",
+      "usage": "A soft, polite wondering question, used repeatedly (몇 개일까요, 지나칠까요) to keep the song's tone gentle and reflective rather than confrontational.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-겠구나",
+      "usage": "An ending expressing a realization or conclusion reached in the moment, often self-directed. 슬프진 않겠구나 ('I guess I won't be sad, huh') reads as someone talking themselves into a feeling rather than simply stating it.",
+      "topik_level": 3
+    }
+  ]
+}

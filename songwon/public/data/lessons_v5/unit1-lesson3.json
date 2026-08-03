@@ -1,0 +1,858 @@
+{
+  "id": "v5-unit1-lesson3",
+  "meta": {
+    "songId": "punch-stay-with-me",
+    "songTitle": "Stay With Me",
+    "artist": "Punch",
+    "unit": 1,
+    "lessonNumber": 3,
+    "grammarFocus": "-고 있다",
+    "grammarMeaning": "progressive / ongoing state",
+    "koreanRatio": 0.6
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "찾다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "to find",
+            "correct": true
+          },
+          {
+            "text": "night",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "heart",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "찾다 = to find."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "Punch — Stay With Me",
+      "content": "Describing what's happening right now. \"I'm waiting\" vs \"I wait.\"\n\nStay With Me is the central theme from the 2016-2017 drama Goblin (도깨비, also known as Guardian: The Lonely and Great God), performed by Punch with Chanyeol of EXO. The drama follows an immortal goblin cursed to live for centuries until he finds his human bride, and the song plays during the show's most fated, aching romantic moments — the pull between two people who feel connected across lifetimes, and the sorrow of a love that's shadowed by eventual, inevitable separation.\n\nIn this lesson, you'll learn the grammar pattern **-고 있다**, which means \"progressive / ongoing state.\" We'll see how Punch uses it in \"Stay With Me.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **기다리다** — to wait\n- **떠나다** — to leave\n- **기다리고 있다** — to be waiting\n- **지키고 있다** — to be protecting\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "나의 두 눈을 감으면",
+          "english": "When I close my eyes",
+          "highlights": []
+        },
+        {
+          "korean": "떠오르는 그 눈동자",
+          "english": "those eyes come to mind",
+          "highlights": []
+        },
+        {
+          "korean": "자꾸 가슴이 시려서",
+          "english": "because my heart keeps aching",
+          "highlights": []
+        },
+        {
+          "korean": "잊혀지길 바랬어",
+          "english": "I hoped I could be forgotten",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "기다리다",
+        "english": "to wait",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "기다리다"
+          ]
+        },
+        "audioKey": "기다리다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "기다리다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to wait",
+            "correct": true
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "to leave",
+            "correct": false
+          },
+          {
+            "text": "night",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "기다리다 = to wait"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "친구를 기다려요.",
+        "english": "I'm waiting for a friend.",
+        "highlights": [
+          "기다려요"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "친구를 ___.",
+        "promptTranslation": "I'm waiting for a friend.",
+        "options": [
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "기다려요",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "친구를 기다려요. = I'm waiting for a friend."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "기다리고 있다",
+        "english": "to be waiting",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "기다리고 있다"
+          ]
+        },
+        "audioKey": "기다리고 있다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "기다리고 있다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to be loud",
+            "correct": false
+          },
+          {
+            "text": "to be beautiful",
+            "correct": false
+          },
+          {
+            "text": "to be waiting",
+            "correct": true
+          },
+          {
+            "text": "to be protecting",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "기다리고 있다 = to be waiting"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "아직 기다리고 있어요.",
+        "english": "I'm still waiting.",
+        "highlights": [
+          "기다리고 있"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "아직 ___어요.",
+        "promptTranslation": "I'm still waiting.",
+        "options": [
+          {
+            "text": "기다리다",
+            "correct": false
+          },
+          {
+            "text": "떠나다",
+            "correct": false
+          },
+          {
+            "text": "기다리고 있다",
+            "correct": false
+          },
+          {
+            "text": "기다리고 있",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "아직 기다리고 있어요. = I'm still waiting."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "나의 두 눈을 감으면",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "When I close my eyes",
+            "correct": true
+          },
+          {
+            "text": "those eyes come to mind",
+            "correct": false
+          },
+          {
+            "text": "because my heart keeps aching",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "나의 두 눈을 감으면 = When I close my eyes"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "떠나다",
+        "english": "to leave",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "떠나다"
+          ]
+        },
+        "audioKey": "떠나다"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "떠나다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to be waiting",
+            "correct": false
+          },
+          {
+            "text": "to be protecting",
+            "correct": false
+          },
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "to leave",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "떠나다 = to leave"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "내일 떠나요.",
+        "english": "I'm leaving tomorrow.",
+        "highlights": [
+          "떠나요"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "내일 ___.",
+        "promptTranslation": "I'm leaving tomorrow.",
+        "options": [
+          {
+            "text": "기다려요",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "떠나요",
+            "correct": true
+          },
+          {
+            "text": "행복",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "내일 떠나요. = I'm leaving tomorrow."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "친구를 기다려요.",
+          "english": "I'm waiting for a friend.",
+          "highlights": [
+            "기다려요"
+          ]
+        },
+        {
+          "korean": "내일 떠나요.",
+          "english": "I'm leaving tomorrow.",
+          "highlights": [
+            "떠나요"
+          ]
+        }
+      ],
+      "note": "기다리다 + 떠나다 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "When I close my eyes",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "자꾸 가슴이 시려서",
+            "correct": false
+          },
+          {
+            "text": "떠오르는 그 눈동자",
+            "correct": false
+          },
+          {
+            "text": "나의 두 눈을 감으면",
+            "correct": true
+          },
+          {
+            "text": "잊혀지길 바랬어",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "나의 두 눈을 감으면"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-고 있다",
+        "meaning": "progressive / ongoing state",
+        "explanation": "Describing what's happening right now. \"I'm waiting\" vs \"I wait.\"",
+        "songExample": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "고 있다"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "지키고 있다",
+        "english": "to be protecting",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-고 있다 = progressive / ongoing state",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "지키고 있다"
+          ]
+        },
+        "audioKey": "지키고 있다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "지키고 있다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "to be protecting",
+            "correct": true
+          },
+          {
+            "text": "to leave",
+            "correct": false
+          },
+          {
+            "text": "to be waiting",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "지키고 있다 = to be protecting"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "약속을 지키고 있어요.",
+        "english": "I'm keeping my promise.",
+        "highlights": [
+          "지키고 있"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "지키___",
+        "promptTranslation": "to be protecting",
+        "options": [
+          {
+            "text": "고 있다",
+            "correct": true
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "고",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -고 있다예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "What does -고 있다 express?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "but / however",
+            "correct": false
+          },
+          {
+            "text": "not at all",
+            "correct": false
+          },
+          {
+            "text": "always / every time",
+            "correct": false
+          },
+          {
+            "text": "progressive / ongoing state",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "-고 있다 = progressive / ongoing state"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "지키고 있다",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "떠나다",
+            "correct": false
+          },
+          {
+            "text": "기다리다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "기다리다 = to wait"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (to leave)",
+        "options": [
+          {
+            "text": "기다리다",
+            "correct": false
+          },
+          {
+            "text": "떠나다",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "떠나다 = to leave"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "기다리고 있다",
+        "promptTranslation": "\"to be waiting\" 를 한국어로?",
+        "options": [
+          {
+            "text": "기다리고 있다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "기다리다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "기다리고 있다 = to be waiting"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "공부하___ 있어요.",
+        "promptTranslation": "I'm studying.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "고 있다",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -고 있다!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"감으면\", \"나의\", \"눈을\", \"두\"]",
+        "promptTranslation": "When I close my eyes",
+        "options": [
+          {
+            "text": "나의 두 눈을 감으면",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "나의 두 눈을 감으면"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "나의 두 눈을 감으면",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "떠오르는 그 눈동자",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "자꾸 가슴이 시려서",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "잊혀지길 바랬어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "꿈이라면 이제",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "깨어났으면 (으면) 제발 (제발)",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "정말 네가 나의 운명인 걸까? (걸까?)",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "넌 falling you",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "기다리다",
+          "english": "to wait",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "떠나다",
+          "english": "to leave",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "기다리고 있다",
+          "english": "to be waiting",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "지키고 있다",
+          "english": "to be protecting",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-고 있다",
+        "meaning": "progressive / ongoing state"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

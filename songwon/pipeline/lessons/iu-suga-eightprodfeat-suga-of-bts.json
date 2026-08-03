@@ -1,0 +1,368 @@
+{
+  "id": "lesson-iu-suga-eightprodfeat-suga-of-bts",
+  "songId": "iu-suga-eightprodfeat-suga-of-bts",
+  "level": "intermediate",
+  "title": "eight(Prod.&Feat. SUGA of BTS) — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IU, SUGA — eight(Prod.&Feat. SUGA of BTS)",
+      "content": "In this lesson, we'll learn words related to nostalgia, impermanence, choosing memory over reality.\nGrammar: -아/어 버리다 (Adds a sense of completion, often with regret or f)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "eight is about refusing to let a good memory turn into a nightmare, choosing instead to freeze it in place forever. IU opens numb and a little bitter, feeling like everything worth having has already ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "뭐 그대로야 난",
+        "다 잃어버린 것 같아",
+        "모든 게 맘대로 왔다가 인사도 없이 떠나",
+        "이대로는 무엇도 사랑하고 싶지 않아"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "뭐 그대로야 난",
+        "다 잃어버린 것 같아",
+        "모든 게 맘대로 왔다가 인사도 없이 떠나",
+        "이대로는 무엇도 사랑하고 싶지 않아"
+      ],
+      "lyricTranslations": [
+        "So are you happy now? finally happy now, yeah",
+        "I'm still the same",
+        "I feel like I've lost everything",
+        "everything came and went as it pleased, without even saying goodbye"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "기억",
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun"
+        },
+        "songLine": "기억 속을 여행해",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "So are you happy now? finally happy now, yeah",
+          "options": [
+            "이대로는 무엇도 사랑하고 싶지 않아",
+            "뭐 그대로야 난",
+            "모든 게 맘대로 왔다가 인사도 없이 떠나",
+            "다 잃어버린 것 같아"
+          ],
+          "correctAnswer": "뭐 그대로야 난",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I'm still the same",
+          "options": [
+            "뭐 그대로야 난",
+            "다 잃어버린 것 같아",
+            "이대로는 무엇도 사랑하고 싶지 않아",
+            "모든 게 맘대로 왔다가 인사도 없이 떠나"
+          ],
+          "correctAnswer": "다 잃어버린 것 같아",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I feel like I've lost everything",
+          "options": [
+            "이대로는 무엇도 사랑하고 싶지 않아",
+            "다 잃어버린 것 같아",
+            "뭐 그대로야 난",
+            "모든 게 맘대로 왔다가 인사도 없이 떠나"
+          ],
+          "correctAnswer": "모든 게 맘대로 왔다가 인사도 없이 떠나",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Adds a sense of completion, often with regret or finality. Appears in 해져버린 — 'having become completely worn out.'",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어 버리다",
+        "meaning": "Adds a sense of completion, often with regret or finality. Appears in 해져버린 — 'having become completely worn out.'",
+        "songExample": {
+          "korean": "다 잃어버린 것 같아",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "기억",
+            "마음",
+            "떠나다",
+            "지나다"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "기억",
+            "떠나다",
+            "지나다",
+            "마음"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'memory'의 한국어는?",
+          "options": [
+            "세상",
+            "지나다",
+            "떠나다",
+            "기억"
+          ],
+          "correctAnswer": "기억"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(이)라면' 패턴은 어떤 의미예요?",
+          "options": [
+            "if it is (the case that)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "if it is (the case that)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "뭐 그대로야 난",
+        "다 잃어버린 것 같아",
+        "모든 게 맘대로 왔다가 인사도 없이 떠나",
+        "이대로는 무엇도 사랑하고 싶지 않아",
+        "다 해질 대로 해져버린",
+        "기억 속을 여행해",
+        "우리는 오렌지 태양 아래",
+        "그림자 없이 함께 춤을 춰"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          },
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          },
+          {
+            "korean": "기억",
+            "english": "memory"
+          }
+        ],
+        "patternLearned": "-아/어 버리다"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IU, SUGA - eight(Prod.&Feat. SUGA of BTS)",
+    "artist": "IU, SUGA",
+    "song": "eight(Prod.&Feat. SUGA of BTS)",
+    "curriculum_level": 4
+  }
+}

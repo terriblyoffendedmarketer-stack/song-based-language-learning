@@ -1,0 +1,398 @@
+{
+  "id": "lesson-iu-good-day",
+  "songId": "iu-good-day",
+  "level": "intermediate",
+  "title": "Good day — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IU — Good day",
+      "content": "In this lesson, we'll learn words related to confession, nervousness, first love.\nGrammar: -는 척하다 ('To pretend to do X.' Stacked three times in the o)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Good Day is about the exact moment you decide to confess to someone, and everything that spirals through your head right before you say it. IU walks through her own nervous stalling — is the sky too p...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "어쩜 이렇게 하늘은 더 파란 건지?",
+        "오늘따라 왜 바람은 또 완벽한지?",
+        "그냥 모르는 척, 하나 못 들은 척",
+        "지워버린 척 딴 얘길 시작할까?"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "어쩜 이렇게 하늘은 더 파란 건지?",
+        "오늘따라 왜 바람은 또 완벽한지?",
+        "그냥 모르는 척, 하나 못 들은 척",
+        "지워버린 척 딴 얘길 시작할까?"
+      ],
+      "lyricTranslations": [
+        "How is the sky even bluer today?",
+        "why does the wind feel so perfect, of all days?",
+        "should I just pretend not to know, pretend not to hear",
+        "pretend I've erased it and start some other conversation?"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "바람",
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "오늘따라 왜 바람은 또 완벽한지?",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun"
+        },
+        "songLine": "오늘따라 왜 바람은 또 완벽한지?",
+        "dailySentence": {
+          "korean": "오늘따라 왜 바람은 또 완벽한지?",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "하늘",
+      "wordData": {
+        "word": {
+          "korean": "하늘",
+          "english": "sky",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "하늘",
+          "english": "sky",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "어쩜 이렇게 하늘은 더 파란 건지?",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "하늘",
+          "english": "sky",
+          "pos": "noun"
+        },
+        "songLine": "어쩜 이렇게 하늘은 더 파란 건지?",
+        "dailySentence": {
+          "korean": "어쩜 이렇게 하늘은 더 파란 건지?",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "기억",
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "기억 안 나는 척",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun"
+        },
+        "songLine": "아직 모르는 척, 기억 안 나는 척",
+        "dailySentence": {
+          "korean": "기억 안 나는 척",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "How is the sky even bluer today?",
+          "options": [
+            "그냥 모르는 척, 하나 못 들은 척",
+            "지워버린 척 딴 얘길 시작할까?",
+            "어쩜 이렇게 하늘은 더 파란 건지?",
+            "오늘따라 왜 바람은 또 완벽한지?"
+          ],
+          "correctAnswer": "어쩜 이렇게 하늘은 더 파란 건지?",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "why does the wind feel so perfect, of all days?",
+          "options": [
+            "어쩜 이렇게 하늘은 더 파란 건지?",
+            "지워버린 척 딴 얘길 시작할까?",
+            "그냥 모르는 척, 하나 못 들은 척",
+            "오늘따라 왜 바람은 또 완벽한지?"
+          ],
+          "correctAnswer": "오늘따라 왜 바람은 또 완벽한지?",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "should I just pretend not to know, pretend not to hear",
+          "options": [
+            "어쩜 이렇게 하늘은 더 파란 건지?",
+            "그냥 모르는 척, 하나 못 들은 척",
+            "오늘따라 왜 바람은 또 완벽한지?",
+            "지워버린 척 딴 얘길 시작할까?"
+          ],
+          "correctAnswer": "그냥 모르는 척, 하나 못 들은 척",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "어쩜 이렇게 ___은 더 파란 건지?",
+          "options": [
+            "사람",
+            "하늘",
+            "기억",
+            "바람"
+          ],
+          "correctAnswer": "하늘"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'To pretend to do X.' Stacked three times in the opening verse (모르는 척, 못 들은 척, 지워버린 척) to show escalating avoidance.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-는 척하다",
+        "meaning": "'To pretend to do X.' Stacked three times in the opening verse (모르는 척, 못 들은 척, 지워버린 척) to show escalating avoidance.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'wind'의 한국어는?",
+          "options": [
+            "사랑",
+            "기억",
+            "바람",
+            "하늘"
+          ],
+          "correctAnswer": "바람"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'sky'의 한국어는?",
+          "options": [
+            "기억",
+            "세상",
+            "바람",
+            "하늘"
+          ],
+          "correctAnswer": "하늘"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'memory'의 한국어는?",
+          "options": [
+            "마음",
+            "하늘",
+            "바람",
+            "기억"
+          ],
+          "correctAnswer": "기억"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어 버리다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to do completely / with regret or finality",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to do completely / with regret or finality"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "어쩜 이렇게 하늘은 더 파란 건지?",
+        "오늘따라 왜 바람은 또 완벽한지?",
+        "그냥 모르는 척, 하나 못 들은 척",
+        "지워버린 척 딴 얘길 시작할까?",
+        "아무 말 못하게 입맞출까?",
+        "눈물이 차올라서 고갤 들어",
+        "흐르지 못하게 또 살짝 웃어",
+        "내게 왜 이러는지? 무슨 말을 하는지?"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "바람",
+            "english": "wind"
+          },
+          {
+            "korean": "하늘",
+            "english": "sky"
+          },
+          {
+            "korean": "기억",
+            "english": "memory"
+          }
+        ],
+        "patternLearned": "-는 척하다"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IU - Good day",
+    "artist": "IU",
+    "song": "Good day",
+    "curriculum_level": 3
+  }
+}

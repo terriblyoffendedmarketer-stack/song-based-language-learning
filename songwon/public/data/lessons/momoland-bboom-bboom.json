@@ -1,0 +1,365 @@
+{
+  "id": "lesson-momoland-bboom-bboom",
+  "songId": "momoland-bboom-bboom",
+  "level": "intermediate",
+  "title": "BBoom BBoom — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "MOMOLAND — BBoom BBoom",
+      "content": "In this lesson, we'll learn words related to infatuation, playfulness, confidence.\nGrammar: -았/었다 -았/었다 하다 ('To alternate doing X and Y repeatedly.' 들었다 놨다 해 )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "BBoom BBoom (뿜뿜) is MOMOLAND's 2018 breakout hit, and the whole song is built to be maximally addictive and imitable — a simple 'finger heart gun' dance and a chorus made almost entirely of one repeat...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Just feel it 뿜뿜Just feel it ppumppum",
+        "Yeah 뿜뿜Yeah ppumppum",
+        "설레어 너와 나의 랑데뷰 (랑데뷰)seolle-eo neowa naui rangdebyu (rangdebyu)",
+        "내 마음을 들었다 놨다 해 맘대루 (맘대루)nae ma-eumeul deureotda nwatda hae mamdaeru (mamdaeru)"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "Just feel it 뿜뿜Just feel it ppumppum",
+        "Yeah 뿜뿜Yeah ppumppum",
+        "설레어 너와 나의 랑데뷰 (랑데뷰)seolle-eo neowa naui rangdebyu (rangdebyu)",
+        "내 마음을 들었다 놨다 해 맘대루 (맘대루)nae ma-eumeul deureotda nwatda hae mamdaeru (mamdaeru)"
+      ],
+      "lyricTranslations": [
+        "My heart flutters, at our rendezvous, you and me",
+        "you pick my heart up and put it down however you please"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "마음",
+      "wordData": {
+        "word": {
+          "korean": "마음",
+          "english": "heart, mind",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "마음",
+          "english": "heart, mind",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "내 마음을 들었다 놨다 해 (you keep messing with my heart)",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "마음",
+          "english": "heart, mind",
+          "pos": "noun"
+        },
+        "songLine": "내 마음을 들었다 놨다 해 맘대루 (맘대루)nae ma-eumeul deureotda nwatda hae mamdaeru (mamdaeru)",
+        "dailySentence": {
+          "korean": "내 마음을 들었다 놨다 해 (you keep messing with my heart)",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "My 눈눈눈눈눈눈 눈빛My nunnunnunnunnunnun nunbit",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "가슴",
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "가슴 아파도 난 그대니까요",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun"
+        },
+        "songLine": "내 가슴이 뿜뿜뿜뿜nae gaseumi ppumppumppumppum",
+        "dailySentence": {
+          "korean": "가슴 아파도 난 그대니까요",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "My heart flutters, at our rendezvous, you and me",
+          "options": [
+            "Yeah 뿜뿜Yeah ppumppum",
+            "Just feel it 뿜뿜Just feel it ppumppum",
+            "내 마음을 들었다 놨다 해 맘대루 (맘대루)nae ma-eumeul deureotda nwatda hae mamdaeru (mamdaeru)",
+            "설레어 너와 나의 랑데뷰 (랑데뷰)seolle-eo neowa naui rangdebyu (rangdebyu)"
+          ],
+          "correctAnswer": "Just feel it 뿜뿜Just feel it ppumppum",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "you pick my heart up and put it down however you please",
+          "options": [
+            "설레어 너와 나의 랑데뷰 (랑데뷰)seolle-eo neowa naui rangdebyu (rangdebyu)",
+            "Yeah 뿜뿜Yeah ppumppum",
+            "내 마음을 들었다 놨다 해 맘대루 (맘대루)nae ma-eumeul deureotda nwatda hae mamdaeru (mamdaeru)",
+            "Just feel it 뿜뿜Just feel it ppumppum"
+          ],
+          "correctAnswer": "Yeah 뿜뿜Yeah ppumppum",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'To alternate doing X and Y repeatedly.' 들었다 놨다 해 — 'picks it up and puts it down, over and over' — an idiom for inconsistent, back-and-forth behavior.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-았/었다 -았/었다 하다",
+        "meaning": "'To alternate doing X and Y repeatedly.' 들었다 놨다 해 — 'picks it up and puts it down, over and over' — an idiom for inconsistent, back-and-forth behavior.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'heart, mind'의 한국어는?",
+          "options": [
+            "눈빛",
+            "마음",
+            "사랑",
+            "가슴"
+          ],
+          "correctAnswer": "마음"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "가슴",
+            "눈빛",
+            "바람",
+            "마음"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'chest, heart'의 한국어는?",
+          "options": [
+            "마음",
+            "하늘",
+            "눈빛",
+            "가슴"
+          ],
+          "correctAnswer": "가슴"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Just feel it 뿜뿜Just feel it ppumppum",
+        "Yeah 뿜뿜Yeah ppumppum",
+        "설레어 너와 나의 랑데뷰 (랑데뷰)seolle-eo neowa naui rangdebyu (rangdebyu)",
+        "내 마음을 들었다 놨다 해 맘대루 (맘대루)nae ma-eumeul deureotda nwatda hae mamdaeru (mamdaeru)",
+        "지금 내 눈엔 눈엔 눈엔jigeum nae nunen nunen nunen",
+        "네 어깨 무릎 발 (oh)ne eokkae mureup bal (oh)",
+        "숨이 탁 막힐 것 같아sumi tak makil geot gata",
+        "난 너만 보면nan neoman bomyeon"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "마음",
+            "english": "heart, mind"
+          },
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          },
+          {
+            "korean": "가슴",
+            "english": "chest, heart"
+          }
+        ],
+        "patternLearned": "-았/었다 -았/었다 하다"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "MOMOLAND - BBoom BBoom",
+    "artist": "MOMOLAND",
+    "song": "BBoom BBoom",
+    "curriculum_level": 3
+  }
+}

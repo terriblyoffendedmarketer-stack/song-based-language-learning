@@ -1,0 +1,339 @@
+{
+  "id": "lesson-suga-dwechita",
+  "songId": "suga-dwechita",
+  "level": "advanced",
+  "title": "Dwechita — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Suga — Dwechita",
+      "content": "In this lesson, we'll learn words related to rags to riches, defiance, historical pride.\nGrammar: 개천에서 용 난다 (idiom) ('A dragon rises from a stream' — an idiom for some)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Daechwita (대취타) is the title track from Suga's second mixtape as Agust D, D-2 (2020), and it's built around one of the boldest samples in K-hip-hop: 대취타 itself, the ceremonial military march once play...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "명금일하 대취타 하랍신다",
+        "예이!",
+        "대취타 대취타 자 울려라 대취타",
+        "대취타 대취타 자 울려라 대취타"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "명금일하 대취타 하랍신다",
+        "예이!",
+        "대취타 대취타 자 울려라 대취타",
+        "대취타 대취타 자 울려라 대취타"
+      ],
+      "lyricTranslations": [
+        "By order, once the gong sounds, perform the Daechwita"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "원하다",
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "잊다",
+      "wordData": {
+        "word": {
+          "korean": "잊다",
+          "english": "to forget",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잊다",
+          "english": "to forget",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잊다",
+          "english": "to forget",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "빛나다",
+      "wordData": {
+        "word": {
+          "korean": "빛나다",
+          "english": "to shine",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "빛나다",
+          "english": "to shine",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "빛나다",
+          "english": "to shine",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "By order, once the gong sounds, perform the Daechwita",
+          "options": [
+            "예이!",
+            "대취타 대취타 자 울려라 대취타",
+            "대취타 대취타 자 울려라 대취타",
+            "명금일하 대취타 하랍신다"
+          ],
+          "correctAnswer": "명금일하 대취타 하랍신다",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'A dragon rises from a stream' — an idiom for someone from a poor background achieving great success. Suga reworks it directly: 개천 출신에 용된 몸.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "개천에서 용 난다 (idiom)",
+        "meaning": "'A dragon rises from a stream' — an idiom for someone from a poor background achieving great success. Suga reworks it directly: 개천 출신에 용된 몸.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to want'의 한국어는?",
+          "options": [
+            "시간",
+            "잊다",
+            "원하다",
+            "빛나다"
+          ],
+          "correctAnswer": "원하다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to forget'의 한국어는?",
+          "options": [
+            "잊다",
+            "빛나다",
+            "사랑",
+            "원하다"
+          ],
+          "correctAnswer": "잊다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to shine'의 한국어는?",
+          "options": [
+            "잊다",
+            "원하다",
+            "하늘",
+            "빛나다"
+          ],
+          "correctAnswer": "빛나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-고파' 패턴은 어떤 의미예요?",
+          "options": [
+            "want to (poetic/dialectal form of -고 싶어)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "want to (poetic/dialectal form of -고 싶어)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "명금일하 대취타 하랍신다",
+        "예이!",
+        "대취타 대취타 자 울려라 대취타",
+        "대취타 대취타 자 울려라 대취타",
+        "대취타 대취타 자 울려라 대취타",
+        "대취타 대취타 자 울려라 대취타",
+        "대취타 대취타 자 울려라 대취타 (Yeah-yeah)",
+        "빛이나 빛이나 내 왕관이 빛이나"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "원하다",
+            "english": "to want"
+          },
+          {
+            "korean": "잊다",
+            "english": "to forget"
+          },
+          {
+            "korean": "빛나다",
+            "english": "to shine"
+          }
+        ],
+        "patternLearned": "개천에서 용 난다 (idiom)"
+      }
+    }
+  ],
+  "xpReward": 50,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Suga - Dwechita",
+    "artist": "Suga",
+    "song": "Dwechita",
+    "curriculum_level": 5
+  }
+}

@@ -1,0 +1,889 @@
+{
+  "id": "v5-unit5-lesson20",
+  "meta": {
+    "songId": "day6-you-were-beautiful",
+    "songTitle": "You Were Beautiful",
+    "artist": "DAY6",
+    "unit": 5,
+    "lessonNumber": 20,
+    "grammarFocus": "-던",
+    "grammarMeaning": "past retrospective modifier",
+    "koreanRatio": 0.85
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "생각하다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "rain",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "heart",
+            "correct": false
+          },
+          {
+            "text": "to think",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "생각하다 = to think."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "DAY6 — You Were Beautiful",
+      "content": "Describing things as they were. \"The street we used to walk.\"\n\nOne of DAY6's signature songs, built almost entirely around a single repeated word: 예뻤어 — 'you were beautiful,' past tense. The singer is clear upfront that he's not trying to get back together — he's just been hit by a memory and wants to say it out loud once.\n\nIn this lesson, you'll learn the grammar pattern **-던**, which means \"past retrospective modifier.\" We'll see how DAY6 uses it in \"You Were Beautiful.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **추억** — memory / nostalgia\n- **향기** — scent / fragrance\n- **걷던 길** — the road we used to walk\n- **사랑하던 사람** — the person I used to love\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "지금 이 말이jigeum i mari",
+        "우리가 다시uriga dasi",
+        "시작하자는 건 아냐sijakajaneun geon anya",
+        "그저 너의geujeo neoui"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "지금 이 말이jigeum i mari",
+          "english": "What I'm saying right now",
+          "highlights": []
+        },
+        {
+          "korean": "우리가 다시uriga dasi",
+          "english": "isn't that we should start over again",
+          "highlights": []
+        },
+        {
+          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "english": "it's just that",
+          "highlights": []
+        },
+        {
+          "korean": "그저 너의geujeo neoui",
+          "english": "some memory of you that had been staying inside me",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "추억",
+        "english": "memory / nostalgia",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "추억이 되었을 거야chueogi doe-eosseul geoya",
+          "english": "",
+          "highlights": [
+            "추억"
+          ]
+        },
+        "audioKey": "추억"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "추억",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "the road we used to walk",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "memory / nostalgia",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "추억 = memory / nostalgia"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "좋은 추억이에요.",
+        "english": "It's a good memory.",
+        "highlights": [
+          "추억"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "좋은 ___이에요.",
+        "promptTranslation": "It's a good memory.",
+        "options": [
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "향기",
+            "correct": false
+          },
+          {
+            "text": "사랑하던 사람",
+            "correct": false
+          },
+          {
+            "text": "추억",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "좋은 추억이에요. = It's a good memory."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "걷던 길",
+        "english": "the road we used to walk",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "걷던 길"
+          ]
+        },
+        "audioKey": "걷던 길"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "걷던 길",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "the road we used to walk",
+            "correct": true
+          },
+          {
+            "text": "the person I used to love",
+            "correct": false
+          },
+          {
+            "text": "to be beautiful",
+            "correct": false
+          },
+          {
+            "text": "memory / nostalgia",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "걷던 길 = the road we used to walk"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "같이 걷던 길이에요.",
+        "english": "It's the road we used to walk together.",
+        "highlights": [
+          "걷던 길"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "같이 ___이에요.",
+        "promptTranslation": "It's the road we used to walk together.",
+        "options": [
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "걷던 길",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "향기",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "같이 걷던 길이에요. = It's the road we used to walk together."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "복습 퀴즈",
+      "quiz": {
+        "type": "fill-blank-song",
+        "prompt": "___이 되었을 거야chueogi doe-eosseul geoya",
+        "promptTranslation": "노래를 완성하세요",
+        "options": [
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "향기",
+            "correct": false
+          },
+          {
+            "text": "추억",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "추억이 되었을 거야chueogi doe-eosseul geoya"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s15-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "지금 이 말이jigeum i mari",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "What I'm saying right now",
+            "correct": true
+          },
+          {
+            "text": "isn't that we should start over again",
+            "correct": false
+          },
+          {
+            "text": "it's just that",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "지금 이 말이jigeum i mari = What I'm saying right now"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s16-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "향기",
+        "english": "scent / fragrance",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "향기"
+          ]
+        },
+        "audioKey": "향기"
+      }
+    },
+    {
+      "id": "s17-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "향기",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "the road we used to walk",
+            "correct": false
+          },
+          {
+            "text": "the person I used to love",
+            "correct": false
+          },
+          {
+            "text": "scent / fragrance",
+            "correct": true
+          },
+          {
+            "text": "to hide",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "향기 = scent / fragrance"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s18-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "꽃 향기가 좋아요.",
+        "english": "The flower's scent is nice.",
+        "highlights": [
+          "향기"
+        ]
+      }
+    },
+    {
+      "id": "s19-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "꽃 ___가 좋아요.",
+        "promptTranslation": "The flower's scent is nice.",
+        "options": [
+          {
+            "text": "추억",
+            "correct": false
+          },
+          {
+            "text": "향기",
+            "correct": true
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꽃 향기가 좋아요. = The flower's scent is nice."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s20-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "좋은 추억이에요.",
+          "english": "It's a good memory.",
+          "highlights": [
+            "추억"
+          ]
+        },
+        {
+          "korean": "꽃 향기가 좋아요.",
+          "english": "The flower's scent is nice.",
+          "highlights": [
+            "향기"
+          ]
+        }
+      ],
+      "note": "추억 + 향기 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s21-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "What I'm saying right now",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "시작하자는 건 아냐sijakajaneun geon anya",
+            "correct": false
+          },
+          {
+            "text": "우리가 다시uriga dasi",
+            "correct": false
+          },
+          {
+            "text": "지금 이 말이jigeum i mari",
+            "correct": true
+          },
+          {
+            "text": "그저 너의geujeo neoui",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "지금 이 말이jigeum i mari"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s22-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-던",
+        "meaning": "past retrospective modifier",
+        "explanation": "Describing things as they were. \"The street we used to walk.\"",
+        "songExample": {
+          "korean": "남아있던 기억들이namaitdeon gieokdeuri",
+          "english": "",
+          "highlights": [
+            "던"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s23-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "사랑하던 사람",
+        "english": "the person I used to love",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-던 = past retrospective modifier",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "사랑하던 사람"
+          ]
+        },
+        "audioKey": "사랑하던 사람"
+      }
+    },
+    {
+      "id": "s24-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "사랑하던 사람",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "the person I used to love",
+            "correct": true
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "scent / fragrance",
+            "correct": false
+          },
+          {
+            "text": "the road we used to walk",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "사랑하던 사람 = the person I used to love"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s25-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "사랑하던 사람이 떠났어요.",
+        "english": "The person I used to love left.",
+        "highlights": [
+          "사랑하던 사람"
+        ]
+      }
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "사랑하___ 사람",
+        "promptTranslation": "the person I used to love",
+        "options": [
+          {
+            "text": "던",
+            "correct": true
+          },
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "는데",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -던예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "사랑하던 사람",
+        "promptTranslation": "여기서 -던는 무슨 느낌일까요?",
+        "options": [
+          {
+            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "correct": true
+          },
+          {
+            "text": "갑자기 일어났다가 멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "일부러 그렇게 했어요",
+            "correct": false
+          },
+          {
+            "text": "더 이상 그렇지 않아요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-던 = past retrospective modifier — 선택이 아니라 저절로 된 거예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "향기",
+            "correct": false
+          },
+          {
+            "text": "추억",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "추억 = memory / nostalgia"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (scent / fragrance)",
+        "options": [
+          {
+            "text": "추억",
+            "correct": false
+          },
+          {
+            "text": "향기",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "향기 = scent / fragrance"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "걷던 길",
+        "promptTranslation": "\"the road we used to walk\" 를 한국어로?",
+        "options": [
+          {
+            "text": "걷던 길",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "추억",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "걷던 길 = the road we used to walk"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "좋아하___ 노래예요.",
+        "promptTranslation": "It's a song I used to like.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "던",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -던!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"mari\", \"말이jigeum\", \"i\", \"이\", \"지금\"]",
+        "promptTranslation": "What I'm saying right now",
+        "options": [
+          {
+            "text": "지금 이 말이jigeum i mari",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "지금 이 말이jigeum i mari"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s33-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "지금 이 말이jigeum i mari",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "우리가 다시uriga dasi",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그저 너의geujeo neoui",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "남아있던 기억들이namaitdeon gieokdeuri",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "떠올랐을 뿐이야tteoollasseul ppuniya",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "정말 하루도 빠짐없이 (너는)jeongmal harudo ppajimeopsi (neoneun)",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "사랑한다 말해줬었지saranghanda malhaejwosseotji",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s34-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "추억",
+          "english": "memory / nostalgia",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "향기",
+          "english": "scent / fragrance",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "걷던 길",
+          "english": "the road we used to walk",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "사랑하던 사람",
+          "english": "the person I used to love",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-던",
+        "meaning": "past retrospective modifier"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 17
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

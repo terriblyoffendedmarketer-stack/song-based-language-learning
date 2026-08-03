@@ -1,0 +1,56 @@
+{
+  "safe_name": "DAY6 - Shoot Me",
+  "artist": "DAY6",
+  "song": "Shoot Me",
+  "song_story": {
+    "overview": "Shoot Me takes a relationship falling apart and turns it into a gunfight metaphor — every cutting word from a partner is a bullet, and the singer, exhausted from the back-and-forth, tells them to just go ahead and fire. It's not really about wanting to get hurt; it's about being so worn down by an unstable relationship that accepting the pain feels easier than fighting it. DAY6, a full band rather than a vocal-only act, gives the metaphor real muscle — the track builds with driving guitar and drums that mimic the 'bang bang' of the lyric itself.",
+    "cultural_root": "The song plays on the idea of 감정 소모 (emotional exhaustion/wear) — the specific fatigue of a relationship that keeps swinging between good and bad until the person just stops resisting the bad parts. Framing this as 'shoot me' rather than a plea to stop is a coping mechanism familiar in Korean pop lyricism: turning helplessness into a kind of dark, defiant humor.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "쉬운 일이 절대 아냐 / 네 앞에 서는 건 / 스릴러 한편이야 / 잘 나가다가도 / 뭔가 어긋나면 / 그대로 시작이야 / 싸늘해져 가는 네 눈빛 / 무거워지는 분위기 / 난 그 자리 가만히 / 앉은 채 숨을 / 고르고 있어 / 서로를 향한 / 말투는 점점 더",
+        "literal": "It's never an easy thing / standing in front of you / it's like an episode of a thriller / just when things are going well / if something goes wrong / it's right back to square one",
+        "context": "스릴러 한편 — 'one episode of a thriller' — sets the relationship up as unpredictable and tense by design, not just occasionally difficult. 그대로 시작이야 — 'it's back to the start, just like that' — describes the exhausting cycle of resetting to conflict."
+      },
+      "pre_chorus": {
+        "lines": "날카로워져만 가 / 그래 날 쏴 / 너의 bullet bullet bullet / 얼마든지 맞아줄게 / 원한 게 이거라면 / 나를 향해 쏴 / 그게 편해 편해 편해 / 이젠 너무 익숙해 / 이걸로 풀린다면 / 이걸 기대한 건 아냐 / 너와 원했던 건 / 로맨스 한편이야 / 하지만 현실은",
+        "literal": "Your gaze growing colder / the mood getting heavier / I just sit still in that spot / trying to steady my breathing",
+        "context": "숨을 고르고 있어 — 'trying to steady/even out my breathing' — is a physical, bodily image of bracing for impact, setting up the 'shoot me' chorus as almost literal in feel even though it's entirely metaphorical."
+      },
+      "chorus": {
+        "lines": "툭하면 붉어져 / 한편의 드라마야 / 너의 대사 속 “이젠 끝이야” / 진심이 아니길 빌어 / 그저 불안한 맘에 / 뱉은 거라고 / 믿고 싶어 / 서로를 향한 / 말투는 점점 더 / 날카로워져만 가 / 그래 날 쏴 / 너의 bullet bullet bullet / 얼마든지 맞아줄게",
+        "literal": "Yeah, shoot me, bang bang / your bullet, bullet, bullet / I'll take however many you want / if that's what you wanted / just shoot me, shoot me",
+        "context": "얼마든지 맞아줄게 — 'I'll take however many hits you want' — 얼마든지 (however much/many) signals total, almost masochistic surrender, framing acceptance of pain as the only way left to keep the relationship functioning."
+      },
+      "bridge": {
+        "lines": "원한 게 이거라면 / 나를 향해 쏴 / 그게 편해 편해 편해 / 이젠 너무 익숙해 / 이걸로 풀린다면 / 가슴에 박히는 너의 한발 한발이 / 사실은 너무 아파 / 그래 날 쏴 / 너의 bullet bullet bullet / 얼마든지 맞아줄게 / 원한 게 이거라면 / 나를 향해 쏴 / 그게 편해 편해 편해 / 이젠 너무 익숙해 / 이걸로 풀린다면",
+        "literal": "(I'm okay) (so if you wanna hurt me) (baby just hurt me) / each shot that lodges in my chest / actually hurts so much / it hurts so bad, so bad",
+        "context": "The whispered English asides ('I'm okay') directly contradict the following Korean line admitting it really does hurt (사실은 너무 아파) — the gap between what he says out loud and what he actually feels is the emotional core of the whole song."
+      }
+    }
+  },
+  "artist_context": "DAY6 plays and writes their own instrumentation, which sets Shoot Me apart from most K-pop ballads about heartbreak — the metaphor of gunfire is reinforced by live-band percussion and guitar rather than purely orchestral or electronic production.",
+  "honorific_level": "informal — 반말, addressed directly to the partner causing the pain",
+  "themes": [
+    "toxic relationship",
+    "emotional exhaustion",
+    "resignation",
+    "masked pain"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "얼마든지",
+      "usage": "'However much/many, as much as you want.' 얼마든지 맞아줄게 = 'I'll take as many hits as you want' — signals total resignation.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-아/어줄게",
+      "usage": "A promise to do something for someone's benefit, used here ironically — 맞아줄게, 'I'll take the hit for you' — twisting a normally kind grammar form into something self-sacrificing and bitter.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "그대로",
+      "usage": "'Just as it is / right back to.' 그대로 시작이야 = 'it's back to square one, just like that' — describing a relapse into the same pattern without change.",
+      "topik_level": 3
+    }
+  ]
+}

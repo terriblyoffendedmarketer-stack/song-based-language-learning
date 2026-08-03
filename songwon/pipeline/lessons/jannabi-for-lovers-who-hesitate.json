@@ -1,0 +1,380 @@
+{
+  "id": "lesson-jannabi-for-lovers-who-hesitate",
+  "songId": "jannabi-for-lovers-who-hesitate",
+  "level": "intermediate",
+  "title": "for lovers who hesitate — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "JANNABI — for lovers who hesitate",
+      "content": "In this lesson, we'll learn words related to patient love, hesitant partners, impermanence.\nGrammar: -(으)ㄹ 바엔 ('Rather than X, [Y is preferable].' Appears in 미련 )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "This is a gentle, patient love song addressed to someone who's too cautious to fully commit. The narrator describes himself as an easy, open book of a person — someone who won't demand much, who just ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나는 읽기 쉬운 마음이야",
+        "당신도 스윽 훑고 가셔요",
+        "달랠 길 없는 외로운 마음 있지",
+        "머물다 가셔요 음"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "나는 읽기 쉬운 마음이야",
+        "당신도 스윽 훑고 가셔요",
+        "달랠 길 없는 외로운 마음 있지",
+        "머물다 가셔요 음"
+      ],
+      "lyricTranslations": [
+        "I'm a heart that's easy to read",
+        "you can just skim through me and go",
+        "there's a lonely heart that can't be soothed",
+        "stop by for a while, mm"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "마음",
+      "wordData": {
+        "word": {
+          "korean": "마음",
+          "english": "heart, mind",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "마음",
+          "english": "heart, mind",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "마음",
+          "english": "heart, mind",
+          "pos": "noun"
+        },
+        "songLine": "나는 읽기 쉬운 마음이야",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "그럼에도 내 사랑은 또 같은 꿈을 꾸고",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I'm a heart that's easy to read",
+          "options": [
+            "머물다 가셔요 음",
+            "당신도 스윽 훑고 가셔요",
+            "나는 읽기 쉬운 마음이야",
+            "달랠 길 없는 외로운 마음 있지"
+          ],
+          "correctAnswer": "나는 읽기 쉬운 마음이야",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "you can just skim through me and go",
+          "options": [
+            "달랠 길 없는 외로운 마음 있지",
+            "당신도 스윽 훑고 가셔요",
+            "나는 읽기 쉬운 마음이야",
+            "머물다 가셔요 음"
+          ],
+          "correctAnswer": "당신도 스윽 훑고 가셔요",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "there's a lonely heart that can't be soothed",
+          "options": [
+            "당신도 스윽 훑고 가셔요",
+            "나는 읽기 쉬운 마음이야",
+            "머물다 가셔요 음",
+            "달랠 길 없는 외로운 마음 있지"
+          ],
+          "correctAnswer": "달랠 길 없는 외로운 마음 있지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "나는 읽기 쉬운 ___이야",
+          "options": [
+            "지나다",
+            "마음",
+            "사람",
+            "꿈"
+          ],
+          "correctAnswer": "마음"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Rather than X, [Y is preferable].' Appears in 미련 남길바엔 그리워 아픈 게 나아 — 'rather than leaving regret, painful longing is better.'",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄹ 바엔",
+        "meaning": "'Rather than X, [Y is preferable].' Appears in 미련 남길바엔 그리워 아픈 게 나아 — 'rather than leaving regret, painful longing is better.'",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'heart, mind'의 한국어는?",
+          "options": [
+            "꿈",
+            "마음",
+            "사람",
+            "지나다"
+          ],
+          "correctAnswer": "마음"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "바람",
+            "꿈",
+            "마음",
+            "지나다"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "꿈",
+            "마음",
+            "지나다",
+            "시간"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-지 마(요)' 패턴은 어떤 의미예요?",
+          "options": [
+            "negative imperative, don't",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "negative imperative, don't"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나는 읽기 쉬운 마음이야",
+        "당신도 스윽 훑고 가셔요",
+        "달랠 길 없는 외로운 마음 있지",
+        "머물다 가셔요 음",
+        "내게 긴 여운을 남겨줘요",
+        "사랑을 사랑을 해줘요",
+        "할 수 있다면 그럴 수만 있다면",
+        "새하얀 빛으로 그댈 비춰 줄게요"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "마음",
+            "english": "heart, mind"
+          },
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          }
+        ],
+        "patternLearned": "-(으)ㄹ 바엔"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "JANNABI - for lovers who hesitate",
+    "artist": "JANNABI",
+    "song": "for lovers who hesitate",
+    "curriculum_level": 4
+  }
+}

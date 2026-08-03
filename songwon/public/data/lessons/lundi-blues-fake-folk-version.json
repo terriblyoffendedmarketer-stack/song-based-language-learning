@@ -1,0 +1,367 @@
+{
+  "id": "lesson-lundi-blues-fake-folk-version",
+  "songId": "lundi-blues-fake-folk-version",
+  "level": "beginner",
+  "title": "Fake - Folk Version — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Lundi Blues — Fake - Folk Version",
+      "content": "In this lesson, we'll learn words related to disillusionment, turning 30, broken promises.\nGrammar: -는다매 / -(ㄴ/는)다면서 (Casual form used to quote someone back at themselv)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "This is a song about turning 30 and realizing the milestones you were promised don't actually arrive on schedule. The verses stack up a list of things quietly getting worse — your phone contacts pile ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "늘어나는 번호들",
+        "줄어드는 친구들",
+        "울리지도 않는 폰폰폰",
+        "늘어나는 카드들"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "늘어나는 번호들",
+        "줄어드는 친구들",
+        "울리지도 않는 폰폰폰",
+        "늘어나는 카드들"
+      ],
+      "lyricTranslations": [
+        "Growing phone numbers",
+        "shrinking friends",
+        "a phone phone phone that doesn't even ring"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "맘대로 되는게 하나도 없어 이 세상은",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Growing phone numbers",
+          "options": [
+            "줄어드는 친구들",
+            "늘어나는 카드들",
+            "울리지도 않는 폰폰폰",
+            "늘어나는 번호들"
+          ],
+          "correctAnswer": "늘어나는 번호들",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "shrinking friends",
+          "options": [
+            "줄어드는 친구들",
+            "늘어나는 번호들",
+            "울리지도 않는 폰폰폰",
+            "늘어나는 카드들"
+          ],
+          "correctAnswer": "줄어드는 친구들",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "a phone phone phone that doesn't even ring",
+          "options": [
+            "울리지도 않는 폰폰폰",
+            "늘어나는 카드들",
+            "늘어나는 번호들",
+            "줄어드는 친구들"
+          ],
+          "correctAnswer": "울리지도 않는 폰폰폰",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Casual form used to quote someone back at themselves — 'you said X, so...' Appears in 연애 안한다매 and 시작이라매. Always carries a hint of accusation.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-는다매 / -(ㄴ/는)다면서",
+        "meaning": "Casual form used to quote someone back at themselves — 'you said X, so...' Appears in 연애 안한다매 and 시작이라매. Always carries a hint of accusation.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "세상",
+            "세상",
+            "떠나다",
+            "사라지다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "사라지다",
+            "시간",
+            "떠나다",
+            "세상"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "떠나다",
+            "세상",
+            "사라지다",
+            "마음"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-는데' 패턴은 어떤 의미예요?",
+          "options": [
+            "background information / mild contrast",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "background information / mild contrast"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "늘어나는 번호들",
+        "줄어드는 친구들",
+        "울리지도 않는 폰폰폰",
+        "늘어나는 카드들",
+        "줄어드는 잔고들",
+        "모이지도 않는 돈돈돈",
+        "맘대로 되는게 하나도 없어 이 세상은",
+        "전부 거짓말이네"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          }
+        ],
+        "patternLearned": "-는다매 / -(ㄴ/는)다면서"
+      }
+    }
+  ],
+  "xpReward": 20,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Lundi Blues - Fake - Folk Version",
+    "artist": "Lundi Blues",
+    "song": "Fake - Folk Version",
+    "curriculum_level": 1
+  }
+}

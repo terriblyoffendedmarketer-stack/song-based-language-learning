@@ -1,0 +1,51 @@
+{
+  "safe_name": "Sogyumo Acacia Band - Almost Blue (2019 Remake)",
+  "artist": "Sogyumo Acacia Band",
+  "song": "Almost Blue (2019 Remake)",
+  "song_story": {
+    "overview": "Almost Blue is a very short, very sparse meditation on being right at the edge of something without fully arriving — 'almost' blue, 'almost' true. It doesn't tell a story so much as hover in a single suggestive image: a door about to close on a stretch of time, a last wish being gathered up, an ending being born even as it happens. The English/Korean title wordplay ('This kind of blue, almost true blue') is doing most of the emotional work — 'blue' as both a color and a mood that never quite fully sets in.",
+    "cultural_root": "This song leans on 여백의 미 (yeobaek-ui mi), the Korean aesthetic principle valuing empty space — what's left unsaid or unfilled is as meaningful as what's actually there, the way negative space works in traditional ink painting. With this few words and this little explicit narrative, the song asks the listener to sit in the gaps between phrases rather than follow a plot, which is very much the point of remaking a song this minimal instead of expanding it.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "이 시간의 문을 닫으려네 / 남아있는 모든 소원을 줍네",
+        "literal": "This kind of blue, / almost true blue / [I] am about to close the door on this time / [I] gather up all the remaining wishes",
+        "context": "-으려네 (a soft, self-directed intention ending) frames closing the door on 'this time' as a decision being made gently, almost to oneself, not announced to anyone. 소원을 줍다 (to pick up/gather wishes, like collecting scattered objects) treats hopes as physical things being cleared away before a door shuts."
+      },
+      "verse_2": {
+        "lines": "이 만족의 가장 끝에 서네 / 보일수록 멈추지 않는",
+        "literal": "This kind of truth, / utmost true truth / [I] stand at the very edge of this contentment / the more it becomes visible, the more it doesn't stop / that blue blue blue",
+        "context": "만족의 가장 끝 (the very furthest edge of contentment) is a strange, precise image — not the middle of satisfaction, but its outer boundary, the point right before it tips into something else. 보일수록 멈추지 않는 (the more it's seen, the less it stops) suggests the blue mood intensifies with attention rather than fading, the opposite of how looking away might dissolve a feeling."
+      },
+      "closing": {
+        "lines": "그 blue blue blue / 이 시간의 끝에 태어나네 / 울음의 삶은 보이지를 않네",
+        "literal": "[Something] is born at the end of this time / a life of crying is nowhere to be seen",
+        "context": "태어나다 (to be born) at 'the end of this time' is the song's central paradox — an ending doubling as a beginning, in the same breath. 보이지를 않네 (it just isn't visible) closes the song on absence rather than resolution — whatever grief might be expected doesn't show itself, which is its own kind of ambiguous, unfinished feeling."
+      }
+    }
+  },
+  "artist_context": "Sogyumo Acacia Band (소규모아카시아밴드) is a foundational Korean indie folk act from the early 2000s, known for gentle, literary, understated songwriting. This 2019 remake reintroduces one of their older, sparser songs with updated production for streaming-era listeners, without changing the minimal, poetic bones of the original.",
+  "honorific_level": "informal — 반말/plain style throughout, with -네 endings giving it a quiet, self-narrating tone",
+  "themes": [
+    "ambiguity",
+    "endings and beginnings",
+    "minimalism",
+    "liminal mood"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)려네",
+      "usage": "A gentle, self-directed statement of intention — 'I'm about to...' 닫으려네 reads as a quiet private decision rather than an announcement to someone else.",
+      "topik_level": 5
+    },
+    {
+      "pattern": "-네 (realization ending)",
+      "usage": "Marks something noticed or narrated in the moment. Used throughout (줍네, 서네, 태어나네, 보이지를 않네) to give the whole song the quality of quiet, present-tense self-observation.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-(으)ㄹ수록",
+      "usage": "'The more X, the more Y.' 보일수록 멈추지 않는 links visibility and persistence — the mood intensifies rather than fades the more it's examined.",
+      "topik_level": 3
+    }
+  ]
+}

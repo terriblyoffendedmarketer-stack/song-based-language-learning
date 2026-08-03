@@ -1,0 +1,374 @@
+{
+  "id": "lesson-girls-generation-lion-heart",
+  "songId": "girls-generation-lion-heart",
+  "level": "intermediate",
+  "title": "Lion Heart — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Girls' Generation — Lion Heart",
+      "content": "In this lesson, we'll learn words related to confidence, flirtation, taming a wild partner.\nGrammar: -(으)ㄹ래 (Casual ending stating your own intention or prefer)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Lion Heart is the title track off Girls' Generation's 2015 album of the same name, released after several members had already been in the group for eight years. The song is a retro, brass-heavy dance ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Ooh, 너와 너 처음 만났을때",
+        "Ooh, 마치 사자처럼 맴돌아",
+        "기회를 노려",
+        "내 맘 빼신 너"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "Ooh, 너와 너 처음 만났을때",
+        "Ooh, 마치 사자처럼 맴돌아",
+        "기회를 노려",
+        "내 맘 빼신 너"
+      ],
+      "lyricTranslations": [
+        "When you and I first met",
+        "like a lion you circled around, watching for a chance",
+        "you stole my heart",
+        "you're still the same, unchanged"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "희미해져 버릴 꿈처럼",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "",
+        "dailySentence": {
+          "korean": "희미해져 버릴 꿈처럼",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "찾다",
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "When you and I first met",
+          "options": [
+            "Ooh, 너와 너 처음 만났을때",
+            "Ooh, 마치 사자처럼 맴돌아",
+            "내 맘 빼신 너",
+            "기회를 노려"
+          ],
+          "correctAnswer": "Ooh, 너와 너 처음 만났을때",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "like a lion you circled around, watching for a chance",
+          "options": [
+            "내 맘 빼신 너",
+            "Ooh, 너와 너 처음 만났을때",
+            "Ooh, 마치 사자처럼 맴돌아",
+            "기회를 노려"
+          ],
+          "correctAnswer": "Ooh, 마치 사자처럼 맴돌아",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "you stole my heart",
+          "options": [
+            "Ooh, 너와 너 처음 만났을때",
+            "내 맘 빼신 너",
+            "Ooh, 마치 사자처럼 맴돌아",
+            "기회를 노려"
+          ],
+          "correctAnswer": "기회를 노려",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Casual ending stating your own intention or preference. Appears in 길들일래 — 'I'm going to tame [him].' Gives a decided, unhesitating tone.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄹ래",
+        "meaning": "Casual ending stating your own intention or preference. Appears in 길들일래 — 'I'm going to tame [him].' Gives a decided, unhesitating tone.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "하늘",
+            "꿈",
+            "떠나다",
+            "찾다"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "찾다",
+            "시간",
+            "떠나다",
+            "꿈"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to find, look for'의 한국어는?",
+          "options": [
+            "찾다",
+            "꿈",
+            "마음",
+            "떠나다"
+          ],
+          "correctAnswer": "찾다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-처럼' 패턴은 어떤 의미예요?",
+          "options": [
+            "like, as",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "like, as"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Ooh, 너와 너 처음 만났을때",
+        "Ooh, 마치 사자처럼 맴돌아",
+        "기회를 노려",
+        "내 맘 빼신 너",
+        "Ah, 넌 달라진 게 없어 여전히",
+        "난 애가 타고 또 타",
+        "사냥감 찾아",
+        "한 눈 파는 너"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          },
+          {
+            "korean": "찾다",
+            "english": "to find, look for"
+          }
+        ],
+        "patternLearned": "-(으)ㄹ래"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Girls' Generation - Lion Heart",
+    "artist": "Girls' Generation",
+    "song": "Lion Heart",
+    "curriculum_level": 3
+  }
+}

@@ -1,0 +1,1338 @@
+{
+  "total_selected": 72,
+  "from_playlist": 58,
+  "user_added": 9,
+  "user_added_songs": [
+    "BOL4 - Seoul",
+    "BTS - Mic Drop",
+    "Suga - Dwechita",
+    "IU - Through the Night(밤편지)",
+    "IU - Meaning of you",
+    "Kpop Demon Hunters - Golden",
+    "MOMOLAND - BBoom BBoom",
+    "IVE - XOXZ",
+    "IVE - Baddie"
+  ],
+  "songs": [
+    {
+      "name": "Just Like a Dream",
+      "artists": [
+        "BEN"
+      ],
+      "artist": "BEN",
+      "album_name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
+      "album_artist": "BEN",
+      "duration": 226,
+      "year": 2016,
+      "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW",
+      "song_id": "0J2ImJ3WaKokMQ6FGG7OOW",
+      "popularity": 52,
+      "explicit": false,
+      "isrc": "KRA491600309",
+      "genres": [
+        "k-ballad",
+        "soundtrack"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Very, Slowly",
+      "artists": [
+        "BIBI"
+      ],
+      "artist": "BIBI",
+      "album_name": "Twenty-Five Twenty-One OST Part 3",
+      "album_artist": "BIBI",
+      "duration": 214,
+      "year": 2022,
+      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H",
+      "song_id": "7GkHIsnziYgk6j1lx2TK6H",
+      "popularity": 60,
+      "explicit": false,
+      "isrc": "KSA002101469",
+      "genres": [
+        "k-pop",
+        "k-rap"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Love story",
+      "artists": [
+        "BOL4"
+      ],
+      "artist": "BOL4",
+      "album_name": "Seoul",
+      "album_artist": "BOL4",
+      "duration": 197,
+      "year": 2022,
+      "url": "https://open.spotify.com/track/6uEWYpv8HNAdbwHlqemG1F",
+      "song_id": "6uEWYpv8HNAdbwHlqemG1F",
+      "popularity": 55,
+      "explicit": false,
+      "isrc": "KRA922200006",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "artist": "BOL4",
+      "name": "Seoul",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "name": "Some",
+      "artists": [
+        "BOL4"
+      ],
+      "artist": "BOL4",
+      "album_name": "Red Diary Page.1",
+      "album_artist": "BOL4",
+      "duration": 181,
+      "year": 2017,
+      "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9",
+      "song_id": "3jsYQw78lrxJA2ysnmOIf9",
+      "popularity": 69,
+      "explicit": false,
+      "isrc": "KRA381702303",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "FAKE LOVE",
+      "artists": [
+        "BTS"
+      ],
+      "artist": "BTS",
+      "album_name": "Love Yourself 轉 'Tear'",
+      "album_artist": "BTS",
+      "duration": 242,
+      "year": 2018,
+      "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR",
+      "song_id": "6m1TWFMeon7ai9XLOzdbiR",
+      "popularity": 81,
+      "explicit": false,
+      "isrc": "QM4TX1817912",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Life Goes On",
+      "artists": [
+        "BTS"
+      ],
+      "artist": "BTS",
+      "album_name": "BE",
+      "album_artist": "BTS",
+      "duration": 207,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg",
+      "song_id": "5FVbvttjEvQ8r2BgUcJgNg",
+      "popularity": 79,
+      "explicit": false,
+      "isrc": "QMBZ92051791",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Save Me",
+      "artists": [
+        "BTS"
+      ],
+      "artist": "BTS",
+      "album_name": "The Most Beautiful Moment in Life: Young Forever",
+      "album_artist": "BTS",
+      "duration": 196,
+      "year": 2016,
+      "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS",
+      "song_id": "7bxGcILuAjkZzaveU28ZJS",
+      "popularity": 76,
+      "explicit": false,
+      "isrc": "KRA381600801",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "artist": "BTS",
+      "name": "Mic Drop",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "artist": "Suga",
+      "name": "Dwechita",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "name": "Family",
+      "artists": [
+        "BUMKEY"
+      ],
+      "artist": "BUMKEY",
+      "album_name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 1",
+      "album_artist": "BUMKEY",
+      "duration": 203,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/4P4uhkOROHcHUlTNj9UGke",
+      "song_id": "4P4uhkOROHcHUlTNj9UGke",
+      "popularity": 23,
+      "explicit": false,
+      "isrc": "KRA492000663",
+      "genres": [
+        "k-rap"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "OK (Prod. by GRAY)",
+      "artists": [
+        "BewhY"
+      ],
+      "artist": "BewhY",
+      "album_name": "Prison Playbook (Original Television Soundtrack), Pt. 1",
+      "album_artist": "BewhY",
+      "duration": 191,
+      "year": 2017,
+      "url": "https://open.spotify.com/track/4JhmTcEhQHjATTLrITH9Ql",
+      "song_id": "4JhmTcEhQHjATTLrITH9Ql",
+      "popularity": 35,
+      "explicit": false,
+      "isrc": "KRA491700367",
+      "genres": [
+        "k-rap"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true,
+      "_user_query": "BewhY - OK"
+    },
+    {
+      "name": "그대니까요",
+      "artists": [
+        "DAVICHI"
+      ],
+      "artist": "DAVICHI",
+      "album_name": "라이브 (Original Television Soundtrack) Pt.3",
+      "album_artist": "DAVICHI",
+      "duration": 207,
+      "year": 2018,
+      "url": "https://open.spotify.com/track/1jBuX5QLx45C9T9zRgTPlN",
+      "song_id": "1jBuX5QLx45C9T9zRgTPlN",
+      "popularity": 0,
+      "explicit": false,
+      "isrc": "KRA381704730",
+      "genres": [
+        "k-ballad",
+        "soundtrack",
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Shoot Me",
+      "artists": [
+        "DAY6"
+      ],
+      "artist": "DAY6",
+      "album_name": "Shoot Me : Youth Part 1",
+      "album_artist": "DAY6",
+      "duration": 175,
+      "year": 2018,
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ",
+      "song_id": "5XZ4yL24BLKkysf4muf4yQ",
+      "popularity": 60,
+      "explicit": false,
+      "isrc": "US5TA1800047",
+      "genres": [
+        "k-rock",
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "You Were Beautiful",
+      "artists": [
+        "DAY6"
+      ],
+      "artist": "DAY6",
+      "album_name": "SUNRISE",
+      "album_artist": "DAY6",
+      "duration": 283,
+      "year": 2017,
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC",
+      "song_id": "3FR2yqZsG07NhXz7uPyUyC",
+      "popularity": 66,
+      "explicit": false,
+      "isrc": "US5TA1700019",
+      "genres": [
+        "k-rock",
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Deja Vu",
+      "artists": [
+        "Dreamcatcher"
+      ],
+      "artist": "Dreamcatcher",
+      "album_name": "Raid of Dream",
+      "album_artist": "Dreamcatcher",
+      "duration": 224,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm",
+      "song_id": "3qvfE7DGsIlkWzKMOS4gAm",
+      "popularity": 33,
+      "explicit": false,
+      "isrc": "KRB471901208",
+      "genres": [
+        "k-rock",
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Love Shot",
+      "artists": [
+        "EXO"
+      ],
+      "artist": "EXO",
+      "album_name": "LOVE SHOT– The 5th Album Repackage",
+      "album_artist": "EXO",
+      "duration": 200,
+      "year": 2018,
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj",
+      "song_id": "0yB4jrSwN0bFtFRDR5vyMj",
+      "popularity": 74,
+      "explicit": false,
+      "isrc": "KRA301800573",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "시작",
+      "artists": [
+        "Gaho"
+      ],
+      "artist": "Gaho",
+      "album_name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+      "album_artist": "Gaho",
+      "duration": 202,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh",
+      "song_id": "5TeDIQrpwWtLWaFfzLH0hh",
+      "popularity": 58,
+      "explicit": false,
+      "isrc": "QZEKE1927920",
+      "genres": [
+        "soundtrack"
+      ],
+      "_match_reason": "hangul_in_title",
+      "_selected": true
+    },
+    {
+      "name": "Lion Heart",
+      "artists": [
+        "Girls' Generation"
+      ],
+      "artist": "Girls' Generation",
+      "album_name": "Lion Heart - The 5th Album",
+      "album_artist": "Girls' Generation",
+      "duration": 224,
+      "year": 2015,
+      "url": "https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3",
+      "song_id": "405SQUJdQut02dxtuQ0CZ3",
+      "popularity": 63,
+      "explicit": false,
+      "isrc": "KRA301500422",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Lighthouse",
+      "artists": [
+        "Ha Hyun Sang"
+      ],
+      "artist": "Ha Hyun Sang",
+      "album_name": "Calibrate",
+      "album_artist": "Ha Hyun Sang",
+      "duration": 225,
+      "year": 2021,
+      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X",
+      "song_id": "6NE7hAW6UFEJWhv2hP6z8X",
+      "popularity": 51,
+      "explicit": false,
+      "isrc": "KRA492101385",
+      "genres": [
+        "k-ballad",
+        "k-rock"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Why",
+      "artists": [
+        "Heize"
+      ],
+      "artist": "Heize",
+      "album_name": "HAPPEN",
+      "album_artist": "Heize",
+      "duration": 188,
+      "year": 2021,
+      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu",
+      "song_id": "1oEMCcw6M6aSVVDURlBFeu",
+      "popularity": 35,
+      "explicit": false,
+      "isrc": "KRMIM2120792",
+      "genres": [
+        "k-ballad",
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Blueming",
+      "artists": [
+        "IU"
+      ],
+      "artist": "IU",
+      "album_name": "Love poem",
+      "album_artist": "IU",
+      "duration": 217,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO",
+      "song_id": "4Dr2hJ3EnVh2Aaot6fRwDO",
+      "popularity": 66,
+      "explicit": false,
+      "isrc": "KRA381904704",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Coin",
+      "artists": [
+        "IU"
+      ],
+      "artist": "IU",
+      "album_name": "IU 5th Album 'LILAC'",
+      "album_artist": "IU",
+      "duration": 193,
+      "year": 2021,
+      "url": "https://open.spotify.com/track/7CZRguMolNqIobnXxpV735",
+      "song_id": "7CZRguMolNqIobnXxpV735",
+      "popularity": 51,
+      "explicit": false,
+      "isrc": "KRA382102079",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Good day",
+      "artists": [
+        "IU"
+      ],
+      "artist": "IU",
+      "album_name": "REAL",
+      "album_artist": "IU",
+      "duration": 233,
+      "year": 2010,
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw",
+      "song_id": "1SwZVVH9BnXtLRLi2cbFhw",
+      "popularity": 65,
+      "explicit": false,
+      "isrc": "KRA381001057",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "artist": "IU",
+      "name": "Through the Night(밤편지)",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "artist": "IU",
+      "name": "Meaning of you",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "name": "eight(Prod.&Feat. SUGA of BTS)",
+      "artists": [
+        "IU",
+        "SUGA"
+      ],
+      "artist": "IU, SUGA",
+      "album_name": "eight",
+      "album_artist": "IU",
+      "duration": 167,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe",
+      "song_id": "0pYacDCZuRhcrwGUA5nTBe",
+      "popularity": 68,
+      "explicit": false,
+      "isrc": "KRA382001418",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true,
+      "_user_query": "IU, SUGA - eight"
+    },
+    {
+      "name": "dreams, books, power and walls",
+      "artists": [
+        "JANNABI"
+      ],
+      "artist": "JANNABI",
+      "album_name": "LEGEND",
+      "album_artist": "JANNABI",
+      "duration": 297,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD",
+      "song_id": "1deQhoZakgMT5fw0t9zliD",
+      "popularity": 59,
+      "explicit": false,
+      "isrc": "KRA381900675",
+      "genres": [
+        "k-ballad",
+        "k-rock"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "for lovers who hesitate",
+      "artists": [
+        "JANNABI"
+      ],
+      "artist": "JANNABI",
+      "album_name": "LEGEND",
+      "album_artist": "JANNABI",
+      "duration": 265,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk",
+      "song_id": "5BqwC9kOBbqYkzdOKeXFFk",
+      "popularity": 67,
+      "explicit": false,
+      "isrc": "KRA381900671",
+      "genres": [
+        "k-ballad",
+        "k-rock"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "스물다섯, 스물하나",
+      "artists": [
+        "JAURIM"
+      ],
+      "artist": "JAURIM",
+      "album_name": "Goodbye, grief.",
+      "album_artist": "JAURIM",
+      "duration": 284,
+      "year": 2013,
+      "url": "https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2",
+      "song_id": "3DmDPYRQYdYE5gWf2DiKn2",
+      "popularity": 57,
+      "explicit": false,
+      "isrc": "KRA341765632",
+      "genres": [
+        "k-rock",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "GLASSY",
+      "artists": [
+        "JO YURI"
+      ],
+      "artist": "JO YURI",
+      "album_name": "GLASSY",
+      "album_artist": "JO YURI",
+      "duration": 189,
+      "year": 2021,
+      "url": "https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D",
+      "song_id": "6PFfx4sEBWPuFqFB0mgX1D",
+      "popularity": 54,
+      "explicit": false,
+      "isrc": "KRA492101033",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Your Shampoo Scent In The Flowers",
+      "artists": [
+        "Jang Beom June"
+      ],
+      "artist": "Jang Beom June",
+      "album_name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
+      "album_artist": "Jang Beom June",
+      "duration": 168,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/2woXriAP3J52r5KlutnKzr",
+      "song_id": "2woXriAP3J52r5KlutnKzr",
+      "popularity": 0,
+      "explicit": false,
+      "isrc": "KRA491900596",
+      "genres": [
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "The Road",
+      "artists": [
+        "Kim Yuna"
+      ],
+      "artist": "Kim Yuna",
+      "album_name": "Signal (Original Television Soundtrack), Pt. 4",
+      "album_artist": "Kim Yuna",
+      "duration": 265,
+      "year": 2016,
+      "url": "https://open.spotify.com/track/2zRCXOKI6z6keb22TyJMb1",
+      "song_id": "2zRCXOKI6z6keb22TyJMb1",
+      "popularity": 33,
+      "explicit": false,
+      "isrc": "KRA491600096",
+      "genres": [
+        "city pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "1, 2, 3, 4",
+      "artists": [
+        "LEEHI"
+      ],
+      "artist": "LEEHI",
+      "album_name": "1,2,3,4",
+      "album_artist": "LEEHI",
+      "duration": 214,
+      "year": 2012,
+      "url": "https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs",
+      "song_id": "1MMuD3VaVq7qqfvRgSrbRs",
+      "popularity": 43,
+      "explicit": false,
+      "isrc": "KRA341217931",
+      "genres": [
+        "k-ballad",
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "I Got U",
+      "artists": [
+        "LUCY"
+      ],
+      "artist": "LUCY",
+      "album_name": "Gatcha!",
+      "album_artist": "LUCY",
+      "duration": 195,
+      "year": 2021,
+      "url": "https://open.spotify.com/track/5fZysUhDeq7jY5AJI8YNUE",
+      "song_id": "5fZysUhDeq7jY5AJI8YNUE",
+      "popularity": 40,
+      "explicit": false,
+      "isrc": "KRA382152352",
+      "genres": [
+        "k-rock"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "낙인",
+      "artists": [
+        "Lim Jae Beum"
+      ],
+      "artist": "Lim Jae Beum",
+      "album_name": "CHUNO (Original Television Soundtrack)",
+      "album_artist": "Various Artists",
+      "duration": 286,
+      "year": 2010,
+      "url": "https://open.spotify.com/track/35k5erfTVqpcbhfGa0p684",
+      "song_id": "35k5erfTVqpcbhfGa0p684",
+      "popularity": 0,
+      "explicit": false,
+      "isrc": "KRA340914967",
+      "genres": [
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Fake - Folk Version",
+      "artists": [
+        "Lundi Blues"
+      ],
+      "artist": "Lundi Blues",
+      "album_name": "Be Melodramatic (Original Television Soundtrack), Pt. 8",
+      "album_artist": "Various Artists",
+      "duration": 191,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/4i6qoIgy16mCvZqtO3qWmh",
+      "song_id": "4i6qoIgy16mCvZqtO3qWmh",
+      "popularity": 0,
+      "explicit": false,
+      "isrc": "KRA491900738",
+      "genres": [],
+      "_match_reason": "isrc_kr",
+      "_selected": true,
+      "_user_query": "Lundi Blues - Fake"
+    },
+    {
+      "name": "Love Story",
+      "artists": [
+        "Lyn"
+      ],
+      "artist": "Lyn",
+      "album_name": "The Legend of The Blue Sea OST Part.1",
+      "album_artist": "Lyn",
+      "duration": 204,
+      "year": 2016,
+      "url": "https://open.spotify.com/track/59Jq02jMj7gInyclQePYs8",
+      "song_id": "59Jq02jMj7gInyclQePYs8",
+      "popularity": 52,
+      "explicit": false,
+      "isrc": "KRA381602349",
+      "genres": [
+        "k-ballad",
+        "soundtrack"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Girl Crush",
+      "artists": [
+        "MAMAMOO"
+      ],
+      "artist": "MAMAMOO",
+      "album_name": "Innisia Nest OST",
+      "album_artist": "MAMAMOO",
+      "duration": 188,
+      "year": 2015,
+      "url": "https://open.spotify.com/track/5WGLxlhumdEqAyEgKbVmra",
+      "song_id": "5WGLxlhumdEqAyEgKbVmra",
+      "popularity": 34,
+      "explicit": false,
+      "isrc": "KRA381500189",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "HIP",
+      "artists": [
+        "MAMAMOO"
+      ],
+      "artist": "MAMAMOO",
+      "album_name": "reality in BLACK",
+      "album_artist": "MAMAMOO",
+      "duration": 195,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG",
+      "song_id": "24nK8tW7Pt3Inh2utttuoG",
+      "popularity": 67,
+      "explicit": false,
+      "isrc": "KRA381904798",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Mr-Ambiguous",
+      "artists": [
+        "MAMAMOO"
+      ],
+      "artist": "MAMAMOO",
+      "album_name": "HELLO",
+      "album_artist": "MAMAMOO",
+      "duration": 221,
+      "year": 2014,
+      "url": "https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt",
+      "song_id": "4VOZzJeoNhvvTaGTztogVt",
+      "popularity": 51,
+      "explicit": false,
+      "isrc": "KRA491400933",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "gogobebe",
+      "artists": [
+        "MAMAMOO"
+      ],
+      "artist": "MAMAMOO",
+      "album_name": "White Wind",
+      "album_artist": "MAMAMOO",
+      "duration": 195,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8",
+      "song_id": "6E7jAJN2e3znSHyPCdQqx8",
+      "popularity": 61,
+      "explicit": false,
+      "isrc": "KRA381900683",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Absence",
+      "artists": [
+        "Moon Byul"
+      ],
+      "artist": "Moon Byul",
+      "album_name": "門OON : REPACKAGE",
+      "album_artist": "Moon Byul",
+      "duration": 219,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/1wj8oNg5fN2zltrUIJGjoN",
+      "song_id": "1wj8oNg5fN2zltrUIJGjoN",
+      "popularity": 38,
+      "explicit": false,
+      "isrc": "KRA382001722",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Flashback",
+      "artists": [
+        "NC.A",
+        "TIKITIK",
+        "유준호",
+        "JIAN"
+      ],
+      "artist": "NC.A, TIKITIK, 유준호, JIAN",
+      "album_name": "Favorite Chart Pt.2",
+      "album_artist": "Various Artists",
+      "duration": 191,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/2FepbJr6icioTD6mZgEX6K",
+      "song_id": "2FepbJr6icioTD6mZgEX6K",
+      "popularity": 10,
+      "explicit": false,
+      "isrc": "KRF402000003",
+      "genres": [
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Hyehwadong (or Sangmundong)",
+      "artists": [
+        "Park Boram"
+      ],
+      "artist": "Park Boram",
+      "album_name": "Reply 1988 (Original Television Soundtrack), Pt. 4",
+      "album_artist": "Park Boram",
+      "duration": 264,
+      "year": 2015,
+      "url": "https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d",
+      "song_id": "0OPtu3k4727xyRXVV5Yf6d",
+      "popularity": 55,
+      "explicit": false,
+      "isrc": "KRA491501012",
+      "genres": [
+        "k-ballad",
+        "soundtrack"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true,
+      "_user_query": "Park Boram - Hyehwadong"
+    },
+    {
+      "name": "Done For Me",
+      "artists": [
+        "Punch"
+      ],
+      "artist": "Punch",
+      "album_name": "Hotel del Luna (Original Television Soundtrack) Pt.12",
+      "album_artist": "Punch",
+      "duration": 231,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/2wHXnLwvKZDNGUTxduk0mJ",
+      "song_id": "2wHXnLwvKZDNGUTxduk0mJ",
+      "popularity": 54,
+      "explicit": false,
+      "isrc": "KRA381903889",
+      "genres": [
+        "soundtrack",
+        "k-ballad",
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Yours",
+      "artists": [
+        "Raiden",
+        "CHANYEOL",
+        "LEEHI",
+        "CHANGMO"
+      ],
+      "artist": "Raiden, CHANYEOL, LEEHI, CHANGMO",
+      "album_name": "Yours",
+      "album_artist": "Raiden",
+      "duration": 235,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp",
+      "song_id": "4KL3FJYexPrPuMdPagHPXp",
+      "popularity": 63,
+      "explicit": false,
+      "isrc": "KRA302000255",
+      "genres": [],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Psycho",
+      "artists": [
+        "Red Velvet"
+      ],
+      "artist": "Red Velvet",
+      "album_name": "‘The ReVe Festival’ Finale",
+      "album_artist": "Red Velvet",
+      "duration": 210,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK",
+      "song_id": "3CYH422oy1cZNoo0GTG1TK",
+      "popularity": 73,
+      "explicit": false,
+      "isrc": "KRA301900597",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Closed Ending",
+      "artists": [
+        "SHAUN"
+      ],
+      "artist": "SHAUN",
+      "album_name": "#0055b7",
+      "album_artist": "SHAUN",
+      "duration": 252,
+      "year": 2021,
+      "url": "https://open.spotify.com/track/0VHpWpE5QaiBwF2rPdFbaa",
+      "song_id": "0VHpWpE5QaiBwF2rPdFbaa",
+      "popularity": 50,
+      "explicit": false,
+      "isrc": "KRF222100011",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "artist": "SHAUN",
+      "name": "Way Back Home",
+      "_selected": true,
+      "_source": "user_corrected"
+    },
+    {
+      "name": "pporappippam",
+      "artists": [
+        "SUNMI"
+      ],
+      "artist": "SUNMI",
+      "album_name": "pporappippam",
+      "album_artist": "SUNMI",
+      "duration": 206,
+      "year": 2020,
+      "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU",
+      "song_id": "7oQh96s9YemWG3A4zkIbrU",
+      "popularity": 53,
+      "explicit": false,
+      "isrc": "KRMIM2015483",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Undecided",
+      "artists": [
+        "Shin In Ryu"
+      ],
+      "artist": "Shin In Ryu",
+      "album_name": "Be Melodramatic (Original Television Soundtrack), Pt. 2",
+      "album_artist": "Shin In Ryu",
+      "duration": 229,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/2iETx1Q4c7HXHUtaUxL3uB",
+      "song_id": "2iETx1Q4c7HXHUtaUxL3uB",
+      "popularity": 0,
+      "explicit": false,
+      "isrc": "KRA491900560",
+      "genres": [
+        "k-rock"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Almost Blue (2019 Remake)",
+      "artists": [
+        "Sogyumo Acacia Band"
+      ],
+      "artist": "Sogyumo Acacia Band",
+      "album_name": "True Blue",
+      "album_artist": "Sogyumo Acacia Band",
+      "duration": 201,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/0xFgp89BMTcXDAJ04aVR59",
+      "song_id": "0xFgp89BMTcXDAJ04aVR59",
+      "popularity": 9,
+      "explicit": false,
+      "isrc": "KRA0R1900182",
+      "genres": [],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Butterfly",
+      "artists": [
+        "Sogyumo Acacia Band"
+      ],
+      "artist": "Sogyumo Acacia Band",
+      "album_name": "소규모 아카시아 밴드",
+      "album_artist": "Sogyumo Acacia Band",
+      "duration": 240,
+      "year": 2004,
+      "url": "https://open.spotify.com/track/78jV32rpW1jZpCsfW3JnAt",
+      "song_id": "78jV32rpW1jZpCsfW3JnAt",
+      "popularity": 32,
+      "explicit": false,
+      "isrc": "KRA340920339",
+      "genres": [],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "11:11",
+      "artists": [
+        "TAEYEON"
+      ],
+      "artist": "TAEYEON",
+      "album_name": "My Voice - The 1st Album (Deluxe Edition)",
+      "album_artist": "TAEYEON",
+      "duration": 223,
+      "year": 2017,
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj",
+      "song_id": "67QGnT1Vdfuuy4HkLTUVjj",
+      "popularity": 59,
+      "explicit": false,
+      "isrc": "KRA301700164",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Four Seasons",
+      "artists": [
+        "TAEYEON"
+      ],
+      "artist": "TAEYEON",
+      "album_name": "Four Seasons",
+      "album_artist": "TAEYEON",
+      "duration": 188,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP",
+      "song_id": "4ytyLpIwUXbdFsNOvgNnmP",
+      "popularity": 57,
+      "explicit": false,
+      "isrc": "KRA301900154",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Weekend",
+      "artists": [
+        "TAEYEON"
+      ],
+      "artist": "TAEYEON",
+      "album_name": "INVU - The 3rd Album",
+      "album_artist": "TAEYEON",
+      "duration": 233,
+      "year": 2022,
+      "url": "https://open.spotify.com/track/0n1jo6k1GUzyrcXW2aS0iL",
+      "song_id": "0n1jo6k1GUzyrcXW2aS0iL",
+      "popularity": 55,
+      "explicit": false,
+      "isrc": "KRA302100230",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "FANCY",
+      "artists": [
+        "TWICE"
+      ],
+      "artist": "TWICE",
+      "album_name": "FANCY YOU",
+      "album_artist": "TWICE",
+      "duration": 213,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt",
+      "song_id": "2qQpFbqqkLOGySgNK8wBXt",
+      "popularity": 75,
+      "explicit": false,
+      "isrc": "US5TA1900042",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Feel Special",
+      "artists": [
+        "TWICE"
+      ],
+      "artist": "TWICE",
+      "album_name": "Feel Special",
+      "album_artist": "TWICE",
+      "duration": 206,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9",
+      "song_id": "3Hz3tTQwOdM6XkA0ALB2G9",
+      "popularity": 72,
+      "explicit": false,
+      "isrc": "US5TA1900074",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Likey",
+      "artists": [
+        "TWICE"
+      ],
+      "artist": "TWICE",
+      "album_name": "Twicetagram",
+      "album_artist": "TWICE",
+      "duration": 207,
+      "year": 2017,
+      "url": "https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T",
+      "song_id": "0IEVKWduAaMcZepZQVr80T",
+      "popularity": 69,
+      "explicit": false,
+      "isrc": "US5TA1700096",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "What is Love?",
+      "artists": [
+        "TWICE"
+      ],
+      "artist": "TWICE",
+      "album_name": "Summer Nights",
+      "album_artist": "TWICE",
+      "duration": 208,
+      "year": 2018,
+      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y",
+      "song_id": "3zhbXKFjUDw40pTYyCgt1Y",
+      "popularity": 79,
+      "explicit": false,
+      "isrc": "US5TA1800038",
+      "genres": [
+        "k-pop"
+      ],
+      "_match_reason": "korean_genre",
+      "_selected": true
+    },
+    {
+      "name": "Smells",
+      "artists": [
+        "YOUNGJOO"
+      ],
+      "artist": "YOUNGJOO",
+      "album_name": "Be Melodramatic (Original Television Soundtrack), Pt. 8",
+      "album_artist": "Various Artists",
+      "duration": 183,
+      "year": 2019,
+      "url": "https://open.spotify.com/track/6XdakdBMFadGzfvjqMWPd3",
+      "song_id": "6XdakdBMFadGzfvjqMWPd3",
+      "popularity": 0,
+      "explicit": false,
+      "isrc": "KRA491900737",
+      "genres": [],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "name": "Palette (feat. G-DRAGON)",
+      "artists": [
+        "IU",
+        "G-DRAGON"
+      ],
+      "artist": "IU, G-DRAGON",
+      "album_name": "Palette",
+      "album_artist": "IU",
+      "duration": 217,
+      "year": 2017,
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y",
+      "song_id": "3y7ByLZ05tluscOTRgEJ9Y",
+      "popularity": 63,
+      "explicit": false,
+      "isrc": "KRA381700862",
+      "genres": [
+        "k-pop",
+        "k-ballad"
+      ],
+      "_match_reason": "isrc_kr",
+      "_selected": true
+    },
+    {
+      "artist": "Punch",
+      "name": "Stay With Me",
+      "source": "user_added"
+    },
+    {
+      "artist": "10cm",
+      "name": "My Eyes",
+      "source": "user_added"
+    },
+    {
+      "artist": "10cm",
+      "name": "Phonecert",
+      "source": "user_added"
+    },
+    {
+      "artist": "10cm",
+      "name": "Stalker",
+      "source": "user_added"
+    },
+    {
+      "artist": "10cm",
+      "name": "Lean On My Shoulder",
+      "source": "user_added"
+    },
+    {
+      "artist": "Kpop Demon Hunters",
+      "name": "Golden",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "artist": "MOMOLAND",
+      "name": "BBoom BBoom",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "artist": "IVE",
+      "name": "XOXZ",
+      "_source": "user_added",
+      "_selected": true
+    },
+    {
+      "artist": "IVE",
+      "name": "Baddie",
+      "_source": "user_added",
+      "_selected": true
+    }
+  ],
+  "added_manually": [
+    "Punch - Stay With Me",
+    "10cm - My Eyes",
+    "10cm - Phonecert",
+    "10cm - Stalker",
+    "10cm - Lean On My Shoulder"
+  ],
+  "total": 68
+}

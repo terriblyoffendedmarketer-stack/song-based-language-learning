@@ -1,0 +1,509 @@
+{
+  "BEN||Just Like a Dream": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BEN - Just Like a Dream.txt",
+    "hangul_lines": 21,
+    "total_lines": 23
+  },
+  "BIBI||Very, Slowly": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BIBI - Very, Slowly.txt",
+    "hangul_lines": 22,
+    "total_lines": 24
+  },
+  "BOL4||Love story": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BOL4 - Love story.txt",
+    "hangul_lines": 29,
+    "total_lines": 35
+  },
+  "BOL4||Seoul": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BOL4 - Seoul.txt",
+    "hangul_lines": 29,
+    "total_lines": 33
+  },
+  "BOL4||Some": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BOL4 - Some.txt",
+    "hangul_lines": 39,
+    "total_lines": 39
+  },
+  "BTS||FAKE LOVE": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BTS - FAKE LOVE.txt",
+    "hangul_lines": 47,
+    "total_lines": 72
+  },
+  "BTS||Life Goes On": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BTS - Life Goes On.txt",
+    "hangul_lines": 46,
+    "total_lines": 62
+  },
+  "BTS||Save Me": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BTS - Save Me.txt",
+    "hangul_lines": 49,
+    "total_lines": 73
+  },
+  "BTS||Mic Drop": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BTS - Mic Drop.txt",
+    "hangul_lines": 57,
+    "total_lines": 73
+  },
+  "Suga||Dwechita": {
+    "status": "ok",
+    "source": "genius (korean search)",
+    "file": "pipeline/lyrics/Suga - Dwechita.txt",
+    "hangul_lines": 62,
+    "total_lines": 66,
+    "genius_title": "대취타 (Daechwita)"
+  },
+  "BUMKEY||Family": {
+    "status": "ok",
+    "source": "manual",
+    "file": "pipeline/lyrics/BUMKEY - Family.txt",
+    "hangul_lines": 19,
+    "total_lines": 28
+  },
+  "BewhY||OK (Prod. by GRAY)": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/BewhY - OK (Prod. by GRAY).txt",
+    "hangul_lines": 50,
+    "total_lines": 208
+  },
+  "DAVICHI||그대니까요": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/DAVICHI - 그대니까요.txt",
+    "hangul_lines": 23,
+    "total_lines": 48
+  },
+  "DAY6||Shoot Me": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/DAY6 - Shoot Me.txt",
+    "hangul_lines": 54,
+    "total_lines": 79
+  },
+  "DAY6||You Were Beautiful": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/DAY6 - You Were Beautiful.txt",
+    "hangul_lines": 62,
+    "total_lines": 63
+  },
+  "Dreamcatcher||Deja Vu": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Dreamcatcher - Deja Vu.txt",
+    "hangul_lines": 33,
+    "total_lines": 48
+  },
+  "EXO||Love Shot": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/EXO - Love Shot.txt",
+    "hangul_lines": 32,
+    "total_lines": 69
+  },
+  "Gaho||시작": {
+    "status": "ok",
+    "source": "genius (korean search)",
+    "file": "pipeline/lyrics/Gaho - 시작.txt",
+    "hangul_lines": 36,
+    "total_lines": 46,
+    "genius_title": "시작 (Start Over)"
+  },
+  "Girls' Generation||Lion Heart": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Girls' Generation - Lion Heart.txt",
+    "hangul_lines": 54,
+    "total_lines": 61
+  },
+  "Ha Hyun Sang||Lighthouse": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Ha Hyun Sang - Lighthouse.txt",
+    "hangul_lines": 27,
+    "total_lines": 27
+  },
+  "Heize||Why": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Heize - Why.txt",
+    "hangul_lines": 23,
+    "total_lines": 34
+  },
+  "IU||Blueming": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU - Blueming.txt",
+    "hangul_lines": 35,
+    "total_lines": 38
+  },
+  "IU||Coin": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU - Coin.txt",
+    "hangul_lines": 22,
+    "total_lines": 49
+  },
+  "IU||Good day": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU - Good day.txt",
+    "hangul_lines": 39,
+    "total_lines": 43
+  },
+  "IU||Through the Night(밤편지)": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU - Through the Night(밤편지).txt",
+    "hangul_lines": 27,
+    "total_lines": 27
+  },
+  "IU||Meaning of you": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU - Meaning of you.txt",
+    "hangul_lines": 29,
+    "total_lines": 29
+  },
+  "IU, SUGA||eight(Prod.&Feat. SUGA of BTS)": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU, SUGA - eight(Prod.&Feat. SUGA of BTS).txt",
+    "hangul_lines": 30,
+    "total_lines": 44
+  },
+  "JANNABI||dreams, books, power and walls": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/JANNABI - dreams, books, power and walls.txt",
+    "hangul_lines": 43,
+    "total_lines": 43
+  },
+  "JANNABI||for lovers who hesitate": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/JANNABI - for lovers who hesitate.txt",
+    "hangul_lines": 28,
+    "total_lines": 28
+  },
+  "JAURIM||스물다섯, 스물하나": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/JAURIM - 스물다섯, 스물하나.txt",
+    "hangul_lines": 36,
+    "total_lines": 36
+  },
+  "JO YURI||GLASSY": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/JO YURI - GLASSY.txt",
+    "hangul_lines": 41,
+    "total_lines": 58
+  },
+  "Jang Beom June||Your Shampoo Scent In The Flowers": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Jang Beom June - Your Shampoo Scent In The Flowers.txt",
+    "hangul_lines": 39,
+    "total_lines": 39
+  },
+  "Kim Yuna||The Road": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Kim Yuna - The Road.txt",
+    "hangul_lines": 20,
+    "total_lines": 20
+  },
+  "LEEHI||1, 2, 3, 4": {
+    "status": "ok",
+    "source": "genius (korean search)",
+    "file": "pipeline/lyrics/LEEHI - 1, 2, 3, 4.txt",
+    "hangul_lines": 47,
+    "total_lines": 65,
+    "genius_title": "하나둘셋 (1, 2, 3)"
+  },
+  "LUCY||I Got U": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/LUCY - I Got U.txt",
+    "hangul_lines": 32,
+    "total_lines": 39
+  },
+  "Lim Jae Beum||낙인": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Lim Jae Beum - 낙인.txt",
+    "hangul_lines": 57,
+    "total_lines": 120
+  },
+  "Lundi Blues||Fake - Folk Version": {
+    "status": "ok",
+    "source": "manual",
+    "file": "pipeline/lyrics/Lundi Blues - Fake - Folk Version.txt",
+    "hangul_lines": 30,
+    "total_lines": 30
+  },
+  "Lyn||Love Story": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Lyn - Love Story.txt",
+    "hangul_lines": 33,
+    "total_lines": 40
+  },
+  "MAMAMOO||Girl Crush": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/MAMAMOO - Girl Crush.txt",
+    "hangul_lines": 36,
+    "total_lines": 50
+  },
+  "MAMAMOO||HIP": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/MAMAMOO - HIP.txt",
+    "hangul_lines": 69,
+    "total_lines": 74
+  },
+  "MAMAMOO||Mr-Ambiguous": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/MAMAMOO - Mr-Ambiguous.txt",
+    "hangul_lines": 38,
+    "total_lines": 61
+  },
+  "MAMAMOO||gogobebe": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/MAMAMOO - gogobebe.txt",
+    "hangul_lines": 73,
+    "total_lines": 78
+  },
+  "Moon Byul||Absence": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Moon Byul - Absence.txt",
+    "hangul_lines": 39,
+    "total_lines": 40
+  },
+  "NC.A, TIKITIK, 유준호, JIAN||Flashback": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/NC.A, TIKITIK, 유준호, JIAN - Flashback.txt",
+    "hangul_lines": 32,
+    "total_lines": 32
+  },
+  "Park Boram||Hyehwadong (or Sangmundong)": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Park Boram - Hyehwadong (or Sangmundong).txt",
+    "hangul_lines": 25,
+    "total_lines": 25
+  },
+  "Punch||Done For Me": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Punch - Done For Me.txt",
+    "hangul_lines": 46,
+    "total_lines": 51
+  },
+  "Raiden, CHANYEOL, LEEHI, CHANGMO||Yours": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Raiden, CHANYEOL, LEEHI, CHANGMO - Yours.txt",
+    "hangul_lines": 68,
+    "total_lines": 125
+  },
+  "Red Velvet||Psycho": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Red Velvet - Psycho.txt",
+    "hangul_lines": 55,
+    "total_lines": 86
+  },
+  "SHAUN||Closed Ending": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SHAUN - Closed Ending.txt",
+    "hangul_lines": 57,
+    "total_lines": 64
+  },
+  "SHAUN||Way Back Home": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SHAUN - Way Back Home.txt",
+    "hangul_lines": 13,
+    "total_lines": 49
+  },
+  "SUNMI||pporappippam": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SUNMI - pporappippam.txt",
+    "hangul_lines": 59,
+    "total_lines": 59
+  },
+  "Shin In Ryu||Undecided": {
+    "status": "ok",
+    "source": "manual",
+    "file": "pipeline/lyrics/Shin In Ryu - Undecided.txt",
+    "hangul_lines": 24,
+    "total_lines": 24
+  },
+  "Sogyumo Acacia Band||Almost Blue (2019 Remake)": {
+    "status": "ok",
+    "source": "manual",
+    "file": "pipeline/lyrics/Sogyumo Acacia Band - Almost Blue (2019 Remake).txt",
+    "hangul_lines": 7,
+    "total_lines": 11
+  },
+  "Sogyumo Acacia Band||Butterfly": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Sogyumo Acacia Band - Butterfly.txt",
+    "hangul_lines": 29,
+    "total_lines": 29
+  },
+  "TAEYEON||11:11": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TAEYEON - 11_11.txt",
+    "hangul_lines": 29,
+    "total_lines": 46
+  },
+  "TAEYEON||Four Seasons": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TAEYEON - Four Seasons.txt",
+    "hangul_lines": 42,
+    "total_lines": 51
+  },
+  "TAEYEON||Weekend": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TAEYEON - Weekend.txt",
+    "hangul_lines": 56,
+    "total_lines": 62
+  },
+  "TWICE||FANCY": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TWICE - FANCY.txt",
+    "hangul_lines": 44,
+    "total_lines": 62
+  },
+  "TWICE||Feel Special": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TWICE - Feel Special.txt",
+    "hangul_lines": 39,
+    "total_lines": 60
+  },
+  "TWICE||Likey": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TWICE - Likey.txt",
+    "hangul_lines": 49,
+    "total_lines": 67
+  },
+  "TWICE||What is Love?": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/TWICE - What is Love_.txt",
+    "hangul_lines": 54,
+    "total_lines": 70
+  },
+  "YOUNGJOO||Smells": {
+    "status": "ok",
+    "source": "manual",
+    "file": "pipeline/lyrics/YOUNGJOO - Smells.txt",
+    "hangul_lines": 33,
+    "total_lines": 33
+  },
+  "IU, G-DRAGON||Palette (feat. G-DRAGON)": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IU, G-DRAGON - Palette (feat. G-DRAGON).txt",
+    "hangul_lines": 40,
+    "total_lines": 48
+  },
+  "Punch||Stay With Me": {
+    "status": "ok",
+    "source": "genius",
+    "file": "pipeline/lyrics/Punch - Stay With Me.txt",
+    "hangul_lines": 45,
+    "total_lines": 47
+  },
+  "10cm||My Eyes": {
+    "status": "ok",
+    "source": "genius",
+    "file": "pipeline/lyrics/10cm - My Eyes.txt",
+    "hangul_lines": 35,
+    "total_lines": 35
+  },
+  "10cm||Phonecert": {
+    "status": "ok",
+    "source": "genius",
+    "file": "pipeline/lyrics/10cm - Phonecert.txt",
+    "hangul_lines": 41,
+    "total_lines": 41
+  },
+  "10cm||Stalker": {
+    "status": "ok",
+    "source": "genius",
+    "file": "pipeline/lyrics/10cm - Stalker.txt",
+    "hangul_lines": 39,
+    "total_lines": 39
+  },
+  "10cm||Lean On My Shoulder": {
+    "status": "ok",
+    "source": "genius",
+    "file": "pipeline/lyrics/10cm - Lean On My Shoulder.txt",
+    "hangul_lines": 25,
+    "total_lines": 25
+  },
+  "Kpop Demon Hunters||Golden": {
+    "status": "ok",
+    "source": "genius",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/Kpop Demon Hunters - Golden.txt",
+    "hangul_lines": 8,
+    "total_lines": 75
+  },
+  "MOMOLAND||BBoom BBoom": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/MOMOLAND - BBoom BBoom.txt",
+    "hangul_lines": 56,
+    "total_lines": 67
+  },
+  "IVE||XOXZ": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IVE - XOXZ.txt",
+    "hangul_lines": 25,
+    "total_lines": 64
+  },
+  "IVE||Baddie": {
+    "status": "ok",
+    "source": "lyrics.ovh",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/IVE - Baddie.txt",
+    "hangul_lines": 36,
+    "total_lines": 74
+  }
+}

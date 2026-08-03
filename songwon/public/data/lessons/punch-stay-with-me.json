@@ -1,0 +1,386 @@
+{
+  "id": "lesson-punch-stay-with-me",
+  "songId": "punch-stay-with-me",
+  "level": "intermediate",
+  "title": "Stay With Me — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Punch — Stay With Me",
+      "content": "In this lesson, we'll learn words related to fated love, longing, destiny.\nGrammar: -길 바라다 ('To hope that ~.' 잊혀지길 바랬어 — 'I hoped to be forgot)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Stay With Me is the central theme from the 2016-2017 drama Goblin (도깨비, also known as Guardian: The Lonely and Great God), performed by Punch with Chanyeol of EXO. The drama follows an immortal goblin...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어"
+      ],
+      "lyricTranslations": [
+        "When I close my eyes",
+        "those eyes come to mind",
+        "because my heart keeps aching",
+        "I hoped I could be forgotten"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "가슴",
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "가슴은 뛰고 있어",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun"
+        },
+        "songLine": "자꾸 가슴이 시려서",
+        "dailySentence": {
+          "korean": "가슴은 뛰고 있어",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "꿈이라면 이제",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "꿈이라면 이제",
+        "dailySentence": {
+          "korean": "꿈이라면 이제",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "마치 오래전부터 널 사랑한 것 같아",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "마치 오래전부터 널 사랑한 것 같아",
+        "dailySentence": {
+          "korean": "마치 오래전부터 널 사랑한 것 같아",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "When I close my eyes",
+          "options": [
+            "자꾸 가슴이 시려서",
+            "나의 두 눈을 감으면",
+            "떠오르는 그 눈동자",
+            "잊혀지길 바랬어"
+          ],
+          "correctAnswer": "나의 두 눈을 감으면",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "those eyes come to mind",
+          "options": [
+            "나의 두 눈을 감으면",
+            "자꾸 가슴이 시려서",
+            "떠오르는 그 눈동자",
+            "잊혀지길 바랬어"
+          ],
+          "correctAnswer": "떠오르는 그 눈동자",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "because my heart keeps aching",
+          "options": [
+            "떠오르는 그 눈동자",
+            "자꾸 가슴이 시려서",
+            "잊혀지길 바랬어",
+            "나의 두 눈을 감으면"
+          ],
+          "correctAnswer": "자꾸 가슴이 시려서",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'To hope that ~.' 잊혀지길 바랬어 — 'I hoped to be forgotten' — used for a wish, often about something outside your control.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-길 바라다",
+        "meaning": "'To hope that ~.' 잊혀지길 바랬어 — 'I hoped to be forgotten' — used for a wish, often about something outside your control.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'chest, heart'의 한국어는?",
+          "options": [
+            "꿈",
+            "세상",
+            "사랑",
+            "가슴"
+          ],
+          "correctAnswer": "가슴"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "마음",
+            "꿈",
+            "가슴",
+            "사랑"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "꿈",
+            "시간",
+            "가슴"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)면' 패턴은 어떤 의미예요?",
+          "options": [
+            "if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어",
+        "꿈이라면 이제",
+        "깨어났으면 (으면) 제발 (제발)",
+        "정말 네가 나의 운명인 걸까? (걸까?)",
+        "넌 falling you"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "가슴",
+            "english": "chest, heart"
+          },
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "사랑",
+            "english": "love"
+          }
+        ],
+        "patternLearned": "-길 바라다"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Punch - Stay With Me",
+    "artist": "Punch",
+    "song": "Stay With Me",
+    "curriculum_level": 4
+  }
+}

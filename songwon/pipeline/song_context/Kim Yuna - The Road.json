@@ -1,0 +1,56 @@
+{
+  "safe_name": "Kim Yuna - The Road",
+  "artist": "Kim Yuna",
+  "song": "The Road",
+  "song_story": {
+    "overview": "The Road is about the disorientation of not knowing which direction your life should take, with no one around to actually tell you. The narrator stands in front of a maze with no map, calling out for guidance and getting only silence back. She compares herself to something caught at the very end of a spider's thread, and pictures herself as a lost version of herself hiding somewhere in the farthest corner of the world that she has to go find before darkness fully closes in.",
+    "cultural_root": "The song's central image — being trapped in front of a 미로 (labyrinth/maze) with no answer echoing back — reflects real anxiety around a very specific Korean pressure: the expectation to choose the 'right path' early, whether in education, career, or life direction, often without adequate guidance. 아무도 가르쳐 주지 않아 (no one will teach me) captures the isolation of facing major life decisions in a culture that puts enormous weight on making the correct choice the first time, with little room to wander or start over.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "아무도 가르쳐 주지 않아 / 이 길이 옳은지 다른 길로 가야 할지 / 난 저길 저 끝에 다 다르면 멈추겠지 / 끝이라며 / 가로막힌 미로 앞에 서 있어",
+        "literal": "No one will teach me / whether this road is right, or whether I should take a different one / I think I'll just stop wherever that far end is / calling it the finish",
+        "context": "다 다르면 멈추겠지 — 'I'll just stop when it's all different [from expected]' — the -겠지 ending expresses a resigned guess rather than a plan, showing she doesn't actually know where she's going, only that she'll eventually decide to call some point 'the end.'"
+      },
+      "verse_2": {
+        "lines": "내 길을 물어도 대답 없는 메아리 / 어제와 똑같은 이 길에 머물지 몰라 / 저 거미줄 끝에 꼭 매달린 것처럼 / 세상 어딘가 저 길 가장 구석에 / 갈 길을 잃은 나를 찾아야만 해",
+        "literal": "I'm standing in front of a maze that's completely blocked off / even when I ask which way to go, only an answerless echo comes back / I might just stay stuck on this same road as yesterday / like something hanging at the very end of that spider's thread",
+        "context": "거미줄 끝에 꼭 매달린 것처럼 — 'like hanging right at the end of a spider's thread' — a vivid image of being suspended precariously with nothing solid underneath, capturing how fragile her sense of direction feels."
+      },
+      "chorus": {
+        "lines": "저 해를 삼킨 어둠이 오기 전에 / 긴 벽에 갇힌 나의 길을 찾아야만 하겠지 / 가르쳐줘 내 가려진 두려움 / 이 길이 끝나면 다른 길이 있는지 / 두 발에 뒤엉킨 이 매듭 끝을 풀기엔",
+        "literal": "Somewhere in the world, at the very corner of that road / I have to find myself, the one who's lost her way / before the darkness that swallowed the sun arrives / I have to find my road, trapped behind that long wall",
+        "context": "해를 삼킨 어둠 — 'darkness that has swallowed the sun' — treats nightfall as an active, consuming force rather than a neutral event, raising the stakes of finding her way before it's too late, in a race against something that's already devouring the light."
+      },
+      "bridge": {
+        "lines": "내 무뎌진 손이 더 아프게 조여와 / 세상 어딘가 저 길 가장 구석에 / 갈 길을 잃은 나를 찾아야만 해 / 저 해를 삼킨 어둠이 오기 전에 / 긴 벽에 갇힌 나의 길을 찾아야만 하겠지",
+        "literal": "Show me the fear I've kept hidden / whether there's another road after this one ends / to untangle this knot twisted around both my feet / my numbed hands only tighten it more painfully",
+        "context": "무뎌진 손 — 'hands that have grown numb/dull' — suggests she's tried to solve this problem so many times that her ability to deal with it has worn down, so instead of loosening the knot around her feet, her attempts only pull it tighter."
+      }
+    }
+  },
+  "artist_context": "Kim Yuna, also known as the lead vocalist of the rock band JAURIM, brings the same literary, image-driven songwriting style to her work here, favoring extended metaphor — mazes, spiderwebs, knotted rope — over direct emotional statement.",
+  "honorific_level": "informal — casual 반말 throughout, reflective and internal in tone",
+  "themes": [
+    "uncertainty",
+    "searching for direction",
+    "isolation",
+    "self-doubt"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-겠지",
+      "usage": "Resigned or guessed future, 'I suppose/probably X.' Appears in 멈추겠지 — a soft, uncertain prediction about her own future rather than a firm plan.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어야만 해",
+      "usage": "Strong obligation, 'must absolutely do X.' Appears in 찾아야만 해 — 'I must find [myself/my road]' — repeated as the chorus's central demand.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-기 전에",
+      "usage": "'Before X happens.' Appears in 어둠이 오기 전에 — 'before the darkness comes' — setting a deadline urgency around the search.",
+      "topik_level": 2
+    }
+  ]
+}

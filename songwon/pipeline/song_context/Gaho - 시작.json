@@ -1,0 +1,68 @@
+{
+  "safe_name": "Gaho - 시작",
+  "artist": "Gaho",
+  "song": "시작",
+
+  "song_story": {
+    "overview": "시작 means 'beginning' or 'start.' It's the OST for Itaewon Class (이태원 클라쓰), a 2020 Korean drama where the main character, Park Saeroyi, watches his father get killed, gets expelled from school, and goes to prison — all before he's 20. When he gets out, he opens a tiny bar in Itaewon and spends years building it up to take down the conglomerate that destroyed his family. The song plays during his turning points — every time he picks himself up after getting knocked down again. It's a song about perseverance, but the stubborn kind. Not 'everything will be okay' — more like 'I physically cannot stop moving forward.'",
+
+    "cultural_root": "The core value here is 끈기 (ggeungi) — tenacity, the refusal to let go. Korean culture places enormous weight on enduring hardship rather than changing direction. You'll hear 버텨 (hold on, endure) constantly in Korean — from parents, coaches, bosses, friends. The idea is that if you just keep going long enough, you'll break through. Park Saeroyi is basically 끈기 as a person, and this song is his anthem.",
+
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "새로운 시작은 늘 설레게 하지 / 모든 걸 이겨낼 것처럼",
+        "literal": "A new beginning always makes your heart race / as if you could overcome everything",
+        "context": "This is the feeling right at the start — that rush of 'this time it'll work.' 설레다 (seolleda) is a word Korean uses for that flutter of excitement, usually about crushes, but here it's about a fresh start. The key word is 것처럼 — 'as if.' It's not saying you will overcome everything. It's saying it feels that way. That gap between hope and reality runs through the whole song."
+      },
+      "verse_2": {
+        "lines": "시간을 뒤쫓는 시계바늘처럼 / 앞질러 가고 싶어 하지",
+        "literal": "Like a clock hand chasing time / you want to run ahead of it",
+        "context": "A clock hand looks like it's chasing time but it can never get ahead — it's always exactly where it's supposed to be. The song is saying we all want to skip ahead past the hard parts, but you can't. You have to go through them at the speed they happen."
+      },
+      "pre_chorus": {
+        "lines": "그어 놓은 선을 넘어 / 저마다 삶을 향해 / 때론 원망도 하겠지 / 그 선을 먼저 넘지 말라고",
+        "literal": "Crossing the line that's been drawn / toward each person's own life / sometimes you'll resent it too / being told not to cross that line first",
+        "context": "그어 놓은 선 — 'the line that's been drawn.' In Itaewon Class, there's a literal social line: Park Saeroyi is from a working-class family going up against a chaebol (재벌, the big family-run conglomerates that dominate Korean business). The 선 is the unspoken rule that you stay in your lane. 원망 (wonmang) means resentment or blame — he resents being told to know his place, but he crosses the line anyway."
+      },
+      "chorus_1": {
+        "lines": "빛나지 않아도 내 꿈을 응원해 / 그 마지막을 가질 테니 / 부러진 것처럼 한 발로 뛰어도 / 난 나의 길을 갈 테니까",
+        "literal": "Even if I don't shine, I'll cheer on my own dream / because I'll have the last moment / even if I run on one leg like it's broken / I'll go my own way",
+        "context": "This is the emotional center. 빛나지 않아도 — 'even if I don't shine.' He's not asking for glory, just the right to keep going. The broken leg image (부러진 것처럼 한 발로 뛰어도) is almost comically stubborn — it doesn't matter if I'm limping, I'm still running. 테니까 is a grammar form that means 'because I will' — it's stating your intention as a reason. 'I'll go my own way, because I will.' Circular, defiant logic."
+      },
+      "bridge": {
+        "lines": "버티고 버텨 / 내 꿈은 더 단단해질 테니",
+        "literal": "Hold on, keep holding on / my dream will become even harder (stronger)",
+        "context": "버티다 (beotida) means to endure, to hold your ground when everything is pushing against you. He says it twice — 버티고 버텨 — doubling down. 단단하다 (dandanhada) means hard/solid/tough, like metal. His dream isn't getting softer or more realistic. It's getting harder — stronger, more unbreakable — the longer he holds on."
+      },
+      "final_line": {
+        "lines": "다시는 나를 잃고 싶지 않아 / 내 전부를 걸었으니까",
+        "literal": "I never want to lose myself again / because I've bet everything I have",
+        "context": "다시는 — 'never again.' This line lands differently knowing the drama: Park Saeroyi spent years letting anger consume him. The 나를 잃다 (losing myself) isn't hypothetical — he already did it once. 전부를 걸다 means to bet everything — your whole self, nothing held back. The grammar -(으)니까 gives the reason: because I've already gone all in, quitting isn't an option anymore."
+      }
+    }
+  },
+
+  "artist_context": "Gaho was a relatively unknown indie vocalist doing OST work before this song. Itaewon Class turned him into a household name basically overnight — 시작 topped Melon and stayed on the charts for weeks alongside the drama's ratings climb. He has a big, emotional voice that's built for these kinds of climactic moments.",
+
+  "honorific_level": "informal — casual 반말 throughout, which gives it an internal monologue feel, like he's talking to himself",
+
+  "themes": ["perseverance", "starting over", "defiance", "self-belief"],
+
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ 테니까",
+      "usage": "States intention as justification — 'because I will/intend to.' Appears in 갈 테니까, 가질 테니, 단단해질 테니. Stubborn grammar — you're using your own decision as the reason.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-처럼",
+      "usage": "Means 'like/as if.' Appears three times: 이겨낼 것처럼 (as if overcoming), 시계바늘처럼 (like a clock hand), 부러진 것처럼 (as if broken). Each comparison says something the speaker knows isn't quite true.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "버티다 / 버텨",
+      "usage": "To endure, to hold on. 버텨 is the casual imperative — a command to yourself. One of the most emotionally loaded verbs in Korean.",
+      "topik_level": 3
+    }
+  ]
+}

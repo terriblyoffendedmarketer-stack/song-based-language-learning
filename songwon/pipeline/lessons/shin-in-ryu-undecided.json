@@ -1,0 +1,386 @@
+{
+  "id": "lesson-shin-in-ryu-undecided",
+  "songId": "shin-in-ryu-undecided",
+  "level": "advanced",
+  "title": "Undecided — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Shin In Ryu — Undecided",
+      "content": "In this lesson, we'll learn words related to restraint, unspoken ending, quiet exclusion.\nGrammar: -도록 ('So that.' 식지 않도록, 해치지 않도록 both frame small protec)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Undecided is a quiet, restrained song about a conversation that's already effectively ending, told from the outside looking in — sitting in a corner seat with coffee, watching someone else's story rea...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "천천히 오가는 대화 속에",
+        "남는 단어는 몇 개 일까요",
+        "구석진 자릴 앉아 커피를 마셔",
+        "그대의 일부 식지 않도록"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "천천히 오가는 대화 속에",
+        "남는 단어는 몇 개 일까요",
+        "구석진 자릴 앉아 커피를 마셔",
+        "그대의 일부 식지 않도록"
+      ],
+      "lyricTranslations": [
+        "In a conversation that goes back and forth slowly",
+        "how many words actually remain",
+        "I sit in a corner seat, drinking coffee",
+        "so that a part of you doesn't go cold"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "그대",
+      "wordData": {
+        "word": {
+          "korean": "그대",
+          "english": "you (poetic)",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "그대",
+          "english": "you (poetic)",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": {
+          "korean": "그대가 멀리 사라져 버릴 것 같아",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "그대",
+          "english": "you (poetic)",
+          "pos": "noun"
+        },
+        "songLine": "그대의 일부 식지 않도록",
+        "dailySentence": {
+          "korean": "그대가 멀리 사라져 버릴 것 같아",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "사랑했던 말들",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "그곳에 존재했던 사랑의 말로",
+        "dailySentence": {
+          "korean": "사랑했던 말들",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "끝",
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "끝나지 않아",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun"
+        },
+        "songLine": "황급히 쓰는 결말 끝에서",
+        "dailySentence": {
+          "korean": "끝나지 않아",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "In a conversation that goes back and forth slowly",
+          "options": [
+            "그대의 일부 식지 않도록",
+            "구석진 자릴 앉아 커피를 마셔",
+            "천천히 오가는 대화 속에",
+            "남는 단어는 몇 개 일까요"
+          ],
+          "correctAnswer": "천천히 오가는 대화 속에",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "how many words actually remain",
+          "options": [
+            "천천히 오가는 대화 속에",
+            "그대의 일부 식지 않도록",
+            "남는 단어는 몇 개 일까요",
+            "구석진 자릴 앉아 커피를 마셔"
+          ],
+          "correctAnswer": "남는 단어는 몇 개 일까요",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I sit in a corner seat, drinking coffee",
+          "options": [
+            "천천히 오가는 대화 속에",
+            "남는 단어는 몇 개 일까요",
+            "그대의 일부 식지 않도록",
+            "구석진 자릴 앉아 커피를 마셔"
+          ],
+          "correctAnswer": "구석진 자릴 앉아 커피를 마셔",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'So that.' 식지 않도록, 해치지 않도록 both frame small protective actions — keeping something warm, not disrupting someone — as quiet, almost invisible acts of care.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-도록",
+        "meaning": "'So that.' 식지 않도록, 해치지 않도록 both frame small protective actions — keeping something warm, not disrupting someone — as quiet, almost invisible acts of care.",
+        "songExample": {
+          "korean": "그대의 일부 식지 않도록",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'you (poetic)'의 한국어는?",
+          "options": [
+            "끝",
+            "사랑",
+            "그대",
+            "시간"
+          ],
+          "correctAnswer": "그대"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "끝",
+            "사람",
+            "그대"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'end'의 한국어는?",
+          "options": [
+            "세상",
+            "그대",
+            "끝",
+            "사랑"
+          ],
+          "correctAnswer": "끝"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-던' 패턴은 어떤 의미예요?",
+          "options": [
+            "past retrospective modifier",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "past retrospective modifier"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "천천히 오가는 대화 속에",
+        "남는 단어는 몇 개 일까요",
+        "구석진 자릴 앉아 커피를 마셔",
+        "그대의 일부 식지 않도록",
+        "더 이상 내 얘기가 아니었던",
+        "황급히 쓰는 결말 끝에서",
+        "빼 먹은 구절이 또 생각이 나면",
+        "그 다정을 어찌 지나칠까요"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "그대",
+            "english": "you (poetic)"
+          },
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "끝",
+            "english": "end"
+          }
+        ],
+        "patternLearned": "-도록"
+      }
+    }
+  ],
+  "xpReward": 50,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Shin In Ryu - Undecided",
+    "artist": "Shin In Ryu",
+    "song": "Undecided",
+    "curriculum_level": 5
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "safe_name": "NC.A, TIKITIK, 유준호, JIAN - Flashback",
+  "artist": "NC.A, TIKITIK, 유준호, JIAN",
+  "song": "Flashback",
+  "song_story": {
+    "overview": "Flashback is about the specific insomnia of overthinking someone at 3am. Every verse cycles through a different small, unresolved question — why didn't I answer that text, did I accidentally hurt them, who's in the other mug in that Instagram photo — none of which the narrator can actually ask out loud. The repeated 똑똑 (knock knock) hook makes the thoughts themselves into a physical presence, something knocking at the door of your mind that won't stop no matter how tired you are.",
+    "cultural_root": "The song's core tension is 물어볼 수 없는 (things that can't be asked) — repeated as its own refrain across every verse. Korean communication leans heavily on indirectness and reading unspoken cues (눈치) rather than asking directly, especially in the ambiguous early stage of a relationship where asking a blunt question can feel presumptuous or needy. This song is what happens on the other side of that norm: the anxiety of having real questions and no culturally comfortable way to just ask them.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "오늘도 새벽은 왔고 / 기다렸던 잠 대신에 / 끝맺지 못한 하루의 남은 생각이 / 찾아와 말을 건넨다 / 똑똑 생각이 똑똑 / 아까 네가 보냈던 메세지",
+        "literal": "Dawn came again today / instead of the sleep I was waiting for / the leftover thoughts from a day that never wrapped up / come and start talking to me",
+        "context": "끝맺지 못한 하루 (a day that couldn't be brought to a close) frames insomnia as unfinished business rather than simple sleeplessness — the day itself doesn't feel over, so the mind won't let go of it either."
+      },
+      "verse_2": {
+        "lines": "난 읽고도 왜 답장이 없었을까 / 혹시 우연히 내 상처 건든건 아닐까 / 내일도 우린 친할까 / 물어볼 수 없는 마음 / 똑똑 생각이 똑똑 / 오늘 봤던 그 드라마",
+        "literal": "The message you sent earlier / why did I read it and not reply / did they maybe accidentally touch a nerve of mine / will we still be close tomorrow / a feeling I can't ask about",
+        "context": "The verse doesn't resolve any of its own questions — it just stacks them. 물어볼 수 없는 마음 (a feeling that can't be asked about) closes each verse the same way, turning the refrain into a structural admission that none of this anxiety gets spoken out loud, only rehearsed internally."
+      },
+      "verse_3": {
+        "lines": "그래서 난 대체 누구의 아들일까 / 그 편지 안엔 뭐가 숨겨져 있을까 / 다음 화는 일주일 뒤에 / 물어 볼 수 없는 얘기 / 똑똑 생각이 똑똑 / 네가 몰래 봤던 인스타",
+        "literal": "That drama I watched today / so whose son am I really, in the end / what's hidden inside that letter / the next episode is a week away / a story I can't ask about",
+        "context": "This verse steps sideways into a K-drama cliffhanger to make a point about the mind's texture at 3am — trivial and personal worries get shuffled together indiscriminately, a drama plot twist sitting right next to real relationship anxiety, both equally unresolved and equally unable to be settled tonight."
+      },
+      "verse_4": {
+        "lines": "두 개의 머그잔 하난 누구일까 / 그냥 친구일까 아님 벌써 새 사람이 / 나도 널 궁금해할까 / 물어볼 수 없는 하루 / 똑똑 생각이 똑똑 / 생각은 멈추질 못하고",
+        "literal": "The Instagram you secretly looked at / two mugs, whose is the other one / just a friend, or already someone new / do you wonder about me too / a day I can't ask about",
+        "context": "몰래 (secretly) admits to the low-key surveillance that's become normal in modern dating anxiety — checking someone's photos for clues rather than asking them directly. The single detail of two mugs does the emotional work of an entire paragraph, the way jealousy tends to fixate on one small piece of evidence."
+      },
+      "closing": {
+        "lines": "오늘도 새벽은 왔고 / 기다렸던 잠 대신에 / 끝맺지 못한 하루의 남은 생각이 / 찾아와 말을 건넨다 / 물어볼 수 없는 일들 / 똑똑 생각이 똑똑 / 이제 그만 떠나줄래 / 놓아주면 갈게",
+        "literal": "Will you please just leave now / if you let go, I'll go",
+        "context": "The final lines address the thoughts themselves directly — after verses of unanswerable questions about another person, the song turns and asks the racing thoughts to leave. 놓아주면 갈게 (if you let go, I'll go) puts the responsibility for ending the loop on the thoughts, not on her own ability to stop thinking."
+      }
+    }
+  },
+  "artist_context": "This track brings together NC.A, a vocalist known for R&B and soundtrack work, with the producer unit TIKITIK and vocalists Yoo Jun-ho and JIAN — the kind of multi-feature collaboration common in Korea's independent R&B and hip-hop scene, where producers and singers trade features outside the major idol-label system.",
+  "honorific_level": "informal — 반말 throughout, delivered as fragmented, half-asleep internal monologue",
+  "themes": [
+    "overthinking",
+    "insomnia",
+    "unspoken questions",
+    "relationship anxiety"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ까 (self-questioning)",
+      "usage": "Used repeatedly for anxious internal questions with no answer — 왜 답장이 없었을까, 누구일까, 궁금해할까. This ending is for wondering aloud to yourself, not asking someone else.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-(으)ㄴ/는 게 아닐까",
+      "usage": "'Isn't it possible that...' — a hedge for a worry you're not sure of. 건든건 아닐까 (isn't it possible I touched a nerve) softens an anxious accusation into a tentative self-doubt.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "물어볼 수 없는",
+      "usage": "'[Something] that can't be asked' — the song's structural refrain, modifying a different noun each verse (마음, 얘기, 하루) to keep circling the same unspoken anxiety from different angles.",
+      "topik_level": 3
+    }
+  ]
+}

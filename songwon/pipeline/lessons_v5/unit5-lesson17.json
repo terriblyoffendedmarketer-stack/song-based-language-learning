@@ -1,0 +1,858 @@
+{
+  "id": "v5-unit5-lesson17",
+  "meta": {
+    "songId": "bts-fake-love",
+    "songTitle": "FAKE LOVE",
+    "artist": "BTS",
+    "unit": 5,
+    "lessonNumber": 17,
+    "grammarFocus": "-아/어 버리다",
+    "grammarMeaning": "to do completely / with finality",
+    "koreanRatio": 0.85
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "목소리",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "sky",
+            "correct": false
+          },
+          {
+            "text": "voice",
+            "correct": true
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "love",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "목소리 = voice."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "BTS — FAKE LOVE",
+      "content": "Something done completely, often with \"dammit, it happened.\"\n\nThe title track from Love Yourself: Tear (2018), the album that pushed BTS's 'Love Yourself' series toward its darkest point. The whole Love Yourself arc is about learning to love yourself before you can love anyone else — and FAKE LOVE is the moment that lesson gets learned the hard way.\n\nIn this lesson, you'll learn the grammar pattern **-아/어 버리다**, which means \"to do completely / with finality.\" We'll see how BTS uses it in \"FAKE LOVE.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **지우다** — to erase\n- **떠나다** — to leave\n- **잊어 버리다** — to completely forget\n- **떠나 버리다** — to leave for good\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "널 위해서라면 난",
+        "슬퍼도 기쁜 척 할 수가 있었어",
+        "널 위해서라면 난",
+        "아파도 강한 척 할 수가 있었어"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "널 위해서라면 난",
+          "english": "If it was for you, I could",
+          "highlights": []
+        },
+        {
+          "korean": "슬퍼도 기쁜 척 할 수가 있었어",
+          "english": "pretend to be happy even when sad",
+          "highlights": []
+        },
+        {
+          "korean": "널 위해서라면 난",
+          "english": "if it was for you, I could",
+          "highlights": []
+        },
+        {
+          "korean": "아파도 강한 척 할 수가 있었어",
+          "english": "pretend to be strong even in pain",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "지우다",
+        "english": "to erase",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "지우다"
+          ]
+        },
+        "audioKey": "지우다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "지우다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "to erase",
+            "correct": true
+          },
+          {
+            "text": "to leave for good",
+            "correct": false
+          },
+          {
+            "text": "to completely forget",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "지우다 = to erase"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "글씨를 지웠어요.",
+        "english": "I erased the writing.",
+        "highlights": [
+          "지웠어요"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "글씨를 ___.",
+        "promptTranslation": "I erased the writing.",
+        "options": [
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "지웠어요",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "글씨를 지웠어요. = I erased the writing."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "잊어 버리다",
+        "english": "to completely forget",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "잊어 버리다"
+          ]
+        },
+        "audioKey": "잊어 버리다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "잊어 버리다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to leave",
+            "correct": false
+          },
+          {
+            "text": "to be loud",
+            "correct": false
+          },
+          {
+            "text": "to disappear",
+            "correct": false
+          },
+          {
+            "text": "to completely forget",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "잊어 버리다 = to completely forget"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "다 잊어 버렸어요.",
+        "english": "I completely forgot everything.",
+        "highlights": [
+          "잊어 버"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "다 ___렸어요.",
+        "promptTranslation": "I completely forgot everything.",
+        "options": [
+          {
+            "text": "잊어 버",
+            "correct": true
+          },
+          {
+            "text": "떠나 버리다",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "지우다",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "다 잊어 버렸어요. = I completely forgot everything."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "널 위해서라면 난",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "If it was for you, I could",
+            "correct": true
+          },
+          {
+            "text": "pretend to be happy even when sad",
+            "correct": false
+          },
+          {
+            "text": "if it was for you, I could",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "널 위해서라면 난 = If it was for you, I could"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "떠나다",
+        "english": "to leave",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "떠나다"
+          ]
+        },
+        "audioKey": "떠나다"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "떠나다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to completely forget",
+            "correct": false
+          },
+          {
+            "text": "to leave for good",
+            "correct": false
+          },
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "to leave",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "떠나다 = to leave"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "내일 떠나요.",
+        "english": "I'm leaving tomorrow.",
+        "highlights": [
+          "떠나요"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "내일 ___.",
+        "promptTranslation": "I'm leaving tomorrow.",
+        "options": [
+          {
+            "text": "지웠어요",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "떠나요",
+            "correct": true
+          },
+          {
+            "text": "행복",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "내일 떠나요. = I'm leaving tomorrow."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "글씨를 지웠어요.",
+          "english": "I erased the writing.",
+          "highlights": [
+            "지웠어요"
+          ]
+        },
+        {
+          "korean": "내일 떠나요.",
+          "english": "I'm leaving tomorrow.",
+          "highlights": [
+            "떠나요"
+          ]
+        }
+      ],
+      "note": "지우다 + 떠나다 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "If it was for you, I could",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "아파도 강한 척 할 수가 있었어",
+            "correct": false
+          },
+          {
+            "text": "슬퍼도 기쁜 척 할 수가 있었어",
+            "correct": false
+          },
+          {
+            "text": "널 위해서라면 난",
+            "correct": true
+          },
+          {
+            "text": "...",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "널 위해서라면 난"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to do completely / with finality",
+        "explanation": "Something done completely, often with \"dammit, it happened.\"",
+        "songExample": {
+          "korean": "아파도 강한 척 할 수가 있었어",
+          "english": "",
+          "highlights": [
+            "아/어 버리다"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "떠나 버리다",
+        "english": "to leave for good",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-아/어 버리다 = to do completely / with finality",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "떠나 버리다"
+          ]
+        },
+        "audioKey": "떠나 버리다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "떠나 버리다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to leave for good",
+            "correct": true
+          },
+          {
+            "text": "to completely forget",
+            "correct": false
+          },
+          {
+            "text": "to leave",
+            "correct": false
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "떠나 버리다 = to leave for good"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "떠나 버렸어요.",
+        "english": "They left for good.",
+        "highlights": [
+          "떠나 버"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "떠나 버리다",
+        "promptTranslation": "to leave for good",
+        "options": [
+          {
+            "text": "아/어 버리다",
+            "correct": true
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -아/어 버리다예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "떠나 버리다",
+        "promptTranslation": "여기서 -아/어 버리다는 무슨 느낌일까요?",
+        "options": [
+          {
+            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "correct": true
+          },
+          {
+            "text": "갑자기 일어났다가 멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "일부러 그렇게 했어요",
+            "correct": false
+          },
+          {
+            "text": "더 이상 그렇지 않아요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-아/어 버리다 = to do completely / with finality — 선택이 아니라 저절로 된 거예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "떠나다",
+            "correct": false
+          },
+          {
+            "text": "지우다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "지우다 = to erase"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (to leave)",
+        "options": [
+          {
+            "text": "지우다",
+            "correct": false
+          },
+          {
+            "text": "떠나다",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "떠나다 = to leave"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "잊어 버리다",
+        "promptTranslation": "\"to completely forget\" 를 한국어로?",
+        "options": [
+          {
+            "text": "잊어 버리다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "지우다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잊어 버리다 = to completely forget"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "다 먹어 ___.",
+        "promptTranslation": "I ate it all up.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "아/어 버리다",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -아/어 버리다!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"난\", \"널\", \"위해서라면\"]",
+        "promptTranslation": "If it was for you, I could",
+        "options": [
+          {
+            "text": "널 위해서라면 난",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "널 위해서라면 난"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "널 위해서라면 난",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "슬퍼도 기쁜 척 할 수가 있었어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "널 위해서라면 난",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "아파도 강한 척 할 수가 있었어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "사랑이 사랑만으로 완벽하길",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "내 모든 약점들은 다 숨겨지길",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "이뤄지지 않는 꿈속에서",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "피울 수 없는 꽃을 키웠어",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "지우다",
+          "english": "to erase",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "떠나다",
+          "english": "to leave",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "잊어 버리다",
+          "english": "to completely forget",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "떠나 버리다",
+          "english": "to leave for good",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to do completely / with finality"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

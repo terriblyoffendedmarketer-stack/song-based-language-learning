@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "songwon-dev",
+      "runtimeExecutable": "/opt/homebrew/bin/npx",
+      "runtimeArgs": ["next", "dev", "--turbopack"],
+      "port": 3000
+    }
+  ]
+}

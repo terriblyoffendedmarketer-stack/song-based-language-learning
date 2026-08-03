@@ -1,0 +1,374 @@
+{
+  "id": "lesson-sogyumo-acacia-band-butterfly",
+  "songId": "sogyumo-acacia-band-butterfly",
+  "level": "beginner",
+  "title": "Butterfly — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Sogyumo Acacia Band — Butterfly",
+      "content": "In this lesson, we'll learn words related to impermanence, dreams and memory, letting go.\nGrammar: -(으)면 ('If/when.' 눈을 감으면 ('when I close my eyes') sets th)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Butterfly (나비) is a half-asleep song about following something delicate and impossible to hold onto — a butterfly that keeps rising just out of reach, that the narrator keeps drifting toward and losin...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나즈막이 숨쉬고",
+        "눈을 감으면",
+        "너를 따라 오랜 듯",
+        "넌 날아오르고"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "나즈막이 숨쉬고",
+        "눈을 감으면",
+        "너를 따라 오랜 듯",
+        "넌 날아오르고"
+      ],
+      "lyricTranslations": [
+        "Breathing low and quiet",
+        "when I close my eyes",
+        "as if following you for a long time",
+        "you rise up, flying"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "곁",
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "아직 내곁 있는 듯넌",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun"
+        },
+        "songLine": "아직 내곁 있는 듯넌ajik naegye ittneun deulsneon",
+        "dailySentence": {
+          "korean": "아직 내곁 있는 듯넌",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "감다",
+      "wordData": {
+        "word": {
+          "korean": "감다",
+          "english": "to close (eyes)",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "감다",
+          "english": "to close (eyes)",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "감다",
+          "english": "to close (eyes)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "잠들다",
+      "wordData": {
+        "word": {
+          "korean": "잠들다",
+          "english": "to fall asleep",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잠들다",
+          "english": "to fall asleep",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잠들다",
+          "english": "to fall asleep",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Breathing low and quiet",
+          "options": [
+            "너를 따라 오랜 듯",
+            "나즈막이 숨쉬고",
+            "넌 날아오르고",
+            "눈을 감으면"
+          ],
+          "correctAnswer": "나즈막이 숨쉬고",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "when I close my eyes",
+          "options": [
+            "눈을 감으면",
+            "넌 날아오르고",
+            "너를 따라 오랜 듯",
+            "나즈막이 숨쉬고"
+          ],
+          "correctAnswer": "눈을 감으면",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "as if following you for a long time",
+          "options": [
+            "넌 날아오르고",
+            "너를 따라 오랜 듯",
+            "나즈막이 숨쉬고",
+            "눈을 감으면"
+          ],
+          "correctAnswer": "너를 따라 오랜 듯",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'If/when.' 눈을 감으면 ('when I close my eyes') sets the conditional trigger for the whole song's dream state — every time this happens, the butterfly appears.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)면",
+        "meaning": "'If/when.' 눈을 감으면 ('when I close my eyes') sets the conditional trigger for the whole song's dream state — every time this happens, the butterfly appears.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'side, next to'의 한국어는?",
+          "options": [
+            "잠들다",
+            "곁",
+            "감다",
+            "사랑"
+          ],
+          "correctAnswer": "곁"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to close (eyes)'의 한국어는?",
+          "options": [
+            "세상",
+            "감다",
+            "잠들다",
+            "곁"
+          ],
+          "correctAnswer": "감다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to fall asleep'의 한국어는?",
+          "options": [
+            "감다",
+            "잠들다",
+            "사랑",
+            "곁"
+          ],
+          "correctAnswer": "잠들다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)려 하다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to be about to / intend to",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to be about to / intend to"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "나즈막이 숨쉬고",
+        "눈을 감으면",
+        "너를 따라 오랜 듯",
+        "넌 날아오르고",
+        "나즈막이 숨쉬고najeumaki sumswigo",
+        "눈을 감오면nuneul kamomyeon",
+        "너를 따라 오랜듯neoleul ddara orandeutt",
+        "넌 날아 오르고neon nala oreugo"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "곁",
+            "english": "side, next to"
+          },
+          {
+            "korean": "감다",
+            "english": "to close (eyes)"
+          },
+          {
+            "korean": "잠들다",
+            "english": "to fall asleep"
+          }
+        ],
+        "patternLearned": "-(으)면"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Sogyumo Acacia Band - Butterfly",
+    "artist": "Sogyumo Acacia Band",
+    "song": "Butterfly",
+    "curriculum_level": 2
+  }
+}

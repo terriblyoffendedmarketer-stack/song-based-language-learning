@@ -1,0 +1,372 @@
+{
+  "id": "lesson-sogyumo-acacia-band-almost-blue-2019-remake",
+  "songId": "sogyumo-acacia-band-almost-blue-2019-remake",
+  "level": "intermediate",
+  "title": "Almost Blue (2019 Remake) — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Sogyumo Acacia Band — Almost Blue (2019 Remake)",
+      "content": "In this lesson, we'll learn words related to ambiguity, endings and beginnings, minimalism.\nGrammar: -(으)려네 (A gentle, self-directed statement of intention — ')",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Almost Blue is a very short, very sparse meditation on being right at the edge of something without fully arriving — 'almost' blue, 'almost' true. It doesn't tell a story so much as hover in a single ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이 시간의 문을 닫으려네",
+        "남아있는 모든 소원을 줍네"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "이 시간의 문을 닫으려네",
+        "남아있는 모든 소원을 줍네"
+      ],
+      "lyricTranslations": [
+        "This kind of blue,",
+        "almost true blue"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "시간",
+      "wordData": {
+        "word": {
+          "korean": "시간",
+          "english": "time",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "시간",
+          "english": "time",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "이 시간의 끝에 태어나네",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "시간",
+          "english": "time",
+          "pos": "noun"
+        },
+        "songLine": "이 시간의 문을 닫으려네",
+        "dailySentence": {
+          "korean": "이 시간의 끝에 태어나네",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "멈추다",
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "끝",
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "이 시간의 끝에 태어나네",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun"
+        },
+        "songLine": "이 만족의 가장 끝에 서네",
+        "dailySentence": {
+          "korean": "이 시간의 끝에 태어나네",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "This kind of blue,",
+          "options": [
+            "이 시간의 문을 닫으려네",
+            "...",
+            "남아있는 모든 소원을 줍네",
+            "..."
+          ],
+          "correctAnswer": "이 시간의 문을 닫으려네",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "almost true blue",
+          "options": [
+            "남아있는 모든 소원을 줍네",
+            "이 시간의 문을 닫으려네",
+            "...",
+            "..."
+          ],
+          "correctAnswer": "남아있는 모든 소원을 줍네",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "이 ___의 문을 닫으려네",
+          "options": [
+            "마음",
+            "끝",
+            "시간",
+            "멈추다"
+          ],
+          "correctAnswer": "시간"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "A gentle, self-directed statement of intention — 'I'm about to...' 닫으려네 reads as a quiet private decision rather than an announcement to someone else.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)려네",
+        "meaning": "A gentle, self-directed statement of intention — 'I'm about to...' 닫으려네 reads as a quiet private decision rather than an announcement to someone else.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'time'의 한국어는?",
+          "options": [
+            "시간",
+            "하늘",
+            "멈추다",
+            "끝"
+          ],
+          "correctAnswer": "시간"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to stop'의 한국어는?",
+          "options": [
+            "시간",
+            "멈추다",
+            "마음",
+            "끝"
+          ],
+          "correctAnswer": "멈추다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'end'의 한국어는?",
+          "options": [
+            "마음",
+            "시간",
+            "끝",
+            "멈추다"
+          ],
+          "correctAnswer": "끝"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-네' 패턴은 어떤 의미예요?",
+          "options": [
+            "exclamatory ending",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "exclamatory ending"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이 시간의 문을 닫으려네",
+        "남아있는 모든 소원을 줍네",
+        "이 만족의 가장 끝에 서네",
+        "보일수록 멈추지 않는",
+        "그 blue blue blue",
+        "이 시간의 끝에 태어나네",
+        "울음의 삶은 보이지를 않네"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "시간",
+            "english": "time"
+          },
+          {
+            "korean": "멈추다",
+            "english": "to stop"
+          },
+          {
+            "korean": "끝",
+            "english": "end"
+          }
+        ],
+        "patternLearned": "-(으)려네"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Sogyumo Acacia Band - Almost Blue (2019 Remake)",
+    "artist": "Sogyumo Acacia Band",
+    "song": "Almost Blue (2019 Remake)",
+    "curriculum_level": 3
+  }
+}

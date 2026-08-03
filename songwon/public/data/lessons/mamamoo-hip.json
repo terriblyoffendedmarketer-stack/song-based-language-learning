@@ -1,0 +1,367 @@
+{
+  "id": "lesson-mamamoo-hip",
+  "songId": "mamamoo-hip",
+  "level": "intermediate",
+  "title": "HIP — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "MAMAMOO — HIP",
+      "content": "In this lesson, we'll learn words related to self-acceptance, clapping back at hate, confidence.\nGrammar: 덕분에 ('Thanks to.' Normally sincere gratitude, but used )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "HIP takes the Korean children's song '머리 어깨 무릎 발' (Head, Shoulders, Knees and Toes — the same melody structure kids learn everywhere) and repurposes it into a full-grown response to online criticism. ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "All I wanna be is 멋짐",
+        "내 마음대로 골라 kick it",
+        "머리 어깨 무릎 다 HIP 해",
+        "나를 따라 해 kick it"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "All I wanna be is 멋짐",
+        "내 마음대로 골라 kick it",
+        "머리 어깨 무릎 다 HIP 해",
+        "나를 따라 해 kick it"
+      ],
+      "lyricTranslations": [
+        "All I wanna be is coolness",
+        "I pick as I please, kick it",
+        "head, shoulders, knees, all HIP"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "어깨",
+      "wordData": {
+        "word": {
+          "korean": "어깨",
+          "english": "shoulder",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "어깨",
+          "english": "shoulder",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "어깨",
+          "english": "shoulder",
+          "pos": "noun"
+        },
+        "songLine": "머리 어깨 무릎 다 HIP 해",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "머리",
+      "wordData": {
+        "word": {
+          "korean": "머리",
+          "english": "hair, head",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "머리",
+          "english": "hair, head",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "머리",
+          "english": "hair, head",
+          "pos": "noun"
+        },
+        "songLine": "머리 어깨 무릎 다 HIP 해",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "무릎",
+      "wordData": {
+        "word": {
+          "korean": "무릎",
+          "english": "knee",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "무릎",
+          "english": "knee",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "무릎",
+          "english": "knee",
+          "pos": "noun"
+        },
+        "songLine": "머리 어깨 무릎 다 HIP 해",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "All I wanna be is coolness",
+          "options": [
+            "내 마음대로 골라 kick it",
+            "나를 따라 해 kick it",
+            "All I wanna be is 멋짐",
+            "머리 어깨 무릎 다 HIP 해"
+          ],
+          "correctAnswer": "All I wanna be is 멋짐",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I pick as I please, kick it",
+          "options": [
+            "내 마음대로 골라 kick it",
+            "All I wanna be is 멋짐",
+            "머리 어깨 무릎 다 HIP 해",
+            "나를 따라 해 kick it"
+          ],
+          "correctAnswer": "내 마음대로 골라 kick it",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "head, shoulders, knees, all HIP",
+          "options": [
+            "All I wanna be is 멋짐",
+            "머리 어깨 무릎 다 HIP 해",
+            "내 마음대로 골라 kick it",
+            "나를 따라 해 kick it"
+          ],
+          "correctAnswer": "머리 어깨 무릎 다 HIP 해",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Thanks to.' Normally sincere gratitude, but used sarcastically here — 'thanks to you [haters], my mental is solid' — crediting critics for an outcome they didn't intend.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "덕분에",
+        "meaning": "'Thanks to.' Normally sincere gratitude, but used sarcastically here — 'thanks to you [haters], my mental is solid' — crediting critics for an outcome they didn't intend.",
+        "songExample": {
+          "korean": "덕분에 나의 멘탈은 단단해",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'shoulder'의 한국어는?",
+          "options": [
+            "시간",
+            "어깨",
+            "무릎",
+            "머리"
+          ],
+          "correctAnswer": "어깨"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'hair, head'의 한국어는?",
+          "options": [
+            "하늘",
+            "어깨",
+            "무릎",
+            "머리"
+          ],
+          "correctAnswer": "머리"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'knee'의 한국어는?",
+          "options": [
+            "머리",
+            "사랑",
+            "무릎",
+            "어깨"
+          ],
+          "correctAnswer": "무릎"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-게' 패턴은 어떤 의미예요?",
+          "options": [
+            "adverbializer",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "adverbializer"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "All I wanna be is 멋짐",
+        "내 마음대로 골라 kick it",
+        "머리 어깨 무릎 다 HIP 해",
+        "나를 따라 해 kick it",
+        "Clapping, clapping 모두 같이 HIP HIP HIP HIP",
+        "I love you 네가 뭐라든 간에",
+        "Respect you 네가 뭘 하든 간에",
+        "늘 따끈따끈해 그 관심이 따끔따끔해"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "어깨",
+            "english": "shoulder"
+          },
+          {
+            "korean": "머리",
+            "english": "hair, head"
+          },
+          {
+            "korean": "무릎",
+            "english": "knee"
+          }
+        ],
+        "patternLearned": "덕분에"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "MAMAMOO - HIP",
+    "artist": "MAMAMOO",
+    "song": "HIP",
+    "curriculum_level": 4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "safe_name": "BUMKEY - Family",
+  "artist": "BUMKEY",
+  "song": "Family",
+  "song_story": {
+    "overview": "Family is a slow, grateful ballad addressed to someone who has stood by the singer through years of both tears and laughter — framed loosely enough to read as a lover, but built entirely around the language of family devotion rather than romantic passion. The chorus title itself, sung in the phrase '가족이란 이름 속에' ('within the name we call family'), reframes romantic commitment as something closer to unconditional kinship: someone who stays even after harsh words, who understands without needing explanation.",
+    "cultural_root": "The song leans on 정 (jeong) — the deep, often wordless bond of attachment and loyalty Korean culture treats as distinct from and often deeper than romantic love. Calling a partner 'family' (가족) rather than 'lover' (연인) elevates the relationship past romance into something meant to be permanent and unconditional, closer to how Korean culture talks about blood ties.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "잠시 눈을 감아봐요 / 함께 지난 날들이 보이죠 / 우리 참 많이도 울고 웃었네요 / 사랑이란 이름으로",
+        "literal": "Close your eyes for a moment / you can see the days we spent together / we really did cry and laugh so much / under the name of love",
+        "context": "사랑이란 이름으로 — 'under the name we call love' — the -(이)란 construction (meaning '[that thing] called ___') gets repeated later as 가족이란 이름 — 'that thing called family,' tracking how the relationship's label itself evolves across the song."
+      },
+      "pre_chorus": {
+        "lines": "말하지 않아도 날 이해해줘서 / 나의 모진말 속에도 곁에 있어줘서 고마워요 / 그대 주윌 둘러봐요 / 함께 지나온 날들이 보이죠",
+        "literal": "Love can last forever / thank you for understanding me without needing words / thank you for staying beside me even through my harsh words",
+        "context": "말하지 않아도 (without even speaking) captures a very specific kind of intimacy Korean culture prizes — 눈치 (being attuned to someone without them saying anything) as proof of real closeness. 모진 말 (harsh/cruel words) admits the relationship wasn't always gentle, which makes the gratitude that follows land harder."
+      },
+      "verse_2": {
+        "lines": "우리 참 많이도 울고 웃었네요 / 가족이란 이름 속에 / 말하지 않아도 나를 이해해줘서 / 나의 모진말 속에도 아무말 없이 안아준 그대",
+        "literal": "Look around you for a moment / you can see the days we've come through together / we really did cry and laugh so much / within the name we call family",
+        "context": "This verse mirrors verse 1 almost exactly, but swaps 사랑이란 이름으로 (under the name of love) for 가족이란 이름 속에 (within the name of family) — the small substitution is the whole emotional argument of the song."
+      },
+      "chorus": {
+        "lines": "이제는 그대를 내가 지켜줄게 / 언젠가 그대가 준 사랑 알수 있겠죠 / 모두 등 돌려도 그댄 내 편이겠죠 / 이렇게 영원히 You're love / 말하지 않아도 나를 이해해줘서 / 나의 모진말 속에도 아무말 없이 안아준 그대 / 이제는 그대를 내가 지켜줄게",
+        "literal": "Together forever, you're the love of my life / now I'll be the one who protects you / together forever, you're the love of my dream / you're the love of my dream",
+        "context": "지켜줄게 uses -아/어 줄게, a promise to do something for someone else's benefit — a shift from the earlier verses, which were all about gratitude for what he received, to now promising to give protection in return."
+      }
+    }
+  },
+  "artist_context": "BUMKEY is known as one of Korea's strongest R&B vocalists, often praised for restraint and control rather than vocal fireworks — Family fits his catalog of understated, emotionally direct ballads built to showcase tone over technical runs.",
+  "honorific_level": "informal — 반말, addressed with warmth rather than romantic urgency",
+  "themes": [
+    "unconditional love",
+    "gratitude",
+    "commitment",
+    "chosen family"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(이)란 이름으로 / 이름 속에",
+      "usage": "'Under/within the name called ___.' Used first with 사랑 (love), then with 가족 (family) — the repetition with a swapped noun is the song's central rhetorical move.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-지 않아도",
+      "usage": "'Even without doing ___.' 말하지 않아도 이해해줘서 = 'for understanding even without me saying it' — praising wordless understanding as the deepest form of closeness.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어 줄게",
+      "usage": "A promise to act for someone else's benefit. 지켜줄게 = 'I'll protect you' — turns the song from receiving gratitude to offering commitment.",
+      "topik_level": 2
+    }
+  ]
+}

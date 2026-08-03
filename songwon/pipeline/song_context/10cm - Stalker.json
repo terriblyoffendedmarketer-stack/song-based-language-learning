@@ -1,0 +1,56 @@
+{
+  "safe_name": "10cm - Stalker",
+  "artist": "10cm",
+  "song": "Stalker",
+  "song_story": {
+    "overview": "Stalker is 10cm's self-deprecating take on unrequited love from the least flattering angle possible — the narrator openly admits he's plain-looking, awkward, and completely aware that the person he likes is out of his league and embarrassed by him. He doesn't ask for sympathy or plot some grand gesture. He just watches from a distance, admits it's uncomfortable for her, and keeps doing it anyway, questioning whether that makes him a bad person.",
+    "cultural_root": "The song leans on 외모지상주의 (appearance-ism, the idea that looks determine your worth or your right to pursue someone) — a subject Korean pop culture is unusually blunt about, given how much weight is put on appearance in dating and social life. Calling himself 안경 쓴 샌님 (a bespectacled bookish nerd) isn't false modesty; it's the song's whole engine — an honest, uncomfortable admission that attraction has hierarchies, and he knows exactly where he falls in one.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "나도 알아 나의 문제가 무엇인지 / 난 못났고 별볼일 없지 / 그 애가 나를 부끄러워 한다는 게 / 슬프지만 내가 뭐라고 / 빛나는 누군갈 좋아하는 일에 / 기준이 있는 거라면 / 이해할 수 없지만 할말 없는걸 / 난 안경 쓴 샌님이니까 / 내가 이렇게 사랑하는데",
+        "literal": "I know too, what my problem is / I'm plain-looking and unremarkable / the fact that she's embarrassed by me / is sad, but who am I to complain",
+        "context": "별볼일 없다 is an idiom meaning 'nothing special, unremarkable, not worth noting.' 내가 뭐라고 ('who am I, what am I [to complain]') is a self-diminishing rhetorical question — he's preemptively agreeing with the judgment against him before anyone else voices it."
+      },
+      "verse_2": {
+        "lines": "이렇게 원하는데 / 나는 아무것도 할 수 없고 / 바라만 보는데도 / 내가 그렇게 불편할까요 / 내가 나쁜 걸까요 / 아마도 내일도 그 애는 / 뒷모습만 / 이제 알아 나의 할 일이 무엇인지 / 다 포기하고 참아야 하지",
+        "literal": "If there are standards / for who's allowed to like someone who shines / I can't understand it, but I have nothing to say / because I'm just a bespectacled bookish type",
+        "context": "빛나는 누군가 (someone who shines) contrasts directly with 안경 쓴 샌님 (glasses-wearing, overly proper bookworm) — a very specific, self-mocking Korean archetype (샌님, a nerdy, uncool, overly serious guy). 할말 없는걸 ('I have nothing to say [in my defense]') shows him accepting an unfair standard rather than challenging it."
+      },
+      "chorus": {
+        "lines": "저 잘나가는 너의 남자친구처럼 / 되고 싶지만 불가능하지 / 빛나는 누군갈 좋아하는 일에 / 기준이 있는 거라면 / 이해할 수 없지만 할말 없는걸 / 난 안경 쓴 샌님이니까 / 내가 이렇게 사랑하는데 / 이렇게 원하는데 / 나는 아무것도 할 수 없고",
+        "literal": "Even though I love her this much / want her this much / I can't do anything at all / even though I'm only watching / am I really that uncomfortable [to be around]? / am I a bad person?",
+        "context": "바라만 보다 ('only look, only watch') emphasizes total passivity — he's not pursuing, not confessing, just observing from a distance, and still wondering if even that is wrong. The two closing questions (불편할까요, 나쁜 걸까요) use polite -요 endings, oddly formal for such a raw, private confession, which makes the self-doubt feel almost like he's asking a stranger to judge him."
+      },
+      "verse_3": {
+        "lines": "바라만 보는데도 / 내가 그렇게 불편할까요 / 내가 나쁜 걸까요 / 아마도 내일도 그 애는 / 나는 왜 이런 사람 이런 모습이고 / 이런 사랑을 하고 / 나는 아무것도 될 수 없고 / 바라만 보는데도 / 내가 그렇게 불편하니까 / 내가 나쁜 거니까 / 아마도 내일도 그 애는 / 나도 알아 나의 문제가 무엇인지",
+        "literal": "Now I know what I'm supposed to do / give up on everything and just endure it / I want to become like your successful boyfriend / but it's impossible",
+        "context": "잘나가다 (to be doing well, successful/popular) describes the boyfriend as everything the narrator isn't. 포기하고 참아야 하지 (I have to give up and endure) frames resignation as the only responsible option left to him — not fighting for the relationship, just accepting his place."
+      }
+    }
+  },
+  "artist_context": "10cm regularly writes love songs from an unflattering, self-aware angle rather than a polished romantic one, and Stalker is one of the sharpest examples — naming a real, uncomfortable social hierarchy around attractiveness instead of glossing over it, which is part of what makes the band's writing feel more honest than typical K-pop romance.",
+  "honorific_level": "mixed — mostly 반말 self-talk, shifting to polite -요 endings for the most vulnerable questions",
+  "themes": [
+    "unrequited love",
+    "self-deprecation",
+    "insecurity",
+    "social hierarchy"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-는 거라면",
+      "usage": "'If it's the case that ~.' 기준이 있는 거라면 — 'if there really are standards [for this]' — introducing a hypothesis he then reluctantly accepts.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-는데도",
+      "usage": "'Even though ~.' 바라만 보는데도 — 'even though I'm only watching' — sets up a concession, that even minimal behavior still causes discomfort.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어야 하지",
+      "usage": "'Have to, must.' 참아야 하지 — 'I have to endure it' — stating an obligation he's placed on himself.",
+      "topik_level": 2
+    }
+  ]
+}

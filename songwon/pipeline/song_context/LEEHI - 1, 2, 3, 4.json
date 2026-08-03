@@ -1,0 +1,56 @@
+{
+  "safe_name": "LEEHI - 1, 2, 3, 4",
+  "artist": "LEEHI",
+  "song": "1, 2, 3, 4",
+  "song_story": {
+    "overview": "1, 2, 3, 4 is a cold, deliberately unsentimental song about a one-night arrangement with clear rules and no illusions. LEE HI counts down the hours of a hookup like a countdown clock, laying out from the start that this isn't going to turn into anything — no contact after, no lingering feelings, no pretending it was love. The counting motif runs through the whole song, ticking down both literal hours and the numbered rules of the arrangement.",
+    "cultural_root": "The song is a deliberate rejection of the more common Korean pop narrative of romantic devotion and lingering heartbreak found throughout most of this playlist — instead of longing for connection, the singer sets firm boundaries and treats emotional attachment as something to actively avoid. 눈치 챙겨 (read the room / catch a clue) is blunt, modern slang, used here almost as an insult, telling the other person not to mistake a physical encounter for something romantic.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "잔을 채워 하나 둘 셋 pour up / 넌 내게 말하듯 눈을 맞춰 hold up / 옷엔 낯선 향이 배어서 / 이젠 내 향이 다 빠졌어 / 이 자리에서 딴생각은 skip / 난 너와 하는 스킨십이 / 익숙한 듯 네 몸과 자연스레 섞이지 / 한 꺼풀씩 벗겨진 너와 내 맘 / 긴 밤이 지나면 / 뒤돌고 떠나 / 연락 따윈 nah",
+        "literal": "Fill the glass, one two three, pour up / you look at me like you're about to say something, hold up / your clothes carry an unfamiliar scent / by now my own scent has completely faded from them / skip any other thoughts in this moment / being physical with you feels / strangely natural, like it's second nature / layer by layer, your guard and mine come undone",
+        "context": "낯선 향이 배어서 / 이젠 내 향이 다 빠졌어 — 'an unfamiliar scent has soaked in / now my scent has completely faded' — uses scent as physical proof that this isn't the first time or the only person for either of them, setting a matter-of-fact, unromantic tone from the start."
+      },
+      "chorus": {
+        "lines": "하나둘 세면 다 / 없어질 이 사이 / 난 이미 모든 대답을 했어 다 / 하나 둘 셋 us two / 하나둘씩 사라지는 중 / 어제 일은 지웠어 쭉 / 하나 둘 셋 넷 You, you, you, you / 하나 둘 셋 us two / 하나둘씩 희미해져 쭉 / 하나 둘 셋 넷 / 그때 가서 울고불고 자꾸 눈물 짤 거면",
+        "literal": "One two three, us two / one by one, disappearing / I erased what happened yesterday, completely / one two three four, you you you you / one two three, us two / one by one, fading away / I don't want to think about you",
+        "context": "하나둘씩 사라지는 중 — 'disappearing one by one' — the counting isn't just a hook, it structures the whole song's logic: everything about this encounter, including the person, is something being counted down and erased rather than kept."
+      },
+      "verse_2": {
+        "lines": "이제 그만 꺼져줘 Please 기회 줄 테니까 / 하나 둘 셋 넷 다섯 시간 지나면 난 / 사라질 테니까 이제 그만 잊어줘 / 사랑이라 포장 말고 / 눈치 챙겨 버려줘 / 귀 아파 Darling please shut your mouth / 다 챙겼음 숫자 셀게 Ay / 하나 둘 셋 us two / 하나둘씩 사라지는 중 / 어제 일은 지웠어 쭉 / 하나 둘 셋 넷 You, you, you, you",
+        "literal": "Rule No. 1: what happens in Vegas stays in Vegas / Rule No. 2: whatever I say, you go along with / I already told you, you're not my number one / if you're going to end up crying and making a scene later / just get lost now, please, I'm giving you the chance / one two three four five hours pass and then / I'll be gone, so just forget me already",
+        "context": "그때 가서 울고불고 — 'crying and making a fuss later' — 울고불고 is a set expression for dramatic, uncontrolled crying, used dismissively here as a warning against getting attached, framed almost as a rule being broken in advance."
+      },
+      "final_line": {
+        "lines": "하나 둘 셋 us two / 하나둘씩 희미해져 쭉 / 하나 둘 셋 넷 / Oh 1, 2, 3 시간이 다 / 지나면 우리는 몰라 / 이 기울어진 밤 지나 / 내 손목엔 6 o’clock yeah / 하나 둘 셋 us two / 하나둘씩 사라지는 중 / 어제 일은 지웠어 쭉 / 하나 둘 셋 넷 You, you, you, you / 하나 둘 셋 us two / 하나둘씩 희미해져 쭉 / 하나 둘 셋 넷",
+        "literal": "1, 2, 3 o'clock, once the time passes / we won't know each other anymore / past this tilted night / it's 6 o'clock on my wrist / I'm so f*ing good at goodbye / we don't know each other, right? / even if we turn back around",
+        "context": "기울어진 밤 (a tilted night) is a poetic way to say the night is late, past its peak, about to end — paired with the literal clock time on her wrist, grounding the song's whole countdown structure in an actual timestamp rather than a vague sense of time passing."
+      }
+    }
+  },
+  "artist_context": "LEE HI is known for a deep, distinctive vocal tone and a catalog that ranges between vulnerable ballads and blunt, self-assured tracks like this one, which leans into a confident, boundary-setting persona rather than her more typically emotional material.",
+  "honorific_level": "informal — blunt 반말 mixed with English throughout, deliberately cold and direct",
+  "themes": [
+    "no-strings arrangement",
+    "emotional detachment",
+    "boundaries",
+    "countdown/impermanence"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-는 중",
+      "usage": "'In the middle of doing X,' marks an ongoing process. Appears in 사라지는 중 — 'in the process of disappearing,' the countdown treated as already underway.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-았/었으니까",
+      "usage": "Gives a reason based on a completed action. Appears in 이제 그만 꺼져줘 Please 기회 줄 테니까 — combining reasoning with a blunt command.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어 줘",
+      "usage": "Casual request/command form. Appears in 잊어줘 — 'forget me' — a direct, unsoftened instruction rather than a plea.",
+      "topik_level": 2
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "safe_name": "BIBI - Very, Slowly",
+  "artist": "BIBI",
+  "song": "Very, Slowly",
+  "song_story": {
+    "overview": "This is a love song about refusing to rush. The singer has been hurt before — she says as much, 'we hesitated, we were collapsing under reality' — and now that someone gentle has shown up, she's not throwing herself in headfirst. She promises to come closer, but only 천천히, only slowly. It's a rare kind of K-pop love song: not about butterflies, about pacing yourself so you don't get hurt again.",
+    "cultural_root": "천천히 (cheoncheonhi) — 'slowly' — said twice, once doubled as 아주 천천히 ('very slowly'), is the whole thesis of the song. Korean romantic culture has a lot of pressure toward fast escalation — quick titles, quick commitment, 100-day anniversaries counted from day one. This song pushes back against that, treating slowness itself as an act of care.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "눈빛만으로 알 수가 있지 / 어떤 세상을 살아왔는지 / 처음 내민 너의 따뜻한 손길에 / 내 마음이 전부 녹아내",
+        "literal": "Just from your eyes I can tell / what kind of world you've lived through / at your first warm touch reaching out / my whole heart melted",
+        "context": "눈빛만으로 알 수가 있지 — 'just from the look in your eyes, I can tell' — sets up a theme of reading someone without needing words. 손길 (sonkkil) isn't just 'hand,' it's the quality of someone's touch — gentle, careful — which is why it's enough to melt her guard down."
+      },
+      "pre_chorus": {
+        "lines": "우린 서로 앞을 주저하고 / 현실 속에 무너져 가던 / 이런 나를 잊어가게 해 / 너에게 가는 중",
+        "literal": "We both hesitated to move forward / collapsing inside reality / this makes me forget who I was",
+        "context": "무너져 가던 (crumbling, collapsing) — describes a slow-motion fall, not a single crash. 현실 속에 — 'inside reality' — implies this isn't about fantasy love, it's two people worn down by real life who are scared to try again."
+      },
+      "chorus": {
+        "lines": "이젠 나를 봐줘 / 내가 다가갈게 천천히 / 아주 천천히 / 손짓만으로 알 수가 있지",
+        "literal": "I'm telling the truth / I'm on my way to you / now look at me / I'll come closer, slowly / very slowly",
+        "context": "다가갈게 uses -(으)ㄹ게, a promise form — she's not asking permission, she's stating her own intention gently. Doubling 천천히 into 아주 천천히 physically slows the line down when you say it, the grammar mirroring the meaning."
+      },
+      "verse_2": {
+        "lines": "너가 얼마나 착한 애인지 / 우리가 지나왔던 시간들이 / 이제야 날 버티게 해 / 우린 서로 앞을 주저하고",
+        "literal": "Just from the way you gesture I can tell / how kind a person you are",
+        "context": "Mirrors the opening line's structure (-만으로 알 수가 있지, 'just from ___ alone, I can tell') but swaps 눈빛 for 손짓 — from eyes to gestures — showing her trust growing, one small observation at a time."
+      },
+      "verse_2_close": {
+        "lines": "현실 속에 무너져 가던 / 이런 나를 잊어가게 해 / 너에게 가는 중 / 이젠 나를 봐줘 / 내가 다가갈게 천천히 / 아주 천천히",
+        "literal": "The time we've walked through together / only now makes me able to hold on",
+        "context": "버티게 해 — 'makes me able to endure/hold on' — reframes the relationship's slow pace as the thing giving her strength, not the thing holding her back."
+      }
+    }
+  },
+  "artist_context": "BIBI made her name with moodier, more defiant hip-hop and R&B — she came up through Show Me the Money and is known for a sultry, unbothered image. 'Very, Slowly' is a softer register for her, which is part of why the vulnerability in it lands.",
+  "honorific_level": "informal — 반말, spoken as direct address to the person she's falling for",
+  "themes": [
+    "taking it slow",
+    "healing",
+    "trust",
+    "quiet romance"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-만으로 알 수가 있지",
+      "usage": "'Just from ___ alone, I can tell.' Appears twice (눈빛만으로, 손짓만으로) — a repeated structure showing she reads people through small signals, not words.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-(으)ㄹ게",
+      "usage": "A soft promise form for your own future action. 다가갈게 = 'I'll come closer' — stating intention without demanding anything back.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "버티다",
+      "usage": "To endure, hold your ground. Here it's reframed positively — 버티게 해, 'makes me able to hold on' — endurance as something love gives her, not something she has to survive alone.",
+      "topik_level": 3
+    }
+  ]
+}

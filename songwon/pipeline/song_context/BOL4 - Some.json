@@ -1,0 +1,56 @@
+{
+  "safe_name": "BOL4 - Some",
+  "artist": "BOL4",
+  "song": "Some",
+  "song_story": {
+    "overview": "This song is a direct celebration of 썸 (sseom) — the specifically Korean dating-culture stage before you're official, where you're texting constantly, hanging out one-on-one, and everyone around you can tell something's happening except neither of you has said the words. The singer is impatient and giddy about it: she's decided she's going to chase this, call every day, push past her own nerves, even though she's sure she'll get rejected. It's less a love song than a hype song for taking the leap.",
+    "cultural_root": "썸 comes from the English word 'something' and describes a relationship stage that doesn't really have a Western equivalent name — not friends, not dating, but everyone treats it as its own recognized status. 썸을 타다 ('to ride a 썸') is the standard phrase for being in it. The whole song is built around this one piece of modern Korean dating vocabulary.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "표현이 서툰 것도 잘못인가요 / 나 차가운 도시에 따뜻한 여잔데 / 그냥 좋아한단 말도 안 되는가요 / 솔직하게 난 말하고 싶어요 / 사라져 아니 사라지지 마 / 네 맘을 보여줘 아니 보여주지 마 / 하루 종일 머릿속에 네 미소만 / 우리 그냥 한번 만나볼래요 / 나 오늘부터 너랑 썸을 한번 타볼 거야",
+        "literal": "Is it wrong that I'm bad at expressing myself? / I'm a warm woman in a cold city / is it that strange to just say I like you? / I want to say it honestly",
+        "context": "차가운 도시에 따뜻한 여자 — 'a warm woman in a cold city' — is a self-aware, half-joking line playing on the stereotype of the aloof, image-conscious city woman; she's saying she doesn't fit that mold, she just wants to be direct."
+      },
+      "pre_chorus": {
+        "lines": "나 매일매일 네게 전화도 할 거야 / 밀가루 못 먹는 나를 달래서라도 / 너랑 맛있는 걸 먹으러 다닐 거야 / 넘넘 스윗한 넌 정말 달콤한 걸 / 넘넘 스윗한 넌 / 그냥 좋아한단 말도 안 되는가요 / 솔직하게 난 말하고 싶어요 / 사라져 아니 사라지지 마 / 네 맘을 보여줘 아니 보여주지 마",
+        "literal": "Disappear — no, don't disappear / show me your heart — no, don't show it / your smile is all that's in my head all day / let's just try meeting up once",
+        "context": "The 아니 (no) self-corrections — 사라져 아니 사라지지 마 — capture the actual chaos of an early crush: contradicting your own feelings mid-sentence because you don't trust them yet."
+      },
+      "chorus": {
+        "lines": "하루 종일 머릿속에 네 미소만 / 우리 그냥 한번 만나볼래요 / 나 오늘부터 너랑 썸을 한번 타볼 거야 / 나 매일매일 네게 전화도 할 거야 / 밀가루 못 먹는 나를 달래서라도 / 너랑 맛있는 걸 먹으러 다닐 거야 / 사랑은 이렇게 생기는 게 아니겠어 / 어쩌면 내 맘의 반쪽을 / 네게 걸어보는 건데",
+        "literal": "Starting today I'm going to try riding a 썸 with you / I'm going to call you every single day / even if I have to coax myself past not being able to eat flour / I'll go out and eat good food with you",
+        "context": "썸을 타다 (to be in the 썸 stage) is the key phrase — 썸을 한번 타볼 거야 literally 'I'll try riding it once.' The line about not being able to eat 밀가루 (flour/wheat, i.e. bread and noodles) is a real, specific detail — she's willing to push past her own dietary limits for this person, a very grounded, unglamorous way of saying 'I'll make the effort.'"
+      },
+      "bridge": {
+        "lines": "나는 오늘도 네게 차일 것만 같아도 / 난 한번 더 너에게 다시 달려가 볼 거야 / 나 오늘부터 너랑 썸을 한번 타볼 거야 / 나 매일매일 네게 전화도 할 거야 / 매운 거 못 먹는 나를 달래서라도 / 너랑 맛있는 걸 먹으러 다닐 거야 / 나도 그 애처럼 좋아요 좀 눌러줘 / 나도 너랑 말 좀 할 수 있게 해줘 / 나는 풀이 죽어서 오늘도 포기하고 / 뒤를 돌아볼 때쯤 나를 붙잡는 넌 / 넘넘 스윗한 넌 정말 달콤한 걸 / 넘넘 스윗한 넌",
+        "literal": "Isn't this how love starts? / maybe it means betting half of my heart / on you / even though I feel like I'll get rejected again today, I'm going to run toward you one more time",
+        "context": "차이다 (chada) means 'to get dumped/rejected' — she names the fear outright, then overrides it with 다시 달려가 볼 거야, 'I'll try running toward you again.' -아/어 볼 거야 (try doing) shows up throughout the song as her signature grammar: she's not promising success, just promising to try."
+      }
+    }
+  },
+  "artist_context": "This is BOL4 in its bubbliest, most conversational mode — half-English slang ('썸,' the deliberately cutesy 넘넘 스윗한') stacked with plain-spoken confessions, which is the group's signature blend of playful and painfully honest.",
+  "honorific_level": "informal — 반말, spoken like a pep talk to herself as much as a message to him",
+  "themes": [
+    "crush",
+    "타는 썸 (situationship)",
+    "self-encouragement",
+    "fear of rejection"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-아/어 볼 거야",
+      "usage": "'I'm going to try doing ___.' Appears repeatedly (타볼 거야, 달려가 볼 거야) — frames every action as an attempt, not a guarantee, which fits the uncertainty of the 썸 stage.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "썸 (타다)",
+      "usage": "Slang noun from English 'something,' paired with 타다 ('to ride'). Describes the ambiguous pre-dating stage. Essential modern vocabulary not found in textbooks.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-게 하다 / -게 해줘",
+      "usage": "Causative structure, 'let me / make it so I can.' 말 좀 할 수 있게 해줘 = 'let me be able to talk to you a bit' — asking for permission to keep trying.",
+      "topik_level": 3
+    }
+  ]
+}

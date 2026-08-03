@@ -1,0 +1,380 @@
+{
+  "id": "lesson-mamamoo-mrambiguous",
+  "songId": "mamamoo-mrambiguous",
+  "level": "intermediate",
+  "title": "Mr-Ambiguous — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "MAMAMOO — Mr-Ambiguous",
+      "content": "In this lesson, we'll learn words related to mixed signals, sseom frustration, wanting commitment.\nGrammar: -지 말고 -아/어 봐 ('Don't do X, try Y instead.' 찔러보지만 말고 저질러봐 and 내숭떨)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Mr. Ambiguous is a cabaret-flavored complaint about a guy who won't commit to sending a clear signal one way or another — flirty enough to keep her hooked, distant enough that she can't be sure of any...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni",
+        "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+        "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+        "쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni",
+        "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+        "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+        "쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa"
+      ],
+      "lyricTranslations": [
+        "Excuse me, but is something on me",
+        "your gaze is confusing me, isn't it",
+        "MAMAMOO, MAMAMOO, hey Mr. Ambiguous",
+        "don't just stare, come closer"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈치",
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun"
+        },
+        "songLine": "아직 넌 왜 눈치를 못 챘니 넌ajik neon wae nunchireul mot chaenni neon",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "숨다",
+      "wordData": {
+        "word": {
+          "korean": "숨다",
+          "english": "to hide",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "숨다",
+          "english": "to hide",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "숨다",
+          "english": "to hide",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Excuse me, but is something on me",
+          "options": [
+            "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+            "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+            "쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa",
+            "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni"
+          ],
+          "correctAnswer": "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "your gaze is confusing me, isn't it",
+          "options": [
+            "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni",
+            "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+            "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+            "쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa"
+          ],
+          "correctAnswer": "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "MAMAMOO, MAMAMOO, hey Mr. Ambiguous",
+          "options": [
+            "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni",
+            "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+            "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+            "쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa"
+          ],
+          "correctAnswer": "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-1",
+          "type": "fill-blank",
+          "prompt": "니 ___에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+          "options": [
+            "눈빛",
+            "눈치",
+            "숨다",
+            "바람"
+          ],
+          "correctAnswer": "눈빛"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Don't do X, try Y instead.' 찔러보지만 말고 저질러봐 and 내숭떨지 말고 가져봐 both use this pattern to redirect hesitant behavior into direct action.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-지 말고 -아/어 봐",
+        "meaning": "'Don't do X, try Y instead.' 찔러보지만 말고 저질러봐 and 내숭떨지 말고 가져봐 both use this pattern to redirect hesitant behavior into direct action.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "숨다",
+            "눈빛",
+            "사랑",
+            "눈치"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'tact, sense of a situation'의 한국어는?",
+          "options": [
+            "숨다",
+            "눈빛",
+            "하늘",
+            "눈치"
+          ],
+          "correctAnswer": "눈치"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to hide'의 한국어는?",
+          "options": [
+            "세상",
+            "숨다",
+            "눈빛",
+            "눈치"
+          ],
+          "correctAnswer": "숨다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-지만' 패턴은 어떤 의미예요?",
+          "options": [
+            "but, although",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "but, although"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni",
+        "니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni",
+        "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho",
+        "쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa",
+        "쉿!! 뭐 지금 저한테 관심 있으세요?swit!! mwo jigeum jeohante gwansim isseuseyo?",
+        "There is a boy, hello Mr.애매모호 (애매모호)There is a boy, hello Mr.aemaemoho (aemaemoho)",
+        "니 덫에 걸린 난 애정결핍 여우ni deoche geollin nan aejeonggyeolpip yeou",
+        "찔러보지만 말고 저질러봐jjilleobojiman malgo jeojilleobwa"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          },
+          {
+            "korean": "눈치",
+            "english": "tact, sense of a situation"
+          },
+          {
+            "korean": "숨다",
+            "english": "to hide"
+          }
+        ],
+        "patternLearned": "-지 말고 -아/어 봐"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "MAMAMOO - Mr-Ambiguous",
+    "artist": "MAMAMOO",
+    "song": "Mr-Ambiguous",
+    "curriculum_level": 3
+  }
+}

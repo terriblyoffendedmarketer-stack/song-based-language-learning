@@ -1,0 +1,56 @@
+{
+  "safe_name": "DAVICHI - 그대니까요",
+  "artist": "DAVICHI",
+  "song": "그대니까요",
+  "song_story": {
+    "overview": "그대니까요 ('Because It's You') is a devotional ballad about loving someone through pain simply because of who they are — not because the relationship is easy, not because it's reciprocated in equal measure, but because the singer has decided this specific person is worth the ache. DAVICHI built their entire career on this register: two powerhouse vocalists trading big, sustained notes over piano-driven ballads about waiting, remembering, and refusing to let go, frequently used across Korean drama soundtracks.",
+    "cultural_root": "The grammar pattern -니까요 ('because it is ___') repeated as the hook turns the whole song into a single, circular justification: I love you because you're you. This kind of tautological devotion — loving someone for no reason beyond their identity — is a recurring emotional structure in Korean balladry, prizing loyalty and endurance (기다림, waiting) as proof of love's depth.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "사랑한다 말하는 그댈 보면 / 왠지 모르게 이렇게 아파와 / 서로 다른 그런 마음까지도 / 안아줄게요 그대의 모든것 / 꽃잎은 시들고 계절은 변해도",
+        "literal": "When I see you saying you love me / for some reason it hurts like this / even the parts of your heart that are different from mine / I'll hold all of it",
+        "context": "왠지 모르게 (for some reason, without knowing why) sets an odd tone from line one — love causing unexplained pain rather than joy signals this isn't simple happiness, it's devotion mixed with worry."
+      },
+      "chorus": {
+        "lines": "영원한 내 사랑 그 마음뿐이에요 / 가슴 아파도 난 그대니까요 / 기억해요 기다려요 그대 / 함께 할 수 없는 그 순간에도 / 나는 그대를 생각할거에요",
+        "literal": "Even as flower petals wither and seasons change / my love is eternal, that feeling alone / even if my heart aches, it's because it's you / I remember, I wait, for you",
+        "context": "그대니까요 — 'because it's you' — is the load-bearing phrase of the entire song, using -(이)니까 (because) attached directly to 그대 (you, poetic/formal 'thou'), collapsing the entire justification for her love into a single word: identity is the reason, nothing else is needed."
+      },
+      "verse_2": {
+        "lines": "수 많았던 사람중에 우리가 / 만난 이유가 있을거에요 / 사람이 사랑을 기다리는일이 / 얼마나 아픈지 그대는 모르나요 / 시간이 가도 난 그대니까요",
+        "literal": "Even in the moments we can't be together / I'll be thinking of you / out of all the countless people in the world / there must be a reason we met",
+        "context": "수많았던 사람중에 우리가 만난 이유 — 'a reason we, out of countless people, met' — leans on the idea of 인연 (inyeon), a fated or karmic connection between people, a very common Korean romantic concept treating a relationship as destined rather than coincidental."
+      },
+      "bridge": {
+        "lines": "그 사랑을 기억해요 그대 / 아무래도 돌아서는 건 아냐 / 너에게 바라는건 하나 / 내 손을 놓지 말아요 / 슬프게 말아요 떠나지 말아요 / 영원한 내 사랑 그 마음뿐이에요 / 시간이 가도 난 그대니까요 / 사랑해요 사랑해요 그대",
+        "literal": "There's no way I'm turning away / all I want from you is one thing / don't let go of my hand / don't be sad, don't leave",
+        "context": "The bridge strips away all the poetic imagery from earlier verses and switches to a string of blunt negative commands (-지 말아요) — 슬프게 말아요, 떠나지 말아요 — the plainest, most direct language in the whole song, right at its emotional peak."
+      }
+    }
+  },
+  "artist_context": "DAVICHI is a vocal duo (Lee Hae-ri and Kang Min-kyung) widely regarded as one of the strongest vocal pairings in Korean ballad music, especially known for OST work on major dramas. Their sound is built for exactly this kind of high-note-driven, emotionally maximalist devotion song.",
+  "honorific_level": "formal-leaning — uses 그대 (a poetic, elevated word for 'you') and -요 endings throughout, giving the song a more classic, reverent tone than casual 반말 ballads",
+  "themes": [
+    "unconditional love",
+    "waiting",
+    "fate",
+    "devotion through pain"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(이)니까요",
+      "usage": "'Because it is ___.' The song's title and hook: 그대니까요, 'because it's you.' A reason that explains itself by naming the person rather than a cause.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "그대",
+      "usage": "A poetic, somewhat formal/literary word for 'you,' common in ballads and poetry rather than daily speech — gives the lyrics a timeless, elevated quality distinct from casual 너.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-지 말아요",
+      "usage": "Polite negative command/request. 떠나지 말아요 = 'please don't leave.' Used in the bridge to strip away metaphor and plead directly.",
+      "topik_level": 2
+    }
+  ]
+}

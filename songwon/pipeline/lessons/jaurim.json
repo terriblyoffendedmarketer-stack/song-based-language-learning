@@ -1,0 +1,392 @@
+{
+  "id": "lesson-jaurim",
+  "songId": "jaurim",
+  "level": "intermediate",
+  "title": "스물다섯, 스물하나 — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "JAURIM — 스물다섯, 스물하나",
+      "content": "In this lesson, we'll learn words related to nostalgia, fading memory, young love.\nGrammar: -(으)면 -(으)ㄹ수록 ('The more you do X, the more Y.' Appears in 기억해내면 )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "스물다섯, 스물하나 means 'twenty-five, twenty-one' — a song built entirely around looking back at a relationship from young adulthood that felt permanent at the time and wasn't. The narrator keeps returning t...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "바람에 날려 꽃이 지는 계절엔",
+        "아직도 너의 손을 잡은 듯 그런 듯해",
+        "그때는 아직 꽃이 아름다운 걸",
+        "지금처럼 사무치게 알지 못했어"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "바람에 날려 꽃이 지는 계절엔",
+        "아직도 너의 손을 잡은 듯 그런 듯해",
+        "그때는 아직 꽃이 아름다운 걸",
+        "지금처럼 사무치게 알지 못했어"
+      ],
+      "lyricTranslations": [
+        "In the season when the wind scatters the falling flowers",
+        "it still feels like I'm holding your hand, sort of, in a way",
+        "back then I didn't know, achingly, the way I know now",
+        "how beautiful the flowers actually were"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "계절",
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "계절은 변해도",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun"
+        },
+        "songLine": "바람에 날려 꽃이 지는 계절엔",
+        "dailySentence": {
+          "korean": "계절은 변해도",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "바람",
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "바람에 실려 오네",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun"
+        },
+        "songLine": "바람에 날려 꽃이 지는 계절엔",
+        "dailySentence": {
+          "korean": "바람에 실려 오네",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꽃",
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun"
+        },
+        "songLine": "바람에 날려 꽃이 지는 계절엔",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "In the season when the wind scatters the falling flowers",
+          "options": [
+            "지금처럼 사무치게 알지 못했어",
+            "바람에 날려 꽃이 지는 계절엔",
+            "그때는 아직 꽃이 아름다운 걸",
+            "아직도 너의 손을 잡은 듯 그런 듯해"
+          ],
+          "correctAnswer": "바람에 날려 꽃이 지는 계절엔",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "it still feels like I'm holding your hand, sort of, in a way",
+          "options": [
+            "아직도 너의 손을 잡은 듯 그런 듯해",
+            "지금처럼 사무치게 알지 못했어",
+            "바람에 날려 꽃이 지는 계절엔",
+            "그때는 아직 꽃이 아름다운 걸"
+          ],
+          "correctAnswer": "아직도 너의 손을 잡은 듯 그런 듯해",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "back then I didn't know, achingly, the way I know now",
+          "options": [
+            "아직도 너의 손을 잡은 듯 그런 듯해",
+            "바람에 날려 꽃이 지는 계절엔",
+            "그때는 아직 꽃이 아름다운 걸",
+            "지금처럼 사무치게 알지 못했어"
+          ],
+          "correctAnswer": "그때는 아직 꽃이 아름다운 걸",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "바람에 날려 꽃이 지는 ___엔",
+          "options": [
+            "사람",
+            "바람",
+            "계절",
+            "꽃"
+          ],
+          "correctAnswer": "계절"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'The more you do X, the more Y.' Appears in 기억해내면 할수록 멀어져 가는데 — 'the more I try to remember, the further it drifts.'",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)면 -(으)ㄹ수록",
+        "meaning": "'The more you do X, the more Y.' Appears in 기억해내면 할수록 멀어져 가는데 — 'the more I try to remember, the further it drifts.'",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'season'의 한국어는?",
+          "options": [
+            "바람",
+            "사랑",
+            "계절",
+            "꽃"
+          ],
+          "correctAnswer": "계절"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'wind'의 한국어는?",
+          "options": [
+            "사람",
+            "꽃",
+            "바람",
+            "계절"
+          ],
+          "correctAnswer": "바람"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'flower'의 한국어는?",
+          "options": [
+            "꽃",
+            "계절",
+            "세상",
+            "바람"
+          ],
+          "correctAnswer": "꽃"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "바람에 날려 꽃이 지는 계절엔",
+        "아직도 너의 손을 잡은 듯 그런 듯해",
+        "그때는 아직 꽃이 아름다운 걸",
+        "지금처럼 사무치게 알지 못했어",
+        "우, 너의 향기가",
+        "바람에 실려 오네",
+        "우, 영원할 줄 알았던",
+        "스물다섯, 스물하나"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "계절",
+            "english": "season"
+          },
+          {
+            "korean": "바람",
+            "english": "wind"
+          },
+          {
+            "korean": "꽃",
+            "english": "flower"
+          }
+        ],
+        "patternLearned": "-(으)면 -(으)ㄹ수록"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "JAURIM - 스물다섯, 스물하나",
+    "artist": "JAURIM",
+    "song": "스물다섯, 스물하나",
+    "curriculum_level": 4
+  }
+}

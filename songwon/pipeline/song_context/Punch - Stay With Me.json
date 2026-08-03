@@ -1,0 +1,61 @@
+{
+  "safe_name": "Punch - Stay With Me",
+  "artist": "Punch",
+  "song": "Stay With Me",
+  "song_story": {
+    "overview": "Stay With Me is the central theme from the 2016-2017 drama Goblin (도깨비, also known as Guardian: The Lonely and Great God), performed by Punch with Chanyeol of EXO. The drama follows an immortal goblin cursed to live for centuries until he finds his human bride, and the song plays during the show's most fated, aching romantic moments — the pull between two people who feel connected across lifetimes, and the sorrow of a love that's shadowed by eventual, inevitable separation.",
+    "cultural_root": "The song leans hard on 운명 (unmyeong, fate/destiny) — the idea that certain people are bound to find each other no matter how much time or distance separates them, a very common thread in Korean drama romance. 인연 (fated connection) and 운명 appear constantly in Korean media, treating love less as a choice made in the moment and more as something already decided somewhere outside of either person's control, which is exactly the emotional register Goblin's central romance runs on.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "나의 두 눈을 감으면 / 떠오르는 그 눈동자 / 자꾸 가슴이 시려서 / 잊혀지길 바랬어 / 꿈이라면 이제 / 깨어났으면 (으면) 제발 (제발) / 정말 네가 나의 운명인 걸까? (걸까?) / 넌 falling you / 운명처럼 너를 falling",
+        "literal": "When I close my eyes / those eyes come to mind / because my heart keeps aching / I hoped I could be forgotten",
+        "context": "가슴이 시리다 — literally 'the heart is cold/aching,' a set phrase for a specific kind of bittersweet pain, more wistful than sharp grief. 잊혀지길 바랬어 (I hoped to be forgotten) is a striking reversal — she's not hoping to forget him, she's hoping he forgets her, suggesting a love she believes shouldn't or can't be pursued."
+      },
+      "verse_2": {
+        "lines": "또 나를 부르네 calling / 헤어 나올 수 없어 제발 hold me / 내 인연의 끈이 넌지 / 기다린 네가 맞는지 / 가슴이 먼저 왜 내려앉는지 (Stay with me) / 내 마음속 깊은 곳에 네가 사는지 (Stay with me) / 내 안에 숨겨왔던 진실 / 나의 두 눈을 감으면 / 떠오르는 그 눈동자",
+        "literal": "If this is a dream / I wish I would wake up now, please / is it really true that you're my fate? / you, falling for you",
+        "context": "꿈이라면 깨어났으면 (if it's a dream, I wish I'd wake up) frames the feeling as almost too intense to be real, something she wants an exit from even as she's drawn deeper in. 운명인 걸까 (is it fate?) is the central uncertain question of the whole song — not whether she loves him, but whether this was always meant to happen."
+      },
+      "chorus": {
+        "lines": "자꾸 가슴이 시려서 / 잊혀지길 바랬어 / 꿈이라면 이제 / 깨어났으면 (으면) 제발 (제발) / 정말 네가 나의 운명인 걸까? (걸까?) / 넌 falling you / 넌 falling you / 가슴은 뛰고 있어, 여전히 널 보고 있어 / 자꾸만 숨이 막혀서",
+        "literal": "Falling for you like fate / and you're calling out to me again / I can't pull myself out, please hold me / [wondering] whether you're the thread of my destined connection",
+        "context": "인연의 끈 — literally 'the thread of fated connection' — is a very Korean image, treating destiny like an actual physical string linking two people. 헤어 나올 수 없어 ('I can't get out/free myself') describes being pulled toward someone as something closer to gravity than choice."
+      },
+      "bridge": {
+        "lines": "아직은 멀리에서 너를 지켜보고 싶어 / 내가 또 왜 이러는지 / 처음 너를 봤을 때부터 다르게 / 운명의 시간은 또 더디게 갔지 / 내 가슴은 널 향했고 / 내 심장은 다시 또 뛰었고 / 꺼져버리던 희미한 불빛 / 너로 인해 다시 타오르는 눈빛 / 마치 오래전부터 널 사랑한 것 같아",
+        "literal": "Different, from the very first moment I saw you / and fate's clock moved slowly again / my heart turned toward you / and my heart started beating again",
+        "context": "더디다 means slow-moving — even though everything about meeting him felt different and significant, time itself seemed to stretch out. 다시 또 뛰었고 (started beating again) implies her heart had gone still or numb before, and this connection is what reawakens it — key to the drama's theme of the goblin's long, lonely immortal life being interrupted by finally feeling something again."
+      },
+      "closing": {
+        "lines": "무언가에 이끌리듯 끌려온 것 같아 / 나의 두 눈을 감으면 / 떠오르는 그 눈동자 / 자꾸 가슴이 시려서 / 잊혀지길 바랬어 / (꿈이라면) 꿈이라면 이제 / 깨어났으면 (꿈이 아니길) 제발 / (혹시 네가) 정말 네가 나의 운명인걸까? / (운명이라면) 넌 falling you",
+        "literal": "A faint light that kept going out / because of you, it burns again in my eyes / it feels like I've loved you since long ago / it feels like I was pulled here, drawn by something",
+        "context": "꺼져버리던 (a light that had been going out, kept dying) versus 다시 타오르는 (burning again) is the clearest statement of the drama's core emotional arc — someone whose feelings had gone dormant, reignited. 오래전부터 널 사랑한 것 같아 (it feels like I've loved you since long ago) directly voices the reincarnation/fated-love theme running through the whole drama."
+      }
+    }
+  },
+  "artist_context": "Punch is a Korean vocalist known for powerful OST performances, and Stay With Me — sung as a duet with EXO's Chanyeol — became one of the most recognized OST tracks in Korean drama history, closely tied to Goblin's enormous popularity. In Korea, drama OST songs are released and consumed as their own singles, sometimes outliving the show itself in popularity.",
+  "honorific_level": "formal-leaning, emotionally elevated register befitting a drama theme song",
+  "themes": [
+    "fated love",
+    "longing",
+    "destiny",
+    "reawakening"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-길 바라다",
+      "usage": "'To hope that ~.' 잊혀지길 바랬어 — 'I hoped to be forgotten' — used for a wish, often about something outside your control.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-처럼",
+      "usage": "'Like/as.' 운명처럼 — 'like fate' — used to frame an overwhelming feeling as something bigger than personal choice.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-던 (past retrospective modifier)",
+      "usage": "꺼져버리던 희미한 불빛 — 'a faint light that had been going out' — marks an ongoing past state, here of something dying out before being revived.",
+      "topik_level": 4
+    }
+  ]
+}

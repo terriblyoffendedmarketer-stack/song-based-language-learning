@@ -1,0 +1,56 @@
+{
+  "safe_name": "JANNABI - dreams, books, power and walls",
+  "artist": "JANNABI",
+  "song": "dreams, books, power and walls",
+  "song_story": {
+    "overview": "This song is about the specific, quiet grief of realizing you've become an adult who gave up on your childhood ambitions. The narrator remembers being a kid told to have big dreams and rule over the sea, and traces the exact moment he understood he'd never get to have that dream, and how bitterness crept in and tainted even the memory of wanting it. The chorus keeps asking the same unanswerable question — how did we end up as adults? — and the song ends by accepting that growing numb, resembling the tired adults from childhood, is just what's coming.",
+    "cultural_root": "The song critiques a very specific Korean phrase, 소년이여 야망을 가져라 ('boys, be ambitious'), a famous Western quote (originally attributed to William S. Clark) that got absorbed into Korean education and motivational culture as a slogan pushed on kids. The narrator calls it a 무책임한 격언 — an irresponsible saying — because it demands ambition from children without acknowledging how few of them will actually get to keep that ambition into adulthood. This is a direct pushback against the culture of relentless self-improvement rhetoric aimed at Korean youth.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "해가 뜨고 다시 지는 것에haega tteugo dasi jineun geose / 연연하였던 나의 작은방yeonyeonhayeotdeon naui jageunbang / 텅 빈 마음 노랠 불러봤자teong bin ma-eum norael bulleobwatja / 누군가에겐 소음일 테니nugun-ga-egen soeumil teni / 꼭 다문 입 그 새로 삐져나온kkok damun ip geu saero ppijyeonaon / 보잘것없는 나의 한숨에bojalgeoseomneun naui hansume / 나 들으라고 내쉰 숨이 더냐na deureurago naeswin sumi deonya / 아버지 내게 물으시고abeoji naege mureusigo / 제 발 저려 난 답할 수 없었네je bal jeoryeo nan dapal su eopseonne / 우리는 우리는urineun urineun",
+        "literal": "In my small room, obsessing over the sun rising and setting again / singing to my empty heart, even though it'll just be noise to someone else / my father asked me, about the pitiful sigh slipping out between my tightly closed lips, was that sigh meant for me to hear / caught red-handed, I couldn't answer",
+        "context": "제 발 저려 — literally 'my own feet go numb,' an idiom for the guilty, exposed feeling of being caught doing something you're ashamed of, even if no one directly accused you. He can't answer his father's question because the question itself already knows the truth."
+      },
+      "chorus": {
+        "lines": "어째서eojjaeseo / 어른이 된 걸까eoreuni doen geolkka / 하루하루가haruharuga / 참 무거운 짐이야cham mugeoun jimiya / 더는 못 갈 거야deoneun mot gal geoya / 꿈과 책과 힘과 벽 사이를kkumgwa chaekgwa himgwa byeok saireul / 눈치 보기에 바쁜 나날들nunchi bogie bappeun nanaldeul / 소년이여 야망을 가져라sonyeoniyeo yamang-eul gajyeora / 무책임한 격언 따위에muchaegimhan gyeogeon ttawie / 저 바다를 호령하는 거야jeo badareul horyeonghaneun geoya",
+        "literal": "We, we, how / did we end up becoming adults? / every single day / is such a heavy burden / I can't go any further",
+        "context": "The chorus repeats 어른이 된 걸까 (how did we become adults?) as a genuine, almost bewildered question, not rhetorical despair. 무거운 짐 (a heavy burden/load) is a common Korean metaphor for responsibility, here applied to something as basic as getting through a single day."
+      },
+      "verse_2": {
+        "lines": "어처구니없던 나의 어린 꿈eocheogunieopdeon naui eorin kkum / 가질 수 없음을 알게 되던 날gajil su eopseumeul alge doedeon nal / 두드러기처럼 돋은 심술이dudeureogicheoreom dodeun simsuri / 끝내 그 이름 더럽히고 말았네kkeunnae geu ireum deoreopigo maranne / 우리는 우리는urineun urineun / 어째서eojjaeseo / 어른이 된 걸까eoreuni doen geolkka / 하루하루가haruharuga / 참 무거운 짐이야cham mugeoun jimiya / 더는 못 간대두deoneun mot gandaedu",
+        "literal": "Busy reading the room between dreams, books, power, and walls / 'boys, be ambitious' — a reckless, irresponsible saying / telling me to rule over that distant sea / the day I realized I could never have my own foolish childhood dream / a resentment rose up like hives / and in the end, it tainted even that name",
+        "context": "눈치 보다 (nunchi boda) means to read the room, constantly monitoring how you're perceived — here applied to navigating between abstract ideals (dreams, books) and harder realities (power, walls). 두드러기처럼 돋은 심술 — 'spite that broke out like hives' — compares bitterness to a physical allergic reaction, something that erupts on the skin rather than something chosen."
+      },
+      "final_line": {
+        "lines": "멈춰 선 남겨진meomchwo seon namgyeojin / 날 보면nal bomyeon / 어떤 맘이 들까eotteon mami deulkka / 하루하루가haruharuga / 참 무서운 밤인 걸cham museoun bamin geol / 잘도 버티는 넌jaldo beotineun neon / 하루하루가haruharuga / 참 무서운 밤인 걸cham museoun bamin geol / 자고 나면 괜찮아질 거야jago namyeon gwaenchanajil geoya / 하루는 더 어른이 될 테니haruneun deo eoreuni doel teni / 무덤덤한 그 눈빛을 기억해mudeomdeomhan geu nunbicheul gieokae / 어릴 적 본 그들의 눈을eoril jeok bon geudeurui nuneul / 우린 조금씩 닮아야 할 거야urin jogeumssik dalmaya hal geoya",
+        "literal": "If I sleep, I'll be fine tomorrow / because with each day I'll become a little more of an adult / remember that indifferent look in their eyes / the eyes of the grown-ups I saw as a child / we're going to have to resemble them, little by little",
+        "context": "무덤덤한 눈빛 — 'an indifferent/numb gaze' — is what he remembers seeing in tired adults as a kid, and the song's final move is accepting he'll grow into that same expression himself. 닮아야 할 거야 — 'we'll have to resemble [them]' — reads less like acceptance and more like resignation."
+      }
+    }
+  },
+  "artist_context": "JANNABI is a Korean band known for warm, retro-tinged rock arrangements paired with lyrics that lean literary and often melancholic, frequently dealing with nostalgia, growing up, and the gap between youthful idealism and adult reality — themes central to this song.",
+  "honorific_level": "informal — casual 반말 with a reflective, half-spoken internal tone",
+  "themes": [
+    "growing up",
+    "lost dreams",
+    "disillusionment",
+    "generational resignation"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ까",
+      "usage": "Wondering question form, often rhetorical or self-directed. Appears in 된 걸까 — 'I wonder how we became [adults]' — the song's central repeated question.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-았/었던",
+      "usage": "Past-retrospective modifier for something recalled from memory. Appears in 연연하였던 (that I used to obsess over), describing a past state now looked back on.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어야 할 거야",
+      "usage": "'Will have to do X,' expressing a necessity framed as inevitable future. Appears in 닮아야 할 거야 — 'we'll have to resemble [them].'",
+      "topik_level": 3
+    }
+  ]
+}

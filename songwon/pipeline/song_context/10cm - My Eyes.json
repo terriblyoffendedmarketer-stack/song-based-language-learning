@@ -1,0 +1,56 @@
+{
+  "safe_name": "10cm - My Eyes",
+  "artist": "10cm",
+  "song": "My Eyes",
+  "song_story": {
+    "overview": "My Eyes is a 10cm song about the exact moment someone realizes they've fallen for a person — not gradually, but suddenly, with almost alarming intensity. The narrator can't hear anything except this person's voice, can't see anything except their eyes, and genuinely wonders out loud whether he's lost his mind. It's less a love song than a confused, funny, slightly panicked confession happening in real time.",
+    "cultural_root": "The song plays on 정신을 못 차리다 (to be unable to collect yourself, to lose your bearings) — a common Korean way to describe being overwhelmed by infatuation, treated almost like an illness or a temporary loss of sanity rather than a pleasant feeling. 미친걸까 ('am I crazy?') recurs through the song, which fits 10cm's signature style of undercutting sincere romantic feeling with self-deprecating, everyday language instead of grand declarations.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "너의 목소리만 넘나 크게 들려 / 다른건 아무것도 안들리고 / 너의 눈동자만 넘나 크게 보여 / 아니 내가 정말 미친걸까 / 하루종일 너만 생각하다 보니 / 머리가 이상해진 것 같아 / 혹시 내가 너를 좋아하게 / 되버린걸까",
+        "literal": "Only your voice sounds unbelievably loud to me / nothing else is audible at all / only your eyes look unbelievably big to me / no wait, am I actually going crazy?",
+        "context": "넘나 is a casual, exaggerated pronunciation of 너무나 ('so, unbelievably'), giving the line a spoken, almost blurted-out quality. The structure — sensory overload followed immediately by 아니 내가 정말 미친걸까 (wait, am I actually crazy?) — sets the song's comic-but-sincere tone: the feeling is real, but he doesn't trust it yet."
+      },
+      "verse_2": {
+        "lines": "아니 내가 그냥 미친걸까 / 너는 자꾸 이랬다 저랬다가 / 나를 흔들고 / 여기저기 왔다갔다 / 헷갈리게 만들고 / 자꾸만 보여 꿈속에서도 / 억지로 피하려고 해도 보여 / 어디든 있어 눈감아 봐도",
+        "literal": "After thinking about only you all day long / I feel like my head's gone strange / maybe I've ended up liking you / no wait, maybe I'm just crazy",
+        "context": "-다 보니 ('as a result of continuously doing X') shows the feeling building up gradually through repetition — obsessive thinking as a cause, confusion as the effect. 되버린걸까 (되어버린 걸까, contracted) uses -아/어 버리다 to suggest liking her happened almost against his will, something that just happened to him rather than something he chose."
+      },
+      "pre_chorus": {
+        "lines": "네맘은 / 내눈에만 보여 / 내눈에만 보여 / 너의 목소리만 넘나 크게 들려 / 다른건 아무것도 안들리고 / 너의 눈동자만 넘나 크게 보여 / 아니 내가 정말 미친걸까 / 너는 자꾸 있는 듯 없는 듯이",
+        "literal": "You keep going back and forth, this way then that / shaking me up / going here and there / making me confused",
+        "context": "이랬다 저랬다 (doing this, then that) and 왔다갔다 (coming and going) are common set expressions for inconsistent, unpredictable behavior — he's blaming his confusion partly on her mixed signals, not just his own overwhelmed state."
+      },
+      "chorus": {
+        "lines": "숨으려 하고 / 나를 피해 이리저리 / 도망치려 해봐도 / 자꾸만 보여 꿈속에서도 / 억지로 피하려고 해도 보여 / 어디든 있어 눈감아 봐도 / 네맘은 / 내눈에만 보여 / 내눈에만 보여 / 내눈에만 보여 / 내눈에만 보여",
+        "literal": "I keep seeing you, even in my dreams / even when I try hard to avoid it, I still see you / you're everywhere, even when I close my eyes / your heart / is visible only to my eyes",
+        "context": "네맘은 내눈에만 보여 (your heart is visible only to my eyes) is the song's turn from simple obsession into something more tender — he's claiming to understand her feelings in a way no one else can, a classic infatuated-narrator move, half genuine insight, half wishful thinking."
+      }
+    }
+  },
+  "artist_context": "10cm is fronted by Kwon Jung-yeol, whose distinctive nasal vocal delivery and plainspoken, diary-like lyrics helped bring indie-folk sensibility into the Korean mainstream. My Eyes fits the band's habit of narrating infatuation with humor and honesty rather than polish — someone half-panicking about a feeling he can't control.",
+  "honorific_level": "informal — 반말, addressed directly to the crush, half confession half self-talk",
+  "themes": [
+    "infatuation",
+    "confusion",
+    "obsession",
+    "self-deprecating humor"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-다 보니",
+      "usage": "'As a result of continuously ~ing.' 생각하다 보니 — 'from thinking [about you] constantly' — shows a state building up gradually through repeated action.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-아/어 버리다",
+      "usage": "Adds a sense of something happening beyond your control or against your will. 좋아하게 되버린걸까 — 'have I ended up liking you' — suggests the feeling snuck up on him.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-려고 해도",
+      "usage": "'Even if I try to ~.' 피하려고 해도 보여 — 'even if I try to avoid it, I still see it' — expressing an attempt that fails against a stronger force.",
+      "topik_level": 3
+    }
+  ]
+}

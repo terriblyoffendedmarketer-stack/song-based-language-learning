@@ -1,0 +1,380 @@
+{
+  "id": "lesson-jo-yuri-glassy",
+  "songId": "jo-yuri-glassy",
+  "level": "beginner",
+  "title": "GLASSY — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "JO YURI — GLASSY",
+      "content": "In this lesson, we'll learn words related to excitement, new crush, confidence.\nGrammar: 의태어 (sound-symbolic words) (Korean words that mimic actions or states through )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "GLASSY is a bright, high-energy song about the giddy rush of a crush turning into something real, framed as a journey — literally, her own two feet leading her forward into it. Jo Yuri sings about kno...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+        "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+        "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+        "너 역시 나를 보잖아요, 힐끔, 힐끔neo yeoksi nareul bojanayo, hilkkeum, hilkkeum"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+        "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+        "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+        "너 역시 나를 보잖아요, 힐끔, 힐끔neo yeoksi nareul bojanayo, hilkkeum, hilkkeum"
+      ],
+      "lyricTranslations": [
+        "I feel excited, like a star, like a star",
+        "eyes pour onto my every step (pour onto me, yeah)",
+        "even pretending not to notice, just a little, just a little",
+        "you're looking at me too, aren't you, glancing, glancing"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "기분",
+      "wordData": {
+        "word": {
+          "korean": "기분",
+          "english": "mood, feeling",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기분",
+          "english": "mood, feeling",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기분",
+          "english": "mood, feeling",
+          "pos": "noun"
+        },
+        "songLine": "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I feel excited, like a star, like a star",
+          "options": [
+            "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+            "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+            "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+            "너 역시 나를 보잖아요, 힐끔, 힐끔neo yeoksi nareul bojanayo, hilkkeum, hilkkeum"
+          ],
+          "correctAnswer": "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "eyes pour onto my every step (pour onto me, yeah)",
+          "options": [
+            "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+            "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+            "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+            "너 역시 나를 보잖아요, 힐끔, 힐끔neo yeoksi nareul bojanayo, hilkkeum, hilkkeum"
+          ],
+          "correctAnswer": "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "even pretending not to notice, just a little, just a little",
+          "options": [
+            "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+            "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+            "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+            "너 역시 나를 보잖아요, 힐끔, 힐끔neo yeoksi nareul bojanayo, hilkkeum, hilkkeum"
+          ],
+          "correctAnswer": "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "___이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+          "options": [
+            "지나다",
+            "꿈",
+            "마음",
+            "기분"
+          ],
+          "correctAnswer": "기분"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Korean words that mimic actions or states through sound and rhythm rather than literal meaning. This song uses 힐끔힐끔 (glancing repeatedly), 짜릿 (a tingling jolt), and 째깍째깍 (ticking) to add physical texture.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "의태어 (sound-symbolic words)",
+        "meaning": "Korean words that mimic actions or states through sound and rhythm rather than literal meaning. This song uses 힐끔힐끔 (glancing repeatedly), 짜릿 (a tingling jolt), and 째깍째깍 (ticking) to add physical texture.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'mood, feeling'의 한국어는?",
+          "options": [
+            "기분",
+            "마음",
+            "꿈",
+            "지나다"
+          ],
+          "correctAnswer": "기분"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "마음",
+            "꿈",
+            "기분",
+            "지나다"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "꿈",
+            "기분",
+            "지나다",
+            "시간"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어 줘' 패턴은 어떤 의미예요?",
+          "options": [
+            "please do (something) for me",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "please do (something) for me"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "기분이 들떠 like a star, like a stargibuni deultteo like a star, like a star",
+        "걸음에 시선이 쏟아져 (쏟아져, yeah)georeume siseoni ssodajyeo (ssodajyeo, yeah)",
+        "아닌척해도 살짝살짝anincheokaedo saljjaksaljjak",
+        "너 역시 나를 보잖아요, 힐끔, 힐끔neo yeoksi nareul bojanayo, hilkkeum, hilkkeum",
+        "여전히 난 어려워yeojeonhi nan eoryeowo",
+        "어디로 향하는지?eodiro hyanghaneunji?",
+        "숨길 수 없어진 나의 맘을sumgil su eopseojin naui mameul",
+        "따라와 줘, glassyttarawa jwo, glassy"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "기분",
+            "english": "mood, feeling"
+          },
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          }
+        ],
+        "patternLearned": "의태어 (sound-symbolic words)"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "JO YURI - GLASSY",
+    "artist": "JO YURI",
+    "song": "GLASSY",
+    "curriculum_level": 2
+  }
+}

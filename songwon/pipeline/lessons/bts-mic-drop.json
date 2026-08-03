@@ -1,0 +1,368 @@
+{
+  "id": "lesson-bts-mic-drop",
+  "songId": "bts-mic-drop",
+  "level": "advanced",
+  "title": "Mic Drop — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "BTS — Mic Drop",
+      "content": "In this lesson, we'll learn words related to triumph, clapback, class defiance.\nGrammar: 사자성어 (four-character idioms) (사필귀정 (things return to what's right) is a classica)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Mic Drop (2017) is BTS's victory-lap answer to years of being dismissed by critics who assumed an idol group couldn't be serious musicians. It's aggressive, boastful, and specific — trophies filling u...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Yeah, 누가 내 수저 더럽대?",
+        "I don't care, 마이크 잡음 금수저 여럿 패",
+        "버럭해 잘 못 익은 것들 스테끼 여러 개",
+        "거듭해서 씹어줄게 스타의 저녁에"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "Yeah, 누가 내 수저 더럽대?",
+        "I don't care, 마이크 잡음 금수저 여럿 패",
+        "버럭해 잘 못 익은 것들 스테끼 여러 개",
+        "거듭해서 씹어줄게 스타의 저녁에"
+      ],
+      "lyricTranslations": [
+        "Who says my spoon is dirty?",
+        "I don't care — once I grab the mic I beat plenty of gold spoons",
+        "I get furious at half-baked ones, several steaks",
+        "I'll keep chewing them up at the star's dinner"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "아프다",
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective"
+        },
+        "songLine": "혹 배가 아프다면 고소해, sue it",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "잡다",
+      "wordData": {
+        "word": {
+          "korean": "잡다",
+          "english": "to hold, grab",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잡다",
+          "english": "to hold, grab",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잡다",
+          "english": "to hold, grab",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "죽다",
+      "wordData": {
+        "word": {
+          "korean": "죽다",
+          "english": "to die",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "죽다",
+          "english": "to die",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "죽다",
+          "english": "to die",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Who says my spoon is dirty?",
+          "options": [
+            "버럭해 잘 못 익은 것들 스테끼 여러 개",
+            "Yeah, 누가 내 수저 더럽대?",
+            "I don't care, 마이크 잡음 금수저 여럿 패",
+            "거듭해서 씹어줄게 스타의 저녁에"
+          ],
+          "correctAnswer": "Yeah, 누가 내 수저 더럽대?",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I don't care — once I grab the mic I beat plenty of gold spoons",
+          "options": [
+            "거듭해서 씹어줄게 스타의 저녁에",
+            "I don't care, 마이크 잡음 금수저 여럿 패",
+            "버럭해 잘 못 익은 것들 스테끼 여러 개",
+            "Yeah, 누가 내 수저 더럽대?"
+          ],
+          "correctAnswer": "I don't care, 마이크 잡음 금수저 여럿 패",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I get furious at half-baked ones, several steaks",
+          "options": [
+            "I don't care, 마이크 잡음 금수저 여럿 패",
+            "버럭해 잘 못 익은 것들 스테끼 여러 개",
+            "Yeah, 누가 내 수저 더럽대?",
+            "거듭해서 씹어줄게 스타의 저녁에"
+          ],
+          "correctAnswer": "버럭해 잘 못 익은 것들 스테끼 여러 개",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "사필귀정 (things return to what's right) is a classical Chinese-origin idiom still used in everyday Korean for a sense of cosmic justice — using one signals both wit and education.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "사자성어 (four-character idioms)",
+        "meaning": "사필귀정 (things return to what's right) is a classical Chinese-origin idiom still used in everyday Korean for a sense of cosmic justice — using one signals both wit and education.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'sick, hurt'의 한국어는?",
+          "options": [
+            "잡다",
+            "바람",
+            "아프다",
+            "죽다"
+          ],
+          "correctAnswer": "아프다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to hold, grab'의 한국어는?",
+          "options": [
+            "잡다",
+            "죽다",
+            "아프다",
+            "사랑"
+          ],
+          "correctAnswer": "잡다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to die'의 한국어는?",
+          "options": [
+            "아프다",
+            "죽다",
+            "바람",
+            "잡다"
+          ],
+          "correctAnswer": "죽다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어 줄게(요)' 패턴은 어떤 의미예요?",
+          "options": [
+            "I'll do it for you",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "I'll do it for you"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Yeah, 누가 내 수저 더럽대?",
+        "I don't care, 마이크 잡음 금수저 여럿 패",
+        "버럭해 잘 못 익은 것들 스테끼 여러 개",
+        "거듭해서 씹어줄게 스타의 저녁에",
+        "World business (Bang, bang) 핵심",
+        "섭외 1순위 (Clap, clap) 매진",
+        "많지 않지 이 class 가칠 만끽",
+        "좋은 향기에 악췬 반칙"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "아프다",
+            "english": "sick, hurt"
+          },
+          {
+            "korean": "잡다",
+            "english": "to hold, grab"
+          },
+          {
+            "korean": "죽다",
+            "english": "to die"
+          }
+        ],
+        "patternLearned": "사자성어 (four-character idioms)"
+      }
+    }
+  ],
+  "xpReward": 50,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "BTS - Mic Drop",
+    "artist": "BTS",
+    "song": "Mic Drop",
+    "curriculum_level": 5
+  }
+}

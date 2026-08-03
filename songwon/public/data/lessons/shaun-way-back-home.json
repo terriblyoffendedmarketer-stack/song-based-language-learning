@@ -1,0 +1,365 @@
+{
+  "id": "lesson-shaun-way-back-home",
+  "songId": "shaun-way-back-home",
+  "level": "beginner",
+  "title": "Way Back Home — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "SHAUN — Way Back Home",
+      "content": "In this lesson, we'll learn words related to devotion, home as a person, steadfastness.\nGrammar: -(이)라는 ('Called/known as.' 너라는 집 ('the home that is called)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Way Back Home is a promise song — the English verses set up a vow made 'right from the start' that no matter how far apart the two people get, the narrator will always find their way back. The Korean ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "조용히 잠든 방을 열어 기억을 꺼내 들어",
+        "부서진 시간 위에서 선명히 너는 떠올라"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "조용히 잠든 방을 열어 기억을 꺼내 들어",
+        "부서진 시간 위에서 선명히 너는 떠올라"
+      ],
+      "lyricTranslations": [
+        "(direct English)"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "기억",
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기억",
+          "english": "memory",
+          "pos": "noun"
+        },
+        "songLine": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "시간",
+      "wordData": {
+        "word": {
+          "korean": "시간",
+          "english": "time",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "시간",
+          "english": "time",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "시간",
+          "english": "time",
+          "pos": "noun"
+        },
+        "songLine": "부서진 시간 위에서 선명히 너는 떠올라",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "곁",
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "곁에 있어 줘",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun"
+        },
+        "songLine": "아무리 막아도 결국 너의 곁인 걸",
+        "dailySentence": {
+          "korean": "곁에 있어 줘",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "(direct English)",
+          "options": [
+            "...",
+            "조용히 잠든 방을 열어 기억을 꺼내 들어",
+            "...",
+            "부서진 시간 위에서 선명히 너는 떠올라"
+          ],
+          "correctAnswer": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "조용히 잠든 방을 열어 ___을 꺼내 들어",
+          "options": [
+            "곁",
+            "세상",
+            "기억",
+            "시간"
+          ],
+          "correctAnswer": "기억"
+        },
+        {
+          "id": "fb-1",
+          "type": "fill-blank",
+          "prompt": "부서진 ___ 위에서 선명히 너는 떠올라",
+          "options": [
+            "행복",
+            "곁",
+            "시간",
+            "기억"
+          ],
+          "correctAnswer": "시간"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Called/known as.' 너라는 집 ('the home that is called you') directly equates two nouns — a person and the concept of home — rather than comparing them with 처럼 (like).",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(이)라는",
+        "meaning": "'Called/known as.' 너라는 집 ('the home that is called you') directly equates two nouns — a person and the concept of home — rather than comparing them with 처럼 (like).",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'memory'의 한국어는?",
+          "options": [
+            "하늘",
+            "곁",
+            "시간",
+            "기억"
+          ],
+          "correctAnswer": "기억"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'time'의 한국어는?",
+          "options": [
+            "시간",
+            "행복",
+            "기억",
+            "곁"
+          ],
+          "correctAnswer": "시간"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'side, next to'의 한국어는?",
+          "options": [
+            "시간",
+            "곁",
+            "기억",
+            "마음"
+          ],
+          "correctAnswer": "곁"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄴ 채' 패턴은 어떤 의미예요?",
+          "options": [
+            "in the state of, while remaining",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "in the state of, while remaining"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "조용히 잠든 방을 열어 기억을 꺼내 들어",
+        "부서진 시간 위에서 선명히 너는 떠올라",
+        "길 잃은 마음속에 널 가둔 채 살아",
+        "그만 그만",
+        "멈춘 시간 속 잠든 너를 찾아가",
+        "아무리 막아도 결국 너의 곁인 걸",
+        "길고 긴 여행을 끝내 이젠 돌아가",
+        "너라는 집으로 지금 다시 way back home"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "기억",
+            "english": "memory"
+          },
+          {
+            "korean": "시간",
+            "english": "time"
+          },
+          {
+            "korean": "곁",
+            "english": "side, next to"
+          }
+        ],
+        "patternLearned": "-(이)라는"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "SHAUN - Way Back Home",
+    "artist": "SHAUN",
+    "song": "Way Back Home",
+    "curriculum_level": 2
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "levels": {
+    "1": {
+      "name": "초급 1 — Foundations",
+      "lessons": [
+        {
+          "id": "lesson-bewhy-ok-prod-by-gray",
+          "file": "lessons/bewhy-ok-prod-by-gray.json",
+          "safe_name": "BewhY - OK (Prod. by GRAY)",
+          "title": "OK — 수업",
+          "xpReward": 20,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-lucy-i-got-u",
+          "file": "lessons/lucy-i-got-u.json",
+          "safe_name": "LUCY - I Got U",
+          "title": "I Got U — 수업",
+          "xpReward": 20,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-lyn-love-story",
+          "file": "lessons/lyn-love-story.json",
+          "safe_name": "Lyn - Love Story",
+          "title": "Love Story — 수업",
+          "xpReward": 20,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-lundi-blues-fake-folk-version",
+          "file": "lessons/lundi-blues-fake-folk-version.json",
+          "safe_name": "Lundi Blues - Fake - Folk Version",
+          "title": "Fake - Folk Version — 수업",
+          "xpReward": 20,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-10cm-my-eyes",
+          "file": "lessons/10cm-my-eyes.json",
+          "safe_name": "10cm - My Eyes",
+          "title": "My Eyes — 수업",
+          "xpReward": 20,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-youngjoo-smells",
+          "file": "lessons/youngjoo-smells.json",
+          "safe_name": "YOUNGJOO - Smells",
+          "title": "Smells — 수업",
+          "xpReward": 20,
+          "sections_count": 18
+        }
+      ]
+    },
+    "2": {
+      "name": "초급 2 — Simple Sentences",
+      "lessons": [
+        {
+          "id": "lesson-kpop-demon-hunters-golden",
+          "file": "lessons/kpop-demon-hunters-golden.json",
+          "safe_name": "Kpop Demon Hunters - Golden",
+          "title": "Golden — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bumkey-family",
+          "file": "lessons/bumkey-family.json",
+          "safe_name": "BUMKEY - Family",
+          "title": "Family — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-shaun-way-back-home",
+          "file": "lessons/shaun-way-back-home.json",
+          "safe_name": "SHAUN - Way Back Home",
+          "title": "Way Back Home — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-sogyumo-acacia-band-butterfly",
+          "file": "lessons/sogyumo-acacia-band-butterfly.json",
+          "safe_name": "Sogyumo Acacia Band - Butterfly",
+          "title": "Butterfly — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bibi-very-slowly",
+          "file": "lessons/bibi-very-slowly.json",
+          "safe_name": "BIBI - Very, Slowly",
+          "title": "Very, Slowly — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-heize-why",
+          "file": "lessons/heize-why.json",
+          "safe_name": "Heize - Why",
+          "title": "Why — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-park-boram-hyehwadong-or-sangmundong",
+          "file": "lessons/park-boram-hyehwadong-or-sangmundong.json",
+          "safe_name": "Park Boram - Hyehwadong (or Sangmundong)",
+          "title": "Hyehwadong (or Sangmundong) — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bol4-seoul",
+          "file": "lessons/bol4-seoul.json",
+          "safe_name": "BOL4 - Seoul",
+          "title": "Seoul — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bol4-some",
+          "file": "lessons/bol4-some.json",
+          "safe_name": "BOL4 - Some",
+          "title": "Some — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-jo-yuri-glassy",
+          "file": "lessons/jo-yuri-glassy.json",
+          "safe_name": "JO YURI - GLASSY",
+          "title": "GLASSY — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bol4-love-story",
+          "file": "lessons/bol4-love-story.json",
+          "safe_name": "BOL4 - Love story",
+          "title": "Love story — 수업",
+          "xpReward": 25,
+          "sections_count": 18
+        }
+      ]
+    },
+    "3": {
+      "name": "초급 3 — Expressing Feelings",
+      "lessons": [
+        {
+          "id": "lesson-momoland-bboom-bboom",
+          "file": "lessons/momoland-bboom-bboom.json",
+          "safe_name": "MOMOLAND - BBoom BBoom",
+          "title": "BBoom BBoom — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-10cm-phonecert",
+          "file": "lessons/10cm-phonecert.json",
+          "safe_name": "10cm - Phonecert",
+          "title": "Phonecert — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-good-day",
+          "file": "lessons/iu-good-day.json",
+          "safe_name": "IU - Good day",
+          "title": "Good day — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-twice-fancy",
+          "file": "lessons/twice-fancy.json",
+          "safe_name": "TWICE - FANCY",
+          "title": "FANCY — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-twice-what-is-love",
+          "file": "lessons/twice-what-is-love.json",
+          "safe_name": "TWICE - What is Love_",
+          "title": "What is Love? — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-nca-tikitik-jian-flashback",
+          "file": "lessons/nca-tikitik-jian-flashback.json",
+          "safe_name": "NC.A, TIKITIK, 유준호, JIAN - Flashback",
+          "title": "Flashback — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-punch-done-for-me",
+          "file": "lessons/punch-done-for-me.json",
+          "safe_name": "Punch - Done For Me",
+          "title": "Done For Me — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-sunmi-pporappippam",
+          "file": "lessons/sunmi-pporappippam.json",
+          "safe_name": "SUNMI - pporappippam",
+          "title": "pporappippam — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-10cm-stalker",
+          "file": "lessons/10cm-stalker.json",
+          "safe_name": "10cm - Stalker",
+          "title": "Stalker — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-jang-beom-june-your-shampoo-scent-in-the-flowers",
+          "file": "lessons/jang-beom-june-your-shampoo-scent-in-the-flowers.json",
+          "safe_name": "Jang Beom June - Your Shampoo Scent In The Flowers",
+          "title": "Your Shampoo Scent In The Flowers — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-twice-feel-special",
+          "file": "lessons/twice-feel-special.json",
+          "safe_name": "TWICE - Feel Special",
+          "title": "Feel Special — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-day6-you-were-beautiful",
+          "file": "lessons/day6-you-were-beautiful.json",
+          "safe_name": "DAY6 - You Were Beautiful",
+          "title": "You Were Beautiful — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-sogyumo-acacia-band-almost-blue-2019-remake",
+          "file": "lessons/sogyumo-acacia-band-almost-blue-2019-remake.json",
+          "safe_name": "Sogyumo Acacia Band - Almost Blue (2019 Remake)",
+          "title": "Almost Blue (2019 Remake) — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-through-the-night",
+          "file": "lessons/iu-through-the-night.json",
+          "safe_name": "IU - Through the Night(밤편지)",
+          "title": "Through the Night(밤편지) — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-twice-likey",
+          "file": "lessons/twice-likey.json",
+          "safe_name": "TWICE - Likey",
+          "title": "Likey — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-gaho",
+          "file": "lessons/gaho.json",
+          "safe_name": "Gaho - 시작",
+          "title": "시작 — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-red-velvet-psycho",
+          "file": "lessons/red-velvet-psycho.json",
+          "safe_name": "Red Velvet - Psycho",
+          "title": "Psycho — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-ben-just-like-a-dream",
+          "file": "lessons/ben-just-like-a-dream.json",
+          "safe_name": "BEN - Just Like a Dream",
+          "title": "Just Like a Dream — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bts-life-goes-on",
+          "file": "lessons/bts-life-goes-on.json",
+          "safe_name": "BTS - Life Goes On",
+          "title": "Life Goes On — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-leehi-1-2-3-4",
+          "file": "lessons/leehi-1-2-3-4.json",
+          "safe_name": "LEEHI - 1, 2, 3, 4",
+          "title": "1, 2, 3, 4 — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-davichi",
+          "file": "lessons/davichi.json",
+          "safe_name": "DAVICHI - 그대니까요",
+          "title": "그대니까요 — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-day6-shoot-me",
+          "file": "lessons/day6-shoot-me.json",
+          "safe_name": "DAY6 - Shoot Me",
+          "title": "Shoot Me — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-blueming",
+          "file": "lessons/iu-blueming.json",
+          "safe_name": "IU - Blueming",
+          "title": "Blueming — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-mamamoo-girl-crush",
+          "file": "lessons/mamamoo-girl-crush.json",
+          "safe_name": "MAMAMOO - Girl Crush",
+          "title": "Girl Crush — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-girls-generation-lion-heart",
+          "file": "lessons/girls-generation-lion-heart.json",
+          "safe_name": "Girls' Generation - Lion Heart",
+          "title": "Lion Heart — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-mamamoo-mrambiguous",
+          "file": "lessons/mamamoo-mrambiguous.json",
+          "safe_name": "MAMAMOO - Mr-Ambiguous",
+          "title": "Mr-Ambiguous — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-mamamoo-gogobebe",
+          "file": "lessons/mamamoo-gogobebe.json",
+          "safe_name": "MAMAMOO - gogobebe",
+          "title": "gogobebe — 수업",
+          "xpReward": 30,
+          "sections_count": 18
+        }
+      ]
+    },
+    "4": {
+      "name": "중급 1 — Connected Ideas",
+      "lessons": [
+        {
+          "id": "lesson-ive-xoxz",
+          "file": "lessons/ive-xoxz.json",
+          "safe_name": "IVE - XOXZ",
+          "title": "XOXZ — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-taeyeon-four-seasons",
+          "file": "lessons/taeyeon-four-seasons.json",
+          "safe_name": "TAEYEON - Four Seasons",
+          "title": "Four Seasons — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-taeyeon-weekend",
+          "file": "lessons/taeyeon-weekend.json",
+          "safe_name": "TAEYEON - Weekend",
+          "title": "Weekend — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-gdragon-palette-feat-gdragon",
+          "file": "lessons/iu-gdragon-palette-feat-gdragon.json",
+          "safe_name": "IU, G-DRAGON - Palette (feat. G-DRAGON)",
+          "title": "Palette (feat. G-DRAGON) — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-10cm-lean-on-my-shoulder",
+          "file": "lessons/10cm-lean-on-my-shoulder.json",
+          "safe_name": "10cm - Lean On My Shoulder",
+          "title": "Lean On My Shoulder — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-taeyeon-1111",
+          "file": "lessons/taeyeon-1111.json",
+          "safe_name": "TAEYEON - 11_11",
+          "title": "11:11 — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-ive-baddie",
+          "file": "lessons/ive-baddie.json",
+          "safe_name": "IVE - Baddie",
+          "title": "Baddie — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-punch-stay-with-me",
+          "file": "lessons/punch-stay-with-me.json",
+          "safe_name": "Punch - Stay With Me",
+          "title": "Stay With Me — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-ha-hyun-sang-lighthouse",
+          "file": "lessons/ha-hyun-sang-lighthouse.json",
+          "safe_name": "Ha Hyun Sang - Lighthouse",
+          "title": "Lighthouse — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-moon-byul-absence",
+          "file": "lessons/moon-byul-absence.json",
+          "safe_name": "Moon Byul - Absence",
+          "title": "Absence — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-shaun-closed-ending",
+          "file": "lessons/shaun-closed-ending.json",
+          "safe_name": "SHAUN - Closed Ending",
+          "title": "Closed Ending — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bts-fake-love",
+          "file": "lessons/bts-fake-love.json",
+          "safe_name": "BTS - FAKE LOVE",
+          "title": "FAKE LOVE — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bts-save-me",
+          "file": "lessons/bts-save-me.json",
+          "safe_name": "BTS - Save Me",
+          "title": "Save Me — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-kim-yuna-the-road",
+          "file": "lessons/kim-yuna-the-road.json",
+          "safe_name": "Kim Yuna - The Road",
+          "title": "The Road — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-exo-love-shot",
+          "file": "lessons/exo-love-shot.json",
+          "safe_name": "EXO - Love Shot",
+          "title": "Love Shot — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-coin",
+          "file": "lessons/iu-coin.json",
+          "safe_name": "IU - Coin",
+          "title": "Coin — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-dreamcatcher-deja-vu",
+          "file": "lessons/dreamcatcher-deja-vu.json",
+          "safe_name": "Dreamcatcher - Deja Vu",
+          "title": "Deja Vu — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-suga-eightprodfeat-suga-of-bts",
+          "file": "lessons/iu-suga-eightprodfeat-suga-of-bts.json",
+          "safe_name": "IU, SUGA - eight(Prod.&Feat. SUGA of BTS)",
+          "title": "eight(Prod.&Feat. SUGA of BTS) — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-jannabi-for-lovers-who-hesitate",
+          "file": "lessons/jannabi-for-lovers-who-hesitate.json",
+          "safe_name": "JANNABI - for lovers who hesitate",
+          "title": "for lovers who hesitate — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-mamamoo-hip",
+          "file": "lessons/mamamoo-hip.json",
+          "safe_name": "MAMAMOO - HIP",
+          "title": "HIP — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-raiden-chanyeol-leehi-changmo-yours",
+          "file": "lessons/raiden-chanyeol-leehi-changmo-yours.json",
+          "safe_name": "Raiden, CHANYEOL, LEEHI, CHANGMO - Yours",
+          "title": "Yours — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-iu-meaning-of-you",
+          "file": "lessons/iu-meaning-of-you.json",
+          "safe_name": "IU - Meaning of you",
+          "title": "Meaning of you — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-jaurim",
+          "file": "lessons/jaurim.json",
+          "safe_name": "JAURIM - 스물다섯, 스물하나",
+          "title": "스물다섯, 스물하나 — 수업",
+          "xpReward": 40,
+          "sections_count": 18
+        }
+      ]
+    },
+    "5": {
+      "name": "중급 2 — Nuance",
+      "lessons": [
+        {
+          "id": "lesson-shin-in-ryu-undecided",
+          "file": "lessons/shin-in-ryu-undecided.json",
+          "safe_name": "Shin In Ryu - Undecided",
+          "title": "Undecided — 수업",
+          "xpReward": 50,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-bts-mic-drop",
+          "file": "lessons/bts-mic-drop.json",
+          "safe_name": "BTS - Mic Drop",
+          "title": "Mic Drop — 수업",
+          "xpReward": 50,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-lim-jae-beum",
+          "file": "lessons/lim-jae-beum.json",
+          "safe_name": "Lim Jae Beum - 낙인",
+          "title": "낙인 — 수업",
+          "xpReward": 50,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-suga-dwechita",
+          "file": "lessons/suga-dwechita.json",
+          "safe_name": "Suga - Dwechita",
+          "title": "Dwechita — 수업",
+          "xpReward": 50,
+          "sections_count": 18
+        },
+        {
+          "id": "lesson-jannabi-dreams-books-power-and-walls",
+          "file": "lessons/jannabi-dreams-books-power-and-walls.json",
+          "safe_name": "JANNABI - dreams, books, power and walls",
+          "title": "dreams, books, power and walls — 수업",
+          "xpReward": 50,
+          "sections_count": 18
+        }
+      ]
+    }
+  },
+  "total_lessons": 72
+}

@@ -1,0 +1,380 @@
+{
+  "id": "lesson-moon-byul-absence",
+  "songId": "moon-byul-absence",
+  "level": "intermediate",
+  "title": "Absence — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Moon Byul — Absence",
+      "content": "In this lesson, we'll learn words related to emotional absence, quiet loss, presence without connection.\nGrammar: -나 봐 (A hesitant self-observation — 'I guess/it seems.' )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Absence is about the specific dread of losing someone while they're still right next to you. The narrator can't explain what changed, only that something in her has started dying quietly, without her ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "아무 뜻도 없이 무심하게 내뱉었지만",
+        "이젠 나만 혼자 남겨두지 말란 뜻이야",
+        "이 순간은 무시해 푸념일 뿐인데",
+        "내 생각을 설명할 수 없어"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "아무 뜻도 없이 무심하게 내뱉었지만",
+        "이젠 나만 혼자 남겨두지 말란 뜻이야",
+        "이 순간은 무시해 푸념일 뿐인데",
+        "내 생각을 설명할 수 없어"
+      ],
+      "lyricTranslations": [
+        "I said it carelessly, without meaning anything by it",
+        "but now it means don't leave me here alone",
+        "ignore this moment, it's just complaining",
+        "but I can't explain my own thoughts"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "혼자",
+      "wordData": {
+        "word": {
+          "korean": "혼자",
+          "english": "alone",
+          "pos": "adverb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "혼자",
+          "english": "alone",
+          "pos": "adverb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "혼자",
+          "english": "alone",
+          "pos": "adverb"
+        },
+        "songLine": "이젠 나만 혼자 남겨두지 말란 뜻이야",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "놓다",
+      "wordData": {
+        "word": {
+          "korean": "놓다",
+          "english": "to let go, put",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "놓다",
+          "english": "to let go, put",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "놓다",
+          "english": "to let go, put",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I said it carelessly, without meaning anything by it",
+          "options": [
+            "이젠 나만 혼자 남겨두지 말란 뜻이야",
+            "이 순간은 무시해 푸념일 뿐인데",
+            "아무 뜻도 없이 무심하게 내뱉었지만",
+            "내 생각을 설명할 수 없어"
+          ],
+          "correctAnswer": "아무 뜻도 없이 무심하게 내뱉었지만",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "but now it means don't leave me here alone",
+          "options": [
+            "아무 뜻도 없이 무심하게 내뱉었지만",
+            "내 생각을 설명할 수 없어",
+            "이젠 나만 혼자 남겨두지 말란 뜻이야",
+            "이 순간은 무시해 푸념일 뿐인데"
+          ],
+          "correctAnswer": "이젠 나만 혼자 남겨두지 말란 뜻이야",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "ignore this moment, it's just complaining",
+          "options": [
+            "내 생각을 설명할 수 없어",
+            "이 순간은 무시해 푸념일 뿐인데",
+            "이젠 나만 혼자 남겨두지 말란 뜻이야",
+            "아무 뜻도 없이 무심하게 내뱉었지만"
+          ],
+          "correctAnswer": "이 순간은 무시해 푸념일 뿐인데",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-1",
+          "type": "fill-blank",
+          "prompt": "이젠 나만 ___ 남겨두지 말란 뜻이야",
+          "options": [
+            "사라지다",
+            "놓다",
+            "사랑",
+            "혼자"
+          ],
+          "correctAnswer": "혼자"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "A hesitant self-observation — 'I guess/it seems.' 죽고 있나 봐 makes an intense claim (something in me is dying) sound like a quiet realization rather than a dramatic statement.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-나 봐",
+        "meaning": "A hesitant self-observation — 'I guess/it seems.' 죽고 있나 봐 makes an intense claim (something in me is dying) sound like a quiet realization rather than a dramatic statement.",
+        "songExample": {
+          "korean": "나도 모르게 죽고 있나 봐",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'alone'의 한국어는?",
+          "options": [
+            "혼자",
+            "놓다",
+            "사라지다",
+            "사람"
+          ],
+          "correctAnswer": "혼자"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "놓다",
+            "혼자",
+            "사라지다",
+            "바람"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to let go, put'의 한국어는?",
+          "options": [
+            "혼자",
+            "놓다",
+            "사라지다",
+            "바람"
+          ],
+          "correctAnswer": "놓다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-던' 패턴은 어떤 의미예요?",
+          "options": [
+            "past retrospective modifier",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "past retrospective modifier"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "아무 뜻도 없이 무심하게 내뱉었지만",
+        "이젠 나만 혼자 남겨두지 말란 뜻이야",
+        "이 순간은 무시해 푸념일 뿐인데",
+        "내 생각을 설명할 수 없어",
+        "혼란스러워 leave me alone",
+        "비워낼 수 없는 미움도",
+        "내 온몸에 새길 듯이",
+        "내가 사랑했던 말들이"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "혼자",
+            "english": "alone"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          },
+          {
+            "korean": "놓다",
+            "english": "to let go, put"
+          }
+        ],
+        "patternLearned": "-나 봐"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Moon Byul - Absence",
+    "artist": "Moon Byul",
+    "song": "Absence",
+    "curriculum_level": 4
+  }
+}

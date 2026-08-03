@@ -1,0 +1,374 @@
+{
+  "id": "lesson-raiden-chanyeol-leehi-changmo-yours",
+  "songId": "raiden-chanyeol-leehi-changmo-yours",
+  "level": "intermediate",
+  "title": "Yours — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Raiden, CHANYEOL, LEEHI, CHANGMO — Yours",
+      "content": "In this lesson, we'll learn words related to devotion, surrender, hesitant confession.\nGrammar: -(으)ㄴ 채 ('While remaining in a state of...' 한 치 앞도 모른 채 (no)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Yours is a slow-building R&B surrender song — the narrator gives up any pretense of control over the relationship and hands themselves over completely, repeating 'I'll be yours' like a vow. The multip...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "입술에 가려진ipsure garyeojin",
+        "눈빛에 속삭임nunbiche soksagim",
+        "무심한 관심만큼musimhan gwansimmankeum",
+        "아픈 게 있을까apeun ge isseulkka"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "입술에 가려진ipsure garyeojin",
+        "눈빛에 속삭임nunbiche soksagim",
+        "무심한 관심만큼musimhan gwansimmankeum",
+        "아픈 게 있을까apeun ge isseulkka"
+      ],
+      "lyricTranslations": [
+        "Hidden behind lips",
+        "a whisper in the eyes",
+        "I'll be yours",
+        "I'll be yours"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "관심",
+      "wordData": {
+        "word": {
+          "korean": "관심",
+          "english": "interest",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "관심",
+          "english": "interest",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "관심",
+          "english": "interest",
+          "pos": "noun"
+        },
+        "songLine": "무심한 관심만큼musimhan gwansimmankeum",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "잃다",
+      "wordData": {
+        "word": {
+          "korean": "잃다",
+          "english": "to lose",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잃다",
+          "english": "to lose",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잃다",
+          "english": "to lose",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "심장",
+      "wordData": {
+        "word": {
+          "korean": "심장",
+          "english": "heart (organ)",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "심장",
+          "english": "heart (organ)",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "심장이 발피는 듯해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "심장",
+          "english": "heart (organ)",
+          "pos": "noun"
+        },
+        "songLine": "심장이 발피는 듯해simjang-i balpineun deutae",
+        "dailySentence": {
+          "korean": "심장이 발피는 듯해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Hidden behind lips",
+          "options": [
+            "아픈 게 있을까apeun ge isseulkka",
+            "눈빛에 속삭임nunbiche soksagim",
+            "무심한 관심만큼musimhan gwansimmankeum",
+            "입술에 가려진ipsure garyeojin"
+          ],
+          "correctAnswer": "입술에 가려진ipsure garyeojin",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "a whisper in the eyes",
+          "options": [
+            "아픈 게 있을까apeun ge isseulkka",
+            "눈빛에 속삭임nunbiche soksagim",
+            "무심한 관심만큼musimhan gwansimmankeum",
+            "입술에 가려진ipsure garyeojin"
+          ],
+          "correctAnswer": "눈빛에 속삭임nunbiche soksagim",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I'll be yours",
+          "options": [
+            "무심한 관심만큼musimhan gwansimmankeum",
+            "입술에 가려진ipsure garyeojin",
+            "아픈 게 있을까apeun ge isseulkka",
+            "눈빛에 속삭임nunbiche soksagim"
+          ],
+          "correctAnswer": "무심한 관심만큼musimhan gwansimmankeum",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'While remaining in a state of...' 한 치 앞도 모른 채 (not knowing even an inch ahead, while) describes an ongoing condition someone is stuck in, not a single completed action.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "'While remaining in a state of...' 한 치 앞도 모른 채 (not knowing even an inch ahead, while) describes an ongoing condition someone is stuck in, not a single completed action.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'interest'의 한국어는?",
+          "options": [
+            "잃다",
+            "사랑",
+            "관심",
+            "심장"
+          ],
+          "correctAnswer": "관심"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to lose'의 한국어는?",
+          "options": [
+            "관심",
+            "잃다",
+            "심장",
+            "행복"
+          ],
+          "correctAnswer": "잃다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'heart (organ)'의 한국어는?",
+          "options": [
+            "잃다",
+            "관심",
+            "바람",
+            "심장"
+          ],
+          "correctAnswer": "심장"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄴ 채' 패턴은 어떤 의미예요?",
+          "options": [
+            "in the state of, while remaining",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "in the state of, while remaining"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "입술에 가려진ipsure garyeojin",
+        "눈빛에 속삭임nunbiche soksagim",
+        "무심한 관심만큼musimhan gwansimmankeum",
+        "아픈 게 있을까apeun ge isseulkka",
+        "흑백 같은 시간heukbaek gateun sigan",
+        "한 치 앞도 모른 채han chi apdo moreun chae",
+        "너를 헤매드시neoreul hemaedeusi",
+        "기다려 온 느낌gidaryeo on neukkim"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "관심",
+            "english": "interest"
+          },
+          {
+            "korean": "잃다",
+            "english": "to lose"
+          },
+          {
+            "korean": "심장",
+            "english": "heart (organ)"
+          }
+        ],
+        "patternLearned": "-(으)ㄴ 채"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Raiden, CHANYEOL, LEEHI, CHANGMO - Yours",
+    "artist": "Raiden, CHANYEOL, LEEHI, CHANGMO",
+    "song": "Yours",
+    "curriculum_level": 4
+  }
+}

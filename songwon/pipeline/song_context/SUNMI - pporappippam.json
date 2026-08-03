@@ -1,0 +1,56 @@
+{
+  "safe_name": "SUNMI - pporappippam",
+  "artist": "SUNMI",
+  "song": "pporappippam",
+  "song_story": {
+    "overview": "보라빛 밤 (pporappippam, 'purple night') is about a night that's too good to last, and knowing it while it's happening. Someone is offering her everything — they'll say whatever she wants to hear, promise her the stars — and all she wants is more time in this one particular night, holding onto someone's hand and refusing to let go. The recurring worry that it'll all disappear the moment she opens her eyes gives the whole song a Cinderella-at-midnight tension: she's not naive about how temporary this is, she's choosing to stay in it anyway.",
+    "cultural_root": "보랏빛 (purple hue) functions here as its own emotional register — not clearly happy, not clearly sad, a color used across Korean pop imagery for a mood suspended between two states, fitting a song about a night the singer knows is borrowed time. The song also plays on the specifically Korean idea of 밤문화 — nighttime as a kind of liminal, rule-suspended space, distinct from daytime obligations and daytime self. 'Purple night' becomes shorthand for a self she only gets to be after dark, one that evaporates with the sunrise.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "내게 뭘 원하냬 / 그냥 말만 하래 / 하늘에 별도 따주겠대 / 다른 건 안 바래 / 이 밤만 원하네 / 그대 손 잡고 안 놔줄래",
+        "literal": "He asks what I want / says just tell him, that's all / says he'll even pluck a star from the sky for me / I don't want anything else / I only want this night / holding your hand, I won't let go",
+        "context": "-대 (a casual reported-speech ending) relays everything he's offering at a slight remove — she's quoting his promises, not necessarily believing all of them. Against a promise as extravagant as plucking a star from the sky, her own want is deliberately small and specific: just this one night, just this hand."
+      },
+      "chorus": {
+        "lines": "보라빛 밤 I like it like it / 더 같이 있자 아직 이르잖아 / We're like 보라빛 밤 날 하늘 위로 / 터트려 볼래 이 밤 밤 밤 밤 밤",
+        "literal": "Purple night, I like it like it / let's stay together longer, it's still early / we're like a purple night, up into the sky / want to burst me open, this night night night night night",
+        "context": "아직 이르잖아 (it's still early, isn't it) is a small negotiation for more time — not a demand, a soft persuasion. 터트리다 (to burst/pop, like fireworks) applied to herself suggests a kind of joyful release, letting the night's intensity break something open in her rather than holding it in."
+      },
+      "pre_chorus": {
+        "lines": "Oh, 그대여 / 눈뜨면 다 사라져 / 엉망이 돼도 / Oh, 그대여 / 난 다시 또 이 밤을 기다릴게요",
+        "literal": "Oh, you / when I open my eyes, it all disappears / even if it becomes a mess / Oh, you / I'll wait for this night again",
+        "context": "눈뜨면 다 사라져 (when I open my eyes, it all disappears) is the Cinderella logic made explicit — this happiness has a built-in expiration the moment consciousness/morning returns. 엉망이 돼도 (even if it becomes a mess) admits the likely aftermath and chooses the night anyway, willing to wait for another one even knowing the cost."
+      },
+      "verse_2": {
+        "lines": "술은 입에도 안 댔는데 I'm tipsy / 나 조금 어지러운 것 같애 / 지금 아님 언제? 참 답답하네 / 날 감싸 안고 입 맞출래",
+        "literal": "I haven't even touched alcohol but I'm tipsy / I think I'm a little dizzy / if not now, when? honestly this is frustrating / hold me and kiss me",
+        "context": "술은 입에도 안 댔는데 (I haven't even brought alcohol to my lips) makes clear the intoxication is purely emotional, not literal — the night itself is doing this to her. 지금 아님 언제 (if not now, when) is her own impatience breaking through the earlier soft persuasion, an urgency that overrides caution."
+      },
+      "bridge": {
+        "lines": "꿈인가 싶다가도 / 니가 떠오르니까 / 그 밤은 진심인 거야 / 일 거야",
+        "literal": "Even when I start to think it might be a dream / because you come to mind / that night was real / it must have been",
+        "context": "-(으)ㄴ가 싶다가도 (even while starting to wonder if...) captures her doubt and reassurance happening almost simultaneously — she questions whether it was real and answers herself in the same breath, using the vividness of the memory itself as proof."
+      }
+    }
+  },
+  "artist_context": "Sunmi, a former member of Wonder Girls, has built her solo catalog around a consistent, visually driven conceptual identity across releases like Gashina and Siren. 보라빛 밤 (released internationally as Lalalay) continues that retro-tinged, cinematic pop approach, with the purple night imagery fitting her recurring nocturnal, slightly mysterious visual world.",
+  "honorific_level": "informal — 반말 throughout, with 그대 used as a slightly poetic, formal-feeling address for 'you'",
+  "themes": ["fleeting romance", "temporary happiness", "nighttime freedom", "bittersweet longing"],
+  "grammar_highlights": [
+    {
+      "pattern": "-대 (reported speech)",
+      "usage": "Casual quoting ending relaying someone else's words — 원하냬, 따주겠대 — used throughout the opening verse to recount his promises at a slight emotional distance.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-(으)면 다 -아/어",
+      "usage": "'If X, then all of Y [happens].' 눈뜨면 다 사라져 (if I open my eyes, it all disappears) sets up a strict cause-and-effect that gives the whole song its ticking-clock urgency.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-(으)ㄴ가 싶다가도",
+      "usage": "'Even while thinking it might be...' Captures a doubt and its immediate reversal in one phrase. 꿈인가 싶다가도 shows uncertainty and self-reassurance happening almost at once.",
+      "topik_level": 5
+    }
+  ]
+}

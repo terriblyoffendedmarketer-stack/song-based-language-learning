@@ -1,0 +1,61 @@
+{
+  "safe_name": "TWICE - What is Love_",
+  "artist": "TWICE",
+  "song": "What is Love?",
+  "song_story": {
+    "overview": "What is Love? is TWICE's 2018 title track, built around someone who has never actually been in love trying to imagine what it feels like, using movies, books, and dramas as her only reference points. The music video literally restages famous on-screen romances (Léon: The Professional, La La Land, Romeo + Juliet, among others) with the members playing the roles, which mirrors the lyric's whole premise: she knows love secondhand, through other people's stories, and is desperate to find out if the real thing lives up to the fiction.",
+    "cultural_root": "The song plays with 짝사랑 이전의 단계 — the stage before even a crush exists, pure anticipation without an object yet. It's a very teenage feeling, dressed up here in nostalgic references to old films, and it captures something specifically Korean pop does well: treating the anticipation of love, not love itself, as worth an entire song. The repeated 'I wanna know' isn't asking a philosophical question — it's asking when it's finally her turn.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "매일같이 영화 속에서나 / 책 속에서나 / 드라마 속에서 사랑을 느껴 / Mm, 사랑을 배워 / 내 일처럼 자꾸 가슴이 뛰어 / 두근두근거려 / 설레임에 부풀어 올라 / Mm, 궁금해서 미칠 것만 같아 / Ooh, 언젠간 내게도 / 이런 일이 실제로 일어날까? (Ooh)",
+        "literal": "Every single day, whether in movies / or in books / or in dramas, I feel love / I learn about love / my heart keeps racing like it's happening to me",
+        "context": "영화 속에서나 / 책 속에서나 / 드라마 속에서 — the repeated -에서나 ('whether in ~, or in ~') stacks up every possible fictional source, underlining that ALL her knowledge of love is secondhand. 내 일처럼 (like it's my own business/experience) shows how completely she's borrowing someone else's story and feeling it as her own."
+      },
+      "pre_chorus": {
+        "lines": "그게 언제쯤일까? / 어떤 사람일까? / (I wanna know) 사탕처럼 달콤하다는데 / (I wanna know) 하늘을 나는 것 같다는데 / 사랑이 어떤 느낌인지 / (I wanna know) 하루 종일 웃고 있다는데 / (I wanna know) 세상이 다 아름답다는데 / 언젠간 나에게도 사랑이 올까? / 지금 이런 상상만으로도 / 떠올려만 봐도",
+        "literal": "Ooh, will something like this / actually happen to me too, someday? / around when would that be? / what kind of person would it be?",
+        "context": "실제로 (in reality, actually) is doing a lot of work here — she's asking whether the movie version of love has any real-world counterpart, distinguishing fiction from something that could really happen to her."
+      },
+      "chorus": {
+        "lines": "가슴이 터질 것 같은데 / Mm, 이렇게 좋은데 / 만일 언젠가 진짜로 내게 / 사랑이 올 때 / 난 울어버릴지도 몰라 / Mm, 정말 궁금해, 미칠 것만 같아 / Ooh, 언젠간 내게도 / 이런 일이 실제로 일어날까? (Ooh) / 그게 언제쯤일까? / 어떤 사람일까?",
+        "literal": "(I wanna know) they say it's sweet like candy / (I wanna know) they say it's like flying through the sky / what love actually feels like / (I wanna know) they say you smile all day long / (I wanna know) they say the whole world looks beautiful",
+        "context": "-다는데 ('they say that ~, but...') marks everything in the chorus as hearsay — secondhand descriptions she's collected but can't verify herself. Stacking four different comparisons (candy, flying, smiling, a beautiful world) shows how much she's built up an idea of love without any of it being confirmed."
+      },
+      "verse_2": {
+        "lines": "(I wanna know) 사탕처럼 달콤하다는데 / (I wanna know) 하늘을 나는 것 같다는데 / 사랑이 어떤 느낌인지 / (I wanna know) 하루 종일 웃고 있다는데 / (I wanna know) 세상이 다 아름답다는데 / 언젠간 나에게도 사랑이 올까? / 지금 세상 어느 곳에 살고 있는지 / 도대체 언제쯤 나와 만나게 될는지 / 언제 어떻게 우리의 인연은 / 시작될는지 모르지만 느낌이 어쩐지",
+        "literal": "Just imagining it like this now / just picturing it / already feels like my heart might burst / if someday it really / comes to me for real / I might end up crying",
+        "context": "터질 것 같다 (feels like it might burst) shows the imagined version already has real physical effects on her. 울어버릴지도 몰라 uses -아/어 버리다 ('to end up doing completely') plus -을지도 몰라 ('might') — she's predicting she'll be overwhelmed even before anything has happened, which says more about her anticipation than about actual love."
+      },
+      "outro": {
+        "lines": "진짜 좋을 것 같아 왠지 / 영화 드라마보다도 더 멋진 (멋진) / 사랑이 올 거야, 내 예감 언제나 맞지 (Ooh-ooh) / 어서 나타나봐, 나는 다 준비가 됐지, ready / (어디 있을까?) 찾아낼 거야 / (어디 있을까?) 보고 싶어 죽겠어 / 더 이상 참을 수 / 없을 것만 같아 / 사탕처럼 달콤하다는데 / 하늘을 나는 것 같다는데 / 사랑이 어떤 느낌인지 / 하루 종일 웃고 있다는데 / 세상이 다 아름답다는데 / 언젠간 나에게도 사랑이 올까?",
+        "literal": "Where in the world he's living right now / when on earth we'll actually meet / when and how our fated connection / will begin, I don't know, but somehow the feeling seems like it'll be really good",
+        "context": "인연 (inyeon) is a specifically Korean idea of fated connection between people — not random chance, but something meant to happen. Not knowing any of the details (where, when, how) but still trusting the 느낌 (feeling) shows the song landing on faith rather than certainty."
+      }
+    }
+  },
+  "artist_context": "What is Love? is the title track of TWICE's 2018 mini-album of the same name, and its music video's tour through classic film romances made it one of the group's more visually referential releases — treating global cinema nostalgia as the emotional shorthand for a feeling the narrator hasn't experienced firsthand.",
+  "honorific_level": "informal — 반말, daydreaming, addressed to herself",
+  "themes": [
+    "first love",
+    "anticipation",
+    "innocence",
+    "romantic fantasy"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-다는데",
+      "usage": "'They say that ~ (but I haven't confirmed it).' 달콤하다는데, 아름답다는데 — reports secondhand information throughout the chorus, marking all her knowledge of love as hearsay.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-을지도 몰라",
+      "usage": "'Might ~, it's possible that ~.' 울어버릴지도 몰라 — a guess about her own future reaction, showing genuine uncertainty about how she'd handle real love.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-을는지 (uncertain future modifier)",
+      "usage": "언제 시작될는지 모르지만 — 'I don't know when it'll start, but...' — a slightly more literary/song-lyric variant of -을지, used for wondering about an unknown future event.",
+      "topik_level": 5
+    }
+  ]
+}

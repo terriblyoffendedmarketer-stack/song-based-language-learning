@@ -1,0 +1,61 @@
+{
+  "safe_name": "SHAUN - Way Back Home",
+  "artist": "SHAUN",
+  "song": "Way Back Home",
+  "song_story": {
+    "overview": "Way Back Home is a promise song — the English verses set up a vow made 'right from the start' that no matter how far apart the two people get, the narrator will always find their way back. The Korean second half shifts into the present moment of that promise being tested: memories pulled out of a quiet, sleeping room, walking a long-familiar path alone, finally turning back toward home after what the song frames as a long journey. It became one of the most widely streamed Korean songs internationally in its year, spreading through short-video platforms far beyond typical K-pop audiences, which is unusual for a song this quiet and unhurried.",
+    "cultural_root": "집 (jip, home) in Korean carries more emotional weight than the English word 'house' — it's closer to a concept of belonging and safety than a physical structure. '너라는 집으로' (to the home that is you) makes that explicit: home here isn't a place, it's a person. The song's steady, dreamy repetition ('hold on, hold on') also reflects 기다림 (the specifically valued act of patient waiting) as its own form of devotion in Korean romantic tradition — the promise isn't grand gestures, it's simply not giving up on returning.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "조용히 잠든 방을 열어 기억을 꺼내 들어 / 부서진 시간 위에서 선명히 너는 떠올라",
+        "literal": "(direct English)",
+        "context": "This English verse is the song's promise laid out in full before any Korean appears — a vow made in advance of whatever distance or time comes later. Setting the promise first and the Korean 'present moment' after means every Korean line that follows gets read against this earlier vow, as either keeping it or straining against it."
+      },
+      "verse_korean_1": {
+        "lines": "길 잃은 마음속에 널 가둔 채 살아 / 그만 그만",
+        "literal": "I open a quietly sleeping room and pull out a memory / on top of broken time, you rise up clearly / I've been living with you locked inside a lost heart / enough, enough",
+        "context": "잠든 방 (a sleeping room) treats memory itself like a physical space you can walk into and open — a very specific, tactile way to describe remembering someone. 가둔 채 살아 (living while keeping [you] locked inside) admits the memory hasn't been a comfort, it's been something closer to a trapped presence he's carried without meaning to."
+      },
+      "verse_korean_2": {
+        "lines": "멈춘 시간 속 잠든 너를 찾아가 / 아무리 막아도 결국 너의 곁인 걸",
+        "literal": "Inside stopped time, I go looking for you asleep / no matter how much I try to stop it, in the end it's [always going to be] by your side / after a long, long journey, I'm finally going back now / to the home that is you, right now, way back home",
+        "context": "너라는 집 (a home that is you) is the song's key image — using -(이)라는 to directly equate a person with the concept of home, not compare them to it. 아무리 막아도 (no matter how much [I] try to block it) suggests the pull back toward this person overrides even his own resistance."
+      },
+      "verse_2": {
+        "lines": "길고 긴 여행을 끝내 이젠 돌아가 / 너라는 집으로 지금 다시 way back home",
+        "literal": "(direct English)",
+        "context": "This section mirrors the Korean verse's admission of being unable to escape the pull toward this person, just stated directly in English rather than through the room/memory imagery. The repetition of 'hold on' becomes the song's steady, almost mantra-like anchor through both language halves."
+      },
+      "bridge": {
+        "lines": "세상을 뒤집어 찾으려 해 / 오직 너로 완결된 이야기를 / 빛이 다 꺼진 여기 나를 안아줘 / 눈을 감으면 소리 없이 밀려와 / 이 마음 그 위로 넌 또 한 겹 쌓여가",
+        "literal": "I'll turn the world upside down trying to find it / a story that's only complete with you / no, I won't ever lose / as long as you're there / here where all the light has gone out, hold me",
+        "context": "완결된 이야기 (a completed/concluded story) makes the same point as 너라는 집 from a different angle — the narrative of his life doesn't finish without this person in it. 빛이 다 꺼진 여기 (here where all the light has gone out) is the most vulnerable single image in the song, a plea for comfort rather than another declaration of devotion."
+      }
+    }
+  },
+  "artist_context": "SHAUN is a Korean singer-songwriter whose mellow, R&B-leaning pop sound helped this 2019 track spread far beyond typical K-pop circles, eventually becoming a global streaming and short-video hit well outside the usual fandom pathways for Korean music.",
+  "honorific_level": "informal — 반말 throughout, bilingual and steady in tone across both languages",
+  "themes": [
+    "devotion",
+    "home as a person",
+    "steadfastness",
+    "distance and return"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(이)라는",
+      "usage": "'Called/known as.' 너라는 집 ('the home that is called you') directly equates two nouns — a person and the concept of home — rather than comparing them with 처럼 (like).",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-(으)ㄴ 채",
+      "usage": "'While remaining in a state of.' 가둔 채 살아 (living while [something] stays locked away) describes an ongoing condition carried through time, not a single completed act.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "아무리 -아/어도",
+      "usage": "'No matter how much...' 아무리 막아도 (no matter how much [I] block it) sets up a strong concession — an attempt at resistance that fails against something stronger, here framed as the inevitable pull back home.",
+      "topik_level": 3
+    }
+  ]
+}

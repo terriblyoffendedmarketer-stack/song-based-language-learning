@@ -1,0 +1,368 @@
+{
+  "id": "lesson-twice-feel-special",
+  "songId": "twice-feel-special",
+  "level": "intermediate",
+  "title": "Feel Special — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "TWICE — Feel Special",
+      "content": "In this lesson, we'll learn words related to comfort, loneliness, gratitude.\nGrammar: -것만 같다 ('Feels just like, seems as if.' 혼자인 것만 같은 날 — soft)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Feel Special is TWICE's 2019 title track, and it plays like a direct address to the group's fandom, ONCE, even though the lyrics are written as a love song to an unnamed 'you.' It moves from a specifi...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "그런 날이 있어",
+        "갑자기 혼자인 것만 같은 날",
+        "어딜 가도 내 자리가 아닌 것만 같고",
+        "고갠 떨궈지는 날"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "그런 날이 있어",
+        "갑자기 혼자인 것만 같은 날",
+        "어딜 가도 내 자리가 아닌 것만 같고",
+        "고갠 떨궈지는 날"
+      ],
+      "lyricTranslations": [
+        "There are days like that",
+        "days when I suddenly feel completely alone",
+        "days when wherever I go feels like it's not my place",
+        "days when my head just drops"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "세상이 아무리 날 주저앉혀도",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "아프다",
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "There are days like that",
+          "options": [
+            "갑자기 혼자인 것만 같은 날",
+            "고갠 떨궈지는 날",
+            "그런 날이 있어",
+            "어딜 가도 내 자리가 아닌 것만 같고"
+          ],
+          "correctAnswer": "그런 날이 있어",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "days when I suddenly feel completely alone",
+          "options": [
+            "그런 날이 있어",
+            "어딜 가도 내 자리가 아닌 것만 같고",
+            "고갠 떨궈지는 날",
+            "갑자기 혼자인 것만 같은 날"
+          ],
+          "correctAnswer": "갑자기 혼자인 것만 같은 날",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "days when wherever I go feels like it's not my place",
+          "options": [
+            "갑자기 혼자인 것만 같은 날",
+            "고갠 떨궈지는 날",
+            "어딜 가도 내 자리가 아닌 것만 같고",
+            "그런 날이 있어"
+          ],
+          "correctAnswer": "어딜 가도 내 자리가 아닌 것만 같고",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Feels just like, seems as if.' 혼자인 것만 같은 날 — softens a strong feeling into a perception rather than a fact, useful for describing emotional states honestly.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-것만 같다",
+        "meaning": "'Feels just like, seems as if.' 혼자인 것만 같은 날 — softens a strong feeling into a perception rather than a fact, useful for describing emotional states honestly.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "사람",
+            "세상",
+            "사라지다",
+            "아프다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "아프다",
+            "세상",
+            "사라지다",
+            "시간"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'sick, hurt'의 한국어는?",
+          "options": [
+            "세상",
+            "바람",
+            "아프다",
+            "사라지다"
+          ],
+          "correctAnswer": "아프다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "그런 날이 있어",
+        "갑자기 혼자인 것만 같은 날",
+        "어딜 가도 내 자리가 아닌 것만 같고",
+        "고갠 떨궈지는 날",
+        "그럴 때마다 내게",
+        "얼마나 내가 소중한지",
+        "말해주는 너의 그 한마디에",
+        "초라한 nobody 에서 다시 somebody"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          },
+          {
+            "korean": "아프다",
+            "english": "sick, hurt"
+          }
+        ],
+        "patternLearned": "-것만 같다"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "TWICE - Feel Special",
+    "artist": "TWICE",
+    "song": "Feel Special",
+    "curriculum_level": 3
+  }
+}

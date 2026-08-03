@@ -1,0 +1,56 @@
+{
+  "safe_name": "IU - Meaning of you",
+  "artist": "IU",
+  "song": "Meaning of you",
+  "song_story": {
+    "overview": "Meaning of You is about someone who has taken over every part of your inner world without you fully understanding why. IU describes a person whose smallest gestures — a single word, a glance, even the sight of their back turned away — have become impossibly significant to her, while she's still unable to name exactly what he is to her. The song sits somewhere between infatuation and confusion, ending on the same open question it never answers: what are you, really, to me?",
+    "cultural_root": "The song leans heavily on nature imagery that's common in Korean lyrical tradition — cosmos flowers blooming at a small unstaffed train station (간이역의 코스모스), clouds you build a castle on top of. These images root abstract emotion in specific, quiet, half-rural scenery rather than urban or dramatic settings, which is a recurring style in Korean ballads: big feelings expressed through small, still, natural details rather than grand statements.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "너의 그 한 마디 말도 / 그 웃음도 나에겐 커다란 의미 (나에게 하는 얘긴 아닌 것 같은데) / 너의 그 작은 눈빛도 / 쓸쓸한 뒷모습도 나에겐 힘겨운 약속 (누구야) / 너의 모든 것은 내게로 와 (말하지 말아) / 풀리지 않는 수수께끼가 되네 (괜히 마음 상할 것 같다) / 슬픔은 간이역의 코스모스로 피고",
+        "literal": "Even your one word / and that smile too, to me they're a huge meaning / even your small glance / even your lonely-looking back, to me they're a heavy promise",
+        "context": "쓸쓸한 뒷모습 — 'a lonely-looking back [of someone walking away]' — is a very specific, visual Korean image, focused on the emotional weight carried by watching someone from behind. 힘겨운 약속 — 'a heavy/burdensome promise' — is an unusual pairing, since his glance isn't literally a promise, but it feels like an obligation she can't put down."
+      },
+      "pre_chorus": {
+        "lines": "스쳐 불어온 넌 향긋한 바람 / 나 이제 뭉게구름 위에 성을 짓고 / 널 향해 창을 내리 바람 드는 창을 (이렇게 상처를 받기도 하는구나) / 너의 그 한 마디 말도 / 그 웃음도 나에겐 커다란 의미 / 너의 그 작은 눈빛도 / 쓸쓸한 뒷모습도 나에겐 힘겨운 약속",
+        "literal": "Everything about you comes to me / and becomes a riddle that won't unravel",
+        "context": "풀리지 않는 수수께끼 — 'a riddle that won't come undone' — 풀다 means both 'to solve' and 'to untie,' so the image is literally of something knotted that resists being loosened, tying back to the idea that she can't figure him out no matter how much she thinks about him."
+      },
+      "chorus": {
+        "lines": "너의 모든 것은 내게로 와 / 풀리지 않는 수수께끼가 되네 / 슬픔은 간이역의 코스모스로 피고 / 스쳐 불어온 넌 향긋한 바람 / 나 이제 뭉게구름 위에 성을 짓고 / 널 향해 창을 내리 바람 드는 창을 / 슬픔은 간이역의 코스모스로 피고",
+        "literal": "Sadness blooms as cosmos flowers at a small station / you, brushing past me, are a fragrant wind / now I build a castle on top of billowing clouds / and open a window facing you, a window that lets the wind in",
+        "context": "간이역 (ganiyeok) is a small, often unmanned rural train stop — a place associated with brief, passing encounters rather than destinations, which fits a love that comes and goes like wind rather than settling anywhere. 뭉게구름 위에 성을 짓다 — 'building a castle on clouds' — is a classic idiom for building something on an unstable, imaginary foundation."
+      },
+      "final_line": {
+        "lines": "스쳐 불어온 넌 향긋한 바람 / 나 이제 뭉게구름 위에 성을 짓고 / 널 향해 창을 내리 바람 드는 창을 / 너의 그 한 마디 말도 그 웃음도 / 나에겐 커다란 의미 / 너의 그 작은 눈빛도 / 쓸쓸한 뒷모습도 나에겐 힘겨운 약속 / 도대체 넌 나에게 누구냐?",
+        "literal": "Just who on earth are you to me?",
+        "context": "도대체 (daeche) is an intensifier meaning 'on earth' or 'the hell,' used when genuinely baffled. The whole song builds toward this single unanswered question rather than any resolution — she never figures out what to call this relationship, and the song ends exactly there."
+      }
+    }
+  },
+  "artist_context": "Meaning of You is one of IU's earlier ballads, showcasing the delicate, literary lyricism that became a signature of her songwriting well before her later, more genre-varied work.",
+  "honorific_level": "informal — casual 반말 with a soft, internal, diary-like tone",
+  "themes": [
+    "infatuation",
+    "confusion",
+    "quiet longing",
+    "unanswered feelings"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-지 않는",
+      "usage": "Present negative modifier, 'that doesn't X.' Appears in 풀리지 않는 — 'that won't come undone,' describing the unsolvable riddle.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-네 (exclamatory ending)",
+      "usage": "Softly exclamatory sentence ending, noting something as if realizing it in the moment. Appears in 되네 — 'it becomes [a riddle].'",
+      "topik_level": 2
+    },
+    {
+      "pattern": "도대체",
+      "usage": "Intensifier meaning 'on earth / the hell,' used in genuine bafflement. Appears in the closing line, 도대체 넌 나에게 누구냐.",
+      "topik_level": 3
+    }
+  ]
+}

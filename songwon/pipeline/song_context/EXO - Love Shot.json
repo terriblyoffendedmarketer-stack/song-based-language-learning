@@ -1,0 +1,61 @@
+{
+  "safe_name": "EXO - Love Shot",
+  "artist": "EXO",
+  "song": "Love Shot",
+  "song_story": {
+    "overview": "Love Shot (2018) turns romantic tension into a drinking metaphor — love poured out like a shot glass, filled to the point of overflowing, both intoxicating and dangerous. The relationship described is somewhere between love and hate, full of guarded silence and unspoken feelings, and the singer frames giving in to it as taking a 'shot' — a single, decisive, slightly reckless act. It's one of EXO's biggest title tracks, built on a Latin-tinged brass hook and a chorus that's almost entirely the phrase 'It's the love shot,' turning the drink metaphor into the song's whole identity.",
+    "cultural_root": "The song plays with 애증 (aejeung) — the specifically Korean-favored concept of love and hatred coexisting for the same person, not as contradiction but as two sides of intense feeling. 사랑과 미움 (love and hate) sitting side by side in the lyrics reflects this — the relationship isn't simply good or bad, it's dangerously both at once, which is exactly why a 'shot' (something strong, taken all at once) is the right metaphor.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "차갑도록 서롤 겨눈 채 / 날이 선 듯 그 목소리엔 / 숨막히는 것만 가득해 / 눈을 가린 채로 그렇게 / 굳게 닫아버린 서로의 / 맘이 애써 외면하는 걸",
+        "literal": "Coldly aiming at each other / in a voice sharp as a blade / it's filled with nothing but suffocation / eyes covered like this / firmly shutting each other out / hearts forcing themselves to look away",
+        "context": "날이 선 듯 (sharp as a blade's edge) describes tone of voice, not an actual weapon — a common Korean expression for speech that cuts. 외면하는 걸 (forcing themselves to avert their gaze) shows both people choosing distance even as they're drawn to each other."
+      },
+      "pre_chorus": {
+        "lines": "Uh, 타들어가 / 갈라질 듯 숨이 막혀와 / 갈증이 나 / 이 한 잔을 가득히 담아 / 넘칠 듯한 / 위태론 오늘 밤을 난",
+        "literal": "Uh, burning up / breath catching like it's about to crack apart / I'm thirsty / filling this one glass up to the brim / like it's about to overflow / tonight feels this precarious",
+        "context": "갈증이 나 (I'm thirsty) works on two levels — literal thirst and the ache of wanting something you're also afraid of. 넘칠 듯한 위태론 오늘 밤 — 'a night this precarious, about to overflow' — ties the drink metaphor directly to emotional danger."
+      },
+      "chorus": {
+        "lines": "비틀려버린 love and hate / 아름다웠던 기억들 / 하얗게 물들여져 / 조금씩 바래어가 / 매일 더 깊어져, calm down / 상처가 되는 말과",
+        "literal": "It's the love shot / na na-na-na, na-na-na-na (repeated vocalizations)",
+        "context": "The chorus is deliberately almost wordless — mostly scat syllables around the title phrase — letting the brass-driven instrumental and repeated hook carry the hedonistic, club-ready energy rather than dense lyrics."
+      },
+      "verse_2": {
+        "lines": "검게 타버린 마음, where is love? / 눈과 귀를 막고 억지로 헤매봐도 결국 정답은 love / Too much ego에 주린 배를 불리고 / 비어버린 한 잔의 compassion / 이제 다시 채워 들어보자 다 / 세상에 멈춰선 너와 난",
+        "literal": "Love twisted into love and hate / beautiful memories / dyed white / fading little by little / getting deeper every day, calm down / words that turn into wounds / a heart burned black, where is love?",
+        "context": "비틀려버린 love and hate — love physically 'twisted/warped' into something else — visualizes emotional corruption as a literal deformation. 검게 타버린 마음 (a heart burned black) escalates the earlier 'burning' image from the pre-chorus into something closer to damage than desire."
+      },
+      "bridge": {
+        "lines": "무뎌진 감정들에 / 서서히 익숙해져가 / 심장이 타 / 메마르다 갈라질 듯한 / 믿음에 난 / 너로 적셔 틈을 채워가 / 꺼질 듯한 / 내 맘에 불을 붙여놔",
+        "literal": "Even if I cover my eyes and ears and wander around forcing myself, in the end the answer is love / too much ego has been feeding a starving stomach / a cup of compassion, emptied out / let's fill it up again, all of it, now",
+        "context": "compassion 한 잔 (a cup/shot of compassion) extends the drinking metaphor past romance into something almost spiritual — the cure for a relationship poisoned by ego is refilling the same glass with something kinder instead."
+      }
+    }
+  },
+  "artist_context": "Love Shot was EXO's title track for the repackage of Don't Mess Up My Rhythm, notable for its Latin-influenced horn arrangement — a departure from EXO's earlier synth-heavy sound, and one of their most commercially dominant title tracks on Korean domestic charts.",
+  "honorific_level": "informal — 반말, addressed to a partner in a relationship the singer can't cleanly categorize as good or bad",
+  "themes": [
+    "intoxicating love",
+    "love and hate",
+    "desire",
+    "emotional danger"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄴ/는 듯한",
+      "usage": "'As if / seeming like.' 갈라질 듯 (as if about to crack), 넘칠 듯한 (as if about to overflow) — both describe a feeling right at its breaking point without confirming it's broken yet.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "애증 (love-hate)",
+      "usage": "A compound noun combining 애 (love/affection) and 증 (hatred), naming a single emotion that holds both at once — a concept with no single-word English equivalent.",
+      "topik_level": 5
+    },
+    {
+      "pattern": "-아/어가 (progressive change)",
+      "usage": "바래어가, 깊어져 — verb forms marking a gradual, ongoing change over time ('fading,' 'deepening'), used repeatedly to show the relationship shifting in real time rather than being static.",
+      "topik_level": 4
+    }
+  ]
+}

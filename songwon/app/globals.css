@@ -1,0 +1,163 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FAF7F2;
+  --foreground: #1B1B2F;
+  --muted: #6B6B80;
+  --faint: #A0A0B0;
+  --accent: #4F46E5;
+  --accent-hover: #4338CA;
+  --accent-light: #EDE9FE;
+  --coral: #E8685A;
+  --coral-light: #FEF0EE;
+  --sage: #4A7C59;
+  --sage-light: #E8F5EC;
+  --amber: #B8860B;
+  --amber-light: #FFF8E7;
+  --card: #FFFFFF;
+  --border: #E8E2D8;
+  --shadow: rgba(27, 27, 47, 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0F0F14;
+    --foreground: #E8E6E1;
+    --muted: #9B9BA8;
+    --faint: #5C5C6E;
+    --accent: #818CF8;
+    --accent-hover: #A5B4FC;
+    --accent-light: #1E1B3A;
+    --coral: #F0877C;
+    --coral-light: #2A1A18;
+    --sage: #7CB88A;
+    --sage-light: #162218;
+    --amber: #D4A72C;
+    --amber-light: #221C0A;
+    --card: #1A1A22;
+    --border: #2E2E38;
+    --shadow: rgba(0, 0, 0, 0.25);
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-light: var(--accent-light);
+  --color-coral: var(--coral);
+  --color-coral-light: var(--coral-light);
+  --color-sage: var(--sage);
+  --color-sage-light: var(--sage-light);
+  --color-amber: var(--amber);
+  --color-amber-light: var(--amber-light);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-kr: "Noto Serif KR", "Batang", serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Korean serif text */
+.kr {
+  font-family: "Noto Serif KR", "Batang", serif;
+}
+
+/* Smooth page transitions */
+@media (prefers-reduced-motion: no-preference) {
+  .page-enter {
+    animation: fadeSlideIn 0.3s ease-out;
+  }
+
+  @keyframes fadeSlideIn {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Correct answer pulse */
+@media (prefers-reduced-motion: no-preference) {
+  .correct-pulse {
+    animation: correctPulse 0.4s ease-out;
+  }
+
+  @keyframes correctPulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+
+  .shake {
+    animation: shake 0.4s ease-out;
+  }
+
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-6px); }
+    75% { transform: translateX(6px); }
+  }
+}
+
+/* Korean tooltip on hover */
+.kr-tip {
+  position: relative;
+  cursor: help;
+  border-bottom: 1px dotted var(--faint);
+}
+button .kr-tip,
+a .kr-tip {
+  cursor: inherit;
+  pointer-events: none;
+  border-bottom: none;
+}
+.kr-tip:hover::after {
+  content: attr(data-tip);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 3px 8px;
+  font-family: var(--font-sans), system-ui, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--foreground);
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  white-space: nowrap;
+  z-index: 50;
+  pointer-events: none;
+  margin-bottom: 4px;
+  box-shadow: 0 2px 6px var(--shadow);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}

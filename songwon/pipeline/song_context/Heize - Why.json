@@ -1,0 +1,56 @@
+{
+  "safe_name": "Heize - Why",
+  "artist": "Heize",
+  "song": "Why",
+  "song_story": {
+    "overview": "Why is a slow-burn R&B track about loving someone who won't give you a straight answer. The singer keeps asking her partner what he wants from love and gets nothing back — no confirmation, no rejection, just silence and distance. Rather than walking away, she keeps waiting, telling herself she can put up with anything for him, even as she asks over and over how much further she has to be pushed away before he'll actually fall for her.",
+    "cultural_root": "The song sits inside a very common K-R&B theme: 짝사랑 (jjaksarang), one-sided love, where devotion is framed almost as an endurance test. 참다 (to endure, to hold back) and 버리다 (to abandon, discard) both appear, and Korean pop lyrics often frame unreciprocated love not as something to escape but something to outlast — the assumption being that patience and self-sacrifice might eventually be rewarded, which is exactly the trap the singer is caught in here.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "가르쳐줄래gareuchyeojullae / 너의 방식neoeui bangsik / 기다렸던 건gidaryeotdeon geon / 아무 말 안 했던 건amu mal an haetdeon geon / 시간을 끌고 있었던 건siganeul kkeulgo isseotdeon geon",
+        "literal": "What do you want from love? / Tell me anything / but you never say, yeah / will you teach me / your way / but you never say, yeah / what I was waiting for / what your silence meant / what stalling for time meant / waiting for your love / I have one wish / I want to exist for you",
+        "context": "가르쳐줄래 uses the casual future-intention question form -(으)ㄹ래, softer than a demand — she's asking him to teach her rather than accusing him of anything. 존재하고 싶다 — 'I want to exist [for you]' — is a strong, almost self-erasing line; her wish isn't for him to love her back, just to matter to him at all."
+      },
+      "chorus": {
+        "lines": "난 바람이 하나 있다nan barami hana itji / 너를 위해서 존재하고 싶어neoreul wihaeseo jonjaehago sipeo / 얼마나 더 날 버려야 하는지eolmana deo nal beoryeoya haneunji / 얼마나 더 가야 하는지eolmana deo gaya haneunji / 임마쓰는 없고immaseun eopgo",
+        "literal": "Why don't you fall in love? / how much more do I have to be abandoned by you? / why are you going far away? / how much further do I have to go?",
+        "context": "얼마나 더 -아야 하는지 (how much more do I have to X) is a pattern for expressing exasperated endurance — she's not asking rhetorically so much as genuinely wondering how much suffering is required before things change. 버려야 하는지 literally means 'must be discarded,' framing his coldness as something being done to her repeatedly."
+      },
+      "bridge": {
+        "lines": "당연히 잠도 안 오지dangyeonhi jamdo an oji / 내가 이렇게naega ireoke / 친절한 여자였는지chinjeolhan yeojayeosseotneunji / 몰랐었는데mollasseotneunde / 다 너를 위해 참을 수 있어 난da neoreul wihae chameul su isseo nan",
+        "literal": "There's no room for excuses / of course I can't sleep either / I didn't know / that I could be this kind a woman / but I can endure anything, all for you",
+        "context": "다 너를 위해 참을 수 있어 — 'I can endure it all for you' — 참다 is the verb for suppressing your own feelings or discomfort to get through something. She frames her own tolerance as a surprising discovery about herself, almost like she didn't know she was capable of this much patience."
+      },
+      "final_line": {
+        "lines": "얼마나 더 날 버려야 하는지eolmana deo nal beoryeoya haneunji / 얼마나 더 가야 하는지eolmana deo gaya haneunji / 멀어지지 마요meoreojiji mayo / 멀어지지 마meoreojiji ma / 너를 울게 두지 않을 사람neoreul ulge duji anheul saram / 나예요nayeyo / 얼마나 더 날 버려야 하는지eolmana deo nal beoryeoya haneunji / 얼마나 더 가야 하는지eolmana deo gaya haneunji",
+        "literal": "Don't grow distant / don't drift away / I'm the person who won't let you cry",
+        "context": "멀어지지 마요 / 멀어지지 마 — the same request said twice, first in polite -요 form, then dropped to plain 반말, like she's losing her composure mid-line. 두지 않을 사람 — 'the person who won't let [you cry]' — she positions herself as his emotional safety net even though he's the one causing her pain."
+      }
+    }
+  },
+  "artist_context": "Heize is one of Korea's most recognizable R&B and hip-hop-adjacent vocalists, known for smoky, conversational delivery and lyrics that read like actual text messages or inner monologue rather than poetic abstraction. Why fits her catalog of songs about the quieter, more frustrating side of love — waiting, uncertainty, unanswered questions.",
+  "honorific_level": "mixed — polite -요 endings blend with casual 반말, common in R&B vocals for an intimate, half-formal tone",
+  "themes": [
+    "unrequited love",
+    "waiting",
+    "emotional patience",
+    "uncertainty"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "얼마나 더 -아야 하는지",
+      "usage": "'How much more do I have to...' — expresses exhausted endurance. Appears in 버려야 하는지 and 가야 하는지, both open questions with no real answer expected.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-을 수 있어",
+      "usage": "Basic ability/possibility form, here used for emotional endurance rather than physical capability: 참을 수 있어 — 'I can endure it.'",
+      "topik_level": 1
+    },
+    {
+      "pattern": "-지 마요 / -지 마",
+      "usage": "Negative command, 'don't do X.' The song shifts from polite 멀어지지 마요 to blunt 멀어지지 마 in the same breath, showing rising urgency.",
+      "topik_level": 1
+    }
+  ]
+}

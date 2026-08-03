@@ -1,0 +1,858 @@
+{
+  "id": "v5-unit3-lesson11",
+  "meta": {
+    "songId": "bol4-love-story",
+    "songTitle": "Love story",
+    "artist": "BOL4",
+    "unit": 3,
+    "lessonNumber": 11,
+    "grammarFocus": "-잖아",
+    "grammarMeaning": "you know / isn't it / reminding",
+    "koreanRatio": 0.75
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "빛나다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "to shine",
+            "correct": true
+          },
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "road",
+            "correct": false
+          },
+          {
+            "text": "rain",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "빛나다 = to shine."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "BOL4 — Love story",
+      "content": "Reminding someone of something they already know. Very casual and intimate.\n\nA sugar-rush of a love song, told almost entirely in flashback: the day he handed her a flower, the birthday they snuck out at night, the walk home he kissed her goodbye on, the trip where they traced constellations. It's less a story with a plot than a scrapbook — quick, bright memories stacked on top of each other, held together by the repeated fear that it's all too good to be true.\n\nIn this lesson, you'll learn the grammar pattern **-잖아**, which means \"you know / isn't it / reminding.\" We'll see how BOL4 uses it in \"Love story.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **알다** — to know\n- **보이다** — to be seen\n- **알잖아** — you know, right?\n- **보이잖아** — you can see it, can't you?\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "날 좋아하던 그때",
+        "수줍게 꽃을 건네던 너에게",
+        "웃으며 손을 내밀었지",
+        "시간 지나 my birthday"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "날 좋아하던 그때",
+          "english": "Thought that I was a princess",
+          "highlights": []
+        },
+        {
+          "korean": "수줍게 꽃을 건네던 너에게",
+          "english": "back when you liked me",
+          "highlights": []
+        },
+        {
+          "korean": "웃으며 손을 내밀었지",
+          "english": "shyly handing me a flower",
+          "highlights": []
+        },
+        {
+          "korean": "시간 지나 my birthday",
+          "english": "I smiled and took your hand",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "알다",
+        "english": "to know",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "알다"
+          ]
+        },
+        "audioKey": "알다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "알다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to know",
+            "correct": true
+          },
+          {
+            "text": "you know, right?",
+            "correct": false
+          },
+          {
+            "text": "to be seen",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "알다 = to know"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "잘 알아요.",
+        "english": "I know well.",
+        "highlights": [
+          "알아요"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "잘 ___.",
+        "promptTranslation": "I know well.",
+        "options": [
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "알아요",
+            "correct": true
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "알잖아",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잘 알아요. = I know well."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "알잖아",
+        "english": "you know, right?",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "알잖아"
+          ]
+        },
+        "audioKey": "알잖아"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "알잖아",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to know",
+            "correct": false
+          },
+          {
+            "text": "to be seen",
+            "correct": false
+          },
+          {
+            "text": "you know, right?",
+            "correct": true
+          },
+          {
+            "text": "to disappear",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "알잖아 = you know, right?"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "너도 알잖아.",
+        "english": "You know too, right?",
+        "highlights": [
+          "알잖아"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "너도 ___.",
+        "promptTranslation": "You know too, right?",
+        "options": [
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "알잖아",
+            "correct": true
+          },
+          {
+            "text": "보이잖아",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "너도 알잖아. = You know too, right?"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "날 좋아하던 그때",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "Thought that I was a princess",
+            "correct": true
+          },
+          {
+            "text": "back when you liked me",
+            "correct": false
+          },
+          {
+            "text": "shyly handing me a flower",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "날 좋아하던 그때 = Thought that I was a princess"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "보이다",
+        "english": "to be seen",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "보이다"
+          ]
+        },
+        "audioKey": "보이다"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "보이다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "you know, right?",
+            "correct": false
+          },
+          {
+            "text": "to be seen",
+            "correct": true
+          },
+          {
+            "text": "you can see it, can't you?",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "보이다 = to be seen"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "바다가 보여요.",
+        "english": "The ocean can be seen.",
+        "highlights": [
+          "보여요"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "바다가 ___.",
+        "promptTranslation": "The ocean can be seen.",
+        "options": [
+          {
+            "text": "세상",
+            "correct": false
+          },
+          {
+            "text": "보여요",
+            "correct": true
+          },
+          {
+            "text": "알아요",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "바다가 보여요. = The ocean can be seen."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "잘 알아요.",
+          "english": "I know well.",
+          "highlights": [
+            "알아요"
+          ]
+        },
+        {
+          "korean": "바다가 보여요.",
+          "english": "The ocean can be seen.",
+          "highlights": [
+            "보여요"
+          ]
+        }
+      ],
+      "note": "알다 + 보이다 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "Thought that I was a princess",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "웃으며 손을 내밀었지",
+            "correct": false
+          },
+          {
+            "text": "수줍게 꽃을 건네던 너에게",
+            "correct": false
+          },
+          {
+            "text": "날 좋아하던 그때",
+            "correct": true
+          },
+          {
+            "text": "시간 지나 my birthday",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "날 좋아하던 그때"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-잖아",
+        "meaning": "you know / isn't it / reminding",
+        "explanation": "Reminding someone of something they already know. Very casual and intimate.",
+        "songExample": {
+          "korean": "아니잖아 이건, yeah",
+          "english": "",
+          "highlights": [
+            "잖아"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "보이잖아",
+        "english": "you can see it, can't you?",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-잖아 = you know / isn't it / reminding",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "보이잖아"
+          ]
+        },
+        "audioKey": "보이잖아"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "보이잖아",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to be seen",
+            "correct": false
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "you can see it, can't you?",
+            "correct": true
+          },
+          {
+            "text": "you know, right?",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "보이잖아 = you can see it, can't you?"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "다 보이잖아.",
+        "english": "You can see everything, can't you?",
+        "highlights": [
+          "보이잖아"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "보이___",
+        "promptTranslation": "you can see it, can't you?",
+        "options": [
+          {
+            "text": "잖아",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          },
+          {
+            "text": "는데",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -잖아예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "보이잖아",
+        "promptTranslation": "여기서 -잖아는 무슨 느낌일까요?",
+        "options": [
+          {
+            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "correct": true
+          },
+          {
+            "text": "갑자기 일어났다가 멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "일부러 그렇게 했어요",
+            "correct": false
+          },
+          {
+            "text": "더 이상 그렇지 않아요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-잖아 = you know / isn't it / reminding — 선택이 아니라 저절로 된 거예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "보이다",
+            "correct": false
+          },
+          {
+            "text": "알다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "알다 = to know"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (to be seen)",
+        "options": [
+          {
+            "text": "알다",
+            "correct": false
+          },
+          {
+            "text": "보이다",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "보이다 = to be seen"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "알잖아",
+        "promptTranslation": "\"you know, right?\" 를 한국어로?",
+        "options": [
+          {
+            "text": "알잖아",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "알다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "알잖아 = you know, right?"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "알___.",
+        "promptTranslation": "You know, right?",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "잖아",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -잖아!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"좋아하던\", \"날\", \"그때\"]",
+        "promptTranslation": "Thought that I was a princess",
+        "options": [
+          {
+            "text": "날 좋아하던 그때",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "날 좋아하던 그때"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "날 좋아하던 그때",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "수줍게 꽃을 건네던 너에게",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "웃으며 손을 내밀었지",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "시간 지나 my birthday",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "우린 몰래 run away",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "온통 둘뿐인 밤거릴 걷다가",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "너와 눈이 마주친 그날",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "Oh, babe, 너의 눈동자에 cheers",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "알다",
+          "english": "to know",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "보이다",
+          "english": "to be seen",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "알잖아",
+          "english": "you know, right?",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "보이잖아",
+          "english": "you can see it, can't you?",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-잖아",
+        "meaning": "you know / isn't it / reminding"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

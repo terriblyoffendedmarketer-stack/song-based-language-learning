@@ -1,0 +1,61 @@
+{
+  "safe_name": "MAMAMOO - Girl Crush",
+  "artist": "MAMAMOO",
+  "song": "Girl Crush",
+  "song_story": {
+    "overview": "Girl Crush is built around a very specific, petty little scene: she's out somewhere good, feeling confident, made up and glowing — and her boyfriend gives her a suspicious look. The whole song is her indignant reaction to being doubted for no reason, and it uses that scene to build into something bigger — a declaration that she isn't playing anyone's games, doesn't need outside approval, and loves herself regardless of who's checking up on her. It's less a love song than a song about refusing to shrink to make someone else comfortable.",
+    "cultural_root": "The song is a textbook example of 걸크러쉬 (girl crush) as a K-pop concept — a woman who's magnetic in a way meant to make other women want to be her, rather than performing prettiness for men. It sits opposite the older 청순 (cheongsun, pure/innocent) concept that dominated earlier girl-group eras. The lyric '나는 안 해 밀당 내 감정에 솔직하지' (I don't play push-pull, I'm honest about my feelings) is the thesis statement — rejecting 밀당 (push-pull dating games) itself a very Korean dating-culture term, in favor of blunt honesty.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "이따 거기서 봐 이번엔 장담해 / 찾았어 hot place / 예감이 괜찮아 정말로 기대돼 / 날 비출 spotlight / 눈꼬린 더 길게 콧대는 더 높게 / 화장이 진할수록 커져가는 자신감 / 근데 왜 my boyfriend 눈빛이 수상해",
+        "literal": "See you there later, I'm sure of it this time / I found a hot place / the feeling's good, I'm really looking forward to it / the spotlight that'll shine on me",
+        "context": "장담하다 (to guarantee/assert confidently) sets the tone immediately — this isn't a hopeful maybe, it's a promise to herself. The spotlight isn't metaphorical modesty, it's stated outright as something she expects and has earned."
+      },
+      "verse_2": {
+        "lines": "(Oh my god 지금 나를 의심해? 말도 안돼) / Hey you 너 간당간당해 / 갈대처럼 난 왔다갔다해 / 왜 또 쿨하지 못해 / (Go! Girl Crush) Red color lipstick 뒤태는 apple hip / (Go! Girl Crush) Cash money 나도 충분히 벌어 / 요즘 나 잘나가 애교는 기본에",
+        "literal": "Eyeliner drawn longer, nose bridge higher / the more makeup, the bigger my confidence gets / but why is my boyfriend's look suspicious / oh my god, is he doubting me right now? no way",
+        "context": "-ㄹ수록 ('the more X, the more Y') links makeup directly to confidence, framing getting dressed up as self-empowerment rather than performance for someone else. The turn is abrupt — 근데 (but) — her boyfriend reads her confidence as evidence of something to hide, and she's genuinely offended by the accusation, not guilty."
+      },
+      "pre_chorus": {
+        "lines": "섹시는 highlight / 예쁘고 달콤한 표현들은 no thanks / 탈 날지 몰라 / 눈꼬린 더 길게 콧대는 더 높게 / 화장이 진할수록 커져가는 자신감 / 근데 왜 my boyfriend 눈빛이 수상해 / Oh my god 지금 나를 의심해? 말도 안 돼",
+        "literal": "Hey you, you're hanging by a thread / I go back and forth like a reed / why can't you be cool about it again / I just wanna be awesome girl",
+        "context": "갈대 (reed) is a classic Korean image for someone easily swayed, usually used self-critically — here she owns it lightly, admitting she flip-flops on how much patience she has for his jealousy. 쿨하다 (to be 'cool,' unbothered) is a borrowed English word that's become its own Korean value: being emotionally low-maintenance is treated as a virtue, and she's asking him to have more of it."
+      },
+      "chorus": {
+        "lines": "Hey you 너 간당간당해 / 갈대처럼 난 왔다갔다해 / 왜 또 쿨하지 못해 / (Go! Girl Crush) Red color lipstick 뒤태는 apple hip / (Go! Girl Crush) Cash money 나도 충분히 벌어 / 나는 안 해 밀당 내 감정에 솔직하지 / 다른 여자들의 고민과는 좀 달라",
+        "literal": "Girl Crush, cool, every day I do / red lipstick, my backside is apple-shaped / cash money, I earn plenty myself / I love myself",
+        "context": "뒤태 (silhouette from behind) is a very specific K-pop compliment vocabulary word — appearance judged from angles beyond the face. Slipping in '나도 충분히 벌어' (I earn plenty myself) mid-brag matters: her confidence isn't only about looks, it includes financial independence, which is the point of the whole 걸크러쉬 concept."
+      },
+      "bridge": {
+        "lines": "남들 시선 의식 안 해 / 조금 외로우면 어때 내 생각엔 / 마치 넌 애정결핍같아 / Hey you 너 간당간당해 / 갈대처럼 난 왔다갔다해 / 왜 또 쿨하지 못해 / (Go! Girl Crush) Red color lipstick 뒤태는 apple hip / (Go! Girl Crush) Cash money 나도 충분히 벌어",
+        "literal": "I don't play push-pull, I'm honest about my feelings / it's a bit different from other women's worries / I'm freakin' naughty girl / I don't care about others' eyes",
+        "context": "밀당 (from 밀고 당기기, pushing and pulling) is the standard Korean term for strategic emotional distance in dating — playing hard to get. Rejecting it outright, and rejecting 남들 시선 (other people's gaze) in the same breath, ties the whole song's confidence back to not performing for anyone's approval, romantic or social."
+      }
+    }
+  },
+  "artist_context": "MAMAMOO — Solar, Moonbyul, Wheein, Hwasa — built their reputation on live vocal power rather than a single cute, uniform image, and much of their material (including this one) is written or co-written by the members themselves. Girl Crush, released in 2017 as the title track of the 'Purple' album, pushed their image toward something bolder and more self-possessed than their earlier retro-pop era.",
+  "honorific_level": "informal — 반말 throughout, confrontational and self-assured",
+  "themes": [
+    "confidence",
+    "self-love",
+    "rejecting jealousy",
+    "independence"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ수록",
+      "usage": "'The more X, the more Y.' 화장이 진할수록 커져가는 자신감 links two things escalating together — heavier makeup, bigger confidence.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "밀당 (밀고 당기기)",
+      "usage": "Slang noun for strategic push-pull behavior in dating — playing hot and cold on purpose. Rejecting it, as this song does, signals a preference for blunt honesty over dating games.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-지 (informal declarative)",
+      "usage": "Softens an assertion into something closer to 'you know, I...' rather than a flat statement. 솔직하지 reads as confident but conversational, not a lecture.",
+      "topik_level": 2
+    }
+  ]
+}

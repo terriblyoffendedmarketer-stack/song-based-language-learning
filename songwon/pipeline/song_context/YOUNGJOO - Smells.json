@@ -1,0 +1,61 @@
+{
+  "safe_name": "YOUNGJOO - Smells",
+  "artist": "YOUNGJOO",
+  "song": "Smells",
+  "song_story": {
+    "overview": "Smells (냄새) tells a very small, very specific story: during a fight, one person goes into the bathroom and, embarrassed, makes a bodily sound they can't control — 뿡 뿡 뿡. It humiliates them in a moment that was already painful, and the song is the other person looking back and apologizing, gently, for how that moment got tangled up with the hurt of the fight itself. It's a comedic premise handled with real tenderness, which is the whole joke and the whole point at once.",
+    "cultural_root": "The song leans on 부부싸움은 칼로 물 베기 — the old saying that a couple's fight is like cutting water with a knife, meaning it doesn't leave a lasting mark. Underneath the fart-joke setup is a real observation about relationships: the embarrassing, unglamorous, unphotogenic moments (not just the romantic ones) are also part of loving someone, and how you handle those moments — with cruelty or with grace — says more about the relationship than the big gestures do.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "다투고 아프던 그날에 넌 / 화장실에 들어가 소릴 냈지 / 뿡 뿡 뿡 / 모든 것이 좋았었는데 넌 / 그날은 왜 그렇게 싫었는지 / 뿡 뿡 뿡",
+        "literal": "On that day when we fought and it hurt, you / went into the bathroom and made a sound / poot poot poot",
+        "context": "다투고 아프던 그날 sets the emotional stakes immediately — this isn't a random funny memory, it happened during a fight, which is exactly why what happens next stings more than it normally would. The onomatopoeia 뿡 뿡 뿡 is deployed completely deadpan, right after language describing real pain."
+      },
+      "verse_2": {
+        "lines": "냄새는 난다 / 니 잘못이 아니다 / 곧 사라질 냄샌데 / 마음의 상처를 줘서 미안해 / 그럴 수 있다 / 그때는 몰랐었다",
+        "literal": "Everything used to be good, but you — / why did you hate that day so much / poot poot poot",
+        "context": "The narrator is retracing the timeline, still not entirely sure what tipped the fight in the first place. Repeating the sound effect here, in the middle of genuine confusion about the argument, shows how thoroughly that one embarrassing moment overtook the memory of everything else that day."
+      },
+      "chorus": {
+        "lines": "그게 맘대로 되지 않는단걸 / 지나고 나서야 알았다 / 사랑이 뭐 다 똑같지 / 좋은거 싫은거 다함께 해야지 / 고통은 사라져 / 냄새는 난다",
+        "literal": "Yes, there's a smell / it's not your fault / it's a smell that will disappear soon / I'm sorry for hurting your feelings",
+        "context": "The chorus does something disarming: it doesn't deny the embarrassing thing happened (냄새는 난다 — 'yes, there is a smell') but immediately separates the physical fact from any judgment (니 잘못이 아니다 — 'it's not your fault'). 곧 사라질 냄샌데 ('it's a smell that will disappear soon anyway') puts the whole incident in perspective — temporary, trivial, not worth the hurt it caused."
+      },
+      "verse_3": {
+        "lines": "니 잘못이 아니다 / 곧 사라질 냄샌데 / 마음의 상처를 줘서 미안해 / 그럴 수 있다 / 그때는 몰랐었다 / 그게 맘대로 되지 않는단걸",
+        "literal": "It can happen / back then I didn't know / that it's not something you can control / I only understood after it had already passed",
+        "context": "그럴 수 있다 ('it can happen, that's understandable') is the emotional core of the apology — extending grace for something involuntary. 맘대로 되지 않다 (not something that goes as you want/control) names the actual insight: some embarrassments aren't choices, and treating them as if they were is where the real unfairness happened."
+      },
+      "bridge": {
+        "lines": "지나고 나서야 알았다 / 냄새는 난다 / 니 잘못이 아니다 / 곧 사라질 냄샌데 / 마음의 상처를 줘서 미안해 / 냄새는 난다 / 후 후 / 그럴 수 있다 / 후 후 후 후",
+        "literal": "Love is all kind of the same, isn't it / you have to go through the good and the bad together",
+        "context": "This is the thesis of the whole song stated plainly, right in the middle of an otherwise joke-shaped song: 좋은거 싫은거 다함께 (the good things and the unpleasant things, all together) — real intimacy includes the undignified moments, not just the curated ones."
+      }
+    }
+  },
+  "artist_context": "YOUNGJOO writes in a small, diary-scale style typical of Korean indie songwriting, where an entire song can be built around one embarrassing, ordinary domestic moment rather than a grand romantic gesture — the humor is real, but it's used to say something sincere rather than to undercut the feeling.",
+  "honorific_level": "informal — 반말, apologetic and direct, addressed to the partner",
+  "themes": [
+    "forgiveness",
+    "everyday intimacy",
+    "embarrassment",
+    "acceptance"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-단걸 (contraction of -다는 것을)",
+      "usage": "'The fact that ~.' 맘대로 되지 않는단걸 — 'the fact that it doesn't go as you want' — a casual spoken contraction common in lyrics and conversation.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-고 나서야",
+      "usage": "'Only after ~ing.' 지나고 나서야 알았다 — 'I only understood after it had passed' — marks a delayed realization.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어서 미안해",
+      "usage": "'Sorry for ~ing.' 상처를 줘서 미안해 — a direct, simple apology structure, common and useful for everyday speech.",
+      "topik_level": 2
+    }
+  ]
+}

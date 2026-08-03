@@ -1,0 +1,380 @@
+{
+  "id": "lesson-bts-life-goes-on",
+  "songId": "bts-life-goes-on",
+  "level": "intermediate",
+  "title": "Life Goes On — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "BTS — Life Goes On",
+      "content": "In this lesson, we'll learn words related to pandemic, endurance, hope.\nGrammar: -아/어서 (reason) (봄은 기다림을 몰라서 — 'because spring doesn't know how to )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Life Goes On is BTS processing the early COVID-19 lockdowns in real time. It opens with the world literally stopping without warning, spring arriving on schedule while everything else freezes, footpri...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "어느 날 세상이 멈췄어",
+        "아무런 예고도 하나 없이",
+        "봄은 기다림을 몰라서",
+        "눈치 없이 와버렸어"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "어느 날 세상이 멈췄어",
+        "아무런 예고도 하나 없이",
+        "봄은 기다림을 몰라서",
+        "눈치 없이 와버렸어"
+      ],
+      "lyricTranslations": [
+        "One day the world stopped",
+        "without any warning at all",
+        "spring doesn't know how to wait",
+        "so it came without noticing"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "어느 날 세상이 멈췄어",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈치",
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun"
+        },
+        "songLine": "눈치 없이 와버렸어",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "멈추다",
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "One day the world stopped",
+          "options": [
+            "봄은 기다림을 몰라서",
+            "눈치 없이 와버렸어",
+            "아무런 예고도 하나 없이",
+            "어느 날 세상이 멈췄어"
+          ],
+          "correctAnswer": "어느 날 세상이 멈췄어",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "without any warning at all",
+          "options": [
+            "눈치 없이 와버렸어",
+            "봄은 기다림을 몰라서",
+            "아무런 예고도 하나 없이",
+            "어느 날 세상이 멈췄어"
+          ],
+          "correctAnswer": "아무런 예고도 하나 없이",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "spring doesn't know how to wait",
+          "options": [
+            "아무런 예고도 하나 없이",
+            "눈치 없이 와버렸어",
+            "어느 날 세상이 멈췄어",
+            "봄은 기다림을 몰라서"
+          ],
+          "correctAnswer": "봄은 기다림을 몰라서",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "어느 날 ___이 멈췄어",
+          "options": [
+            "눈치",
+            "멈추다",
+            "세상",
+            "세상"
+          ],
+          "correctAnswer": "세상"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "봄은 기다림을 몰라서 — 'because spring doesn't know how to wait.' Gives an almost fable-like cause to a season's timing.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어서 (reason)",
+        "meaning": "봄은 기다림을 몰라서 — 'because spring doesn't know how to wait.' Gives an almost fable-like cause to a season's timing.",
+        "songExample": {
+          "korean": "아무런 예고도 하나 없이",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "시간",
+            "세상",
+            "눈치",
+            "멈추다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'tact, sense of a situation'의 한국어는?",
+          "options": [
+            "멈추다",
+            "세상",
+            "시간",
+            "눈치"
+          ],
+          "correctAnswer": "눈치"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to stop'의 한국어는?",
+          "options": [
+            "세상",
+            "멈추다",
+            "세상",
+            "눈치"
+          ],
+          "correctAnswer": "멈추다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어 버리다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to do completely / with regret or finality",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to do completely / with regret or finality"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "어느 날 세상이 멈췄어",
+        "아무런 예고도 하나 없이",
+        "봄은 기다림을 몰라서",
+        "눈치 없이 와버렸어",
+        "발자국이 지워진 거리",
+        "여기 넘어져있는 나",
+        "혼자 가네 시간이",
+        "미안해 말도 없이"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "눈치",
+            "english": "tact, sense of a situation"
+          },
+          {
+            "korean": "멈추다",
+            "english": "to stop"
+          }
+        ],
+        "patternLearned": "-아/어서 (reason)"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "BTS - Life Goes On",
+    "artist": "BTS",
+    "song": "Life Goes On",
+    "curriculum_level": 3
+  }
+}

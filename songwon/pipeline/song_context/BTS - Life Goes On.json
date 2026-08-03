@@ -1,0 +1,56 @@
+{
+  "safe_name": "BTS - Life Goes On",
+  "artist": "BTS",
+  "song": "Life Goes On",
+  "song_story": {
+    "overview": "Life Goes On is BTS processing the early COVID-19 lockdowns in real time. It opens with the world literally stopping without warning, spring arriving on schedule while everything else freezes, footprints erased from empty streets. Rather than promising things will be fine, the song sits inside the disorientation — no ending in sight, unsure if there's even an exit — before deciding to keep moving anyway, one ordinary day at a time. It's the title track of BE (2020), the album BTS made almost entirely themselves during lockdown, and it became the first all-Korean song to hit #1 on the Billboard Hot 100.",
+    "cultural_root": "The song leans on 일상 (ilsang) — ordinary daily life — treating the return of small routines (waking up, saying goodbye, seeing each other again) as something worth protecting rather than something to take for granted. This mirrors how a lot of pandemic-era Korean culture processed the crisis: not with grand statements, but by grieving the loss of the mundane.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "어느 날 세상이 멈췄어 / 아무런 예고도 하나 없이 / 봄은 기다림을 몰라서 / 눈치 없이 와버렸어 / 발자국이 지워진 거리 / 여기 넘어져있는 나 / 혼자 가네 시간이 / 미안해 말도 없이 / 오늘도 비가 내릴 것 같아 / 흠뻑 젖어버렸네 / 아직도 멈추질 않아",
+        "literal": "One day the world stopped / without any warning at all / spring doesn't know how to wait / so it came without noticing / footprints erased from the street / here I am, fallen over / time goes on alone / sorry, without a word",
+        "context": "봄은 기다림을 몰라서 — 'spring doesn't know how to wait' — personifies the season as oblivious to human suffering, arriving on its usual schedule while everyone else is frozen. 넘어져있는 나 — 'me, lying fallen over' — is a striking, almost childlike image of being knocked down by something invisible."
+      },
+      "verse_2": {
+        "lines": "저 먹구름보다 빨리 달려가 / 그럼 될 줄 알았는데 / 나 겨우 사람인가 봐 / 몹시 아프네 / 세상이란 놈이 준 감기 / 덕분에 눌러보는 먼지 쌓인 되감기 / 넘어진 채 청하는 엇박자의 춤 / 겨울이 오면 내쉬자 / 더 뜨거운 숨 / 끝이 보이지 않아 / 출구가 있긴 할까",
+        "literal": "Today it feels like it'll rain again / I've gotten completely soaked / it still hasn't stopped / I'm running faster than those dark clouds / thought that would be enough / but I guess I'm just barely human / it hurts so much / this cold the world gave me / thanks to it, I'm pressing rewind on dusty old memories / dancing off-beat while still lying fallen",
+        "context": "세상이란 놈이 준 감기 — 'a cold given by this thing called the world' — 놈 is a rough, almost contemptuous word for 'this guy/thing,' personifying the pandemic itself as an antagonist. 엇박자의 춤 — 'an off-beat dance' — captures trying to keep moving even when nothing is in sync anymore."
+      },
+      "chorus": {
+        "lines": "발이 떼지질 않아 않아 oh / 잠시 두 눈을 감아 / 여기 내 손을 잡아 / 저 미래로 달아나자 / 하루가 돌아오겠지 / 아무 일도 없단 듯이 / 또 하루 더 날아가지 / 이 음악을 빌려 너에게 나 전할게 / 사람들은 말해 세상이 다 변했대 / 다행히도 우리 사이는 / 아직 여태 안 변했네",
+        "literal": "Like an echo in the forest / a day will come back around / as if nothing happened / yeah, life goes on / like an arrow in the blue sky / one more day flies off / on my pillow, on my table / yeah, life goes on, like this again",
+        "context": "The chorus doesn't claim things will get better — it claims things will keep happening, on repeat, whether you're ready or not. That's the emotional trick of the song: 'life goes on' isn't comfort exactly, it's just a fact stated calmly enough to function as comfort."
+      },
+      "bridge": {
+        "lines": "늘 하던 시작과 끝 ‘안녕’이란 말로 / 오늘과 내일을 또 함께 이어보자고 / 멈춰있지만 어둠에 숨지 마 / 빛은 또 떠오르니깐 / 끝이 보이지 않아 / 출구가 있긴 할까 / 발이 떼지질 않아 않아 oh / 잠시 두 눈을 감아 / 여기 내 손을 잡아 (잡아) / 저 미래로 달아나자 (Oh, oh, oh) / 하루가 돌아오겠지 / 아무 일도 없단 듯이 / 또 하루 더 날아가지",
+        "literal": "I'll pass this along to you, borrowing this music / people say the whole world has changed / thankfully, the bond between us / still hasn't changed, even now / with the words we always start and end with, 'hello' / let's connect today and tomorrow again, together",
+        "context": "늘 하던 시작과 끝 '안녕' — 안녕 doing double duty as both 'hello' and 'goodbye' in Korean becomes the point: even in a world where everything else changed, the small ritual of greeting each other stayed exactly the same."
+      }
+    }
+  },
+  "artist_context": "BE was written, produced, and largely self-directed by BTS during the pandemic, an unusually hands-on process compared to their earlier, more label-driven releases. Life Goes On became the first predominantly Korean-language song to debut at #1 on the Billboard Hot 100, a milestone that mattered as much to Korean pop culture as it did to the group.",
+  "honorific_level": "informal — 반말, written as a direct message from the group to their fans (ARMY)",
+  "themes": [
+    "pandemic",
+    "endurance",
+    "hope",
+    "connection despite distance"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-아/어서 (reason)",
+      "usage": "봄은 기다림을 몰라서 — 'because spring doesn't know how to wait.' Gives an almost fable-like cause to a season's timing.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-단 듯이",
+      "usage": "'As if / as though.' 아무 일도 없단 듯이 = 'as if nothing happened' — describing life resuming its rhythm despite everything.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-겠지",
+      "usage": "Soft future presumption — 'probably will.' 돌아오겠지 = 'a day will probably come back around.' Less certain than a flat future tense, more like hopeful guessing.",
+      "topik_level": 3
+    }
+  ]
+}

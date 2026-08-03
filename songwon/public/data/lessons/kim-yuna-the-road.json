@@ -1,0 +1,380 @@
+{
+  "id": "lesson-kim-yuna-the-road",
+  "songId": "kim-yuna-the-road",
+  "level": "intermediate",
+  "title": "The Road — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Kim Yuna — The Road",
+      "content": "In this lesson, we'll learn words related to uncertainty, searching for direction, isolation.\nGrammar: -겠지 (Resigned or guessed future, 'I suppose/probably X.)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "The Road is about the disorientation of not knowing which direction your life should take, with no one around to actually tell you. The narrator stands in front of a maze with no map, calling out for ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "아무도 가르쳐 주지 않아",
+        "이 길이 옳은지 다른 길로 가야 할지",
+        "난 저길 저 끝에 다 다르면 멈추겠지",
+        "끝이라며"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "아무도 가르쳐 주지 않아",
+        "이 길이 옳은지 다른 길로 가야 할지",
+        "난 저길 저 끝에 다 다르면 멈추겠지",
+        "끝이라며"
+      ],
+      "lyricTranslations": [
+        "No one will teach me",
+        "whether this road is right, or whether I should take a different one",
+        "I think I'll just stop wherever that far end is",
+        "calling it the finish"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "끝",
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "이 매듭 끝을 풀기엔",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun"
+        },
+        "songLine": "난 저길 저 끝에 다 다르면 멈추겠지",
+        "dailySentence": {
+          "korean": "이 매듭 끝을 풀기엔",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "길",
+      "wordData": {
+        "word": {
+          "korean": "길",
+          "english": "road, path",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "길",
+          "english": "road, path",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "난 나의 길을 갈 테니까",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "길",
+          "english": "road, path",
+          "pos": "noun"
+        },
+        "songLine": "이 길이 옳은지 다른 길로 가야 할지",
+        "dailySentence": {
+          "korean": "난 나의 길을 갈 테니까",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "세상 어딘가 저 길 가장 구석에",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "No one will teach me",
+          "options": [
+            "난 저길 저 끝에 다 다르면 멈추겠지",
+            "이 길이 옳은지 다른 길로 가야 할지",
+            "끝이라며",
+            "아무도 가르쳐 주지 않아"
+          ],
+          "correctAnswer": "아무도 가르쳐 주지 않아",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "whether this road is right, or whether I should take a different one",
+          "options": [
+            "이 길이 옳은지 다른 길로 가야 할지",
+            "난 저길 저 끝에 다 다르면 멈추겠지",
+            "아무도 가르쳐 주지 않아",
+            "끝이라며"
+          ],
+          "correctAnswer": "이 길이 옳은지 다른 길로 가야 할지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I think I'll just stop wherever that far end is",
+          "options": [
+            "난 저길 저 끝에 다 다르면 멈추겠지",
+            "아무도 가르쳐 주지 않아",
+            "이 길이 옳은지 다른 길로 가야 할지",
+            "끝이라며"
+          ],
+          "correctAnswer": "난 저길 저 끝에 다 다르면 멈추겠지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Resigned or guessed future, 'I suppose/probably X.' Appears in 멈추겠지 — a soft, uncertain prediction about her own future rather than a firm plan.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-겠지",
+        "meaning": "Resigned or guessed future, 'I suppose/probably X.' Appears in 멈추겠지 — a soft, uncertain prediction about her own future rather than a firm plan.",
+        "songExample": {
+          "korean": "난 저길 저 끝에 다 다르면 멈추겠지",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'end'의 한국어는?",
+          "options": [
+            "세상",
+            "길",
+            "끝",
+            "세상"
+          ],
+          "correctAnswer": "끝"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'road, path'의 한국어는?",
+          "options": [
+            "길",
+            "끝",
+            "사랑",
+            "세상"
+          ],
+          "correctAnswer": "길"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "사람",
+            "세상",
+            "끝",
+            "길"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄹ 테니(까)' 패턴은 어떤 의미예요?",
+          "options": [
+            "since I will / intend to (giving reason)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "since I will / intend to (giving reason)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "아무도 가르쳐 주지 않아",
+        "이 길이 옳은지 다른 길로 가야 할지",
+        "난 저길 저 끝에 다 다르면 멈추겠지",
+        "끝이라며",
+        "가로막힌 미로 앞에 서 있어",
+        "내 길을 물어도 대답 없는 메아리",
+        "어제와 똑같은 이 길에 머물지 몰라",
+        "저 거미줄 끝에 꼭 매달린 것처럼"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "끝",
+            "english": "end"
+          },
+          {
+            "korean": "길",
+            "english": "road, path"
+          },
+          {
+            "korean": "세상",
+            "english": "world"
+          }
+        ],
+        "patternLearned": "-겠지"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Kim Yuna - The Road",
+    "artist": "Kim Yuna",
+    "song": "The Road",
+    "curriculum_level": 4
+  }
+}

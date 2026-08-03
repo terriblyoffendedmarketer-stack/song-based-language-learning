@@ -1,0 +1,56 @@
+{
+  "safe_name": "IU, SUGA - eight(Prod.&Feat. SUGA of BTS)",
+  "artist": "IU, SUGA",
+  "song": "eight(Prod.&Feat. SUGA of BTS)",
+  "song_story": {
+    "overview": "eight is about refusing to let a good memory turn into a nightmare, choosing instead to freeze it in place forever. IU opens numb and a little bitter, feeling like everything worth having has already left without saying goodbye, but the song pivots into an image of two people dancing under an orange sun with no shadows and no scheduled ending. SUGA's verse leans darker, comparing the relationship to a small island the two of them built together, where 'forever' is admitted to be as fragile as a sandcastle even while they keep returning to it.",
+    "cultural_root": "The song plays with the tension between 영원 (yeong-won, eternity/forever) and the Korean cultural awareness that nothing actually lasts — SUGA directly calls 'forever' a sandcastle (모래성), a common Korean image for something that looks solid but washes away. Rather than resolving that tension, the song chooses to treat memory itself as the place where forever can exist, since a memory, unlike a relationship, can't really end or be taken away.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "뭐 그대로야 난 / 다 잃어버린 것 같아 / 모든 게 맘대로 왔다가 인사도 없이 떠나 / 이대로는 무엇도 사랑하고 싶지 않아 / 다 해질 대로 해져버린 / 기억 속을 여행해 / 우리는 오렌지 태양 아래",
+        "literal": "So are you happy now? finally happy now, yeah / I'm still the same / I feel like I've lost everything / everything came and went as it pleased, without even saying goodbye / I don't want to love anything, like this / I travel through memories that are worn completely thin",
+        "context": "다 해질 대로 해져버린 기억 — 'memories worn down as much as they can be worn' — 해지다 describes fabric fraying from overuse, applied here to memory itself, suggesting she's replayed these memories so many times they've become threadbare."
+      },
+      "chorus": {
+        "lines": "그림자 없이 함께 춤을 춰 / 정해진 이별 따위는 없어 / 아름다웠던 그 기억에서 만나 / 이런 악몽이라면 영영 깨지 않을게 / 섬 그래 여긴 섬 서로가 만든 작은 섬 / \"영원\"이란 말은 모래성 / 작별은 마치 재난문자 같지",
+        "literal": "Under an orange sun / we dance together without shadows / there's no such thing as a scheduled goodbye / we meet in that beautiful memory",
+        "context": "그림자 없이 (without shadows) removes the one thing that would mark time passing in a scene like this — no shadow means no sense of the sun moving, so the moment is frozen. 정해진 이별 따위는 없어 — 'there's no such thing as a scheduled goodbye' — memory, unlike real life, doesn't come with a deadline."
+      },
+      "suga_verse": {
+        "lines": "그리움과 같이 맞이하는 아침 / 서로가 이 영겁을 지나 / 꼭 이 섬에서 다시 만나 / 지나듯 날 위로하던 누구의 말대로 고작 / 한 뼘짜리 추억을 잊는 게 참 쉽지 않아 / 시간이 지나도 여전히 / 날 붙드는 그곳에",
+        "literal": "An island, yeah, this is an island, a small island we made for each other / forever young / the word 'eternal' is a sandcastle / a farewell feels like an emergency alert text / a morning greeted together with longing / we'll pass through this eternity / and meet again, for sure, on this island",
+        "context": "재난문자 (jaenanmunja) is the emergency disaster alert text every phone in Korea receives during floods, earthquakes, or other crises — comparing a breakup to one is a very modern, very Korean image: sudden, unwanted, impossible to ignore. 모래성 (sandcastle) undercuts the earlier claim of 'forever,' admitting it's beautiful but built to wash away."
+      },
+      "bridge": {
+        "lines": "우리는 오렌지 태양 아래 / 그림자 없이 함께 춤을 춰 / 정해진 안녕 따위는 없어 / 아름다웠던 그 기억에서 만나 / 우리는 서로를 베고 누워 / 슬프지 않은 이야기를 나눠 / 우울한 결말 따위는 없어 / 난 영원히 널 이 기억에서 만나 / 이런 악몽이라면 영영 깨지 않을게",
+        "literal": "Following the words of someone who once comforted me in passing / a memory that only lasted a handspan isn't so easy to forget / even now, time hasn't moved on / I'm still held in that place",
+        "context": "한 뼘짜리 추억 — 'a memory the size of a handspan' — 뼘 is a traditional Korean unit of measurement, the span of an outstretched hand. Using it to describe a memory's 'size' makes something abstract feel almost physically small and precious, contradicting how hard it is to actually let go of."
+      }
+    }
+  },
+  "artist_context": "eight is a collaboration between IU and SUGA of BTS, who also produced the track. It marked a notable pairing of two major Korean acts and leans into a moodier, hip-hop-inflected sound compared to IU's more traditional ballad work, with SUGA's verse adding a darker, more clipped lyrical style against IU's smoother vocal lines.",
+  "honorific_level": "informal — casual 반말 throughout, split between IU's sung sections and SUGA's rapped verse",
+  "themes": [
+    "nostalgia",
+    "impermanence",
+    "choosing memory over reality",
+    "bittersweet love"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-아/어 버리다",
+      "usage": "Adds a sense of completion, often with regret or finality. Appears in 해져버린 — 'having become completely worn out.'",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-따위는 없어",
+      "usage": "Dismissive negation, 'there's no such thing as X,' with a slightly contemptuous edge. Appears in 이별 따위는 없어, 결말 따위는 없어.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-이란 (topic marker for definition)",
+      "usage": "Used to define or single out a term for comment. Appears in 영원이란 말은 — '[as for] the word eternal...' — setting up SUGA's claim that it's just a sandcastle.",
+      "topik_level": 3
+    }
+  ]
+}

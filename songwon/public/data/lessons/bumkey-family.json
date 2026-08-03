@@ -1,0 +1,380 @@
+{
+  "id": "lesson-bumkey-family",
+  "songId": "bumkey-family",
+  "level": "beginner",
+  "title": "Family — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "BUMKEY — Family",
+      "content": "In this lesson, we'll learn words related to unconditional love, gratitude, commitment.\nGrammar: -(이)란 이름으로 / 이름 속에 ('Under/within the name called ___.' Used first wit)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Family is a slow, grateful ballad addressed to someone who has stood by the singer through years of both tears and laughter — framed loosely enough to read as a lover, but built entirely around the la...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "잠시 눈을 감아봐요",
+        "함께 지난 날들이 보이죠",
+        "우리 참 많이도 울고 웃었네요",
+        "사랑이란 이름으로"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "잠시 눈을 감아봐요",
+        "함께 지난 날들이 보이죠",
+        "우리 참 많이도 울고 웃었네요",
+        "사랑이란 이름으로"
+      ],
+      "lyricTranslations": [
+        "Close your eyes for a moment",
+        "you can see the days we spent together",
+        "we really did cry and laugh so much",
+        "under the name of love"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "사랑 알수 있겠죠",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "사랑이란 이름으로",
+        "dailySentence": {
+          "korean": "사랑 알수 있겠죠",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "곁",
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "곁에 있어줘서",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "곁",
+          "english": "side, next to",
+          "pos": "noun"
+        },
+        "songLine": "나의 모진말 속에도 곁에 있어줘서 고마워요",
+        "dailySentence": {
+          "korean": "곁에 있어줘서",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Close your eyes for a moment",
+          "options": [
+            "우리 참 많이도 울고 웃었네요",
+            "함께 지난 날들이 보이죠",
+            "사랑이란 이름으로",
+            "잠시 눈을 감아봐요"
+          ],
+          "correctAnswer": "잠시 눈을 감아봐요",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "you can see the days we spent together",
+          "options": [
+            "우리 참 많이도 울고 웃었네요",
+            "사랑이란 이름으로",
+            "함께 지난 날들이 보이죠",
+            "잠시 눈을 감아봐요"
+          ],
+          "correctAnswer": "함께 지난 날들이 보이죠",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "we really did cry and laugh so much",
+          "options": [
+            "함께 지난 날들이 보이죠",
+            "잠시 눈을 감아봐요",
+            "사랑이란 이름으로",
+            "우리 참 많이도 울고 웃었네요"
+          ],
+          "correctAnswer": "우리 참 많이도 울고 웃었네요",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Under/within the name called ___.' Used first with 사랑 (love), then with 가족 (family) — the repetition with a swapped noun is the song's central rhetorical move.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(이)란 이름으로 / 이름 속에",
+        "meaning": "'Under/within the name called ___.' Used first with 사랑 (love), then with 가족 (family) — the repetition with a swapped noun is the song's central rhetorical move.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "곁",
+            "시간",
+            "지나다"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "곁",
+            "사랑",
+            "지나다",
+            "세상"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'side, next to'의 한국어는?",
+          "options": [
+            "지나다",
+            "곁",
+            "사랑",
+            "세상"
+          ],
+          "correctAnswer": "곁"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄹ게(요)' 패턴은 어떤 의미예요?",
+          "options": [
+            "I will (promise/intention)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "I will (promise/intention)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "잠시 눈을 감아봐요",
+        "함께 지난 날들이 보이죠",
+        "우리 참 많이도 울고 웃었네요",
+        "사랑이란 이름으로",
+        "말하지 않아도 날 이해해줘서",
+        "나의 모진말 속에도 곁에 있어줘서 고마워요",
+        "그대 주윌 둘러봐요",
+        "함께 지나온 날들이 보이죠"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          },
+          {
+            "korean": "곁",
+            "english": "side, next to"
+          }
+        ],
+        "patternLearned": "-(이)란 이름으로 / 이름 속에"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "BUMKEY - Family",
+    "artist": "BUMKEY",
+    "song": "Family",
+    "curriculum_level": 2
+  }
+}

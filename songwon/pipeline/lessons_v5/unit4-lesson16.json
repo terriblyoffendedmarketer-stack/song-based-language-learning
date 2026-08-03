@@ -1,0 +1,893 @@
+{
+  "id": "v5-unit4-lesson16",
+  "meta": {
+    "songId": "10cm-my-eyes",
+    "songTitle": "My Eyes",
+    "artist": "10cm",
+    "unit": 4,
+    "lessonNumber": 16,
+    "grammarFocus": "-게 되다",
+    "grammarMeaning": "to end up ~ing",
+    "koreanRatio": 0.8
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "별",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "night",
+            "correct": false
+          },
+          {
+            "text": "road",
+            "correct": false
+          },
+          {
+            "text": "star",
+            "correct": true
+          },
+          {
+            "text": "rain",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "별 = star."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "10cm — My Eyes",
+      "content": "Things that happen gradually or beyond your control. \"I ended up loving you.\"\n\nMy Eyes is a 10cm song about the exact moment someone realizes they've fallen for a person — not gradually, but suddenly, with almost alarming intensity. The narrator can't hear anything except this person's voice, can't see anything except their eyes, and genuinely wonders out loud whether he's lost his mind.\n\nIn this lesson, you'll learn the grammar pattern **-게 되다**, which means \"to end up ~ing.\" We'll see how 10cm uses it in \"My Eyes.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **목소리** — voice\n- **보이다** — to be seen\n- **목소리가 들리다** — a voice can be heard\n- **좋아하게 되다** — to end up liking\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "너의 목소리만 넘나 크게 들려",
+        "다른건 아무것도 안들리고",
+        "너의 눈동자만 넘나 크게 보여",
+        "아니 내가 정말 미친걸까"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "너의 목소리만 넘나 크게 들려",
+          "english": "Only your voice sounds unbelievably loud to me",
+          "highlights": [
+            "목소리"
+          ]
+        },
+        {
+          "korean": "다른건 아무것도 안들리고",
+          "english": "nothing else is audible at all",
+          "highlights": []
+        },
+        {
+          "korean": "너의 눈동자만 넘나 크게 보여",
+          "english": "only your eyes look unbelievably big to me",
+          "highlights": []
+        },
+        {
+          "korean": "아니 내가 정말 미친걸까",
+          "english": "no wait, am I actually going crazy?",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "목소리",
+        "english": "voice",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "너의 목소리만 넘나 크게 들려",
+          "english": "",
+          "highlights": [
+            "목소리"
+          ]
+        },
+        "audioKey": "목소리"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "목소리",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "a voice can be heard",
+            "correct": false
+          },
+          {
+            "text": "voice",
+            "correct": true
+          },
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "night",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "목소리 = voice"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "엄마 목소리가 좋아요.",
+        "english": "Mom's voice is nice.",
+        "highlights": [
+          "목소리"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "엄마 ___가 좋아요.",
+        "promptTranslation": "Mom's voice is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "좋아하게 되다",
+            "correct": false
+          },
+          {
+            "text": "목소리",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "엄마 목소리가 좋아요. = Mom's voice is nice."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "목소리가 들리다",
+        "english": "a voice can be heard",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "목소리가 들리다"
+          ]
+        },
+        "audioKey": "목소리가 들리다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "목소리가 들리다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "a voice can be heard",
+            "correct": true
+          },
+          {
+            "text": "to be seen",
+            "correct": false
+          },
+          {
+            "text": "voice",
+            "correct": false
+          },
+          {
+            "text": "to end up liking",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "목소리가 들리다 = a voice can be heard"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "친구 목소리가 들려요.",
+        "english": "I can hear my friend's voice.",
+        "highlights": [
+          "목소리가 들려"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "친구 ___요.",
+        "promptTranslation": "I can hear my friend's voice.",
+        "options": [
+          {
+            "text": "목소리가 들리다",
+            "correct": false
+          },
+          {
+            "text": "보이다",
+            "correct": false
+          },
+          {
+            "text": "목소리가 들려",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "친구 목소리가 들려요. = I can hear my friend's voice."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "복습 퀴즈",
+      "quiz": {
+        "type": "fill-blank-song",
+        "prompt": "너의 ___만 넘나 크게 들려",
+        "promptTranslation": "노래를 완성하세요",
+        "options": [
+          {
+            "text": "보이다",
+            "correct": false
+          },
+          {
+            "text": "목소리가 들리다",
+            "correct": false
+          },
+          {
+            "text": "목소리",
+            "correct": true
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "너의 목소리만 넘나 크게 들려"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s15-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "너의 목소리만 넘나 크게 들려",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "Only your voice sounds unbelievably loud to me",
+            "correct": true
+          },
+          {
+            "text": "nothing else is audible at all",
+            "correct": false
+          },
+          {
+            "text": "only your eyes look unbelievably big to me",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "너의 목소리만 넘나 크게 들려 = Only your voice sounds unbelievably loud to me"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s16-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "보이다",
+        "english": "to be seen",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "보이다"
+          ]
+        },
+        "audioKey": "보이다"
+      }
+    },
+    {
+      "id": "s17-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "보이다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "a voice can be heard",
+            "correct": false
+          },
+          {
+            "text": "to be seen",
+            "correct": true
+          },
+          {
+            "text": "to end up liking",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "보이다 = to be seen"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s18-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "바다가 보여요.",
+        "english": "The ocean can be seen.",
+        "highlights": [
+          "보여요"
+        ]
+      }
+    },
+    {
+      "id": "s19-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "바다가 ___.",
+        "promptTranslation": "The ocean can be seen.",
+        "options": [
+          {
+            "text": "세상",
+            "correct": false
+          },
+          {
+            "text": "보여요",
+            "correct": true
+          },
+          {
+            "text": "목소리",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "바다가 보여요. = The ocean can be seen."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s20-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "엄마 목소리가 좋아요.",
+          "english": "Mom's voice is nice.",
+          "highlights": [
+            "목소리"
+          ]
+        },
+        {
+          "korean": "바다가 보여요.",
+          "english": "The ocean can be seen.",
+          "highlights": [
+            "보여요"
+          ]
+        }
+      ],
+      "note": "목소리 + 보이다 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s21-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "Only your voice sounds unbelievably loud to me",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "너의 눈동자만 넘나 크게 보여",
+            "correct": false
+          },
+          {
+            "text": "다른건 아무것도 안들리고",
+            "correct": false
+          },
+          {
+            "text": "너의 목소리만 넘나 크게 들려",
+            "correct": true
+          },
+          {
+            "text": "아니 내가 정말 미친걸까",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "너의 목소리만 넘나 크게 들려"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s22-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-게 되다",
+        "meaning": "to end up ~ing",
+        "explanation": "Things that happen gradually or beyond your control. \"I ended up loving you.\"",
+        "songExample": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "게 되다"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s23-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "좋아하게 되다",
+        "english": "to end up liking",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-게 되다 = to end up ~ing",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "좋아하게 되다"
+          ]
+        },
+        "audioKey": "좋아하게 되다"
+      }
+    },
+    {
+      "id": "s24-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "좋아하게 되다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to be seen",
+            "correct": false
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "to end up liking",
+            "correct": true
+          },
+          {
+            "text": "a voice can be heard",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "좋아하게 되다 = to end up liking"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s25-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "한국 음식을 좋아하게 됐어요.",
+        "english": "I ended up liking Korean food.",
+        "highlights": [
+          "좋아하게 됐"
+        ]
+      }
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "좋아하___",
+        "promptTranslation": "to end up liking",
+        "options": [
+          {
+            "text": "게 되다",
+            "correct": true
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "는데",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -게 되다예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "좋아하게 되다",
+        "promptTranslation": "여기서 -게 되다는 무슨 느낌일까요?",
+        "options": [
+          {
+            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "correct": true
+          },
+          {
+            "text": "갑자기 일어났다가 멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "일부러 그렇게 했어요",
+            "correct": false
+          },
+          {
+            "text": "더 이상 그렇지 않아요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-게 되다 = to end up ~ing — 선택이 아니라 저절로 된 거예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "보이다",
+            "correct": false
+          },
+          {
+            "text": "목소리",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "목소리 = voice"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (to be seen)",
+        "options": [
+          {
+            "text": "목소리",
+            "correct": false
+          },
+          {
+            "text": "보이다",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "보이다 = to be seen"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "목소리가 들리다",
+        "promptTranslation": "\"a voice can be heard\" 를 한국어로?",
+        "options": [
+          {
+            "text": "목소리가 들리다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "목소리",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "목소리가 들리다 = a voice can be heard"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "커피를 좋아하___ 됐어요.",
+        "promptTranslation": "I ended up liking coffee.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "게 되다",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -게 되다!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"넘나\", \"들려\", \"크게\", \"너의\", \"목소리만\"]",
+        "promptTranslation": "Only your voice sounds unbelievably loud to me",
+        "options": [
+          {
+            "text": "너의 목소리만 넘나 크게 들려",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "너의 목소리만 넘나 크게 들려"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s33-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "너의 목소리만 넘나 크게 들려",
+          "english": "",
+          "highlights": [
+            "목소리"
+          ]
+        },
+        {
+          "korean": "다른건 아무것도 안들리고",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "너의 눈동자만 넘나 크게 보여",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "아니 내가 정말 미친걸까",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "하루종일 너만 생각하다 보니",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "머리가 이상해진 것 같아",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "혹시 내가 너를 좋아하게",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "되버린걸까",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s34-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "목소리",
+          "english": "voice",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "보이다",
+          "english": "to be seen",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "목소리가 들리다",
+          "english": "a voice can be heard",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "좋아하게 되다",
+          "english": "to end up liking",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-게 되다",
+        "meaning": "to end up ~ing"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 17
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

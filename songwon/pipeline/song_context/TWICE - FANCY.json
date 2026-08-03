@@ -1,0 +1,61 @@
+{
+  "safe_name": "TWICE - FANCY",
+  "artist": "TWICE",
+  "song": "FANCY",
+  "song_story": {
+    "overview": "FANCY is the title track of TWICE's 2019 EP Fancy You, and it marks the group's shift out of the purely cute idol image they debuted with, into what K-pop calls a 'girl crush' concept — more assured, less performatively adorable. The lyrics are a straightforward confession of infatuation, someone admitting they're completely charmed by a person and not even trying to hide it anymore.",
+    "cultural_root": "The song works off 팬심 (paensim, 'fan heart' — a fan's devoted feelings) turned inside out into romantic infatuation, and it borrows the English word 'fancy' the way Korean pop often absorbs an English word wholesale and repeats it until it becomes the song's whole identity. Admitting you're 'obsessed' with someone, openly and without playing it cool, cuts against the usual restraint in how affection gets expressed — which is part of why 'girl crush' concepts read as bolder than 'cute' ones.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "지금 하늘 구름 색은 Tropical, yeah / 저 태양 빨간빛 네 두 볼 같아 / It's dangerous 따끔해 넌 장미 같아 / 괜찮아 조금도 난 겁나지 않아 / 더 세게 꼭 잡아 Take my hand / 좀 위험할거야 더 위험할거야 Baby / 달콤한 초콜릿 아이스크림처럼 / 녹아버리는 지금 내 기분 So lovely",
+        "literal": "The color of the clouds in the sky right now is tropical, yeah / that sun's red light looks like your two cheeks / oh tell me I'm the only one, babe",
+        "context": "The whole verse maps the sky onto the person's face — even the weather reminds her of him. It's a classic infatuation move: nothing in the world is neutral anymore, everything gets read as being somehow about him."
+      },
+      "pre_chorus": {
+        "lines": "깜깜한 우주 속 가장 반짝이는 / 저 별 저 별 그 옆에 큰 네 별 / 거기 너 I fancy you / 아무나 원하지 않아 / 그래 너 I fancy you / 꿈처럼 행복해도 돼 / 누가 먼저 좋아하면 어때 / 지금 너에게로 갈래",
+        "literal": "It's dangerous, it stings, you're like a rose / it's fine, I'm not scared at all / grip tighter, take my hand",
+        "context": "장미 (rose) carries its usual double meaning — beautiful but with thorns. 따끔하다 means to sting or prickle. She's naming the risk directly (dangerous, stings) and then choosing it anyway, which is the girl-crush move: not naive about the danger, just unbothered by it."
+      },
+      "chorus_image": {
+        "lines": "매일매일 난 정말 아무것도 못하네 / Oh my, Mayday 이러다 큰일 낼 것 같은데 / Bang-bang 머리가 홀린 듯 리셋이 돼 / 어쩌면 좋아 이게 맞는건지 몰라 S.O.S / Swim-swim 너란 바다에 잠수함이 돼 / 매일이 Birthday 달콤해 너와 나의 Fantasy / Dream dream 마치 꿈같아 볼 꼬집어봐 / 요즘 나의 상태 메세진 랄랄라 Baby",
+        "literal": "Like sweet chocolate ice cream / melting right now, my mood, so lovely / in the pitch-dark universe, the brightest / that star, that star, and next to it, your bigger star",
+        "context": "녹아버리다 — 'to completely melt' — 버리다 as an auxiliary verb adds a sense of total, irreversible surrender to the feeling. The image moves from something small and sweet (ice cream) to something vast (the universe), which is how infatuation actually feels — it starts tiny and takes over everything."
+      },
+      "chorus": {
+        "lines": "달콤한 초콜릿 아이스크림처럼 / 녹아버리는 지금 내 기분 So lovely / 깜깜한 우주 속 가장 반짝이는 / 저 별 저 별 그 옆에 큰 네 별 / 거기 너 I fancy you / 아무나 원하지 않아 / 그래 너 I fancy you / 꿈처럼 행복해도 돼",
+        "literal": "You there, I fancy you / I don't want just anyone / hey, I love you / yes, you, I fancy you / it's okay to be happy like a dream / because I need you",
+        "context": "아무나 원하지 않아 — 'I don't want just anyone' — is the specificity claim: this isn't generic longing, it's about this one person. 꿈처럼 행복해도 돼 (it's okay to be happy like a dream) gives herself permission to feel this good, as if she needed to talk herself into allowing it."
+      },
+      "bridge": {
+        "lines": "누가 먼저 좋아하면 어때 / 지금 너에게로 갈래 / 연기처럼 훅 사라질까 / 늘 가득히 담아 널 두 눈에 담아 / 생각만으로 포근해져 / 몰래 뒤에서 안아 널 놓지 않을래 / 거기 너 I fancy you (Fancy you) / 아무나 원하지 않아 (Whoa, whoa, whoa) / 그래 너 I fancy you / 꿈처럼 행복해도 돼 / 누가 먼저 좋아하면 어때 / 지금 너에게로 갈래",
+        "literal": "Will it vanish suddenly like smoke? / I always keep you filled in my eyes / just thinking about it makes me feel warm / I'll hug you secretly from behind, I won't let you go",
+        "context": "연기처럼 훅 사라질까 (will it disappear like smoke) is the one moment of doubt in an otherwise confident song — a flicker of fear that this happiness is too good to last. 놓지 않을래 ('I won't let go') answers that fear with a decision rather than more worry."
+      }
+    }
+  },
+  "artist_context": "TWICE debuted in 2015 through JYP Entertainment's survival show Sixteen and built their early run on maximalist, extremely catchy 'cute' concepts. Fancy You represented a deliberate pivot toward a slightly older, more self-possessed image, a common and closely watched transition point for K-pop groups as both the members and their fanbase (ONCE) get older together.",
+  "honorific_level": "informal — 반말, direct address to the person she's infatuated with",
+  "themes": [
+    "infatuation",
+    "confidence",
+    "girl crush",
+    "devotion"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-처럼",
+      "usage": "'Like/as.' 초콜릿 아이스크림처럼 (like chocolate ice cream), 연기처럼 (like smoke) — used for both the sweetness and the fragility of the feeling.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-아/어 버리다",
+      "usage": "Adds a sense of completeness or no-turning-back to a verb. 녹아버리는 — 'melting completely, with nothing left to hold onto.'",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-지 않을래",
+      "usage": "A soft but firm statement of what you won't do. 놓지 않을래 — 'I won't let go' — a decision phrased gently but held to.",
+      "topik_level": 3
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "id": "v5-unit2-lesson5",
+  "meta": {
+    "songId": "day6-you-were-beautiful",
+    "songTitle": "You Were Beautiful",
+    "artist": "DAY6",
+    "unit": 2,
+    "lessonNumber": 5,
+    "grammarFocus": "-지만",
+    "grammarMeaning": "but, although",
+    "koreanRatio": 0.65
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "괜찮다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "heart",
+            "correct": false
+          },
+          {
+            "text": "sky",
+            "correct": false
+          },
+          {
+            "text": "to be okay",
+            "correct": true
+          },
+          {
+            "text": "rain",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "괜찮다 = to be okay."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "DAY6 — You Were Beautiful",
+      "content": "Expressing contrast. \"I want to forget, but I can't.\"\n\nOne of DAY6's signature songs, built almost entirely around a single repeated word: 예뻤어 — 'you were beautiful,' past tense. The singer is clear upfront that he's not trying to get back together — he's just been hit by a memory and wants to say it out loud once.\n\nIn this lesson, you'll learn the grammar pattern **-지만**, which means \"but, although.\" We'll see how DAY6 uses it in \"You Were Beautiful.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **아프다** — to hurt\n- **마음** — heart / mind\n- **아프지만 괜찮다** — it hurts but it's okay\n- **슬프지만 웃다** — to be sad but smile\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "지금 이 말이jigeum i mari",
+        "우리가 다시uriga dasi",
+        "시작하자는 건 아냐sijakajaneun geon anya",
+        "그저 너의geujeo neoui"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "지금 이 말이jigeum i mari",
+          "english": "What I'm saying right now",
+          "highlights": []
+        },
+        {
+          "korean": "우리가 다시uriga dasi",
+          "english": "isn't that we should start over again",
+          "highlights": []
+        },
+        {
+          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "english": "it's just that",
+          "highlights": []
+        },
+        {
+          "korean": "그저 너의geujeo neoui",
+          "english": "some memory of you that had been staying inside me",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "아프다",
+        "english": "to hurt",
+        "kind": "word",
+        "partOfSpeech": "adjective",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "아프다"
+          ]
+        },
+        "audioKey": "아프다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "아프다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "heart / mind",
+            "correct": false
+          },
+          {
+            "text": "to be sad but smile",
+            "correct": false
+          },
+          {
+            "text": "to hurt",
+            "correct": true
+          },
+          {
+            "text": "dream",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아프다 = to hurt"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "머리가 아파요.",
+        "english": "My head hurts.",
+        "highlights": [
+          "아파요"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "머리가 ___.",
+        "promptTranslation": "My head hurts.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "아파요",
+            "correct": true
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "머리가 아파요. = My head hurts."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "아프지만 괜찮다",
+        "english": "it hurts but it's okay",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "아프지만 괜찮다"
+          ]
+        },
+        "audioKey": "아프지만 괜찮다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "아프지만 괜찮다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to hurt",
+            "correct": false
+          },
+          {
+            "text": "heart / mind",
+            "correct": false
+          },
+          {
+            "text": "it hurts but it's okay",
+            "correct": true
+          },
+          {
+            "text": "to be sad but smile",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아프지만 괜찮다 = it hurts but it's okay"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "아프지만 괜찮아요.",
+        "english": "It hurts but it's okay.",
+        "highlights": [
+          "아프지만",
+          "괜찮"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 괜찮아요.",
+        "promptTranslation": "It hurts but it's okay.",
+        "options": [
+          {
+            "text": "아프지만",
+            "correct": true
+          },
+          {
+            "text": "아프지만 괜찮다",
+            "correct": false
+          },
+          {
+            "text": "아프다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아프지만 괜찮아요. = It hurts but it's okay."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "지금 이 말이jigeum i mari",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "What I'm saying right now",
+            "correct": true
+          },
+          {
+            "text": "isn't that we should start over again",
+            "correct": false
+          },
+          {
+            "text": "it's just that",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "지금 이 말이jigeum i mari = What I'm saying right now"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "마음",
+        "english": "heart / mind",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "마음"
+          ]
+        },
+        "audioKey": "마음"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "마음",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "it hurts but it's okay",
+            "correct": false
+          },
+          {
+            "text": "to be sad but smile",
+            "correct": false
+          },
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "heart / mind",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "마음 = heart / mind"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "마음이 따뜻해요.",
+        "english": "My heart is warm.",
+        "highlights": [
+          "마음"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이 따뜻해요.",
+        "promptTranslation": "My heart is warm.",
+        "options": [
+          {
+            "text": "마음",
+            "correct": true
+          },
+          {
+            "text": "사람",
+            "correct": false
+          },
+          {
+            "text": "아파요",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "마음이 따뜻해요. = My heart is warm."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "머리가 아파요.",
+          "english": "My head hurts.",
+          "highlights": [
+            "아파요"
+          ]
+        },
+        {
+          "korean": "마음이 따뜻해요.",
+          "english": "My heart is warm.",
+          "highlights": [
+            "마음"
+          ]
+        }
+      ],
+      "note": "아프다 + 마음 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "What I'm saying right now",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "시작하자는 건 아냐sijakajaneun geon anya",
+            "correct": false
+          },
+          {
+            "text": "우리가 다시uriga dasi",
+            "correct": false
+          },
+          {
+            "text": "지금 이 말이jigeum i mari",
+            "correct": true
+          },
+          {
+            "text": "그저 너의geujeo neoui",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "지금 이 말이jigeum i mari"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-지만",
+        "meaning": "but, although",
+        "explanation": "Expressing contrast. \"I want to forget, but I can't.\"",
+        "songExample": {
+          "korean": "지났지만jinatjiman",
+          "english": "",
+          "highlights": [
+            "지만"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "슬프지만 웃다",
+        "english": "to be sad but smile",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-지만 = but, although",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "슬프지만 웃다"
+          ]
+        },
+        "audioKey": "슬프지만 웃다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "슬프지만 웃다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "heart / mind",
+            "correct": false
+          },
+          {
+            "text": "to be sad but smile",
+            "correct": true
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "it hurts but it's okay",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "슬프지만 웃다 = to be sad but smile"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "슬프지만 웃어요.",
+        "english": "I'm sad but I smile.",
+        "highlights": [
+          "슬프지만",
+          "웃"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "슬프___ 웃다",
+        "promptTranslation": "to be sad but smile",
+        "options": [
+          {
+            "text": "지만",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "는데",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -지만예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "What does -지만 express?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "but / however",
+            "correct": false
+          },
+          {
+            "text": "not at all",
+            "correct": false
+          },
+          {
+            "text": "always / every time",
+            "correct": false
+          },
+          {
+            "text": "but, although",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "-지만 = but, although"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "슬프지만 웃다",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "아프다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "아프다 = to hurt"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (heart / mind)",
+        "options": [
+          {
+            "text": "아프다",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": true
+          },
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "마음 = heart / mind"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "아프지만 괜찮다",
+        "promptTranslation": "\"it hurts but it's okay\" 를 한국어로?",
+        "options": [
+          {
+            "text": "아프지만 괜찮다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "아프다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아프지만 괜찮다 = it hurts but it's okay"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "춥___ 괜찮아요.",
+        "promptTranslation": "It's cold but it's okay.",
+        "options": [
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -지만!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"mari\", \"말이jigeum\", \"i\", \"이\", \"지금\"]",
+        "promptTranslation": "What I'm saying right now",
+        "options": [
+          {
+            "text": "지금 이 말이jigeum i mari",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "지금 이 말이jigeum i mari"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "지금 이 말이jigeum i mari",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "우리가 다시uriga dasi",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그저 너의geujeo neoui",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "남아있던 기억들이namaitdeon gieokdeuri",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "떠올랐을 뿐이야tteoollasseul ppuniya",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "정말 하루도 빠짐없이 (너는)jeongmal harudo ppajimeopsi (neoneun)",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "사랑한다 말해줬었지saranghanda malhaejwosseotji",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "아프다",
+          "english": "to hurt",
+          "kind": "word",
+          "partOfSpeech": "adjective",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "마음",
+          "english": "heart / mind",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "아프지만 괜찮다",
+          "english": "it hurts but it's okay",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "슬프지만 웃다",
+          "english": "to be sad but smile",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-지만",
+        "meaning": "but, although"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

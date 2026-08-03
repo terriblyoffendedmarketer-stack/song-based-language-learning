@@ -1,0 +1,61 @@
+{
+  "safe_name": "10cm - Phonecert",
+  "artist": "10cm",
+  "song": "Phonecert",
+  "song_story": {
+    "overview": "Phonecert (폰서트) is a pun combining 'phone' and 'concert' — the entire premise is a private show performed just for one person over a phone call. The narrator sets it up like an actual concert, with instructions to the listener (get comfortable, keep your battery charged, stay on the line) before performing an intimate, slightly nervous set of songs meant only for them. It's 10cm's trademark move: turning an ordinary, low-tech gesture — just staying on a call with someone — into something that feels like a genuine romantic performance.",
+    "cultural_root": "The song plays with 언어유희 (eoneo yuhui, wordplay) — Korean indie and pop music often builds a whole song concept around a clever pun, and 폰서트 (phone + 콘서트/concert) is a good example. Beyond the wordplay, the song leans on a specific kind of Korean romantic gesture: doing something small and unglamorous, like staying up late on a call, and treating it with the seriousness and formality of a big occasion, which flips the usual scale of what counts as a romantic act.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "이건 세상에서 제일 비싼 단독 공연 / 가수는 나고 관객은 너 하나 / 화려한 막이 이제 곧 올라가기 전에 / 그저 몇 가지만 주의해줘요 / 세상에서 제일 편한 옷을 갈아 입고 / 제일 좋아하는 자리에 누워 / 배터리가 바닥나지 않게 조심하고 / 통화상태를 항상 유지해줘요",
+        "literal": "This is the most expensive solo concert in the world / the singer is me, and the one audience member is you / before the glamorous curtain rises soon / just pay attention to a few things",
+        "context": "단독 공연 (dandok gongyeon) means a solo concert, usually reserved for major artists filling a whole venue by themselves. Applying that grand phrase to a phone call to one person, with a mock-serious 화려한 막 (glamorous curtain), sets the song's playful, self-aware tone — treating something small as something enormous, on purpose."
+      },
+      "verse_2": {
+        "lines": "듣고 싶은 노래를 말 만해 everything / 입이 심심할 때는 coffee, popcorn, anything / 너무 부담주진 말고 편하게 들어줘 / 아님 내가 너무 떨리니까 / 오직 너에게만 감동적인 노래 / 오직 너를 웃게 하기 위한 코너 / 네가 너무 설레 잠 못 들게 만들 거야 / 지금이야 크게 소리 질러줘",
+        "literal": "Change into the most comfortable clothes in the world / lie down in your favorite spot / be careful your battery doesn't run out / keep the call connected at all times",
+        "context": "배터리가 바닥나다 (for a battery to hit bottom/die) is completely mundane, practical advice — the kind of thing you'd never say before a real concert — which is exactly the joke. The 'concert instructions' format keeps applying formal event-planning language to a totally ordinary act of intimacy."
+      },
+      "pre_chorus": {
+        "lines": "누구보다 특별한 너의 취향을 알아 / 달콤한데 슬픈 듯 아찔하게 맞지 / 근데 다음 곡이 중요해 볼륨 높여봐 / 기억 나니 우리 그 날 그 노래 / 내가 너무 진지해 보여도 웃지마 / 누가 봐도 완벽한 노래는 아니지만 / 많이 연습한 부분을 너 때문에 틀리잖아 / 아직 나는 너무 떨리니까",
+        "literal": "Or, because I'm so nervous / a song that's moving only for you / a segment made only to make you laugh / I'm going to make you so excited you can't sleep",
+        "context": "떨리다 (to tremble, be nervous) breaks the joking concert-host persona for a second and shows the real feeling underneath the bit — he's actually nervous performing for someone he cares about. 오직 너에게만 (only for you, exclusively) repeated twice emphasizes this isn't a generic gesture, it's built entirely around this one listener."
+      },
+      "verse_3": {
+        "lines": "오직 너에게만 감동적인 노래 / 오직 너를 웃게 하기 위한 코너 / 네가 너무 설레 잠 못 들게 만들 거야 / 지금이야 크게 소리 질러 / 이 공연은 거의 다 끝나 가고 있어 / 어땠는지 말해줘 문자로 / 너무나 아쉽지만 졸린 거 / 이미 알고 있어 기대해줘 마지막 곡",
+        "literal": "Do you remember, that day, that song of ours / even if I look too serious, don't laugh / it's not a perfect song by anyone's standard / but I keep messing up the part I practiced a lot, because of you",
+        "context": "너 때문에 틀리잖아 (I keep getting it wrong because of you) is a small, self-aware admission that being watched/heard by someone he likes actually makes the performance worse, not better — a much more honest and human detail than a polished declaration of love would be."
+      },
+      "outro": {
+        "lines": "이 중에서도 제일 감동적인 노래 / 오직 너를 웃게 하기 위한 코너 / 네가 너무 설레 잠 못 들게 만들 거야 / 지금이야 제일 원하는 걸 말해 어떤 노래를 / 다시 듣고 싶어 사실 내가 원해 / 네가 너무 설레 잠 못 들지 모르지만 / 앵콜이야 크게 소리 질러줘 / 이건 세상에서 제일 비싼 단독공연 / 가수는 나고 관객은 너 하나",
+        "literal": "This concert is almost completely over now / tell me how it was, by text / it's a shame, but I know you're sleepy",
+        "context": "졸린 거 (being sleepy) grounds the whole fantasy back in the ordinary reality of a late-night phone call between two tired people — the concert bit was elaborate and sincere, but it still ends the way any late call ends, with someone needing to sleep."
+      }
+    }
+  },
+  "artist_context": "10cm is known for building entire songs around a single clever conceit, and Phonecert is one of the clearest examples — the pun in the title carries through the whole lyric as a structuring device, letting Kwon Jung-yeol's conversational, slightly awkward delivery style do most of the emotional work.",
+  "honorific_level": "informal — 반말/해요체 mix, addressed directly to the listener in a semi-formal 'host' voice",
+  "themes": [
+    "playfulness",
+    "intimacy",
+    "nervousness",
+    "small romantic gestures"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-지 않게",
+      "usage": "'So that ~ doesn't happen.' 바닥나지 않게 — 'so that it doesn't run out (bottom out)' — used for practical instructions.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-기 위한",
+      "usage": "'Made for the purpose of ~.' 웃게 하기 위한 코너 — 'a segment made in order to make you laugh' — describing intent behind an action.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-잖아",
+      "usage": "Adds a tone of pointing out something the listener should already realize. 틀리잖아 — 'I mess it up, you know' — casual, slightly exasperated-but-affectionate emphasis.",
+      "topik_level": 3
+    }
+  ]
+}

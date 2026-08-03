@@ -1,0 +1,245 @@
+{
+  "units": {
+    "1": {
+      "lessons": [
+        {
+          "id": "v5-unit1-lesson1",
+          "file": "lessons_v5/unit1-lesson1.json",
+          "title": "And, And Then",
+          "grammar": "-고",
+          "grammarMeaning": "and / and then",
+          "unit": 1,
+          "lessonNumber": 1,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit1-lesson2",
+          "file": "lessons_v5/unit1-lesson2.json",
+          "title": "I Want To",
+          "grammar": "-고 싶다",
+          "grammarMeaning": "want to do",
+          "unit": 1,
+          "lessonNumber": 2,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit1-lesson3",
+          "file": "lessons_v5/unit1-lesson3.json",
+          "title": "Right Now",
+          "grammar": "-고 있다",
+          "grammarMeaning": "progressive / ongoing state",
+          "unit": 1,
+          "lessonNumber": 3,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit1-lesson4",
+          "file": "lessons_v5/unit1-lesson4.json",
+          "title": "If...",
+          "grammar": "-(으)면",
+          "grammarMeaning": "if / when",
+          "unit": 1,
+          "lessonNumber": 4,
+          "screenCount": 33,
+          "quizCount": 16
+        }
+      ]
+    },
+    "2": {
+      "lessons": [
+        {
+          "id": "v5-unit2-lesson5",
+          "file": "lessons_v5/unit2-lesson5.json",
+          "title": "But",
+          "grammar": "-지만",
+          "grammarMeaning": "but, although",
+          "unit": 2,
+          "lessonNumber": 5,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit2-lesson6",
+          "file": "lessons_v5/unit2-lesson6.json",
+          "title": "I Can't",
+          "grammar": "-지 못하다",
+          "grammarMeaning": "cannot do",
+          "unit": 2,
+          "lessonNumber": 6,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit2-lesson7",
+          "file": "lessons_v5/unit2-lesson7.json",
+          "title": "Not / Don't",
+          "grammar": "-지 않다",
+          "grammarMeaning": "not, negation",
+          "unit": 2,
+          "lessonNumber": 7,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit2-lesson8",
+          "file": "lessons_v5/unit2-lesson8.json",
+          "title": "Because",
+          "grammar": "-아/어서",
+          "grammarMeaning": "because / and then",
+          "unit": 2,
+          "lessonNumber": 8,
+          "screenCount": 33,
+          "quizCount": 16
+        }
+      ]
+    },
+    "3": {
+      "lessons": [
+        {
+          "id": "v5-unit3-lesson9",
+          "file": "lessons_v5/unit3-lesson9.json",
+          "title": "Please Do It",
+          "grammar": "-아/어 줘",
+          "grammarMeaning": "please do ~ for me",
+          "unit": 3,
+          "lessonNumber": 9,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit3-lesson10",
+          "file": "lessons_v5/unit3-lesson10.json",
+          "title": "I Think...",
+          "grammar": "-(으)ㄹ 것 같다",
+          "grammarMeaning": "it seems like / I think",
+          "unit": 3,
+          "lessonNumber": 10,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit3-lesson11",
+          "file": "lessons_v5/unit3-lesson11.json",
+          "title": "You Know...",
+          "grammar": "-잖아",
+          "grammarMeaning": "you know / isn't it / reminding",
+          "unit": 3,
+          "lessonNumber": 11,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit3-lesson12",
+          "file": "lessons_v5/unit3-lesson12.json",
+          "title": "Background Info",
+          "grammar": "-는데",
+          "grammarMeaning": "background info / mild contrast",
+          "unit": 3,
+          "lessonNumber": 12,
+          "screenCount": 33,
+          "quizCount": 16
+        }
+      ]
+    },
+    "4": {
+      "lessons": [
+        {
+          "id": "v5-unit4-lesson13",
+          "file": "lessons_v5/unit4-lesson13.json",
+          "title": "Even Though",
+          "grammar": "-아/어도",
+          "grammarMeaning": "even though, even if",
+          "unit": 4,
+          "lessonNumber": 13,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit4-lesson14",
+          "file": "lessons_v5/unit4-lesson14.json",
+          "title": "Becoming",
+          "grammar": "-아/어지다",
+          "grammarMeaning": "to become a state",
+          "unit": 4,
+          "lessonNumber": 14,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit4-lesson15",
+          "file": "lessons_v5/unit4-lesson15.json",
+          "title": "Like, As If",
+          "grammar": "-처럼",
+          "grammarMeaning": "like, as",
+          "unit": 4,
+          "lessonNumber": 15,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit4-lesson16",
+          "file": "lessons_v5/unit4-lesson16.json",
+          "title": "Ending Up",
+          "grammar": "-게 되다",
+          "grammarMeaning": "to end up ~ing",
+          "unit": 4,
+          "lessonNumber": 16,
+          "screenCount": 34,
+          "quizCount": 17
+        }
+      ]
+    },
+    "5": {
+      "lessons": [
+        {
+          "id": "v5-unit5-lesson17",
+          "file": "lessons_v5/unit5-lesson17.json",
+          "title": "Completely Done",
+          "grammar": "-아/어 버리다",
+          "grammarMeaning": "to do completely / with finality",
+          "unit": 5,
+          "lessonNumber": 17,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit5-lesson18",
+          "file": "lessons_v5/unit5-lesson18.json",
+          "title": "Before Doing",
+          "grammar": "-기 전에",
+          "grammarMeaning": "before doing",
+          "unit": 5,
+          "lessonNumber": 18,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit5-lesson19",
+          "file": "lessons_v5/unit5-lesson19.json",
+          "title": "Even While",
+          "grammar": "-다가도",
+          "grammarMeaning": "even while in the middle of",
+          "unit": 5,
+          "lessonNumber": 19,
+          "screenCount": 33,
+          "quizCount": 16
+        },
+        {
+          "id": "v5-unit5-lesson20",
+          "file": "lessons_v5/unit5-lesson20.json",
+          "title": "The Past",
+          "grammar": "-던",
+          "grammarMeaning": "past retrospective modifier",
+          "unit": 5,
+          "lessonNumber": 20,
+          "screenCount": 34,
+          "quizCount": 17
+        }
+      ]
+    }
+  },
+  "total_lessons": 20
+}

@@ -1,0 +1,71 @@
+{
+  "safe_name": "Lundi Blues - Fake - Folk Version",
+  "artist": "Lundi Blues",
+  "song": "Fake - Folk Version",
+  "song_story": {
+    "overview": "This is a song about turning 30 and realizing the milestones you were promised don't actually arrive on schedule. The verses stack up a list of things quietly getting worse — your phone contacts pile up but the phone never rings, your credit cards multiply but your savings don't — and the choruses call out two specific lies: that your friends weren't dating anyone (they were), and that 'life starts at 30' (it doesn't feel like it's started at all). It's a stripped-down folk arrangement, just voice and guitar, which suits the subject — this isn't a dramatic breakdown, it's a quiet, almost resigned complaint you'd say to a close friend over coffee.",
+    "cultural_root": "The song leans on 서른 (seoreun, thirty) as a loaded number in Korean culture — turning 30 is treated as a hard boundary where you're supposed to have your career, relationships, and self figured out, unlike the softer, more flexible way Western culture treats that birthday. There's also 리즈시절 (Leeds-era), Korean internet slang for someone's peak/prime years, borrowed oddly from footballer Alan Smith's Leeds United days. Using it here to describe your own fading 20s is a very specific, very online way of saying 'my best days are behind me.'",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "늘어나는 번호들 / 줄어드는 친구들 / 울리지도 않는 폰폰폰 / 늘어나는 카드들",
+        "literal": "Growing phone numbers / shrinking friends / a phone phone phone that doesn't even ring",
+        "context": "The setup is a contradiction: your contact list gets longer as you meet more people through work and networking, but the number of people who actually call you shrinks. 폰폰폰 repeating the word for phone three times mimics the silence — it's almost like listing the thing that isn't happening."
+      },
+      "verse_2": {
+        "lines": "줄어드는 잔고들 / 모이지도 않는 돈돈돈 / 맘대로 되는게 하나도 없어 이 세상은 / 전부 거짓말이네",
+        "literal": "Growing number of cards / shrinking balance / money money money that won't even gather",
+        "context": "Same structure repeated with money instead of friends — more credit cards (더 늘어나는 지출 능력, more capacity to spend) but less actual savings. It's the financial version of the same complaint: more of the trappings of adulthood, none of the security."
+      },
+      "pre_chorus": {
+        "lines": "너네 다 연애 안한다매 / 근데 왜 나만 지키고 있는데 / 이 바보같은 약속을 / 전부 거짓말이네",
+        "literal": "Nothing goes the way I want it to — this world",
+        "context": "맘대로 (from 마음대로) means 'as one wishes.' This flat statement is the hinge between the list of complaints and the chorus's specific accusation — it's the moment the song stops listing symptoms and names the diagnosis."
+      },
+      "chorus": {
+        "lines": "서른부터 시작이라매 / 시작은 커녕 준비도 못했는데 / 모두가 나에게 어른이라 부르네 / 늘어나는 한숨들",
+        "literal": "It's all a lie / you all said you weren't dating anyone / so why am I the only one keeping / this stupid promise",
+        "context": "-네 is an ending that marks a sudden realization, like catching yourself mid-thought — 'oh, turns out.' -는다매 is casual speech for -는다면서 ('you said that...'), used to call someone out on their own words. The scene is a group of friends who apparently made some kind of pact (probably to focus on themselves instead of dating) — everyone else quietly broke it, and the speaker is the only one still honoring it, which stings more than if no one had made the promise at all."
+      },
+      "chorus_2": {
+        "lines": "줄어드는 웃음들 / 사라지는 나의 표정들 / 지나가는 내 리즈시절 / 떠나간 내 순수함들",
+        "literal": "It's all a lie / they said it starts at 30 / far from starting, I haven't even prepared / and yet everyone calls me an adult",
+        "context": "커녕 means 'far from' or 'let alone' — used to reject even the smaller claim, not just the bigger one. 'Starting is out of the question, I haven't even prepared' is a two-step denial. 서른부터 시작 (life starts at 30) is a common Korean reassurance given to people anxious about aging, and this song flatly rejects it: the number arrived, the readiness didn't."
+      },
+      "verse_3": {
+        "lines": "돌아오지 않을 시간들 / 뜻대로 되는게 하나도 없어 이 세상은 / 전부 거짓말이네 / 너네 다 연애 안한다매",
+        "literal": "Growing sighs / shrinking laughs / my expressions disappearing",
+        "context": "The same growing/shrinking structure from the opening verses returns, but now it's internal — not possessions or relationships, but your own emotional range flattening out. 표정 (expression) disappearing suggests something close to going numb."
+      },
+      "verse_4": {
+        "lines": "근데 왜 나만 지키고 있는데 / 이 바보같은 약속을 / 전부 거짓말이네 / 서른부터 시작이라매 / 시작은 커녕 준비도 못했는데 / 모두가 나에게 어른이라 부르네",
+        "literal": "My prime years passing by / my innocence that's left / time that won't come back",
+        "context": "리즈시절 — see cultural_root — frames aging as watching your own highlight reel end while you're still living. 순수함 (purity/innocence) 'leaving' rather than being lost implies it had its own will, like it walked out on him."
+      }
+    }
+  },
+  "artist_context": "Lundi Blues works in the small, DIY-leaning end of Korean indie folk — the kind of act you find through a curated playlist, not a chart. The 'Folk Version' label suggests this song exists in another arrangement too, and this stripped-back acoustic take is doing the emotional work with just voice and guitar, which fits a song about disillusionment better than a fuller production would.",
+  "honorific_level": "informal — 반말 throughout, delivered like a private complaint rather than a public statement",
+  "themes": [
+    "disillusionment",
+    "turning 30",
+    "broken promises",
+    "quiet resignation"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-는다매 / -(ㄴ/는)다면서",
+      "usage": "Casual form used to quote someone back at themselves — 'you said X, so...' Appears in 연애 안한다매 and 시작이라매. Always carries a hint of accusation.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-네",
+      "usage": "Sentence ending marking a fresh realization in the moment of speaking, not something already known. 거짓말이네 reads as 'huh, turns out it's all a lie' rather than a flat statement.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-는커녕",
+      "usage": "Means 'far from' or 'let alone' — rejects a smaller claim to make an even stronger point. 시작은커녕 준비도 못했는데 says not only did it not start, preparation itself never happened.",
+      "topik_level": 4
+    }
+  ]
+}

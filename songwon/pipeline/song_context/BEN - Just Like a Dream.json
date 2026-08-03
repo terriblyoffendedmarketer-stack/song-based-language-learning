@@ -1,0 +1,56 @@
+{
+  "safe_name": "BEN - Just Like a Dream",
+  "artist": "BEN",
+  "song": "Just Like a Dream",
+  "song_story": {
+    "overview": "This is a quiet, aching song about a love the singer can't tell was ever real. BEN spends the whole track circling one question: did I imagine how good that felt, or did you feel it too? He's caught between two people he's willing to accept — the one who loved him and the one who was only ever a dream — and he can't get either version to hold still. BEN built his career on exactly this kind of song: raspy, restrained R&B vocals over sparse piano, the kind of voice that sounds like it's underselling the pain on purpose.",
+    "cultural_root": "The word doing the heavy lifting here is 꿈 (kkum) — dream. Korean ballads use 'dream' constantly as a stand-in for anything too good to trust: a love so intense it doesn't feel like it could survive contact with real life. Calling a memory a dream is a way of protecting yourself from it — if it was never real, it can't really be gone.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "나만 홀로 느낀 황홀함일까 / 그저 바라보는 시선이 무거워 / 맴도는 발걸음 여전히 네가 보고 싶어 / I remember 차가웠던 그 날 / 자꾸 떨리는 내 가슴이 혼자 울까 봐",
+        "literal": "Was I the only one who felt that ecstasy? / The gaze I'm just watching from feels heavy / My steps keep circling back, I still miss you / I need your mind",
+        "context": "황홀함 (hwangholham) is 'ecstasy' or 'rapture' — a strong word for a first line, immediately raising the stakes of whatever happened. 나만 홀로 — 'only me, alone' — sets up the doubt that runs through the whole song: was this mutual, or was he the only one in it?"
+      },
+      "pre_chorus": {
+        "lines": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘 / 그게 아니면 곁에 있어 줘 / 무거워진 어깰 내게 보이며 / 미워하지도 못하게 막아선 너 / 따갑게 스치는 새벽에 네가 보고 싶어",
+        "literal": "I remember that cold day / afraid my trembling heart would end up crying alone / if I open my eyes, let me go like a fading dream / if not that, then stay beside me",
+        "context": "This is the emotional hinge of the song. He gives two options and neither is 'stay and be happy' — either release him cleanly (놔줘, 'let me go') like waking from a dream, or actually stay (곁에 있어 줘). He can't handle the in-between. 혼자 울까 봐 uses -(으)ㄹ까 봐, the grammar for a fear that something bad will happen — here, that he'll end up crying with no one around."
+      },
+      "verse_2": {
+        "lines": "I remember 차가웠던 그 날 / 자꾸 떨리는 내 가슴이 혼자 울까 봐 / 눈을 뜨면 희미해져 버릴 꿈처럼 놔줘 / 그게 아니면 곁에 있어 줘 / 울어서 좋을 게 없는데",
+        "literal": "Showing me your heavy shoulders / stopping me from even being able to resent you / in the stinging dawn, I miss you",
+        "context": "무거워진 어깨 — 'shoulders that have gotten heavy' — is a very Korean way to picture someone worn down by life without saying it directly. 미워하지도 못하게 막아선 너 — 'you, who blocked me from even hating you' — is the emotional core of one-sided pain: he wants to be angry and can't."
+      },
+      "bridge": {
+        "lines": "깊게 새긴 흔적이 서러워 / 혹시 몰라 그대가 올까 봐 / I remember 슬퍼 보였던 날 / 자꾸 떨리는 내 어깨를 네가 볼까 봐 / 눈을 뜨면 희미해져 버릴 꿈처럼 놔줘 / 그게 아니면 곁에 있어 줘 지금",
+        "literal": "There's nothing good about crying / the mark carved deep in me feels so sad / just in case, in case you might come",
+        "context": "흔적 (heunjeok) means 'trace' or 'mark left behind' — the residue a person leaves even after they're gone. 혹시 몰라 (hoksi molla) — 'you never know' / 'just in case' — is the quietly devastating admission that he's still hoping, even while telling himself to let go."
+      }
+    }
+  },
+  "artist_context": "BEN (김상혁) built his name almost entirely on OST ballads — the kind of song that plays over a drama's saddest scene and then goes on to chart independently of the show. His voice is rough and low in a genre full of clean, high vocals, which is exactly why directors keep casting him for heartbreak.",
+  "honorific_level": "informal — 반말 throughout, delivered like a private confession rather than a statement to someone",
+  "themes": [
+    "one-sided love",
+    "doubt",
+    "letting go",
+    "longing"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ까 봐",
+      "usage": "Expresses worry that something might happen. 울까 봐 = 'afraid it'll end up crying.' Used for fears you can't confirm, only dread.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-처럼",
+      "usage": "'Like/as.' 꿈처럼 (like a dream) frames the whole memory as something too fragile to be real.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-아/어 줘",
+      "usage": "Casual request form. 놔줘 (let me go) and 있어 줘 (stay) are the two requests the whole song is torn between.",
+      "topik_level": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "safe_name": "JAURIM - 스물다섯, 스물하나",
+  "artist": "JAURIM",
+  "song": "스물다섯, 스물하나",
+  "song_story": {
+    "overview": "스물다섯, 스물하나 means 'twenty-five, twenty-one' — a song built entirely around looking back at a relationship from young adulthood that felt permanent at the time and wasn't. The narrator keeps returning to the same season, when flowers scatter in the wind, and finds herself still half-feeling the other person's hand in hers even though they're long gone. The song doesn't dwell on why it ended — it's entirely about the ache of trying to hold onto a memory that keeps slipping further away the harder she tries to recall it clearly.",
+    "cultural_root": "The song uses precise ages — 스물다섯, 스물하나 (twenty-five, twenty-one) — rather than a vague 'when we were young,' which is a distinctly Korean way of anchoring nostalgia: Korean age culture makes age numbers carry enormous social and emotional weight, so naming the exact ages instantly signals a specific, irretrievable period of life rather than a generic youth. The flower imagery (꽃이 지는 계절, the season flowers fall) draws on a long tradition in Korean lyricism of pairing romantic loss with the natural cycle of blooming and scattering, treating heartbreak as something as inevitable and cyclical as the seasons.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "바람에 날려 꽃이 지는 계절엔 / 아직도 너의 손을 잡은 듯 그런 듯해 / 그때는 아직 꽃이 아름다운 걸 / 지금처럼 사무치게 알지 못했어 / 우, 너의 향기가 / 바람에 실려 오네 / 우, 영원할 줄 알았던 / 스물다섯, 스물하나 / 그날의 바다는 퍽 다정했었지",
+        "literal": "In the season when the wind scatters the falling flowers / it still feels like I'm holding your hand, sort of, in a way / back then I didn't know, achingly, the way I know now / how beautiful the flowers actually were",
+        "context": "듯 그런 듯해 — a soft, uncertain double-hedge meaning 'it feels like, sort of, kind of' — used instead of a direct statement, which captures how blurry and half-real the memory has become rather than claiming to remember it clearly."
+      },
+      "chorus": {
+        "lines": "아직도 나의 손에 잡힐 듯 그런 듯해 / 부서지는 햇살 속에 너와 내가 있어 / 가슴 시리도록 행복한 꿈을 꾸었지 / 우, 그날의 노래가 / 바람에 실려 오네 / 우, 영원할 줄 알았던 / 지난 날의 너와 나 / 너의 목소리도 너의 눈동자도 / 애틋하던 너의 체온마저도",
+        "literal": "Ooh, your scent / comes riding on the wind / ooh, the twenty-five and twenty-one / I thought would last forever",
+        "context": "영원할 줄 알았던 — 'that I thought would be eternal' — the past-tense assumption of permanence is the emotional core of the whole song; it's not about grief over the ending itself, but about how certain she'd been, at twenty-five and twenty-one, that this wasn't the kind of thing that ends."
+      },
+      "verse_2": {
+        "lines": "기억해내면 할수록 멀어져 가는데 / 흩어지는 널 붙잡을 수 없어 / 바람에 날려 꽃이 지는 계절엔 / 아직도 너의 손을 잡은 듯 그런 듯해 / 그때는 아직 네가 아름다운 걸 / 지금처럼 사무치게 알지 못했어 / 우, 너의 향기가 / 바람에 실려 오네 / 우, 영원할 줄 알았던",
+        "literal": "That day's sea was really gentle / it still feels like it's within reach of my hand, sort of, in a way / you and I were there, in the breaking sunlight / I dreamed a happiness so sharp it ached in my chest",
+        "context": "가슴 시리도록 (until it aches in the chest) — 시리다 usually describes physical cold, like cold water on a tooth, applied here to a happiness so intense it hurt, a very Korean way of describing overwhelming joy as physically painful rather than purely pleasant."
+      },
+      "bridge": {
+        "lines": "스물다섯, 스물하나 / 오, 그날의 노래가 / 바람에 실려 오네 / 오, 영원할 줄 알았던 / 지난 날의 너와 나 / 오, 오 / 오, 영원할 줄 알았던 / 스물다섯, 스물하나 / 오, 스물다섯, 스물하나",
+        "literal": "Your voice, your eyes / even your dear warmth / the more I try to remember, the further they drift away / I can't hold onto you as you scatter",
+        "context": "기억해내면 할수록 멀어져 가는데 — 'the more I try to remember, the more it drifts away' — uses -(으)면 -(으)ㄹ수록 to describe the cruel paradox that effort to preserve a memory actually accelerates its fading, the opposite of what she wants."
+      }
+    }
+  },
+  "artist_context": "JAURIM is one of Korea's most respected rock bands, fronted by vocalist Kim Yuna, known for literary, emotionally layered lyrics across a long career. This song fits their pattern of writing about memory and loss with restraint rather than melodrama, letting a single repeated image — flowers scattering in wind — carry the whole emotional weight.",
+  "honorific_level": "informal — casual 반말 throughout, in a reflective, half-spoken tone",
+  "themes": [
+    "nostalgia",
+    "fading memory",
+    "young love",
+    "impermanence"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)면 -(으)ㄹ수록",
+      "usage": "'The more you do X, the more Y.' Appears in 기억해내면 할수록 멀어져 가는데 — 'the more I try to remember, the further it drifts.'",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-(ㄴ/는) 듯 그런 듯해",
+      "usage": "Soft, uncertain hedge meaning 'it feels like, sort of.' Repeated throughout to show the blurriness of memory rather than clear recollection.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-(으)ㄹ 줄 알았다",
+      "usage": "'I thought/believed that X would happen.' Appears in 영원할 줄 알았던 — 'that I thought would be eternal,' now known to be false.",
+      "topik_level": 3
+    }
+  ]
+}

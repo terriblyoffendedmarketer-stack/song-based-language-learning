@@ -1,0 +1,61 @@
+{
+  "safe_name": "Kpop Demon Hunters - Golden",
+  "artist": "Kpop Demon Hunters",
+  "song": "Golden",
+  "song_story": {
+    "overview": "Golden is the anthem for HUNTR/X, the fictional girl group at the center of the 2025 Netflix animated film Kpop Demon Hunters, in which the members are secretly demon hunters who use the power of their music to protect the world. In the story, Rumi has been hiding a part of her identity out of shame, believing it makes her dangerous or unworthy of the spotlight she's fought for. Golden plays as the moment she and the group stop hiding and step fully into who they are, performance and secret identity fusing into one act of self-acceptance on stage.",
+    "cultural_root": "The song draws on the K-pop idol narrative of 연습생 (yeonseupsaeng, trainee) grit turned into stage triumph — years of being told you're not enough, finally paying off in a moment of undeniable arrival. Golden layers a second meaning on top of that familiar arc: Rumi's secret isn't just stage fright or self-doubt, it's something literally monstrous she's ashamed of, so 'stepping into the light' carries the added weight of accepting a part of yourself the world has taught you to hide.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "어",
+        "literal": "I was a ghost, I was alone / inside a path ahead that had gone dark / given the throne, I didn't know how to believe / I was the queen that I'm meant to be",
+        "context": "어두워진 앞길 — 'a path ahead that has gone dark' — describes a future that used to feel uncertain or blocked, tying the English verses to a Korean image of a literally darkened road. Being 'given the throne' but not believing in it captures imposter syndrome even at the height of success."
+      },
+      "verse_2": {
+        "lines": "두워진",
+        "literal": "I lived two lives, tried to play both sides / but I couldn't find my own place / called a problem child because I got too wild / but now that's how I'm getting paid, endlessly on stage",
+        "context": "끝없이 (kkeuteopsi) means 'endlessly, without end' — describing the stage as a place where what used to be punished (being 'too much') is now the actual source of her power and income. The 'two lives' line directly reflects Rumi's double identity as both idol and demon hunter, hiding one to survive in the other."
+      },
+      "pre_chorus": {
+        "lines": "앞",
+        "literal": "I'm done hiding, now I'm shining / like I'm born to be / we're dreaming hard, we've come so far / now I believe",
+        "context": "The turn from hiding to shining is the emotional hinge of the whole song — not becoming someone new, but stopping the effort of concealment. 'Now I believe' answers directly back to the doubt stated in verse one ('I didn't know how to believe')."
+      },
+      "chorus": {
+        "lines": "길속에 (",
+        "literal": "We're going up, up, up, it's our moment / you know together we're glowing, gonna be, gonna be golden / oh, up, up, up with our voices / eternally unbreakable, gonna be, gonna be golden",
+        "context": "영원히 깨질 수 없는 — 'eternally unable to be broken' — describes the bond between the group members as permanent, unbreakable no matter what. Placing this Korean phrase in the middle of an otherwise English chorus mirrors the film's whole premise: an American production built around real K-pop musical grammar, code-switching the way many actual K-pop songs do."
+      },
+      "outro": {
+        "lines": "But now that's how I'm getting paid, 끝없이 on stage / 영원히 깨질 수 없는 gonna be, gonna be golden / 영원히 깨질 수 없는 gonna be, gonna be golden / Born to be, born to be glowin', 밝게 빛나는 우리",
+        "literal": "Born to be, born to be glowing, us, shining brightly / you know that it's our time, no fears, no lies / that's who we're born to be",
+        "context": "밝게 빛나는 우리 — 'us, shining brightly' — closes the song by shifting from 'I' to '우리' (we/us), moving the self-acceptance arc from a solo realization to a shared identity with the whole group, matching the film's theme that Rumi's real strength comes from not hiding her secret from her bandmates anymore."
+      }
+    }
+  },
+  "artist_context": "Kpop Demon Hunters is an animated film from Netflix (2025) about a fictional girl group, HUNTR/X, who secretly fight demons through the power of their music. Golden became a genuine crossover hit on real-world charts despite belonging to a fictional in-universe group, an unusual case of a soundtrack song performing like an actual K-pop title track.",
+  "honorific_level": "English-language pop with inserted Korean lines — informal, direct, anthemic",
+  "themes": [
+    "self-acceptance",
+    "identity",
+    "empowerment",
+    "found family"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-어진 (passive/resultative)",
+      "usage": "어두워진 앞길 — 'a path that has become dark' — 어/아지다 turns an adjective into 'become X,' describing a change of state.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-을 수 없는",
+      "usage": "'Unable to be ~ed.' 깨질 수 없는 — 'cannot be broken' — a modifier describing something as permanently unbreakable.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "밝게 (adverb form of 밝다)",
+      "usage": "'-게' turns the adjective 밝다 (bright) into the adverb 밝게 (brightly), modifying 빛나다 (to shine) — 밝게 빛나는 우리, 'us, shining brightly.'",
+      "topik_level": 2
+    }
+  ]
+}

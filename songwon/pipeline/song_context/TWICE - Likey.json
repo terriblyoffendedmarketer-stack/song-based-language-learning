@@ -1,0 +1,56 @@
+{
+  "safe_name": "TWICE - Likey",
+  "artist": "TWICE",
+  "song": "Likey",
+  "song_story": {
+    "overview": "Likey is TWICE's 2017 title track, and it's about the very specific, very modern anxiety of curating yourself for social media while waiting for one particular person's reaction. She's not posting for the world — she's posting for a like from someone whose opinion actually matters, and admitting that a heart-shaped button can't really carry what she's trying to say.",
+    "cultural_root": "The song sits inside 셀카 문화 (selca munhwa) — Korea's intense selfie culture, visible everywhere from ring-lit cafes to photo booths on every block. But underneath the cute BB cream and lipstick imagery is a more honest tension: 근데 좋아요란 말은 뻔해 / 내 맘 표현하기엔 부족한데— the admission that 'like' is a cliché, too small a word for actual feelings. The song plays as fun and sugary on the surface while quietly pointing at how thin online validation can feel.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "설렌다, me likey / 두근두근두근 (Heart, heart) / 두근두근두근 / 자꾸 드러내고 싶지 자꾸만 / 사소한 것 하나까지 전부다 / 작은 화면 속에 내가 제일 예뻐 보이고파 / 아직은 감춰 이런 내 마음 꾹꾹 / 멋 부린다는 건 정말 귀찮은 거 / 그렇다고 절대 대충할 수가 없는걸 (Oh) / 매일 가슴 뛰게 해, 이건 네가 몰라야만 돼 / 그러면서 뻔뻔하게 / BB cream, 파파파, 립스틱을, 맘맘마",
+        "literal": "I keep wanting to show it off, again and again / every little thing, all of it / I want to look the prettiest inside that small screen / but for now I press down and hide this feeling of mine",
+        "context": "드러내다 (to reveal, show off) versus 감추다 (to hide) sets up the song's central contradiction — wanting to be seen completely while also hiding the real reason why. 꾹꾹 is an onomatopoeia for pressing something down repeatedly, like keeping a lid on a feeling by force."
+      },
+      "pre_chorus": {
+        "lines": "카메라에 담아볼까 예쁘게? (쁘게) / 이거 보면 웃어줘 그리고 꼭 눌러줘 / 저 밑에 앙증맞고 새빨간 (Heart, heart) / 근데 좋아요란 말은 뻔해 / 내 맘 표현하기엔 부족한데 / 근데 좋아요 잠도 못 자도 / 지각하게 돼도 좋은걸 / 설렌다, me likey / 두근두근두근 / Me likey, likey, likey두근두근두근 (Heart, heart) / 숨을 훕 참아 지퍼를 올리게 (다시 한번 허리를 훕) / 으라차차차, 다 입었다, baby",
+        "literal": "BB cream, pat-pat-pat, lipstick, dab-dab-dab / should I capture it prettily on camera? / if you see this, smile, and make sure to press it / the cute little bright red thing down there (heart, heart)",
+        "context": "This is the literal ritual of preparing a selfie post — makeup, camera, caption — narrated in real time. 눌러줘 (press it, referring to the like button) is a direct, almost embarrassingly specific request, which is exactly the point: everyone does this, but no one says it out loud."
+      },
+      "chorus": {
+        "lines": "세상엔 예쁜 옷이 / 너무나도 많고 많아 (Woah) / BB cream, 파파파, 립스틱을, 맘맘마 / 카메라에 담아볼까 예쁘게? (쁘게) / 이거 보면 웃어줘 그리고 꼭 눌러줘 / 저 밑에 앙증맞고 새빨간 (Heart, heart) / 근데 좋아요란 말은 뻔해 / 내 맘 표현하기엔 부족한데 / 근데 좋아요 잠도 못 자도 / 지각하게 돼도 좋은걸 / 그저 바라보고 있지 / 아무 말도 할 수 없지, oh",
+        "literal": "But the word 'like' is so predictable / it's not enough to express my feelings / but still, I like it, even if I can't sleep / even if I end up being late, it's fine",
+        "context": "뻔하다 means predictable, cliché, unoriginal — she's calling out the emptiness of a like button while still craving it. 못 자도 / 지각하게 돼도 (even if I can't sleep / even if I'm late) shows how much of her actual time and rest she's willing to trade for something she just admitted is hollow — a pretty sharp self-aware joke buried in a bubblegum chorus."
+      },
+      "verse_2": {
+        "lines": "조금만 더 다가와요 내 맘 알아줘요 / 더 이상 감추고만 싶지 않아 / Uh, 오늘따라 기분이 꿀꿀해 / 안 그런척해 봐도 슬프냬 / 아무 반응 없는 너 땜에 삐졌는데 / 눈치 없이 친구들이 나오라고 부르네 / Ooh, 잠깐만, 잠깐만 / 연락이 이제야 오는걸, woo / 하루종일 기분이 왔다 갔다 / 울다가도 다시 신나서 춤추네 / 설렌다, me likey / 두근두근두근 (Heart, heart) / 두근두근두근 (Heart, heart)",
+        "literal": "I just keep watching / I can't say anything / come a little closer, please, understand my feelings / I don't want to keep hiding anymore",
+        "context": "This is the turn where the song stops being about the camera and starts being about the actual person the posts are for. 감추고만 싶지 않아 — 'I don't want to just keep hiding' — reverses the earlier line about hiding, showing she's tired of the performance and wants to be known directly instead."
+      }
+    }
+  },
+  "artist_context": "Likey was written by Black Eyed Pilseung, the production duo behind most of TWICE's early hits, and it's one of the clearest examples of the group's habit of hiding a slightly melancholy or self-aware observation inside an aggressively catchy pop song — the whistled hook is instantly memorable, but the lyric underneath is about how inadequate online validation actually feels.",
+  "honorific_level": "informal — 반말, mixing self-talk and direct address to the crush",
+  "themes": [
+    "social media",
+    "self-image",
+    "crush",
+    "validation"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-고 싶지 않아",
+      "usage": "'Don't want to ~.' 감추고만 싶지 않아 — 'I don't want to just keep hiding' — 만 adds emphasis, 'just, only.'",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-아/어도",
+      "usage": "'Even if ~.' 못 자도, 지각하게 돼도 — stacking concessions to show how much she's willing to sacrifice despite knowing it's not really worth it.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-기엔 (short for -기에는)",
+      "usage": "'For the purpose of ~ing / when it comes to ~ing.' 표현하기엔 부족한데 — 'it's not enough for expressing [my feelings]' — a common contraction in casual speech and lyrics.",
+      "topik_level": 4
+    }
+  ]
+}

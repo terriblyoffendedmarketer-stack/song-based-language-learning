@@ -1,0 +1,333 @@
+{
+  "id": "lesson-iu-blueming",
+  "songId": "iu-blueming",
+  "level": "intermediate",
+  "title": "Blueming — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IU — Blueming",
+      "content": "In this lesson, we'll learn words related to new love, texting culture, anticipation.\nGrammar: -지 않아 (Casual negation, 'not X.' Used repeatedly in the p)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Blueming is about the earliest, giddiest stage of a relationship that's happening entirely through text messages. IU narrates the tiny psychological games of a new crush — overanalyzing which emoji to...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Opening verse — the '뭐해' text message section"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "Opening verse — the '뭐해' text message section"
+      ],
+      "lyricTranslations": [
+        "In the two characters that spell 'what are you doing?'"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꽃",
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꽃",
+          "english": "flower",
+          "pos": "noun"
+        },
+        "songLine": "엄지손가락으로 장미꽃을 피워",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "생각하다",
+      "wordData": {
+        "word": {
+          "korean": "생각하다",
+          "english": "to think",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "생각하다",
+          "english": "to think",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "생각하다",
+          "english": "to think",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "채우다",
+      "wordData": {
+        "word": {
+          "korean": "채우다",
+          "english": "to fill",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "채우다",
+          "english": "to fill",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "채우다",
+          "english": "to fill",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "In the two characters that spell 'what are you doing?'",
+          "options": [
+            "Opening verse — the '뭐해' text message section",
+            "...",
+            "...",
+            "..."
+          ],
+          "correctAnswer": "Opening verse — the '뭐해' text message section",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Casual negation, 'not X.' Used repeatedly in the pre-emptive denials: 바쁘지 않아, 잠들어 있지 않아 — she's answering questions before they're asked.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-지 않아",
+        "meaning": "Casual negation, 'not X.' Used repeatedly in the pre-emptive denials: 바쁘지 않아, 잠들어 있지 않아 — she's answering questions before they're asked.",
+        "songExample": {
+          "korean": "아니 바쁘지 않아 nothing no no",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'flower'의 한국어는?",
+          "options": [
+            "꽃",
+            "생각하다",
+            "마음",
+            "채우다"
+          ],
+          "correctAnswer": "꽃"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to think'의 한국어는?",
+          "options": [
+            "생각하다",
+            "사랑",
+            "채우다",
+            "꽃"
+          ],
+          "correctAnswer": "생각하다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to fill'의 한국어는?",
+          "options": [
+            "꽃",
+            "채우다",
+            "생각하다",
+            "바람"
+          ],
+          "correctAnswer": "채우다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄹ까 (제안/추측)' 패턴은 어떤 의미예요?",
+          "options": [
+            "shall we?/I wonder if (suggestion/conjecture)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "shall we?/I wonder if (suggestion/conjecture)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "Opening verse — the '뭐해' text message section",
+        "'뭐해?'라는 두 글자에",
+        "'네가 보고 싶어' 나의 속마음을 담아 우",
+        "이모티콘 하나하나 속에",
+        "달라지는 내 미묘한 심리를 알까 우",
+        "아니 바쁘지 않아 nothing no no",
+        "잠들어 있지 않아 insomnia nia nia",
+        "지금 다른 사람과 함께이지 않아"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꽃",
+            "english": "flower"
+          },
+          {
+            "korean": "생각하다",
+            "english": "to think"
+          },
+          {
+            "korean": "채우다",
+            "english": "to fill"
+          }
+        ],
+        "patternLearned": "-지 않아"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IU - Blueming",
+    "artist": "IU",
+    "song": "Blueming",
+    "curriculum_level": 3
+  }
+}

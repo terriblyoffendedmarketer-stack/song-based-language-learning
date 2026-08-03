@@ -1,0 +1,368 @@
+{
+  "id": "lesson-exo-love-shot",
+  "songId": "exo-love-shot",
+  "level": "intermediate",
+  "title": "Love Shot — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "EXO — Love Shot",
+      "content": "In this lesson, we'll learn words related to intoxicating love, love and hate, desire.\nGrammar: -(으)ㄴ/는 듯한 ('As if / seeming like.' 갈라질 듯 (as if about to crac)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Love Shot (2018) turns romantic tension into a drinking metaphor — love poured out like a shot glass, filled to the point of overflowing, both intoxicating and dangerous. The relationship described is...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "차갑도록 서롤 겨눈 채",
+        "날이 선 듯 그 목소리엔",
+        "숨막히는 것만 가득해",
+        "눈을 가린 채로 그렇게"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "차갑도록 서롤 겨눈 채",
+        "날이 선 듯 그 목소리엔",
+        "숨막히는 것만 가득해",
+        "눈을 가린 채로 그렇게"
+      ],
+      "lyricTranslations": [
+        "Coldly aiming at each other",
+        "in a voice sharp as a blade",
+        "it's filled with nothing but suffocation",
+        "eyes covered like this"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "멈추다",
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "차갑다",
+      "wordData": {
+        "word": {
+          "korean": "차갑다",
+          "english": "cold",
+          "pos": "adjective",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "차갑다",
+          "english": "cold",
+          "pos": "adjective",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "차갑다",
+          "english": "cold",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "상처",
+      "wordData": {
+        "word": {
+          "korean": "상처",
+          "english": "wound",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "상처",
+          "english": "wound",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "상처",
+          "english": "wound",
+          "pos": "noun"
+        },
+        "songLine": "상처가 되는 말과",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Coldly aiming at each other",
+          "options": [
+            "눈을 가린 채로 그렇게",
+            "날이 선 듯 그 목소리엔",
+            "숨막히는 것만 가득해",
+            "차갑도록 서롤 겨눈 채"
+          ],
+          "correctAnswer": "차갑도록 서롤 겨눈 채",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "in a voice sharp as a blade",
+          "options": [
+            "차갑도록 서롤 겨눈 채",
+            "눈을 가린 채로 그렇게",
+            "숨막히는 것만 가득해",
+            "날이 선 듯 그 목소리엔"
+          ],
+          "correctAnswer": "날이 선 듯 그 목소리엔",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "it's filled with nothing but suffocation",
+          "options": [
+            "눈을 가린 채로 그렇게",
+            "숨막히는 것만 가득해",
+            "날이 선 듯 그 목소리엔",
+            "차갑도록 서롤 겨눈 채"
+          ],
+          "correctAnswer": "숨막히는 것만 가득해",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'As if / seeming like.' 갈라질 듯 (as if about to crack), 넘칠 듯한 (as if about to overflow) — both describe a feeling right at its breaking point without confirming it's broken yet.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄴ/는 듯한",
+        "meaning": "'As if / seeming like.' 갈라질 듯 (as if about to crack), 넘칠 듯한 (as if about to overflow) — both describe a feeling right at its breaking point without confirming it's broken yet.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to stop'의 한국어는?",
+          "options": [
+            "차갑다",
+            "멈추다",
+            "사랑",
+            "상처"
+          ],
+          "correctAnswer": "멈추다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'cold'의 한국어는?",
+          "options": [
+            "마음",
+            "상처",
+            "차갑다",
+            "멈추다"
+          ],
+          "correctAnswer": "차갑다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'wound'의 한국어는?",
+          "options": [
+            "상처",
+            "멈추다",
+            "차갑다",
+            "마음"
+          ],
+          "correctAnswer": "상처"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어지다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to become (a state)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to become (a state)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "차갑도록 서롤 겨눈 채",
+        "날이 선 듯 그 목소리엔",
+        "숨막히는 것만 가득해",
+        "눈을 가린 채로 그렇게",
+        "굳게 닫아버린 서로의",
+        "맘이 애써 외면하는 걸",
+        "Uh, 타들어가",
+        "갈라질 듯 숨이 막혀와"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "멈추다",
+            "english": "to stop"
+          },
+          {
+            "korean": "차갑다",
+            "english": "cold"
+          },
+          {
+            "korean": "상처",
+            "english": "wound"
+          }
+        ],
+        "patternLearned": "-(으)ㄴ/는 듯한"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "EXO - Love Shot",
+    "artist": "EXO",
+    "song": "Love Shot",
+    "curriculum_level": 4
+  }
+}

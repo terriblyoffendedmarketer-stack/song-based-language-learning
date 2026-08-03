@@ -1,0 +1,61 @@
+{
+  "safe_name": "Red Velvet - Psycho",
+  "artist": "Red Velvet",
+  "song": "Psycho",
+  "song_story": {
+    "overview": "Psycho describes a relationship that other people find hard to watch — constant fighting, constant reconciling, an intensity that looks unhealthy from the outside. Instead of apologizing for it or trying to fix it into something calmer, the song owns the label people give it: yes, we're psycho, and we're staying this way. It's a love song that refuses the usual arc of a couple settling down into something quieter, choosing chaos on purpose because that chaos is where the connection actually lives.",
+    "cultural_root": "The song plays directly against the idea that a 'good' relationship should look calm and stable to outsiders. There's an implicit social pressure in Korean culture (as in many places) to appear composed as a couple, to not make your conflict visible. '우리 진짜 별나대' (they say we're really weird/unusual) names that outside judgment directly, and the song's whole stance is refusing to perform normalcy for an audience — a small act of not caring what 남들 (other people) think, a value that runs through a lot of Red Velvet's more self-assured lyrics.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "널 어쩌면 좋을까?neol eojjeomyeon joeulkka? / 이런 맘은 또 첨이라ireon mameun tto cheomira / Up and down이 좀 심해Up and downi jom simhae / 조절이 자꾸 잘 안돼jojeori jakku jal andwae / 하나 확실한 건hana hwaksilhan geon / 우리 진짜 별나대uri jinjja byeolladae / 그냥 내가 너무 좋아해geunyang naega neomu joahae / 넌 그걸 너무 잘 알고neon geugeol neomu jal algo / 날 쥐락펴락해nal jwirakpyeorakae / 나도 마찬가지인걸nado machan-gajiin-geol / 우린 참 별나고 이상한 사이야urin cham byeollago isanghan saiya",
+        "literal": "What am I supposed to do with you? / this feeling is a first for me too / the up and down is pretty extreme / I keep failing to control it / one thing that's certain / I don't play the game",
+        "context": "첨 (casual contraction of 처음, 'first time') admits this is new territory even for her — the instability isn't a performance, it's genuinely unfamiliar. 'I don't play the game' in English closes the verse as a flat refusal of 밀당 (push-pull dating strategy) — whatever this relationship is, it's not calculated."
+      },
+      "chorus": {
+        "lines": "서로를 부서지게seororeul buseojige / (부서지게)(buseojige) / 그리곤 또 껴안아geurigon tto kkyeoana / (그리곤 또 껴안아)(geurigon tto kkyeoana) / 우릴 보고 말해 자꾸 자꾸uril bogo malhae jakku jakku / 다시 안 볼 듯 싸우다가도dasi an bol deut ssaudagado / 붙어 다니니 말야buteo danini marya / 이해가 안 간대ihaega an gandae / 웃기지도 않대utgijido antae / 맞아 psycho, psychomaja psycho, psycho / 서로 좋아 죽는 바보 바보seoro joa jungneun babo babo",
+        "literal": "They say we're really strange / I just like him too much / and he knows that too well / and toys with me / but I'm exactly the same",
+        "context": "쥐락펴락하다 (literally 'to grip and release,' meaning to have someone completely under your control) is a vivid idiom for being manipulated — but the last line, 나도 마찬가지인걸 (I'm the same way), immediately admits she does it right back. The power imbalance she names isn't one-sided; it's mutual and reciprocated."
+      },
+      "pre_hook": {
+        "lines": "너 없인 어지럽고 슬퍼져neo eopsin eojireopgo seulpeojyeo / 기운도 막 없어요giundo mak eopseoyo / 둘이 잘 만났대duri jal mannatdae / 경고 따윈 없이 오는 너gyeonggo ttawin eopsi oneun neo / 우린 원래 이랬어, yeahurin wollae iraesseo, yeah / 두렵지는 않아duryeopjineun ana / (흥미로울 뿐)(heungmiroul ppun) / 어떻게 널 다룰까? Ooheotteoke neol darulkka? Ooh / 어쩔 줄을 몰라 너를 달래고eojjeol jureul molla neoreul dallaego / 매섭게 발로 차도maeseopge ballo chado / 가끔 내게 미소 짓는 널gakkeum naege miso jinneun neol",
+        "literal": "We're a really strange, odd pair / breaking each other / and then hugging again",
+        "context": "이상한 사이 (a strange/odd relationship) is her own diagnosis, not just what others say — she agrees with the label. 부서지게 (to the point of breaking) followed immediately by 껴안아 (hugging) in the very next breath is the whole cycle of the relationship compressed into two verbs back to back."
+      },
+      "chorus_hook": {
+        "lines": "어떻게 놓겠어? Ooheotteoke nokesseo? Ooh / 우린 아름답고 참 슬픈 사이야urin areumdapgo cham seulpeun saiya / 서로를 빛나게 해seororeul binnage hae / 마치 달과 강처럼machi dalgwa gangcheoreom / 그리곤 또 껴안아geurigon tto kkyeoana / 우릴 보고 말해 자꾸 자꾸uril bogo malhae jakku jakku / 다시 안 볼 듯 싸우다가도dasi an bol deut ssaudagado / 붙어 다니니 말야buteo danini marya / 이해가 안 간대ihaega an gandae / 웃기지도 않대utgijido antae / 맞아 psycho, psychomaja psycho, psycho",
+        "literal": "You got me feeling like a / psycho, psycho / even after fighting like we'll never see each other again / we're stuck together, that's the thing / they say it doesn't make sense / they say it's not even funny",
+        "context": "-대 (a casual quoting ending, short for -다고 해) reports what other people are saying about the couple from the outside — 이해가 안 간대 ('they say they don't get it') and 웃기지도 않대 ('they say it's not even funny anymore') both relay outside judgment without the singer arguing back against it. She just repeats the criticism and keeps going anyway."
+      },
+      "final_verse": {
+        "lines": "서로 좋아 죽는 바보 바보seoro joa jungneun babo babo / 너 없인 어지럽고 슬퍼져neo eopsin eojireopgo seulpeojyeo / 기운도 막 없어요giundo mak eopseoyo / 둘이 잘 만났대duri jal mannatdae / 그렇게 우리답게 가보자geureoke uridapge gaboja / 난 온몸으로 널 느끼고 있어nan onmomeuro neol neukkigo isseo / 우릴 보고 말해 자꾸 자꾸uril bogo malhae jakku jakku / 다시 안 볼 듯 싸우다가도dasi an bol deut ssaudagado / 붙어 다니니 말야buteo danini marya / 둘이 잘 만났대duri jal mannatdae / 우린 좀 이상해urin jom isanghae",
+        "literal": "We're a beautiful, truly sad pair / we make each other shine / just like the moon and the river / and then hug again",
+        "context": "달과 강 (moon and river) is a classic Korean poetic image — the moon doesn't touch the river, but its reflection lights it up from a distance. Using it here reframes the earlier 'weird and broken' description as something closer to beautiful and sad, giving the chaos a kind of dignity by the song's end."
+      }
+    }
+  },
+  "artist_context": "Red Velvet operates under a dual concept — bright 'Red' releases and moodier, more R&B-leaning 'Velvet' releases — and Psycho belongs firmly to the Velvet side. Released in December 2019 as the title track of The ReVe Festival: Finale, it was widely praised for its jazz- and R&B-influenced composition.",
+  "honorific_level": "informal — 반말 throughout, self-aware and unapologetic",
+  "themes": [
+    "codependency",
+    "self-aware chaos",
+    "unconventional love",
+    "owning judgment"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-대 (quoting ending)",
+      "usage": "Casual contraction of -다고 해, reporting what someone else said. 이상하대, 이해가 안 간대 relay outside opinions about the relationship throughout the song without the singer directly refuting them.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "쥐락펴락하다",
+      "usage": "Idiom meaning to have someone completely under one's control, literally 'to grip and let go.' A vivid, specific way to describe being toyed with emotionally.",
+      "topik_level": 5
+    },
+    {
+      "pattern": "-(으)ㄴ걸",
+      "usage": "A soft, slightly self-revealing ending for admitting something about yourself. 마찬가지인걸 ('I'm the same way, you know') owns up to mutual fault without sounding defensive.",
+      "topik_level": 4
+    }
+  ]
+}

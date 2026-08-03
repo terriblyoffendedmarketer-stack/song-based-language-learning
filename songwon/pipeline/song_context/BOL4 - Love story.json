@@ -1,0 +1,56 @@
+{
+  "safe_name": "BOL4 - Love story",
+  "artist": "BOL4",
+  "song": "Love story",
+  "song_story": {
+    "overview": "A sugar-rush of a love song, told almost entirely in flashback: the day he handed her a flower, the birthday they snuck out at night, the walk home he kissed her goodbye on, the trip where they traced constellations. It's less a story with a plot than a scrapbook — quick, bright memories stacked on top of each other, held together by the repeated fear that it's all too good to be true. BOL4 (볼빨간사춘기, literally 'Red-Cheeked Puberty') built its whole identity on this kind of unguarded, diary-page romanticism.",
+    "cultural_root": "The song leans on 풋사랑 — young, unpolished first love, the kind Korean pop culture treats as its own precious genre distinct from adult romance. The repeated line 'this is not a dream' plays on the same 꿈 (dream) anxiety you see across Korean love songs — happiness this complete feels like it needs to be double-checked to be believed.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "날 좋아하던 그때 / 수줍게 꽃을 건네던 너에게 / 웃으며 손을 내밀었지 / 시간 지나 my birthday / 우린 몰래 run away / 온통 둘뿐인 밤거릴 걷다가 / 너와 눈이 마주친 그날",
+        "literal": "Thought that I was a princess / back when you liked me / shyly handing me a flower / I smiled and took your hand / time passed, my birthday / we secretly ran away / walking through a street with just the two of us / the day our eyes met",
+        "context": "The verse is told entirely in past tense narrating a memory, not a live scene — she's replaying it. 수줍게 (shyly) describes him, not her; the singer positions herself as the one being courted, which is why the fairy-tale 'princess' opening works as a hook rather than sarcasm."
+      },
+      "chorus": {
+        "lines": "Oh, babe, 너의 눈동자에 cheers / 달빛에 비춰진 우리의 흩어진 잔상 / 너의 이야기에 취해 / 밤하늘의 별이 쏟아질 것만 같은 기분 / 날 바래다준 그때 / 수줍게 인사를 건네던 너에게 / 살며시 입을 맞추었지",
+        "literal": "Oh babe, cheers to your eyes / our scattered afterimage reflected in the moonlight / I get drunk on your stories / it feels like the stars in the night sky are about to pour down / Oh God, please, this is not a dream",
+        "context": "잔상 (jansang) is 'afterimage' — the ghost of light left on your eyes after looking at something bright, here used for the blur of a happy memory. 취해 (drunk) is used for being intoxicated on someone's words, not alcohol — a common Korean love-song move."
+      },
+      "verse_2": {
+        "lines": "시간 지나 go on trip / 한 손엔 진한 커피 / 우리가 새긴 별자릴 찾다가 / 너와 눈이 마주친 그날 / Oh, babe, 너의 눈동자에 cheers / 달빛에 비춰진 우리의 흩어진 잔상 / 너의 이야기에 취해",
+        "literal": "Thought that it was romance / back when you walked me home / shyly saying goodbye to you / I gently kissed you / time passed, we went on a trip / one hand holding strong coffee / looking for the constellation we'd traced / the day our eyes met",
+        "context": "Same 'Thought that I was ___' setup as verse 1, but the fantasy shifts from fairy tale (princess) to genre (romance) — she's aware she's narrating her life like a story, and half-joking about it."
+      },
+      "bridge": {
+        "lines": "밤하늘의 별이 쏟아질 것만 같은 기분 / Oh-oh-oh, 꿈인가 봐 / 그래 니가 내 옆에 있는 꿈 / 아니잖아 이건, yeah / Oh, babe, 너의 눈동자에 cheers / 붉게 물들어진 우리의 오래된 잔상 / 너의 이야기에 취해 / 온 세상의 별이 쏟아질 것만 같은 기분",
+        "literal": "Oh-oh-oh, must be a dream / yeah, the dream where you're beside me / oh-oh, no / this isn't that, yeah / I got you, boy",
+        "context": "This is the turn: after two verses of 'thought that,' she flips it — 아니잖아 이건 ('this isn't that/a dream') — insisting out loud that this time it's real, not just another fantasy she's telling herself."
+      }
+    }
+  },
+  "artist_context": "BOL4 started as a duo discovered on Superstar K, known for sweet, conversational lyrics that read like text messages or diary entries rather than polished poetry. The group is now essentially the solo project of Ahn Ji-young, whose light, girlish vocal tone defines the sound.",
+  "honorific_level": "informal — 반말, told as an intimate, half-whispered story to the listener",
+  "themes": [
+    "young love",
+    "nostalgia",
+    "disbelief",
+    "romantic fantasy"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-던 그때 / -던",
+      "usage": "Retrospective modifier for a past ongoing state, used in 좋아하던 그때 (back when you liked me), 바래다준 그때. Marks these as remembered, not current.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-(이)잖아",
+      "usage": "Used for asserting something the listener should already agree with. 아니잖아 이건 = 'this isn't [a dream], you know' — pushing back against doubt.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "것만 같은",
+      "usage": "'Feels as if / seems like.' 쏟아질 것만 같은 기분 = 'a feeling like [the stars] are about to pour down' — describing an overwhelming feeling without claiming it's literal.",
+      "topik_level": 3
+    }
+  ]
+}

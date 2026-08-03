@@ -1,0 +1,368 @@
+{
+  "id": "lesson-taeyeon-weekend",
+  "songId": "taeyeon-weekend",
+  "level": "intermediate",
+  "title": "Weekend — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "TAEYEON — Weekend",
+      "content": "In this lesson, we'll learn words related to freedom, rest, spontaneity.\nGrammar: -아/어 볼래 ('I think I'll try to ~.' 떠나볼래 — tentative, low-com)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Weekend is a 2021 single that plays like a small act of imagined freedom — waking up with no alarm, drinking coffee slowly, deciding on a whim to drive to the sea. There's no plot beyond that. It's a ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "가장 가까운 바다, 혼자만의 영화관",
+        "그냥 이끌리는 대로 해도 괜찮으니까",
+        "울린 beep-beep-beep-beep 소리",
+        "귀에 윙윙윙 맴도는"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "가장 가까운 바다, 혼자만의 영화관",
+        "그냥 이끌리는 대로 해도 괜찮으니까",
+        "울린 beep-beep-beep-beep 소리",
+        "귀에 윙윙윙 맴도는"
+      ],
+      "lyricTranslations": [
+        "Every morning",
+        "the beep-beep-beep-beep sound",
+        "buzzing around in my ears",
+        "I wake up without the wake-up call that used to rush me"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "찾다",
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "계절",
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun"
+        },
+        "songLine": "창문 너머 계절에 시선이 닿은 그 순간",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Every morning",
+          "options": [
+            "울린 beep-beep-beep-beep 소리",
+            "가장 가까운 바다, 혼자만의 영화관",
+            "귀에 윙윙윙 맴도는",
+            "그냥 이끌리는 대로 해도 괜찮으니까"
+          ],
+          "correctAnswer": "가장 가까운 바다, 혼자만의 영화관",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "the beep-beep-beep-beep sound",
+          "options": [
+            "울린 beep-beep-beep-beep 소리",
+            "그냥 이끌리는 대로 해도 괜찮으니까",
+            "가장 가까운 바다, 혼자만의 영화관",
+            "귀에 윙윙윙 맴도는"
+          ],
+          "correctAnswer": "그냥 이끌리는 대로 해도 괜찮으니까",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "buzzing around in my ears",
+          "options": [
+            "그냥 이끌리는 대로 해도 괜찮으니까",
+            "울린 beep-beep-beep-beep 소리",
+            "가장 가까운 바다, 혼자만의 영화관",
+            "귀에 윙윙윙 맴도는"
+          ],
+          "correctAnswer": "울린 beep-beep-beep-beep 소리",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'I think I'll try to ~.' 떠나볼래 — tentative, low-commitment intention, matching the song's easygoing mood.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어 볼래",
+        "meaning": "'I think I'll try to ~.' 떠나볼래 — tentative, low-commitment intention, matching the song's easygoing mood.",
+        "songExample": {
+          "korean": "아이스로 할래, 아주 여유롭게",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "계절",
+            "행복",
+            "떠나다",
+            "찾다"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to find, look for'의 한국어는?",
+          "options": [
+            "찾다",
+            "떠나다",
+            "마음",
+            "계절"
+          ],
+          "correctAnswer": "찾다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'season'의 한국어는?",
+          "options": [
+            "떠나다",
+            "바람",
+            "계절",
+            "찾다"
+          ],
+          "correctAnswer": "계절"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄴ 채' 패턴은 어떤 의미예요?",
+          "options": [
+            "in the state of, while remaining",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "in the state of, while remaining"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "가장 가까운 바다, 혼자만의 영화관",
+        "그냥 이끌리는 대로 해도 괜찮으니까",
+        "울린 beep-beep-beep-beep 소리",
+        "귀에 윙윙윙 맴도는",
+        "나를 재촉하던 모닝콜 없이 일어나",
+        "Cheesecake 한 입",
+        "유리 컵-컵-컵 한가득",
+        "내린 co-co-coffee 한 잔"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          },
+          {
+            "korean": "찾다",
+            "english": "to find, look for"
+          },
+          {
+            "korean": "계절",
+            "english": "season"
+          }
+        ],
+        "patternLearned": "-아/어 볼래"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "TAEYEON - Weekend",
+    "artist": "TAEYEON",
+    "song": "Weekend",
+    "curriculum_level": 4
+  }
+}

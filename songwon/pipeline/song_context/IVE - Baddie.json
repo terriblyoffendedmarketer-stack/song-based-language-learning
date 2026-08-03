@@ -1,0 +1,61 @@
+{
+  "safe_name": "IVE - Baddie",
+  "artist": "IVE",
+  "song": "Baddie",
+  "song_story": {
+    "overview": "Baddie is IVE's 2024 title track, and it continues the group's signature 'self-love,' unbothered persona — someone who's stopped apologizing for taking up space, refuses to play by other people's rules, and treats whatever happens to her as something she'll handle, not something to fear. The English slang 'baddie' (a confidently attractive, self-possessed woman) gets absorbed wholesale into the Korean lyric, sitting comfortably next to lines about breaking rules and outrunning anyone trying to catch her.",
+    "cultural_root": "The song's core Korean phrase, 뭐든 될 대로 되라지 ('whatever happens, let it happen'), captures a kind of devil-may-care fatalism that's a notable departure from the more common Korean cultural emphasis on careful planning and 눈치 (reading the room, minding how you're perceived). Saying you don't care how things turn out, and refusing to 고개 숙이다 (bow your head, act humble/apologetic), is presented here as liberating rather than reckless — a deliberate rejection of the pressure to always be careful and deferential.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "뭐든 될 대로 되라지mwodeun doel daero doeraji / 나는 없어 거기 이미naneun eopseo geogi imi / 어차피 못 찾을 테니eochapi mot chajeul teni / 내 DNA엔 blue blood runsnae DNAen blue blood runs / 더 솔직하게 말해줘deo soljikage malhaejwo / 착한 척은 지겨워chakan cheogeun jigyeowo / 우리 앞에선 룰이 의미 없었어 굳이uri apeseon ruri uimi eopseosseo guji",
+        "literal": "I'm a baddie, ba-ba-baddie, baddie / pretty little risky baddie / whatever happens, let it happen / catch me if you can",
+        "context": "뭐든 될 대로 되라지 — 뭐든 ('whatever'), 될 대로 되다 ('let things become however they'll become,' a set expression for accepting an outcome without controlling it), -라지 (a casual, slightly defiant ending meaning roughly 'let it, I don't care'). It's the thesis of the whole song: total detachment from outcome as a form of confidence."
+      },
+      "verse_2": {
+        "lines": "유행이 돌고 돌아도yuhaeng-i dolgo dorado / 난 그 틀에 없어 이미nan geu teure eopseo imi / 뛰어 놀래 시끄럽게ttwieo nollae sikkeureopge / 다채로운 매력 수많은 변칙 위에 더 빛을 발하지dachaeroun maeryeok sumaneun byeonchik wie deo bicheul balhaji / 답답한 건 벗어 던져dapdapan geon beoseo deonjyeo / 고개 숙일 필요 없어gogae sugil piryo eopseo / 뭐든 될 대로 되라지mwodeun doel daero doeraji",
+        "literal": "Nothing like the regulars / in my DNA, blue blood runs / speak to me more honestly / I'm tired of acting nice",
+        "context": "착한 척 ('acting nice/good' — 척 meaning 'pretending to') being called 지겹다 (tiresome, boring) is a direct rejection of a very common social expectation in Korea to perform politeness and agreeableness, especially for young women. She's asking for bluntness instead of the usual careful indirectness."
+      },
+      "pre_chorus": {
+        "lines": "나는 없어 거기 이미naneun eopseo geogi imi / 어차피 못 찾을 테니eochapi mot chajeul teni / 내 판단을 믿어 난 (믿어 난)nae pandaneul mideo nan (mideo nan) / 할 말도 많아 참hal maldo mana cham / 모자이크 없이 spit it outmojaikeu eopsi spit it out / 난 즐겨 이 troublesomenan jeulgyeo i troublesome / 그 누구도 can't bite megeu nugudo can't bite me",
+        "literal": "Throw off whatever feels suffocating / there's no need to bow your head",
+        "context": "답답하다 describes a stifling, suffocating feeling, often used for restrictive social expectations. 고개를 숙이다 ('to lower one's head') is the literal gesture of bowing, associated with apology, humility, or deference — refusing to do it here is a small but pointed rejection of expected submissiveness."
+      },
+      "verse_3": {
+        "lines": "원한다면 come try mewonhandamyeon come try me / 언제든 you're invitedeonjedeun you're invited / 난 thriller 속 villainnan thriller, sok villain / 생각할 시간에 저지르는 게 my mottosaenggakal sigane jeojireuneun ge my motto / 뭐든 될 대로 되라지mwodeun doel daero doeraji / 앞 다퉈 내 길을 막지ap datwo nae gireul makji / 가뿐히 날아 오를 테니gappunhi nara oreul teni",
+        "literal": "And the fit pops like bubblegum / I trust my own judgment / I really do have a lot to say / say it straight out, no censoring",
+        "context": "모자이크 없이 (without a mosaic/blur — the pixelated blur used to censor something on Korean TV) turns a broadcast-censorship term into a metaphor for speaking completely uncensored, unfiltered. 내 판단을 믿어 (I trust my own judgment) is a plain statement of self-reliance rather than seeking outside approval."
+      },
+      "final_chorus": {
+        "lines": "어딜 그리 바삐 가니eodil geuri bappi gani / 뭐든 될 대로 되라지mwodeun doel daero doeraji / 나는 없어 거기 이미naneun eopseo geogi imi / 어차피 못 찾을 테니eochapi mot chajeul teni / 어딜 그리 바삐 가니 (na-na-na-na-na)eodil geuri bappi gani (na-na-na-na-na) / 뭐든 될 대로 되라지mwodeun doel daero doeraji / 나는 없어 거기 이미 (na-na-na-na-na)naneun eopseo geogi imi (na-na-na-na-na) / 어차피 못 찾을 테니eochapi mot chajeul teni",
+        "literal": "People rush to block my path / but I'll lightly fly up and over it / catch me if you can / where are you rushing off to in such a hurry?",
+        "context": "가뿐히 (gabbeunhi, lightly, effortlessly) describes rising above obstacles without struggle, reinforcing the unbothered persona. The closing question 어딜 그리 바삐 가니 (where are you off to in such a hurry?) flips the pursuit dynamic — she's the one now casually asking whoever's chasing her what all the rush is about."
+      }
+    }
+  },
+  "artist_context": "IVE debuted in 2021 under Starship Entertainment and has built consecutive hits (Love Dive, After Like, and others) around a consistent 'unbothered confidence' persona. Baddie, the title track of their 2024 album IVE EMPATHY, folds in English slang directly into Korean lyrics, a common and increasingly casual practice in fourth-generation K-pop songwriting.",
+  "honorific_level": "informal — 반말, direct and unapologetic",
+  "themes": [
+    "confidence",
+    "self-reliance",
+    "defiance",
+    "rule-breaking"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "될 대로 되라지",
+      "usage": "'Let it be whatever it'll be.' A set expression for total acceptance of outcome, -라지 adding a casual, slightly defiant tone of not caring.",
+      "topik_level": 5
+    },
+    {
+      "pattern": "-을 필요 없어",
+      "usage": "'There's no need to ~.' 고개 숙일 필요 없어 — 'no need to bow your head' — stating something is unnecessary, often used to reject an expectation.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-지 (casual declarative/defiant ending)",
+      "usage": "길을 막지 — used here almost as 'they [try to] block my path,' the -지 ending giving the line a slightly dismissive, matter-of-fact edge.",
+      "topik_level": 3
+    }
+  ]
+}

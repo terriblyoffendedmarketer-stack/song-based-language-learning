@@ -1,0 +1,368 @@
+{
+  "id": "lesson-mamamoo-girl-crush",
+  "songId": "mamamoo-girl-crush",
+  "level": "intermediate",
+  "title": "Girl Crush — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "MAMAMOO — Girl Crush",
+      "content": "In this lesson, we'll learn words related to confidence, self-love, rejecting jealousy.\nGrammar: -(으)ㄹ수록 ('The more X, the more Y.' 화장이 진할수록 커져가는 자신감 links )",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Girl Crush is built around a very specific, petty little scene: she's out somewhere good, feeling confident, made up and glowing — and her boyfriend gives her a suspicious look. The whole song is her ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이따 거기서 봐 이번엔 장담해",
+        "찾았어 hot place",
+        "예감이 괜찮아 정말로 기대돼",
+        "날 비출 spotlight"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "이따 거기서 봐 이번엔 장담해",
+        "찾았어 hot place",
+        "예감이 괜찮아 정말로 기대돼",
+        "날 비출 spotlight"
+      ],
+      "lyricTranslations": [
+        "See you there later, I'm sure of it this time",
+        "I found a hot place",
+        "the feeling's good, I'm really looking forward to it",
+        "the spotlight that'll shine on me"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "예감",
+      "wordData": {
+        "word": {
+          "korean": "예감",
+          "english": "premonition/feeling",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "예감",
+          "english": "premonition/feeling",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "예감",
+          "english": "premonition/feeling",
+          "pos": "noun"
+        },
+        "songLine": "예감이 괜찮아 정말로 기대돼",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "근데 왜 my boyfriend 눈빛이 수상해",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "찾다",
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "See you there later, I'm sure of it this time",
+          "options": [
+            "날 비출 spotlight",
+            "예감이 괜찮아 정말로 기대돼",
+            "찾았어 hot place",
+            "이따 거기서 봐 이번엔 장담해"
+          ],
+          "correctAnswer": "이따 거기서 봐 이번엔 장담해",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I found a hot place",
+          "options": [
+            "날 비출 spotlight",
+            "예감이 괜찮아 정말로 기대돼",
+            "찾았어 hot place",
+            "이따 거기서 봐 이번엔 장담해"
+          ],
+          "correctAnswer": "찾았어 hot place",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "the feeling's good, I'm really looking forward to it",
+          "options": [
+            "날 비출 spotlight",
+            "예감이 괜찮아 정말로 기대돼",
+            "이따 거기서 봐 이번엔 장담해",
+            "찾았어 hot place"
+          ],
+          "correctAnswer": "예감이 괜찮아 정말로 기대돼",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'The more X, the more Y.' 화장이 진할수록 커져가는 자신감 links two things escalating together — heavier makeup, bigger confidence.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄹ수록",
+        "meaning": "'The more X, the more Y.' 화장이 진할수록 커져가는 자신감 links two things escalating together — heavier makeup, bigger confidence.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'premonition/feeling'의 한국어는?",
+          "options": [
+            "행복",
+            "눈빛",
+            "예감",
+            "찾다"
+          ],
+          "correctAnswer": "예감"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "찾다",
+            "눈빛",
+            "행복",
+            "예감"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to find, look for'의 한국어는?",
+          "options": [
+            "찾다",
+            "예감",
+            "하늘",
+            "눈빛"
+          ],
+          "correctAnswer": "찾다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어지다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to become (a state)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to become (a state)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이따 거기서 봐 이번엔 장담해",
+        "찾았어 hot place",
+        "예감이 괜찮아 정말로 기대돼",
+        "날 비출 spotlight",
+        "눈꼬린 더 길게 콧대는 더 높게",
+        "화장이 진할수록 커져가는 자신감",
+        "근데 왜 my boyfriend 눈빛이 수상해",
+        "(Oh my god 지금 나를 의심해? 말도 안돼)"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "예감",
+            "english": "premonition/feeling"
+          },
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          },
+          {
+            "korean": "찾다",
+            "english": "to find, look for"
+          }
+        ],
+        "patternLearned": "-(으)ㄹ수록"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "MAMAMOO - Girl Crush",
+    "artist": "MAMAMOO",
+    "song": "Girl Crush",
+    "curriculum_level": 3
+  }
+}

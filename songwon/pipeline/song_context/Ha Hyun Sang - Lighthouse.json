@@ -1,0 +1,61 @@
+{
+  "safe_name": "Ha Hyun Sang - Lighthouse",
+  "artist": "Ha Hyun Sang",
+  "song": "Lighthouse",
+  "song_story": {
+    "overview": "Lighthouse is a quiet, late-night ballad about someone standing at the edge of the sea, unable to cry even though they want to, waiting for a dawn that never seems to bring relief. The singer keeps forcing a smile at people who ask when he'll finally move on, but inside he's stuck in the same spot, replaying words he never managed to say. By the end, the lighthouse becomes the reason he can keep smiling at all — not because the pain is gone, but because something is still shining for him in the dark.",
+    "cultural_root": "The song leans on 억지웃음 — a forced smile, smiling through something you haven't actually resolved. Korean emotional culture puts real weight on maintaining composure in front of others even while falling apart privately, and 억지로 (through gritted teeth, forcibly) shows up constantly in songs and dramas to describe that gap between the face you show and what's underneath. The lighthouse itself works as a classic image of a small, steady light guiding someone home through a storm — here it's less about being rescued and more about just having one fixed point that doesn't waver.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "아무리 울어도 울어지지 않는 날에 / 조용히 파도가 말을 걸어오는 길에 / 언제까지 머물 거냐는 누군가의 말은 / 금방 돌아가겠다고 대답해보지만 / 나만 또 제자리에 서성이며",
+        "literal": "On days when I cry but nothing comes out / on the road where the waves quietly speak to me / to someone's question of how long I'll stay / I answer that I'll head back soon",
+        "context": "울어도 울어지지 않는 — 'even crying doesn't cry,' a passive-form construction (-어지다) meaning the action won't happen no matter how hard you try. It captures being too numb or stuck to even release emotion properly, which sets up the whole song's stuck-in-place feeling."
+      },
+      "verse_2": {
+        "lines": "남아 있는데 / 어느 새벽달이 지나가네 / 난 오늘도 전하지 못한 말들이 있나 / 파도에 소리쳐봐도 / 들리지 않으니",
+        "literal": "Only I remain, pacing in place / a dawn moon passes by / do I have words today too that I couldn't get across / even shouting at the waves / they don't hear me",
+        "context": "제자리 (jejari) means 'the same spot' — literally staying put while everyone else moves on. 전하지 못한 말 — 'words I couldn't convey' — is a recurring Korean lyric phrase for regret over things left unsaid, usually to someone who's gone."
+      },
+      "chorus": {
+        "lines": "그렇게 억지라도 웃어 보이는 건 / 내일이 있어서야 / 발걸음엔 그림자가 잔뜩 배어 있고 / 처음이 주는 떨림은 이젠 익숙해서 / 그냥 아무 대답도 못 한 채로",
+        "literal": "The reason I force a smile even like that / is because there's a tomorrow",
+        "context": "억지라도 웃어 보이는 건 — 'even if it's forced, the reason I show a smile' — 억지 means something done against your natural will, forced. This is the emotional hinge line repeated across verses, and its ending changes at the very end of the song, from 'because there's a tomorrow' to 'because the lighthouse is shining.'"
+      },
+      "bridge": {
+        "lines": "남아 있는데 / 어느 새벽달이 지나가네 / 난 오늘도 전하지 못한 말들이 있나 / 파도에 소리쳐봐도 / 들리지 않으니",
+        "literal": "I need to take a little better care of myself / I'll throw the loneliness out into that sea too / no matter how much I run from it, morning will come anyway",
+        "context": "This is the turn in the song — from passively waiting for dawn to actively deciding to look after himself. 아무리 -아도 (no matter how much you do X) plus 올 테니 (it will come regardless) frames morning, and by extension recovery, as inevitable whether he fights it or not."
+      },
+      "final_line": {
+        "lines": "그렇게 억지라도 웃어 보이는 건 / 내일이 있어서야 / 나를 좀 더 돌봐줘야겠어 / 외로움도 저 바다에 날려버리겠어 / 아무리 도망쳐봐도 아침은 올 테니 / 그렇게 너를 보며 웃어 보이는 건 / 등대가 빛나서야",
+        "literal": "The reason I smile looking at you like that / is because the lighthouse is shining",
+        "context": "The refrain that closed every chorus with '내일이 있어서야' (because there's a tomorrow) is replaced here with '등대가 빛나서야' (because the lighthouse is shining). Same grammar frame, different reason — the source of his composure shifts from an abstract hope for tomorrow to something concrete and constant, the lighthouse itself."
+      }
+    }
+  },
+  "artist_context": "Ha Hyun Sang is a South Korean singer-songwriter known for emotionally direct ballads with sparse, acoustic-leaning production, often built around a single vocal performance carrying the whole song rather than heavy arrangement.",
+  "honorific_level": "informal — casual 반말 with a diary-entry, talking-to-myself feel",
+  "themes": [
+    "grief",
+    "forced composure",
+    "waiting",
+    "quiet resolve"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-아/어지다 (passive/involuntary)",
+      "usage": "Turns a verb into something that happens to you rather than something you do. 울어지지 않는다 — 'crying won't happen [even though I try].' Marks actions the speaker can't force even when they want to.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-아/어서야",
+      "usage": "Means 'it's only because of X' — the sole reason something is possible. Appears in 있어서야 and 빛나서야, both closing the same line with a different cause.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "아무리 -아/어도",
+      "usage": "'No matter how much you do X.' Appears in 아무리 도망쳐봐도 — 'no matter how much I run away' — followed by a result that happens regardless.",
+      "topik_level": 2
+    }
+  ]
+}

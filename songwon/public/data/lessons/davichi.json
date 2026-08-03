@@ -1,0 +1,392 @@
+{
+  "id": "lesson-davichi",
+  "songId": "davichi",
+  "level": "intermediate",
+  "title": "그대니까요 — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "DAVICHI — 그대니까요",
+      "content": "In this lesson, we'll learn words related to unconditional love, waiting, fate.\nGrammar: -(이)니까요 ('Because it is ___.' The song's title and hook: 그대)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "그대니까요 ('Because It's You') is a devotional ballad about loving someone through pain simply because of who they are — not because the relationship is easy, not because it's reciprocated in equal measur...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "사랑한다 말하는 그댈 보면",
+        "왠지 모르게 이렇게 아파와",
+        "서로 다른 그런 마음까지도",
+        "안아줄게요 그대의 모든것"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "사랑한다 말하는 그댈 보면",
+        "왠지 모르게 이렇게 아파와",
+        "서로 다른 그런 마음까지도",
+        "안아줄게요 그대의 모든것"
+      ],
+      "lyricTranslations": [
+        "When I see you saying you love me",
+        "for some reason it hurts like this",
+        "even the parts of your heart that are different from mine",
+        "I'll hold all of it"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "사랑한다 말하는 그댈 보면",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "사랑한다 말하는 그댈 보면",
+        "dailySentence": {
+          "korean": "사랑한다 말하는 그댈 보면",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "계절",
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "계절은 변해도",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "계절",
+          "english": "season",
+          "pos": "noun"
+        },
+        "songLine": "꽃잎은 시들고 계절은 변해도",
+        "dailySentence": {
+          "korean": "계절은 변해도",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "When I see you saying you love me",
+          "options": [
+            "서로 다른 그런 마음까지도",
+            "사랑한다 말하는 그댈 보면",
+            "안아줄게요 그대의 모든것",
+            "왠지 모르게 이렇게 아파와"
+          ],
+          "correctAnswer": "사랑한다 말하는 그댈 보면",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "for some reason it hurts like this",
+          "options": [
+            "왠지 모르게 이렇게 아파와",
+            "안아줄게요 그대의 모든것",
+            "서로 다른 그런 마음까지도",
+            "사랑한다 말하는 그댈 보면"
+          ],
+          "correctAnswer": "왠지 모르게 이렇게 아파와",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "even the parts of your heart that are different from mine",
+          "options": [
+            "서로 다른 그런 마음까지도",
+            "사랑한다 말하는 그댈 보면",
+            "안아줄게요 그대의 모든것",
+            "왠지 모르게 이렇게 아파와"
+          ],
+          "correctAnswer": "서로 다른 그런 마음까지도",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "___한다 말하는 그댈 보면",
+          "options": [
+            "계절",
+            "사람",
+            "떠나다",
+            "사랑"
+          ],
+          "correctAnswer": "사랑"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Because it is ___.' The song's title and hook: 그대니까요, 'because it's you.' A reason that explains itself by naming the person rather than a cause.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(이)니까요",
+        "meaning": "'Because it is ___.' The song's title and hook: 그대니까요, 'because it's you.' A reason that explains itself by naming the person rather than a cause.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "계절",
+            "하늘",
+            "떠나다"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "계절",
+            "세상",
+            "떠나다",
+            "사랑"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'season'의 한국어는?",
+          "options": [
+            "사랑",
+            "마음",
+            "계절",
+            "떠나다"
+          ],
+          "correctAnswer": "계절"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "사랑한다 말하는 그댈 보면",
+        "왠지 모르게 이렇게 아파와",
+        "서로 다른 그런 마음까지도",
+        "안아줄게요 그대의 모든것",
+        "꽃잎은 시들고 계절은 변해도",
+        "영원한 내 사랑 그 마음뿐이에요",
+        "가슴 아파도 난 그대니까요",
+        "기억해요 기다려요 그대"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          },
+          {
+            "korean": "계절",
+            "english": "season"
+          }
+        ],
+        "patternLearned": "-(이)니까요"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "DAVICHI - 그대니까요",
+    "artist": "DAVICHI",
+    "song": "그대니까요",
+    "curriculum_level": 3
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "id": "lesson-heize-why",
+  "songId": "heize-why",
+  "level": "beginner",
+  "title": "Why — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Heize — Why",
+      "content": "In this lesson, we'll learn words related to unrequited love, waiting, emotional patience.\nGrammar: 얼마나 더 -아야 하는지 ('How much more do I have to...' — expresses exhaus)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Why is a slow-burn R&B track about loving someone who won't give you a straight answer. The singer keeps asking her partner what he wants from love and gets nothing back — no confirmation, no rejectio...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "가르쳐줄래gareuchyeojullae",
+        "너의 방식neoeui bangsik",
+        "기다렸던 건gidaryeotdeon geon",
+        "아무 말 안 했던 건amu mal an haetdeon geon"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "가르쳐줄래gareuchyeojullae",
+        "너의 방식neoeui bangsik",
+        "기다렸던 건gidaryeotdeon geon",
+        "아무 말 안 했던 건amu mal an haetdeon geon"
+      ],
+      "lyricTranslations": [
+        "What do you want from love?",
+        "Tell me anything",
+        "but you never say, yeah",
+        "will you teach me"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "원하다",
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "버리다",
+      "wordData": {
+        "word": {
+          "korean": "버리다",
+          "english": "to abandon, throw away",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "버리다",
+          "english": "to abandon, throw away",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "버리다",
+          "english": "to abandon, throw away",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "기다리다",
+      "wordData": {
+        "word": {
+          "korean": "기다리다",
+          "english": "to wait",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기다리다",
+          "english": "to wait",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "기다리다",
+          "english": "to wait",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "What do you want from love?",
+          "options": [
+            "가르쳐줄래gareuchyeojullae",
+            "기다렸던 건gidaryeotdeon geon",
+            "아무 말 안 했던 건amu mal an haetdeon geon",
+            "너의 방식neoeui bangsik"
+          ],
+          "correctAnswer": "가르쳐줄래gareuchyeojullae",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "Tell me anything",
+          "options": [
+            "너의 방식neoeui bangsik",
+            "아무 말 안 했던 건amu mal an haetdeon geon",
+            "기다렸던 건gidaryeotdeon geon",
+            "가르쳐줄래gareuchyeojullae"
+          ],
+          "correctAnswer": "너의 방식neoeui bangsik",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "but you never say, yeah",
+          "options": [
+            "아무 말 안 했던 건amu mal an haetdeon geon",
+            "너의 방식neoeui bangsik",
+            "가르쳐줄래gareuchyeojullae",
+            "기다렸던 건gidaryeotdeon geon"
+          ],
+          "correctAnswer": "기다렸던 건gidaryeotdeon geon",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'How much more do I have to...' — expresses exhausted endurance. Appears in 버려야 하는지 and 가야 하는지, both open questions with no real answer expected.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "얼마나 더 -아야 하는지",
+        "meaning": "'How much more do I have to...' — expresses exhausted endurance. Appears in 버려야 하는지 and 가야 하는지, both open questions with no real answer expected.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to want'의 한국어는?",
+          "options": [
+            "사람",
+            "버리다",
+            "원하다",
+            "기다리다"
+          ],
+          "correctAnswer": "원하다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to abandon, throw away'의 한국어는?",
+          "options": [
+            "기다리다",
+            "사랑",
+            "원하다",
+            "버리다"
+          ],
+          "correctAnswer": "버리다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to wait'의 한국어는?",
+          "options": [
+            "버리다",
+            "원하다",
+            "기다리다",
+            "사람"
+          ],
+          "correctAnswer": "기다리다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-지 마(요)' 패턴은 어떤 의미예요?",
+          "options": [
+            "negative imperative, don't",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "negative imperative, don't"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "가르쳐줄래gareuchyeojullae",
+        "너의 방식neoeui bangsik",
+        "기다렸던 건gidaryeotdeon geon",
+        "아무 말 안 했던 건amu mal an haetdeon geon",
+        "시간을 끌고 있었던 건siganeul kkeulgo isseotdeon geon",
+        "난 바람이 하나 있다nan barami hana itji",
+        "너를 위해서 존재하고 싶어neoreul wihaeseo jonjaehago sipeo",
+        "얼마나 더 날 버려야 하는지eolmana deo nal beoryeoya haneunji"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "원하다",
+            "english": "to want"
+          },
+          {
+            "korean": "버리다",
+            "english": "to abandon, throw away"
+          },
+          {
+            "korean": "기다리다",
+            "english": "to wait"
+          }
+        ],
+        "patternLearned": "얼마나 더 -아야 하는지"
+      }
+    }
+  ],
+  "xpReward": 25,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Heize - Why",
+    "artist": "Heize",
+    "song": "Why",
+    "curriculum_level": 2
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "id": "lesson-nca-tikitik-jian-flashback",
+  "songId": "nca-tikitik-jian-flashback",
+  "level": "intermediate",
+  "title": "Flashback — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "NC.A, TIKITIK, 유준호, JIAN — Flashback",
+      "content": "In this lesson, we'll learn words related to overthinking, insomnia, unspoken questions.\nGrammar: -(으)ㄹ까 (self-questioning) (Used repeatedly for anxious internal questions wit)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Flashback is about the specific insomnia of overthinking someone at 3am. Every verse cycles through a different small, unresolved question — why didn't I answer that text, did I accidentally hurt them...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "오늘도 새벽은 왔고",
+        "기다렸던 잠 대신에",
+        "끝맺지 못한 하루의 남은 생각이",
+        "찾아와 말을 건넨다"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "오늘도 새벽은 왔고",
+        "기다렸던 잠 대신에",
+        "끝맺지 못한 하루의 남은 생각이",
+        "찾아와 말을 건넨다"
+      ],
+      "lyricTranslations": [
+        "Dawn came again today",
+        "instead of the sleep I was waiting for",
+        "the leftover thoughts from a day that never wrapped up",
+        "come and start talking to me"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "새벽",
+      "wordData": {
+        "word": {
+          "korean": "새벽",
+          "english": "dawn",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "새벽",
+          "english": "dawn",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "새벽",
+          "english": "dawn",
+          "pos": "noun"
+        },
+        "songLine": "오늘도 새벽은 왔고",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "멈추다",
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "멈추다",
+          "english": "to stop",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Dawn came again today",
+          "options": [
+            "끝맺지 못한 하루의 남은 생각이",
+            "찾아와 말을 건넨다",
+            "기다렸던 잠 대신에",
+            "오늘도 새벽은 왔고"
+          ],
+          "correctAnswer": "오늘도 새벽은 왔고",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "instead of the sleep I was waiting for",
+          "options": [
+            "오늘도 새벽은 왔고",
+            "기다렸던 잠 대신에",
+            "찾아와 말을 건넨다",
+            "끝맺지 못한 하루의 남은 생각이"
+          ],
+          "correctAnswer": "기다렸던 잠 대신에",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "the leftover thoughts from a day that never wrapped up",
+          "options": [
+            "오늘도 새벽은 왔고",
+            "기다렸던 잠 대신에",
+            "찾아와 말을 건넨다",
+            "끝맺지 못한 하루의 남은 생각이"
+          ],
+          "correctAnswer": "끝맺지 못한 하루의 남은 생각이",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "fb-0",
+          "type": "fill-blank",
+          "prompt": "오늘도 ___은 왔고",
+          "options": [
+            "새벽",
+            "떠나다",
+            "멈추다",
+            "바람"
+          ],
+          "correctAnswer": "새벽"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Used repeatedly for anxious internal questions with no answer — 왜 답장이 없었을까, 누구일까, 궁금해할까. This ending is for wondering aloud to yourself, not asking someone else.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄹ까 (self-questioning)",
+        "meaning": "Used repeatedly for anxious internal questions with no answer — 왜 답장이 없었을까, 누구일까, 궁금해할까. This ending is for wondering aloud to yourself, not asking someone else.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'dawn'의 한국어는?",
+          "options": [
+            "새벽",
+            "멈추다",
+            "하늘",
+            "떠나다"
+          ],
+          "correctAnswer": "새벽"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "멈추다",
+            "하늘",
+            "떠나다",
+            "새벽"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to stop'의 한국어는?",
+          "options": [
+            "새벽",
+            "멈추다",
+            "마음",
+            "떠나다"
+          ],
+          "correctAnswer": "멈추다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)면' 패턴은 어떤 의미예요?",
+          "options": [
+            "if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "오늘도 새벽은 왔고",
+        "기다렸던 잠 대신에",
+        "끝맺지 못한 하루의 남은 생각이",
+        "찾아와 말을 건넨다",
+        "똑똑 생각이 똑똑",
+        "아까 네가 보냈던 메세지",
+        "난 읽고도 왜 답장이 없었을까",
+        "혹시 우연히 내 상처 건든건 아닐까"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "새벽",
+            "english": "dawn"
+          },
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          },
+          {
+            "korean": "멈추다",
+            "english": "to stop"
+          }
+        ],
+        "patternLearned": "-(으)ㄹ까 (self-questioning)"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "NC.A, TIKITIK, 유준호, JIAN - Flashback",
+    "artist": "NC.A, TIKITIK, 유준호, JIAN",
+    "song": "Flashback",
+    "curriculum_level": 3
+  }
+}

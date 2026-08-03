@@ -1,0 +1,858 @@
+{
+  "id": "v5-unit3-lesson10",
+  "meta": {
+    "songId": "iu-through-the-night",
+    "songTitle": "Through the Night(밤편지)",
+    "artist": "IU",
+    "unit": 3,
+    "lessonNumber": 10,
+    "grammarFocus": "-(으)ㄹ 것 같다",
+    "grammarMeaning": "it seems like / I think",
+    "koreanRatio": 0.75
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "잡다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "to hold / to grab",
+            "correct": true
+          },
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "rain",
+            "correct": false
+          },
+          {
+            "text": "love",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잡다 = to hold / to grab."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "IU — Through the Night(밤편지)",
+      "content": "Expressing opinions softly. Koreans use this constantly.\n\n밤편지, literally 'a night letter,' is a quiet love song written as a message sent across distance in the dark. IU imagines sending a firefly toward someone's window as a stand-in for the words she can't fully say — 'I love you' — while comparing herself to handwriting in sand that the tide is slowly erasing.\n\nIn this lesson, you'll learn the grammar pattern **-(으)ㄹ 것 같다**, which means \"it seems like / I think.\" We'll see how IU uses it in \"Through the Night(밤편지).\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **빛나다** — to shine\n- **울다** — to cry\n- **울 것 같다** — I think I'll cry\n- **좋아할 것 같다** — I think (they'll) like it\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+        "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+        "사랑한다는 말이에요saranghandaneun marieyo",
+        "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+          "english": "Tonight, I'll send that day's firefly",
+          "highlights": []
+        },
+        {
+          "korean": "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+          "english": "close to your window",
+          "highlights": []
+        },
+        {
+          "korean": "사랑한다는 말이에요saranghandaneun marieyo",
+          "english": "it means 'I love you'",
+          "highlights": []
+        },
+        {
+          "korean": "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+          "english": "I recall our first kiss",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "빛나다",
+        "english": "to shine",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "빛나다"
+          ]
+        },
+        "audioKey": "빛나다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "빛나다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "I think (they'll) like it",
+            "correct": false
+          },
+          {
+            "text": "to shine",
+            "correct": true
+          },
+          {
+            "text": "I think I'll cry",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "빛나다 = to shine"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "별이 빛나요.",
+        "english": "The stars shine.",
+        "highlights": [
+          "빛나요"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "별이 ___.",
+        "promptTranslation": "The stars shine.",
+        "options": [
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "울 것 같다",
+            "correct": false
+          },
+          {
+            "text": "빛나다",
+            "correct": false
+          },
+          {
+            "text": "빛나요",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "별이 빛나요. = The stars shine."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "울 것 같다",
+        "english": "I think I'll cry",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "울 것 같다"
+          ]
+        },
+        "audioKey": "울 것 같다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "울 것 같다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to be loud",
+            "correct": false
+          },
+          {
+            "text": "to disappear",
+            "correct": false
+          },
+          {
+            "text": "I think I'll cry",
+            "correct": true
+          },
+          {
+            "text": "to be beautiful",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "울 것 같다 = I think I'll cry"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "울 것 같아요.",
+        "english": "I think I'll cry.",
+        "highlights": [
+          "울 것 같"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___아요.",
+        "promptTranslation": "I think I'll cry.",
+        "options": [
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "울 것 같",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "울 것 같아요. = I think I'll cry."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "Tonight, I'll send that day's firefly",
+            "correct": true
+          },
+          {
+            "text": "close to your window",
+            "correct": false
+          },
+          {
+            "text": "it means 'I love you'",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul = Tonight, I'll send that day's firefly"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "울다",
+        "english": "to cry",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "울다"
+          ]
+        },
+        "audioKey": "울다"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "울다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "I think (they'll) like it",
+            "correct": false
+          },
+          {
+            "text": "I think I'll cry",
+            "correct": false
+          },
+          {
+            "text": "to cry",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "울다 = to cry"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "아기가 울어요.",
+        "english": "The baby is crying.",
+        "highlights": [
+          "울어요"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "아기가 ___.",
+        "promptTranslation": "The baby is crying.",
+        "options": [
+          {
+            "text": "시간",
+            "correct": false
+          },
+          {
+            "text": "사람",
+            "correct": false
+          },
+          {
+            "text": "울어요",
+            "correct": true
+          },
+          {
+            "text": "빛나요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아기가 울어요. = The baby is crying."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "별이 빛나요.",
+          "english": "The stars shine.",
+          "highlights": [
+            "빛나요"
+          ]
+        },
+        {
+          "korean": "아기가 울어요.",
+          "english": "The baby is crying.",
+          "highlights": [
+            "울어요"
+          ]
+        }
+      ],
+      "note": "빛나다 + 울다 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "Tonight, I'll send that day's firefly",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "사랑한다는 말이에요saranghandaneun marieyo",
+            "correct": false
+          },
+          {
+            "text": "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+            "correct": false
+          },
+          {
+            "text": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+            "correct": true
+          },
+          {
+            "text": "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-(으)ㄹ 것 같다",
+        "meaning": "it seems like / I think",
+        "explanation": "Expressing opinions softly. Koreans use this constantly.",
+        "songExample": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "(으)ㄹ 것 같다"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "좋아할 것 같다",
+        "english": "I think (they'll) like it",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-(으)ㄹ 것 같다 = it seems like / I think",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "좋아할 것 같다"
+          ]
+        },
+        "audioKey": "좋아할 것 같다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "좋아할 것 같다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "I think (they'll) like it",
+            "correct": true
+          },
+          {
+            "text": "to cry",
+            "correct": false
+          },
+          {
+            "text": "I think I'll cry",
+            "correct": false
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "좋아할 것 같다 = I think (they'll) like it"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "좋아할 것 같아요.",
+        "english": "I think they'll like it.",
+        "highlights": [
+          "좋아할 것 같"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "좋아할 것 같다",
+        "promptTranslation": "I think (they'll) like it",
+        "options": [
+          {
+            "text": "(으)ㄹ 것 같다",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          },
+          {
+            "text": "는데",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -(으)ㄹ 것 같다예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "좋아할 것 같다",
+        "promptTranslation": "여기서 -(으)ㄹ 것 같다는 무슨 느낌일까요?",
+        "options": [
+          {
+            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "correct": true
+          },
+          {
+            "text": "갑자기 일어났다가 멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "일부러 그렇게 했어요",
+            "correct": false
+          },
+          {
+            "text": "더 이상 그렇지 않아요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-(으)ㄹ 것 같다 = it seems like / I think — 선택이 아니라 저절로 된 거예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "울다",
+            "correct": false
+          },
+          {
+            "text": "빛나다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "빛나다 = to shine"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (to cry)",
+        "options": [
+          {
+            "text": "빛나다",
+            "correct": false
+          },
+          {
+            "text": "울다",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "울다 = to cry"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "울 것 같다",
+        "promptTranslation": "\"I think I'll cry\" 를 한국어로?",
+        "options": [
+          {
+            "text": "울 것 같다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "빛나다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "울 것 같다 = I think I'll cry"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "비가 올 것 ___.",
+        "promptTranslation": "I think it'll rain.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "(으)ㄹ 것 같다",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -(으)ㄹ 것 같다!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"banditbureul\", \"그날의\", \"반딧불을i\", \"geunarui\", \"밤\", \"bam\", \"이\"]",
+        "promptTranslation": "Tonight, I'll send that day's firefly",
+        "options": [
+          {
+            "text": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "사랑한다는 말이에요saranghandaneun marieyo",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그럼 언제든 눈을 감고geureom eonjedeun nuneul gamgo",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "가장 먼 곳으로 가요gajang meon goseuro gayo",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "난 파도가 머물던nan padoga meomuldeon",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "모래 위에 적힌 글씨처럼morae wie jeokin geulssicheoreom",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "빛나다",
+          "english": "to shine",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "울다",
+          "english": "to cry",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "울 것 같다",
+          "english": "I think I'll cry",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "좋아할 것 같다",
+          "english": "I think (they'll) like it",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-(으)ㄹ 것 같다",
+        "meaning": "it seems like / I think"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

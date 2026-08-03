@@ -1,0 +1,373 @@
+{
+  "id": "lesson-taeyeon-1111",
+  "songId": "taeyeon-1111",
+  "level": "intermediate",
+  "title": "11:11 — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "TAEYEON — 11:11",
+      "content": "In this lesson, we'll learn words related to heartbreak, moving on, nostalgia.\nGrammar: -을까? (self-questioning) (Used for uncertain wondering, often to yourself ra)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "11:11 is from TAEYEON's 2017 album My Voice. The whole song is built around the superstition that if you make a wish at 11:11 — when the clock digits line up — it comes true. She used to make wishes w...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "오늘이 한 칸이 채 안 남은 그런 시간",
+        "우리 소원을 빌몄던 그 시간",
+        "별 게 다 널 떠오르게 하지",
+        "니맘 끝자락처럼 차가운 바람"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "오늘이 한 칸이 채 안 남은 그런 시간",
+        "우리 소원을 빌몄던 그 시간",
+        "별 게 다 널 떠오르게 하지",
+        "니맘 끝자락처럼 차가운 바람"
+      ],
+      "lyricTranslations": [
+        "It's 11:11",
+        "a time when today has less than one square left",
+        "the time we used to make wishes"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "바람",
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바람",
+          "english": "wind",
+          "pos": "noun"
+        },
+        "songLine": "니맘 끝자락처럼 차가운 바람",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "끝",
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "이별이 끝나있을까",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "끝",
+          "english": "end",
+          "pos": "noun"
+        },
+        "songLine": "니맘 끝자락처럼 차가운 바람",
+        "dailySentence": {
+          "korean": "이별이 끝나있을까",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "떠나다",
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "떠나다",
+          "english": "to leave",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "It's 11:11",
+          "options": [
+            "오늘이 한 칸이 채 안 남은 그런 시간",
+            "별 게 다 널 떠오르게 하지",
+            "니맘 끝자락처럼 차가운 바람",
+            "우리 소원을 빌몄던 그 시간"
+          ],
+          "correctAnswer": "오늘이 한 칸이 채 안 남은 그런 시간",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "a time when today has less than one square left",
+          "options": [
+            "오늘이 한 칸이 채 안 남은 그런 시간",
+            "니맘 끝자락처럼 차가운 바람",
+            "별 게 다 널 떠오르게 하지",
+            "우리 소원을 빌몄던 그 시간"
+          ],
+          "correctAnswer": "우리 소원을 빌몄던 그 시간",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "the time we used to make wishes",
+          "options": [
+            "오늘이 한 칸이 채 안 남은 그런 시간",
+            "우리 소원을 빌몄던 그 시간",
+            "별 게 다 널 떠오르게 하지",
+            "니맘 끝자락처럼 차가운 바람"
+          ],
+          "correctAnswer": "별 게 다 널 떠오르게 하지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Used for uncertain wondering, often to yourself rather than asking someone else. 끝나있을까?, 잊었을까? — she's genuinely unsure, not rhetorically asking.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-을까? (self-questioning)",
+        "meaning": "Used for uncertain wondering, often to yourself rather than asking someone else. 끝나있을까?, 잊었을까? — she's genuinely unsure, not rhetorically asking.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'wind'의 한국어는?",
+          "options": [
+            "세상",
+            "떠나다",
+            "바람",
+            "끝"
+          ],
+          "correctAnswer": "바람"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'end'의 한국어는?",
+          "options": [
+            "세상",
+            "바람",
+            "끝",
+            "떠나다"
+          ],
+          "correctAnswer": "끝"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to leave'의 한국어는?",
+          "options": [
+            "끝",
+            "사랑",
+            "떠나다",
+            "바람"
+          ],
+          "correctAnswer": "떠나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-던' 패턴은 어떤 의미예요?",
+          "options": [
+            "past retrospective modifier",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "past retrospective modifier"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "오늘이 한 칸이 채 안 남은 그런 시간",
+        "우리 소원을 빌몄던 그 시간",
+        "별 게 다 널 떠오르게 하지",
+        "니맘 끝자락처럼 차가운 바람",
+        "창을 열면 온통 네가 불어와",
+        "이 시간이 전부 지나고 나면",
+        "이별이 끝나있을까? Yeah",
+        "널 다 잊었을까?"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "바람",
+            "english": "wind"
+          },
+          {
+            "korean": "끝",
+            "english": "end"
+          },
+          {
+            "korean": "떠나다",
+            "english": "to leave"
+          }
+        ],
+        "patternLearned": "-을까? (self-questioning)"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "TAEYEON - 11_11",
+    "artist": "TAEYEON",
+    "song": "11:11",
+    "curriculum_level": 4
+  }
+}

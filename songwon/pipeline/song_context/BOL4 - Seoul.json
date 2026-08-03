@@ -1,0 +1,61 @@
+{
+  "safe_name": "BOL4 - Seoul",
+  "artist": "BOL4",
+  "song": "Seoul",
+  "song_story": {
+    "overview": "A love letter to Seoul disguised as a love letter to a person. The singer meets a boy playing guitar somewhere in the crowd of the city and falls for him on the spot — then, in the second verse, flips the same scene around and becomes the girl on stage with a microphone, dreaming under the city lights. It's a song about two people who found each other through music in a city that's loud enough to get lost in and bright enough to be found in. The 'someday' refrain makes it as much about a promised future reunion as the initial meeting.",
+    "cultural_root": "The song plugs into a well-worn Korean pop image: Seoul as the place where nobodies with guitars and microphones go to become somebody. Busking culture around Hongdae and the Han River is part of the city's romantic mythology — meeting a street musician here isn't just meeting a person, it's meeting someone chasing the same dream you are.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "Seoul 처음 만난 낯선 도시에서 / 사람들 사이에 빛이 나는 / 기타를 멘 멋진 소년과, yeah / 사랑에 빠진 love story / 들어볼래? 지나치게도",
+        "literal": "Seoul, in this unfamiliar city I met for the first time / among all the people, someone who shines / a cool boy with a guitar slung over his shoulder, yeah / a love story I fell into",
+        "context": "낯선 도시 — 'unfamiliar city' — frames Seoul from an outsider's eyes, someone who just arrived and doesn't know it yet. 사이에 빛이 나는 — 'shining among [the crowd]' — the boy stands out from the anonymous mass, which is the whole appeal of a big city romance: getting picked out of the noise."
+      },
+      "pre_chorus": {
+        "lines": "소설 같은 이야기일 거야 / 꽃잎이 떨어지는 그날에 / 우리가 만난 그곳에서 / 멀리서 기타 소리가 들리면 나 / 너를 위해 노랠 부를 거야",
+        "literal": "Want to hear it? It'll be / a story that's almost too much like a novel",
+        "context": "소설 같은 이야기 — 'a story like a novel' — she's aware her own romance sounds unbelievable, too neat to be real, which sets up the wistful 'maybe someday' chorus that follows."
+      },
+      "chorus": {
+        "lines": "빛이 가득한 이 도시에서 / 눈을 반짝이며 꿈을 꾸는 / 마이크를 쥔 멋진 소녀와 / 사랑에 빠진 love story (Story, story) / 꽃잎이 떨어지는 그날에",
+        "literal": "Maybe someday / on the day the flower petals fall / at the place where we met / if I hear guitar sound from far away, I'll / sing a song for you",
+        "context": "꽃잎이 떨어지는 그날 — 'the day the flower petals fall' — is a classically Korean way to mark a bittersweet future moment, borrowing the imagery of cherry blossoms ending. The whole chorus is conditional (-면, 'if') — a promise that depends on chance, not certainty."
+      },
+      "verse_2": {
+        "lines": "우리가 만난 그곳에서 / 멀리서 기타 소리가 들리면 나 / 너를 위해 노랠 부를 거야 / 언젠가 사랑했던 그 도시에서 / 내 목소릴 기억한다면",
+        "literal": "City of light, in this city full of light / a cool girl with sparkling eyes, dreaming, holding a microphone / a love story I fell into",
+        "context": "The song mirrors its own structure: verse 1 was a boy with a guitar, verse 2 is a girl with a microphone — same setup, gender-flipped, suggesting the story could be either person's memory, or that both of them became the performer they admired."
+      },
+      "outro": {
+        "lines": "그때 우리 만나자 my Seoul / 너와 나 꿈꿔왔던 그날에 / 서로가 마주한 곳에서 / 환하게 미소 지을 수 있다면 나 / 너를 위해 노래해 / Someday 그때 그날에 / 우리가 만난 그곳에서 / 멀리서 네 목소리가 들리면 나 / 너를 위해 노랠 부를 거야",
+        "literal": "In that city I once loved / if you remember my voice / let's meet then, my Seoul",
+        "context": "my Seoul at the very end turns the city itself into the term of endearment — she's not just naming a place, she's claiming it as personally hers, tied permanently to this one memory."
+      }
+    }
+  },
+  "artist_context": "This track shows BOL4's more wistful, mid-tempo pop side — built for a slow visual of city lights and busking scenes rather than the bubbly delivery of their more famous singles.",
+  "honorific_level": "informal — 반말, delivered as a private daydream rather than a conversation",
+  "themes": [
+    "city romance",
+    "chasing dreams",
+    "nostalgia",
+    "hope for reunion"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)면 (conditional)",
+      "usage": "'If.' The entire chorus hinges on 들리면 ('if I hear it') — the reunion is only a possibility, not a plan.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-는/(으)ㄴ 그곳/그날",
+      "usage": "Modifying a place or day with a past-tense clause: 우리가 만난 그곳 ('the place where we met'). A common structure for turning ordinary nouns into emotionally loaded memory-markers.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-(으)ㄹ 거야",
+      "usage": "States a future intention. 노랠 부를 거야 = 'I will sing a song' — a promise aimed at someone who may never hear it.",
+      "topik_level": 2
+    }
+  ]
+}

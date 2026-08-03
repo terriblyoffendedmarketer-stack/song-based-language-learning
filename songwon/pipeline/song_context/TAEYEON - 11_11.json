@@ -1,0 +1,66 @@
+{
+  "safe_name": "TAEYEON - 11_11",
+  "artist": "TAEYEON",
+  "song": "11:11",
+  "song_story": {
+    "overview": "11:11 is from TAEYEON's 2017 album My Voice. The whole song is built around the superstition that if you make a wish at 11:11 — when the clock digits line up — it comes true. She used to make wishes with someone; now that person is gone, and the same minute that once felt magical just reminds her of the breakup. It's a quiet, late-night song about trying to talk yourself into being over someone while every small ritual of your old life keeps pulling you back.",
+    "cultural_root": "The song leans on 미련 (miryeon) — lingering attachment, the inability to fully let go even after a relationship is clearly over. Korean pop ballads return to this feeling constantly: not devastation, but the smaller, more stubborn ache of habits that don't know the relationship ended. Checking the clock at 11:11 out of habit, long after the person who made it meaningful is gone, is exactly that.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "오늘이 한 칸이 채 안 남은 그런 시간 / 우리 소원을 빌몄던 그 시간 / 별 게 다 널 떠오르게 하지 / 니맘 끝자락처럼 차가운 바람",
+        "literal": "It's 11:11 / a time when today has less than one square left / the time we used to make wishes",
+        "context": "한 칸이 채 안 남은 — 'less than one square left,' picturing the day like a calendar grid almost filled in. 소원을 빌다 means to make a wish. The verse sets up the ritual before it breaks it: this used to be a shared moment, and now she's alone with the same clock."
+      },
+      "verse_2": {
+        "lines": "창을 열면 온통 네가 불어와 / 이 시간이 전부 지나고 나면 / 이별이 끝나있을까? Yeah / 널 다 잊었을까?",
+        "literal": "The smallest things make me think of you / wind as cold as the edge of your heart / when I open the window, you blow in completely",
+        "context": "별 게 다 — literally 'even nothing things,' meaning the most trivial stuff sets off the memory. 끝자락 is 'the very edge/hem' of something, here used for the coldest, last part of his feelings toward her. She's comparing literal weather to the emotional temperature of the breakup."
+      },
+      "pre_chorus": {
+        "lines": "모든 게 자릴 찾아서 떠나가고 / 넌 내 모든 걸 갖고서 떠나도 / 내맘을 시계속의 두 바늘처럼 / 같은 곳을 두고 맴돌기만 해",
+        "literal": "Once this time has completely passed / will the breakup be over? / Will I have forgotten you completely?",
+        "context": "The grammar here — -고 나면 ('once ... has finished') paired with two questions ending in -을까 — is her testing a hypothesis on herself. She's not sure moving on is even something that will happen; she's asking it like a genuine unknown."
+      },
+      "chorus": {
+        "lines": "달력 안에 있는 / 오래전에 약속했던 몇호의 몇일 / 너에겐 다 잋혀져있었다면 / 내가 지워야지 뭐",
+        "literal": "My heart, like the two hands inside a clock / just circles around the same spot",
+        "context": "시계속의 두 바늘 — the two hands of a clock, which move constantly but always return to the same positions. It's the central image of the song: motion without progress. She feels busy grieving but never actually further from where she started, which is why 11:11 keeps ambushing her."
+      },
+      "bridge": {
+        "lines": "지나고 나면 별 거 아니겠지만 / 모든 게 자릴 찾아서 떠나가고 / 너 내 모든 걸 갖고서 떠나도 / 내맘을 시계속의 두 바늘처럼",
+        "literal": "Like a strange flower that blooms briefly between seasons / like a dawn star caught between one day and the next / all of this will eventually pass, I know",
+        "context": "틈 means a gap or crack — she's placing herself in these in-between moments, a flower blooming in the wrong season, a star that only shows up right before sunrise. -고 말겠지 adds a resigned certainty: it WILL pass, eventually, whether she's ready or not. This is the turn from questioning to quiet acceptance."
+      },
+      "final_chorus": {
+        "lines": "같은 곳을 두고 맴돌기만 해 / 계절틈에 잠시 피는 낯선 꽃처럼 / 하루틈에 걸려있는 새벽별처럼 / 이 모든 건 언젠가는 다 / 지나가고 말겠지 / 모든 게 자릴 찾아서 돌아오고 / 내가 아무 일 없는듯이 웃게되면 / 너의 이름 한 번쯤 부르는게 / 지금처럼 아프지 않을꺼야",
+        "literal": "Saying your name, just once / won't hurt like it does now",
+        "context": "한 번쯤 — 'just once, for once' — softens the line into something almost casual, which is the point. She's not imagining never thinking of him again, just imagining a version of herself who can say his name without it costing her anything. That's a much smaller, more honest goal than 'getting over it.'"
+      }
+    }
+  },
+  "artist_context": "TAEYEON is the leader and main vocalist of Girls' Generation, one of the acts that built the modern K-pop industry's international reach in the late 2000s. Her solo work, starting with 2015's I, moved toward moodier, more personal pop and R&B, and 11:11 is a good example of the intimate, late-night register she does especially well — small observations turned into a whole emotional world.",
+  "honorific_level": "informal — 반말 throughout, consistent with an internal, private train of thought rather than something addressed outward",
+  "themes": [
+    "heartbreak",
+    "moving on",
+    "nostalgia",
+    "small rituals"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-을까? (self-questioning)",
+      "usage": "Used for uncertain wondering, often to yourself rather than asking someone else. 끝나있을까?, 잊었을까? — she's genuinely unsure, not rhetorically asking.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-처럼",
+      "usage": "'Like/as.' Builds every major image in the song: 두 바늘처럼 (like two hands), 낯선 꽃처럼 (like a strange flower), 새벽별처럼 (like a dawn star). Each comparison carries the emotional weight instead of stating the feeling directly.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-고 말겠지",
+      "usage": "Expresses something happening inevitably, often with a note of resignation. 지나가고 말겠지 — 'it will pass, whether I want it to or not.'",
+      "topik_level": 4
+    }
+  ]
+}

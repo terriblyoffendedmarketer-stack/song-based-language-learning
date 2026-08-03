@@ -1,0 +1,380 @@
+{
+  "id": "lesson-lyn-love-story",
+  "songId": "lyn-love-story",
+  "level": "beginner",
+  "title": "Love Story — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "Lyn — Love Story",
+      "content": "In this lesson, we'll learn words related to fated love, disbelief, devotion.\nGrammar: -나 봐 (Expresses a guess about one's own state, as if obs)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "This is a big, sweeping ballad about a love so overwhelming it feels unreal — the narrator keeps checking whether she's dreaming, because the feeling is too good to trust. It moves through the classic...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+        "나체선 얼굴을 하고nachseon eolgul-eul hago",
+        "멈춰진 시간 속에meomchwojin sigan sog-e",
+        "너와 마주쳤던 나neowa majuchyeossdeon na"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+        "나체선 얼굴을 하고nachseon eolgul-eul hago",
+        "멈춰진 시간 속에meomchwojin sigan sog-e",
+        "너와 마주쳤던 나neowa majuchyeossdeon na"
+      ],
+      "lyricTranslations": [
+        "Always in the same dream",
+        "wearing an unfamiliar face",
+        "in time that had stopped",
+        "I ran into you"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+        "dailySentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "사랑이란",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "너와 바꿀 수 없어 내 사랑을neowa bakkul su eobs-eo nae salang-eul",
+        "dailySentence": {
+          "korean": "사랑이란",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "세상 모든 것을sesang modeun geos-eul",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Always in the same dream",
+          "options": [
+            "멈춰진 시간 속에meomchwojin sigan sog-e",
+            "나체선 얼굴을 하고nachseon eolgul-eul hago",
+            "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+            "너와 마주쳤던 나neowa majuchyeossdeon na"
+          ],
+          "correctAnswer": "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "wearing an unfamiliar face",
+          "options": [
+            "멈춰진 시간 속에meomchwojin sigan sog-e",
+            "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+            "나체선 얼굴을 하고nachseon eolgul-eul hago",
+            "너와 마주쳤던 나neowa majuchyeossdeon na"
+          ],
+          "correctAnswer": "나체선 얼굴을 하고nachseon eolgul-eul hago",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "in time that had stopped",
+          "options": [
+            "나체선 얼굴을 하고nachseon eolgul-eul hago",
+            "너와 마주쳤던 나neowa majuchyeossdeon na",
+            "멈춰진 시간 속에meomchwojin sigan sog-e",
+            "언제나 같은 꿈에Eonjena gat-eun kkum-e"
+          ],
+          "correctAnswer": "멈춰진 시간 속에meomchwojin sigan sog-e",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Expresses a guess about one's own state, as if observing yourself from outside. 두려웠나봐 ('I guess I was scared') reads softer and more vulnerable than a direct statement.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-나 봐",
+        "meaning": "Expresses a guess about one's own state, as if observing yourself from outside. 두려웠나봐 ('I guess I was scared') reads softer and more vulnerable than a direct statement.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "하늘",
+            "꿈",
+            "사랑",
+            "세상"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "세상",
+            "시간",
+            "꿈"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "세상",
+            "세상",
+            "꿈",
+            "사랑"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "언제나 같은 꿈에Eonjena gat-eun kkum-e",
+        "나체선 얼굴을 하고nachseon eolgul-eul hago",
+        "멈춰진 시간 속에meomchwojin sigan sog-e",
+        "너와 마주쳤던 나neowa majuchyeossdeon na",
+        "조금 두려웠나봐jogeum dulyeowossnabwa",
+        "영원히 꿈일까봐yeong-wonhi kkum-ilkkabwa",
+        "이젠 눈을 뜨도 너야ijen nun-eul tteodo neoya",
+        "감출 수가 없는gamchul suga eobsneun"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "세상",
+            "english": "world"
+          }
+        ],
+        "patternLearned": "-나 봐"
+      }
+    }
+  ],
+  "xpReward": 20,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "Lyn - Love Story",
+    "artist": "Lyn",
+    "song": "Love Story",
+    "curriculum_level": 1
+  }
+}

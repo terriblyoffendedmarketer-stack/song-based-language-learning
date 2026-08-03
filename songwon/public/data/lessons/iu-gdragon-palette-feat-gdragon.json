@@ -1,0 +1,374 @@
+{
+  "id": "lesson-iu-gdragon-palette-feat-gdragon",
+  "songId": "iu-gdragon-palette-feat-gdragon",
+  "level": "intermediate",
+  "title": "Palette (feat. G-DRAGON) — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IU, G-DRAGON — Palette (feat. G-DRAGON)",
+      "content": "In this lesson, we'll learn words related to self-acceptance, aging, identity.\nGrammar: -더라 (retrospective observation) ('I noticed/recall that ~.' 예뻤더라 — reporting a pers)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Palette was released in 2017 as the title track of IU's mini-album of the same name, timed to her 25th birthday. The song is IU looking back at who she used to be — the things she thought she liked, t...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이상하게도 요즘엔isanghagedo yojeumen",
+        "그냥 쉬운 게 좋아geunyang swiun ge joa",
+        "하긴 그래도hagin geuraedo",
+        "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "이상하게도 요즘엔isanghagedo yojeumen",
+        "그냥 쉬운 게 좋아geunyang swiun ge joa",
+        "하긴 그래도hagin geuraedo",
+        "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora"
+      ],
+      "lyricTranslations": [
+        "Strangely enough, these days",
+        "I just like things that are easy",
+        "then again",
+        "I still like corny music"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "여전히",
+      "wordData": {
+        "word": {
+          "korean": "여전히",
+          "english": "still, as ever",
+          "pos": "adverb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "여전히",
+          "english": "still, as ever",
+          "pos": "adverb",
+          "topik": 3
+        },
+        "exampleSentence": {
+          "korean": "여전히 코린 음악은 좋더라",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "여전히",
+          "english": "still, as ever",
+          "pos": "adverb"
+        },
+        "songLine": "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora",
+        "dailySentence": {
+          "korean": "여전히 코린 음악은 좋더라",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "언제나 사랑받는 아이 youeonjena sarangbanneun ai you",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "괜찮다",
+      "wordData": {
+        "word": {
+          "korean": "괜찮다",
+          "english": "to be okay, fine",
+          "pos": "adjective",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "괜찮다",
+          "english": "to be okay, fine",
+          "pos": "adjective",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "괜찮다",
+          "english": "to be okay, fine",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Strangely enough, these days",
+          "options": [
+            "이상하게도 요즘엔isanghagedo yojeumen",
+            "하긴 그래도hagin geuraedo",
+            "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora",
+            "그냥 쉬운 게 좋아geunyang swiun ge joa"
+          ],
+          "correctAnswer": "이상하게도 요즘엔isanghagedo yojeumen",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I just like things that are easy",
+          "options": [
+            "그냥 쉬운 게 좋아geunyang swiun ge joa",
+            "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora",
+            "이상하게도 요즘엔isanghagedo yojeumen",
+            "하긴 그래도hagin geuraedo"
+          ],
+          "correctAnswer": "그냥 쉬운 게 좋아geunyang swiun ge joa",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "then again",
+          "options": [
+            "이상하게도 요즘엔isanghagedo yojeumen",
+            "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora",
+            "하긴 그래도hagin geuraedo",
+            "그냥 쉬운 게 좋아geunyang swiun ge joa"
+          ],
+          "correctAnswer": "하긴 그래도hagin geuraedo",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'I noticed/recall that ~.' 예뻤더라 — reporting a personal memory as an observation, common in reflective lyrics.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-더라 (retrospective observation)",
+        "meaning": "'I noticed/recall that ~.' 예뻤더라 — reporting a personal memory as an observation, common in reflective lyrics.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'still, as ever'의 한국어는?",
+          "options": [
+            "마음",
+            "사랑",
+            "괜찮다",
+            "여전히"
+          ],
+          "correctAnswer": "여전히"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "괜찮다",
+            "행복",
+            "여전히"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to be okay, fine'의 한국어는?",
+          "options": [
+            "괜찮다",
+            "여전히",
+            "세상",
+            "사랑"
+          ],
+          "correctAnswer": "괜찮다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-지 마' 패턴은 어떤 의미예요?",
+          "options": [
+            "negative imperative 'don't'",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "negative imperative 'don't'"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이상하게도 요즘엔isanghagedo yojeumen",
+        "그냥 쉬운 게 좋아geunyang swiun ge joa",
+        "하긴 그래도hagin geuraedo",
+        "여전히 코린 음악은 좋더라yeojeonhi korin eumageun joteora",
+        "Hot pink보다 진한 보라색을 더 좋아해Hot pinkboda jinhan borasaegeul deo joahae",
+        "또 뭐더라 단추 있는 pajamas, lipsticktto mwodeora danchu inneun pajamas, lipstick",
+        "좀 짓궂은 장난들jom jitgujeun jangnandeul",
+        "날 좋아하는 거 알아nal joahaneun geo ara"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "여전히",
+            "english": "still, as ever"
+          },
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "괜찮다",
+            "english": "to be okay, fine"
+          }
+        ],
+        "patternLearned": "-더라 (retrospective observation)"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IU, G-DRAGON - Palette (feat. G-DRAGON)",
+    "artist": "IU, G-DRAGON",
+    "song": "Palette (feat. G-DRAGON)",
+    "curriculum_level": 4
+  }
+}

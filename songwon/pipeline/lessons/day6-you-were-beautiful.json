@@ -1,0 +1,374 @@
+{
+  "id": "lesson-day6-you-were-beautiful",
+  "songId": "day6-you-were-beautiful",
+  "level": "intermediate",
+  "title": "You Were Beautiful — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "DAY6 — You Were Beautiful",
+      "content": "In this lesson, we'll learn words related to breakup, gratitude, acceptance.\nGrammar: 예뻤어 (past tense adjective) (Korean adjectives conjugate for tense just like ve)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "One of DAY6's signature songs, built almost entirely around a single repeated word: 예뻤어 — 'you were beautiful,' past tense. The singer is clear upfront that he's not trying to get back together — he's...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "지금 이 말이jigeum i mari",
+        "우리가 다시uriga dasi",
+        "시작하자는 건 아냐sijakajaneun geon anya",
+        "그저 너의geujeo neoui"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "지금 이 말이jigeum i mari",
+        "우리가 다시uriga dasi",
+        "시작하자는 건 아냐sijakajaneun geon anya",
+        "그저 너의geujeo neoui"
+      ],
+      "lyricTranslations": [
+        "What I'm saying right now",
+        "isn't that we should start over again",
+        "it's just that",
+        "some memory of you that had been staying inside me"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "원하다",
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": {
+          "korean": "날 바라봐 주던 그 눈빛",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "날 바라봐 주던 그 눈빛nal barabwa judeon geu nunbit",
+        "dailySentence": {
+          "korean": "날 바라봐 주던 그 눈빛",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "What I'm saying right now",
+          "options": [
+            "지금 이 말이jigeum i mari",
+            "그저 너의geujeo neoui",
+            "우리가 다시uriga dasi",
+            "시작하자는 건 아냐sijakajaneun geon anya"
+          ],
+          "correctAnswer": "지금 이 말이jigeum i mari",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "isn't that we should start over again",
+          "options": [
+            "그저 너의geujeo neoui",
+            "우리가 다시uriga dasi",
+            "지금 이 말이jigeum i mari",
+            "시작하자는 건 아냐sijakajaneun geon anya"
+          ],
+          "correctAnswer": "우리가 다시uriga dasi",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "it's just that",
+          "options": [
+            "그저 너의geujeo neoui",
+            "지금 이 말이jigeum i mari",
+            "우리가 다시uriga dasi",
+            "시작하자는 건 아냐sijakajaneun geon anya"
+          ],
+          "correctAnswer": "시작하자는 건 아냐sijakajaneun geon anya",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Korean adjectives conjugate for tense just like verbs. 예뻤어 (was beautiful) vs 예뻐 (is beautiful) — the entire song's meaning depends on this single tense shift.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "예뻤어 (past tense adjective)",
+        "meaning": "Korean adjectives conjugate for tense just like verbs. 예뻤어 (was beautiful) vs 예뻐 (is beautiful) — the entire song's meaning depends on this single tense shift.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "눈빛",
+            "원하다",
+            "지나다",
+            "마음"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to want'의 한국어는?",
+          "options": [
+            "세상",
+            "지나다",
+            "원하다",
+            "눈빛"
+          ],
+          "correctAnswer": "원하다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "원하다",
+            "눈빛",
+            "사랑",
+            "지나다"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-던' 패턴은 어떤 의미예요?",
+          "options": [
+            "past retrospective modifier",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "past retrospective modifier"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "지금 이 말이jigeum i mari",
+        "우리가 다시uriga dasi",
+        "시작하자는 건 아냐sijakajaneun geon anya",
+        "그저 너의geujeo neoui",
+        "남아있던 기억들이namaitdeon gieokdeuri",
+        "떠올랐을 뿐이야tteoollasseul ppuniya",
+        "정말 하루도 빠짐없이 (너는)jeongmal harudo ppajimeopsi (neoneun)",
+        "사랑한다 말해줬었지saranghanda malhaejwosseotji"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          },
+          {
+            "korean": "원하다",
+            "english": "to want"
+          },
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          }
+        ],
+        "patternLearned": "예뻤어 (past tense adjective)"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "DAY6 - You Were Beautiful",
+    "artist": "DAY6",
+    "song": "You Were Beautiful",
+    "curriculum_level": 3
+  }
+}

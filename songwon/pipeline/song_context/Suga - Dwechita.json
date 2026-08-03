@@ -1,0 +1,61 @@
+{
+  "safe_name": "Suga - Dwechita",
+  "artist": "Suga",
+  "song": "Dwechita",
+  "song_story": {
+    "overview": "Daechwita (대취타) is the title track from Suga's second mixtape as Agust D, D-2 (2020), and it's built around one of the boldest samples in K-hip-hop: 대취타 itself, the ceremonial military march once played for Korean kings on royal processions. Over that traditional, almost regal instrumental, Suga raps as a king who started out as a servant — a direct parallel to his own path from a struggling underground rapper in Daegu to one of the most successful musicians in the world. It's part historical cosplay, part victory lap, part open threat to anyone who doubted him.",
+    "cultural_root": "The title 대취타 refers to actual Joseon-dynasty royal processional music, played on traditional instruments to announce a king's arrival. Suga sampling it and rapping as a king isn't just imagery — it's deliberately borrowing the weight of Korean court tradition ('명금일하 대취타 하랍신다' — an archaic command meaning roughly 'sound the gong once, then perform the Daechwita') to frame his own rise as something historic, not just commercially successful.",
+    "the_lyrics": {
+      "intro": {
+        "lines": "명금일하 대취타 하랍신다 / 예이! / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 (Yeah-yeah) / 빛이나 빛이나 내 왕관이 빛이나 / 잊지마 잊지마 지난 날을 잊지마 / We so fly, we so fly 전세기로 we so fly, yeah / Mmm, 종놈 출신에 왕된 놈 / 미쳐버린 범 광해 flow",
+        "literal": "By order, once the gong sounds, perform the Daechwita",
+        "context": "This line is archaic court Korean, not modern speech — an actual command formula historically used before royal processional music played, setting the entire song up as a coronation."
+      },
+      "hook": {
+        "lines": "개천 출신에 용된 몸 / 그게 내가 곧 사는 법 / 미안 걱정은 말라고 / 나도 잃을건 많다고 / 과건 뒤주에 가두고 / 내걸 챙겨 다 잡수쥬 / 말이 안되지, yeah, mmm 내가 개라니, yeah / 범으로 태어났지 적어도 너처럼 약하진 않지 / 좆밥들의 걍 재롱잔치 / 솔까 존나게 어이없지 / 싹다 죽여 난 예의 없이 / 새꺄 그래 너 예외없이",
+        "literal": "Daechwita, Daechwita, now let it ring out, Daechwita",
+        "context": "The hook is just the title chanted over the traditional instrumental — turning the ceremonial march itself into a hype chant, blending 500-year-old court music with modern trap drums."
+      },
+      "verse_1": {
+        "lines": "Flexing 난 없지 / 필요가 없지 / 다 알잖아 내이름 / 입만 산 새끼들 / 당장 놈의 목을 쳐, ah / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 (Yeah) 대취타 (Yeah) / 대취타 대취타 자 울려라 대취타 (Oh, yeah) / 대취타 대취타 자 울려라 대취타",
+        "literal": "It shines, it shines, my crown shines / don't forget, don't forget, don't forget the days gone by / we so fly, we so fly, by private jet, we so fly, yeah / born a servant, became a king / a crazed tiger, the Gwanghae flow / born from a stream, became a dragon / that's simply how I live",
+        "context": "종놈 출신에 왕된 놈 — 'a servant by birth who became a king' — and 개천 출신에 용된 몸 — 'born from a stream who became a dragon' — both draw on the Korean idiom 개천에서 용 난다 ('a dragon rises from a small stream'), meaning someone from humble origins achieves greatness. 광해 (Gwanghae) references the historical king Gwanghaegun, a controversial ruler often depicted in Korean film/drama as fierce and unconventional."
+      },
+      "verse_1_close": {
+        "lines": "한탕해먹고 곧바로 난 전세기로 날아 / 나를 담기엔 이 나란 아직 여전히 작아, yeah / Woo 누가 시간은 금이래 / 내 시간은 더 비싼데 / Tic tok 선비새끼들 면상에다 침을 칵 뱉어 / 꺾인 적이 없는 매출출출출출출출 / 우리 방시혁 피디는 매일 춤춤춤춤춤춤춤 / 참 감사하네 내가 천재임에 / 고작 그런 이유로 약을 빨다니 애잔하기 그지없네 재능이 없는거지 뭐 / 원하는 건 모두 가졌지 이제는 뭘 더 가져야만 만족이 될지 / 내가 원했던 것 옷옷 다음은 돈돈 다음은 goal, goal 이 다음은 도대체 뭐지 / 그 다음은 그래 뭘까 심히 느껴지는 현타 위가 없는 현상",
+        "literal": "Sorry, don't worry / I have plenty to lose too / I lock the past away in a rice chest / I gather what's mine and eat it all up / it doesn't make sense, yeah, that I'm a dog? / I was born a tiger, at least I'm not weak like you",
+        "context": "뒤주에 가두고 — 'locking away in a rice chest' — is a loaded historical reference to Crown Prince Sado, who was infamously locked in a rice chest by his father King Yeongjo until he died. Suga uses it to mean burying his own painful past rather than literally invoking the tragedy, but the reference assumes the listener knows Joseon history."
+      },
+      "verse_2": {
+        "lines": "위만 보던 난 이제 걍 아래만 보다가 이대로 착지하고파 / 새겨놓아 내 이름 / 입만 산 새끼들 / 당장 놈의 주리를 틀어 / 다 알잖아 내이름 / 입만 산 새끼들 / 당장 놈의 목을 쳐, ah / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타 / 대취타 (Yeah) 대취타 (Yeah) / 대취타 대취타 자 울려라 대취타 / 대취타 대취타 자 울려라 대취타",
+        "literal": "Made a fortune and flew straight off on a private jet / this country's still too small to contain me, yeah / who says time is gold? / my time is worth more than that / spit right in the faces of keyboard-warrior traditionalists / my sales streak has never once dropped / our producer Bang Si-hyuk dances every single day / I'm genuinely grateful that I'm a genius",
+        "context": "선비 (seonbi) originally meant a Confucian scholar-gentleman, but here it's used sarcastically for online critics who act morally superior while contributing nothing — a modern insult built on a historical title, echoing the song's whole trick of mixing old and new."
+      }
+    }
+  },
+  "artist_context": "Suga released this under his solo rapper alias Agust D, distinct from his idol identity in BTS — the mixtape era lets him rap more explicitly about mental health, class, and industry frustration than group releases typically allow. Daechwita's massive success (and its historically-costumed music video) made it one of the most talked-about K-hip-hop drops of 2020.",
+  "honorific_level": "informal/aggressive — 반말 and slang throughout, mixing archaic court language with contemporary insults for effect",
+  "themes": [
+    "rags to riches",
+    "defiance",
+    "historical pride",
+    "self-made success"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "개천에서 용 난다 (idiom)",
+      "usage": "'A dragon rises from a stream' — an idiom for someone from a poor background achieving great success. Suga reworks it directly: 개천 출신에 용된 몸.",
+      "topik_level": 5
+    },
+    {
+      "pattern": "-(으)ㄴ 놈/몸 (self-referential nouns)",
+      "usage": "왕된 놈, 용된 몸 — using blunt, unpolished nouns (놈, 몸) for 'person' gives these self-descriptions a rough, unpretentious swagger rather than a formal boast.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "역사적 관용구 (historical allusion as idiom)",
+      "usage": "뒤주에 가두고 references the Sado Seja rice-chest incident from Joseon history — using a historical tragedy as shorthand for 'burying something painfully.' Common technique in Korean hip-hop lyricism.",
+      "topik_level": 6
+    }
+  ]
+}

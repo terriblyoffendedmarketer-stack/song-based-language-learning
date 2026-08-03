@@ -1,0 +1,61 @@
+{
+  "safe_name": "MAMAMOO - Mr-Ambiguous",
+  "artist": "MAMAMOO",
+  "song": "Mr-Ambiguous",
+  "song_story": {
+    "overview": "Mr. Ambiguous is a cabaret-flavored complaint about a guy who won't commit to sending a clear signal one way or another — flirty enough to keep her hooked, distant enough that she can't be sure of anything. The song builds around a repeated demand: stop poking around the edges and just do something. It's playful and a little exasperated rather than heartbroken, staged like a showgirl number ('Let's get on with the show') that treats the whole frustrating situation as a bit of theater she's narrating in real time.",
+    "cultural_root": "The song lives inside 썸 (sseom) — the specifically Korean relationship stage between 'just friends' and 'officially dating,' well-known and named enough that people use it as a verb ('썸 타다,' to be in a sseom with someone). Sseom has its own rules and its own frustrations, and being stuck there against your will — wanting it to become real, watching the other person refuse to define it — is exactly the position the singer is complaining about here.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "실례지만 내게 뭐가 묻은 거니sillyejiman naege mwoga mudeun geoni / 니 눈빛에 내가 헷갈리잖니ni nunbiche naega hetgallijanni / MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho / 쳐다만 보지 말고 좀 더 다가와 봐chyeodaman boji malgo jom deo dagawa bwa / 쉿!! 뭐 지금 저한테 관심 있으세요?swit!! mwo jigeum jeohante gwansim isseuseyo? / There is a boy, hello Mr.애매모호 (애매모호)There is a boy, hello Mr.aemaemoho (aemaemoho) / 니 덫에 걸린 난 애정결핍 여우ni deoche geollin nan aejeonggyeolpip yeou",
+        "literal": "Excuse me, but is something on me / your gaze is confusing me, isn't it / MAMAMOO, MAMAMOO, hey Mr. Ambiguous / don't just stare, come closer",
+        "context": "The opening question ('is something on me') is a classic pickup-line setup, immediately undercut — she's not flirting back yet, she's calling out the fact that he keeps staring without acting. 헷갈리다 (to be confused/mixed up) names the exact problem: not disinterest, confusion."
+      },
+      "verse_2": {
+        "lines": "MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho / 찔러보지만 말고 저질러봐jjilleobojiman malgo jeojilleobwa / Now! 신사숙녀 여러분Now! sinsasungnyeo yeoreobun / 아직 넌 왜 눈치를 못 챘니 넌ajik neon wae nunchireul mot chaenni neon / Mr. 애매모호 날 헷갈리게 하지 마Mr. aemaemoho nal hetgallige haji ma / 왜 자꾸 내 맘을 몰라주는 거니 왜wae jakku nae mameul mollajuneun geoni wae / Oh, Mr. 애매모호 날 갖고 놀려 하지 마Oh, Mr. aemaemoho nal gatgo nollyeo haji ma",
+        "literal": "Caught in your trap, I'm an affection-starved fox / MAMAMOO, MAMAMOO, hey Mr. Ambiguous / don't just poke around, go for it",
+        "context": "여우 (fox) in Korean slang describes someone cunning/flirtatious, used self-deprecatingly here alongside 애정결핍 (affection-deficient) — she's admitting she's fallen for the game despite herself. 찔러보다 (to poke/probe, testing the water) versus 저질러보다 (to just go for it, commit to an action) is the core contrast of the whole song: testing versus doing."
+      },
+      "pre_chorus": {
+        "lines": "(Hey, Mr.) 꼭 꼭 숨어 머리카락 보일라(Hey, Mr.) kkok kkok sumeo meorikarak boilla / 캔디를 문 듯한 달콤한 말투kaendireul mun deutan dalkomhan maltu / 양의 탈을 쓴 넌 꼬리치는 늑대yang-ui tareul sseun neon kkorichineun neukdae / MAMAMOO, MAMAMOO 거기 Mr. 애매모호MAMAMOO, MAMAMOO geogi Mr. aemaemoho / 내숭떨지 말고 나를 가져봐naesungtteolji malgo nareul gajyeobwa / 쉿! Oh 신사숙녀 여러분swit! Oh sinsasungnyeo yeoreobun / 아직 넌 왜 눈치를 못 챘니 넌ajik neon wae nunchireul mot chaenni neon",
+        "literal": "Now! Ladies and gentlemen / Let's get on with the show / Show, show, show, show, show",
+        "context": "신사숙녀 여러분 (ladies and gentlemen) is stage-announcer language, borrowed from cabaret and circus intros. Framing her own dating frustration as a show for an audience keeps the tone light and a little self-mocking rather than genuinely wounded."
+      },
+      "chorus": {
+        "lines": "Mr. 애매모호 날 헷갈리게 하지 마Mr. aemaemoho nal hetgallige haji ma / 왜 자꾸 내 맘을 몰라주는 거니 왜wae jakku nae mameul mollajuneun geoni wae / Oh, Mr. 애매모호 날 갖고 놀려 하지 마Oh, Mr. aemaemoho nal gatgo nollyeo haji ma / (Hey, Mr.) 꼭 꼭 숨어 머리카락 보일라(Hey, Mr.) kkok kkok sumeo meorikarak boilla / 어서 말해봐 Mr. 애매모호eoseo malhaebwa Mr. aemaemoho / 왜 삐딱하게 구는 건데 마치 베레모wae ppittakage guneun geonde machi beremo / 사람 간보지 말고 빨리 와요 내게로saram ganboji malgo ppalli wayo naegero",
+        "literal": "Darling, is you, woo / why haven't you noticed it yet, why / Mr. Ambiguous, stop confusing me / my love is for you, woo / why do you keep not understanding my heart, why",
+        "context": "눈치 (social/situational awareness — reading a room or a hint without being told directly) is a huge value in Korean communication, and accusing someone of lacking 눈치 is a real insult. She's not asking him to guess vaguely; she's saying the signal has been obvious and he's choosing not to read it."
+      },
+      "bridge": {
+        "lines": "사랑은 쟁취하는 거야 불러 봐요 세레모니sarang-eun jaengchwihaneun geoya bulleo bwayo seremoni / (MAMAMOO, MAMAMOO 거기 Mr. 애매모호)(MAMAMOO, MAMAMOO geogi Mr. aemaemoho) / 아마도 나 말고 딴 여자 있는 것 같다고 aw!amado na malgo ttan yeoja inneun geot gatdago aw! / Now! Oh 신사숙녀 여러분Now! Oh sinsasungnyeo yeoreobun / 신사숙녀 여러분sinsasungnyeo yeoreobun / 아직 넌 왜 눈치를 못 챘니 넌ajik neon wae nunchireul mot chaenni neon / Mr. 애매모호 날 헷갈리게 하지 마Mr. aemaemoho nal hetgallige haji ma / 왜 자꾸 내 맘을 몰라주는 거니 왜wae jakku nae mameul mollajuneun geoni wae / Oh, Mr. 애매모호 날 갖고 놀려 하지 마Oh, Mr. aemaemoho nal gatgo nollyeo haji ma / 괜찮다면 박수 한 번 쳐 주세요gwaenchantamyeon baksu han beon chyeo juseyo",
+        "literal": "A sweet tone of voice like holding candy in your mouth / you, wearing a sheep's mask, a wolf wagging its tail / stop playing coy, just take me",
+        "context": "양의 탈을 쓴 늑대 (a wolf wearing a sheep's mask) reworks 'wolf in sheep's clothing' into Korean idiom form — sweet on the surface, predatory underneath. 내숭 (feigned innocence/coyness, usually aimed at women in Korean but flipped onto him here) accuses him of playing a part instead of being honest about what he wants."
+      }
+    }
+  },
+  "artist_context": "MAMAMOO released Mr. Ambiguous as part of their run of retro funk and disco-inflected title tracks in the late 2010s, an era where they leaned hard into 80s-90s-style fashion and sound. The cabaret staging and 'ladies and gentlemen' framing fit that retro theatrical mode.",
+  "honorific_level": "informal — 반말 throughout, playful and impatient rather than genuinely hurt",
+  "themes": [
+    "mixed signals",
+    "sseom frustration",
+    "wanting commitment",
+    "playful exasperation"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-지 말고 -아/어 봐",
+      "usage": "'Don't do X, try Y instead.' 찔러보지만 말고 저질러봐 and 내숭떨지 말고 가져봐 both use this pattern to redirect hesitant behavior into direct action.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "눈치(를) 채다/못 채다",
+      "usage": "To read a hint or social cue (or fail to). 눈치를 못 챘니 accuses someone of missing an obvious signal — a socially loaded complaint in a culture that values reading between the lines.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-니? (casual question ending)",
+      "usage": "A soft, slightly old-fashioned or theatrical casual question ending, used repeatedly here (묻은거니, 못챘니, 몰라주는거니) to give the complaints a sing-song, performative quality rather than a flat accusation.",
+      "topik_level": 3
+    }
+  ]
+}

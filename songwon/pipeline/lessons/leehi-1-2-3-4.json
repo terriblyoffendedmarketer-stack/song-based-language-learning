@@ -1,0 +1,368 @@
+{
+  "id": "lesson-leehi-1-2-3-4",
+  "songId": "leehi-1-2-3-4",
+  "level": "intermediate",
+  "title": "1, 2, 3, 4 — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "LEEHI — 1, 2, 3, 4",
+      "content": "In this lesson, we'll learn words related to no-strings arrangement, emotional detachment, boundaries.\nGrammar: -는 중 ('In the middle of doing X,' marks an ongoing proce)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "1, 2, 3, 4 is a cold, deliberately unsentimental song about a one-night arrangement with clear rules and no illusions. LEE HI counts down the hours of a hookup like a countdown clock, laying out from ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "잔을 채워 하나 둘 셋 pour up",
+        "넌 내게 말하듯 눈을 맞춰 hold up",
+        "옷엔 낯선 향이 배어서",
+        "이젠 내 향이 다 빠졌어"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "잔을 채워 하나 둘 셋 pour up",
+        "넌 내게 말하듯 눈을 맞춰 hold up",
+        "옷엔 낯선 향이 배어서",
+        "이젠 내 향이 다 빠졌어"
+      ],
+      "lyricTranslations": [
+        "Fill the glass, one two three, pour up",
+        "you look at me like you're about to say something, hold up",
+        "your clothes carry an unfamiliar scent",
+        "by now my own scent has completely faded from them"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "밤",
+      "wordData": {
+        "word": {
+          "korean": "밤",
+          "english": "night",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "밤",
+          "english": "night",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "밤",
+          "english": "night",
+          "pos": "noun"
+        },
+        "songLine": "긴 밤이 지나면",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "잊다",
+      "wordData": {
+        "word": {
+          "korean": "잊다",
+          "english": "to forget",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잊다",
+          "english": "to forget",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "잊다",
+          "english": "to forget",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Fill the glass, one two three, pour up",
+          "options": [
+            "넌 내게 말하듯 눈을 맞춰 hold up",
+            "잔을 채워 하나 둘 셋 pour up",
+            "이젠 내 향이 다 빠졌어",
+            "옷엔 낯선 향이 배어서"
+          ],
+          "correctAnswer": "잔을 채워 하나 둘 셋 pour up",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "you look at me like you're about to say something, hold up",
+          "options": [
+            "넌 내게 말하듯 눈을 맞춰 hold up",
+            "잔을 채워 하나 둘 셋 pour up",
+            "이젠 내 향이 다 빠졌어",
+            "옷엔 낯선 향이 배어서"
+          ],
+          "correctAnswer": "넌 내게 말하듯 눈을 맞춰 hold up",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "your clothes carry an unfamiliar scent",
+          "options": [
+            "넌 내게 말하듯 눈을 맞춰 hold up",
+            "옷엔 낯선 향이 배어서",
+            "잔을 채워 하나 둘 셋 pour up",
+            "이젠 내 향이 다 빠졌어"
+          ],
+          "correctAnswer": "옷엔 낯선 향이 배어서",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'In the middle of doing X,' marks an ongoing process. Appears in 사라지는 중 — 'in the process of disappearing,' the countdown treated as already underway.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-는 중",
+        "meaning": "'In the middle of doing X,' marks an ongoing process. Appears in 사라지는 중 — 'in the process of disappearing,' the countdown treated as already underway.",
+        "songExample": {
+          "korean": "하나둘씩 사라지는 중",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "잊다",
+            "밤",
+            "사라지다",
+            "사람"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'night'의 한국어는?",
+          "options": [
+            "밤",
+            "잊다",
+            "바람",
+            "사라지다"
+          ],
+          "correctAnswer": "밤"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to forget'의 한국어는?",
+          "options": [
+            "잊다",
+            "밤",
+            "행복",
+            "사라지다"
+          ],
+          "correctAnswer": "잊다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어지다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to become (a state)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to become (a state)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "잔을 채워 하나 둘 셋 pour up",
+        "넌 내게 말하듯 눈을 맞춰 hold up",
+        "옷엔 낯선 향이 배어서",
+        "이젠 내 향이 다 빠졌어",
+        "이 자리에서 딴생각은 skip",
+        "난 너와 하는 스킨십이",
+        "익숙한 듯 네 몸과 자연스레 섞이지",
+        "한 꺼풀씩 벗겨진 너와 내 맘"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          },
+          {
+            "korean": "밤",
+            "english": "night"
+          },
+          {
+            "korean": "잊다",
+            "english": "to forget"
+          }
+        ],
+        "patternLearned": "-는 중"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "LEEHI - 1, 2, 3, 4",
+    "artist": "LEEHI",
+    "song": "1, 2, 3, 4",
+    "curriculum_level": 3
+  }
+}

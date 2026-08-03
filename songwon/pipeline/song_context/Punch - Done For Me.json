@@ -1,0 +1,61 @@
+{
+  "safe_name": "Punch - Done For Me",
+  "artist": "Punch",
+  "song": "Done For Me",
+  "song_story": {
+    "overview": "Done For Me is a breakup song built around a strange, specific request: not 'come back' or 'I miss you,' but 'take back every memory you gave me.' The narrator has decided the only way to survive this is total erasure — she wants the relationship deleted from her own mind, because holding onto any of it, even the good parts, has turned into something that actively hurts. It's less about anger at the ex and more about a desperate, almost clinical need for her own peace.",
+    "cultural_root": "The song is a direct fight against 미련 (miryeon) — the specifically named Korean concept of lingering attachment that refuses to fully let go even after a relationship is over, even when you know better. Most Korean breakup songs sit inside miryeon and ache with it; this one is unusual because the narrator is actively trying to escape it by force, demanding a kind of emotional 정리 (jeongni, tidying/organizing) — clearing everything out at once instead of slowly fading.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "지울게 너에게 / 남겨줬던 추억까지도 / 바랄게 너와의 기억도 남지 못하게 / 더는 다가갈 수 없어 네게 / 이런 마음이 너무 두려워 / 너의 기억 모두 가져가 줘 / 다 지워줘 / 깨끗이 지워질 수 있을까 / 널 벗어날 수 있을까",
+        "literal": "I'll erase it — even the memories / I left with you / I'll hope that even the memory of you doesn't remain",
+        "context": "-ㄹ게 (I will, a promise to yourself/the listener) frames this as a resolution she's making out loud, almost like a vow. Wanting to erase memories she gave, not just ones she received, shows this isn't only about forgetting him — it's about undoing her own past actions too."
+      },
+      "verse_2": {
+        "lines": "사랑했던 기억도 / 다 비워낼 수 있을까 / 더 이뤄질 수는 없어 / 난 다가갈 수 없어 / 미친 듯이 뛰어가 / 너 없는 곳에 가 / 사랑은 갔고 / 남겨진 추억들은 아팠고 / 네가 내게 남겨줬던",
+        "literal": "I can't get any closer to you anymore / this feeling is too frightening / take all your memories away / erase everything / done for me",
+        "context": "-아/어 줘 (please do this for me) turns the erasure into a request directed at him, as if he could physically take the memories back — an impossible ask that reveals how powerless she feels over her own mind. 'Done for me' in English mid-Korean-lyric lands as a blunt, almost businesslike closing statement: finished, complete, over."
+      },
+      "verse_3": {
+        "lines": "기억은 가시가 됐고 / 다 사라졌으면 해 / 모두 지워졌으면 해 / 나 쉴 수 있게 널 / 떠날게 가질 수 없는 / 너란 걸 알고 있어 / 보낼게 너와의 기억 모두 다 버릴게 / 더는 다가갈 수 없어 네게 / 이런 마음이 너무 두려워",
+        "literal": "Can it be cleanly erased / can I get free of you / even the memory of loving you / can it all be emptied out",
+        "context": "-(으)ㄹ 수 있을까 stacks four times in a row, each a version of the same doubt — she's making demands in the chorus but privately isn't sure any of it is even possible. 벗어나다 (to escape/break free) treats the relationship almost like a trap she's still physically inside."
+      },
+      "bridge": {
+        "lines": "너의 기억 모두 가져가 줘 / 다 지워줘 / 나의 기억에서 떠나가줘 / 너의 추억들도 가져가 줘 / 지워줘 너의 그리움까지도 / 그리워도 그립지는 않게 / 모든 순간들을 잊어볼게 다 잊을게 / 너의 작은 흔적까지도 / 지울게 너에게",
+        "literal": "Love is gone, and / the memories left behind hurt, and / the memories you left with me / became thorns",
+        "context": "가시가 됐고 (became thorns) is the sharpest image in the song — good memories don't fade neutrally, they actively turn painful over time, like something sweet curdling. The repeated -고 endings stack the losses one after another without pause, like she's listing casualties."
+      },
+      "final_line": {
+        "lines": "남겨줬던 추억까지도 / 바랄게 너와의 기억도 남지 못하게 / 더는 다가갈 수 없어 네게 / 이런 마음이 너무 두려워 / 너의 기억 모두 가져가 줘 / 다 지워줘 / 너를 떠날 수밖에 / 멀어질 수밖에 없으니까 / 이런 나를 제발 용서해줘 / 언젠가는 우리 다시 만날 수 있기를",
+        "literal": "I have no choice but to leave you / no choice but to grow distant, because / please forgive me for being like this / hoping that someday we can meet again",
+        "context": "-ㄹ 수밖에 없다 ('have no choice but to') frames the whole erasure project as forced necessity rather than a decision made freely. The very last line quietly contradicts everything before it — after demanding total erasure, she ends by hoping to meet again someday, admitting the miryeon she spent the whole song trying to fight."
+      }
+    }
+  },
+  "artist_context": "Punch is best known for powerful vocal features on Korean drama soundtracks, most notably her collaboration with EXO's Chanyeol on the Goblin OST. Done For Me sits within her catalog of emotionally direct R&B-tinged ballads that showcase that same vocal control.",
+  "honorific_level": "informal — 반말 throughout, urgent and pleading",
+  "themes": [
+    "erasure",
+    "moving on",
+    "miryeon",
+    "self-preservation"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ 수밖에 없다",
+      "usage": "'Have no choice but to.' 떠날 수밖에, 멀어질 수밖에 없으니까 frame painful decisions as forced by circumstance rather than freely chosen, a common way Korean lyrics soften the guilt of leaving.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-아/어 줘",
+      "usage": "A direct request/plea form — 가져가 줘, 지워줘, 용서해줘 — used throughout to address the ex directly, asking for something only he could (impossibly) provide.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "-(으)ㄹ 수 있을까",
+      "usage": "'I wonder if [I] can...' — a self-doubting question rather than a genuine question to someone else. Repeated four times in verse 3 to build a wall of uncertainty under the song's confident-sounding chorus.",
+      "topik_level": 3
+    }
+  ]
+}

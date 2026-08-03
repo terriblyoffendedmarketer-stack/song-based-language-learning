@@ -1,0 +1,61 @@
+{
+  "safe_name": "MAMAMOO - HIP",
+  "artist": "MAMAMOO",
+  "song": "HIP",
+  "song_story": {
+    "overview": "HIP takes the Korean children's song '머리 어깨 무릎 발' (Head, Shoulders, Knees and Toes — the same melody structure kids learn everywhere) and repurposes it into a full-grown response to online criticism. The lyrics move from a flat statement of self-image ('all I want to be is cool') into direct callouts of internet trolls, then land on a closing verse that lists physically unglamorous things — a snot-stained shirt, messy hair, an unkempt look — and insists that on her, it's still HIP. It's a song built entirely around refusing to be shamed into smaller.",
+    "cultural_root": "This is a direct response to 악플 (akpeul, malicious online comments), which Korean public figures — especially women — face at a volume and intensity that's become its own well-documented cultural problem. The song's confidence isn't abstract positivity, it's pointed: '날 자극한 여러분 감사' (thanks to you who provoked me) thanks the haters by name, essentially. It plays against 외모지상주의 (lookism), Korea's unusually specific and demanding beauty standards, by taking the very things that would typically draw criticism and rebranding them as the point.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "All I wanna be is 멋짐 / 내 마음대로 골라 kick it / 머리 어깨 무릎 다 HIP 해 / 나를 따라 해 kick it / Clapping, clapping 모두 같이 HIP HIP HIP HIP / I love you 네가 뭐라든 간에 / Respect you 네가 뭘 하든 간에 / 늘 따끈따끈해 그 관심이 따끔따끔해 / 또 힐끔 힐끔 힐끔 / 이젠 모든 일이 가뿐해 veteran / 성공을 썰어 먹어 마치 michelin / 누구보다 빠른 걸음을 걸었네 비시즌 / 잊은 지도 오래야 뒷걸음",
+        "literal": "All I wanna be is coolness / I pick as I please, kick it / head, shoulders, knees, all HIP",
+        "context": "멋짐 (coolness, turning the adjective 멋지다 into a noun) is stated as the entire goal — not being liked, not being pretty, just being cool on her own terms. Quoting the children's song melody structure (머리 어깨 무릎...) but swapping '발' (feet) for 'HIP' turns something innocent and universally known into a grown, sly joke."
+      },
+      "verse_2": {
+        "lines": "All I wanna be is 멋짐 / 내 멋대로 골라 kick it / 머리 어깨 무릎 다 HIP HIP HIP HIP / 삐삐삐 논란이 돼 my fashion / 별로 신경 안 써 그저 action / 자꾸 click me click me / 홀린 듯이 zoom / HIP 해 HIP HIP / 머리 어깨 무릎 HIP / HIP HIP HIP HIP HIP HIP 해 HIP HIP / 머리 어깨 무릎 HIP / HIP HIP HIP HIP 해 HIP / Attention 어딜 가든 넌",
+        "literal": "Now everything feels light, a veteran / carving up success like a Michelin chef / walked faster than anyone even in the off-season / it's been so long since I forgot how to step backward",
+        "context": "가뿐하다 (light, effortless) describes a state earned through experience, not luck — 'veteran' status. 뒷걸음 (stepping backward) 'forgotten' is a compact way of saying she only moves forward now, professionally and personally."
+      },
+      "pre_chorus": {
+        "lines": "Reflection 빛날 수 있어 / 세상에 넌 하나뿐인 걸 / 근데 왜이래 네 얼굴에 침 뱉니 칵투 / 날 자극한 여러분 감사 / 거기서 멈춘 찌질이 반사 / 덕분에 나의 멘탈은 단단해 / 난 다음 앨범 만들러 갈게 / 어그로 끌기 gimmick 때찌 / 그런 애들 끼리끼리 HIP HIP HIP HIP / 삐삐삐 논란이 돼 my fashion / 별로 신경 안 써 그저 action / 자꾸 click me click me / 홀린 듯이 zoom",
+        "literal": "Beep beep beep, it becomes controversy, my fashion / don't really care, just action / keep clicking me, clicking me / zooming in like you're spellbound",
+        "context": "삐삐삐 mimics a censor/alarm sound, poking fun at how quickly her fashion choices get flagged as controversial online. 홀린 듯이 (as if bewitched) flips the criticism into an admission that the critics can't look away either."
+      },
+      "chorus": {
+        "lines": "HIP 해 HIP HIP / 머리 어깨 무릎 HIP / HIP HIP HIP HIP HIP HIP 해 HIP HIP / 머리 어깨 무릎 HIP / HIP HIP HIP HIP 해 HIP / 코 묻은 티 / 삐져나온 입 / 떡진 머리 / 난 상관없지 / 코 묻은 티 / 삐져나온 입 / 떡진 머리 / 내가 하면 HIP",
+        "literal": "Thanks to everyone who provoked me / reflected back at the loser who stopped there / thanks to you my mental is solid / I'm off to make my next album",
+        "context": "반사 ('reflect,' like the childhood taunt of bouncing an insult back at the person who said it) is playground language repurposed as an adult comeback. 덕분에 (thanks to) sarcastically credits the haters for toughening her up, then she simply walks off to keep working — the ultimate dismissal."
+      },
+      "final_verse": {
+        "lines": "코 묻은 티 / 삐져나온 팬티 / 떡진 머리 / 난 상관없지 / 코 묻은 티 / 삐져나온 팬티 / 떡진 머리 / 내가 하면 HIP / 삐삐삐 논란이 돼 my fashion / 별로 신경 안 써 그저 action / 자꾸 click me click me / 홀린 듯이 zoom / HIP 해 HIP HIP / 머리 어깨 무릎 HIP / HIP HIP HIP HIP HIP HIP 해 HIP HIP / 머리 어깨 무릎 HIP / HIP HIP HIP HIP 해 HIP",
+        "literal": "A shirt with snot on it / lips that stick out / greasy, matted hair / I don't care / if I do it, it's HIP",
+        "context": "This verse deliberately lists things Korean beauty standards would flag as sloppy or unattractive — 떡지다 specifically means hair clumped together with oil, a very unglamorous, specific image. '내가 하면 HIP' (if I do it, it's HIP) is the whole argument in five syllables: the standard doesn't get to define her, she defines the standard."
+      }
+    }
+  },
+  "artist_context": "MAMAMOO released HIP in 2019 on their 'reality in BLACK' album, not long after member Hwasa drew national attention — and a wave of both praise and hate comments — for a body-confident solo performance. The timing gives the song's message a pointed, specific target rather than generic empowerment talk.",
+  "honorific_level": "informal — 반말 throughout, delivered with swagger and a bit of a smirk",
+  "themes": [
+    "self-acceptance",
+    "clapping back at hate",
+    "confidence",
+    "lookism"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "덕분에",
+      "usage": "'Thanks to.' Normally sincere gratitude, but used sarcastically here — 'thanks to you [haters], my mental is solid' — crediting critics for an outcome they didn't intend.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-지 (assertive/dismissive)",
+      "usage": "상관없지 ('I don't care') uses the casual -지 ending to sound offhand rather than defensive, like she's barely bothering to respond.",
+      "topik_level": 2
+    },
+    {
+      "pattern": "내가 하면 X",
+      "usage": "'If I do it, it's X' — a set phrase pattern for reframing a criticized trait as a personal signature rather than a flaw. Common in confident, self-branding Korean lyrics.",
+      "topik_level": 3
+    }
+  ]
+}

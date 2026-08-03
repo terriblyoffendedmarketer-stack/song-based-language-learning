@@ -1,0 +1,368 @@
+{
+  "id": "lesson-twice-likey",
+  "songId": "twice-likey",
+  "level": "intermediate",
+  "title": "Likey — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "TWICE — Likey",
+      "content": "In this lesson, we'll learn words related to social media, self-image, crush.\nGrammar: -고 싶지 않아 ('Don't want to ~.' 감추고만 싶지 않아 — 'I don't want to j)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Likey is TWICE's 2017 title track, and it's about the very specific, very modern anxiety of curating yourself for social media while waiting for one particular person's reaction. She's not posting for...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "설렌다, me likey",
+        "두근두근두근 (Heart, heart)",
+        "두근두근두근",
+        "자꾸 드러내고 싶지 자꾸만"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "설렌다, me likey",
+        "두근두근두근 (Heart, heart)",
+        "두근두근두근",
+        "자꾸 드러내고 싶지 자꾸만"
+      ],
+      "lyricTranslations": [
+        "I keep wanting to show it off, again and again",
+        "every little thing, all of it",
+        "I want to look the prettiest inside that small screen",
+        "but for now I press down and hide this feeling of mine"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "가슴",
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "가슴",
+          "english": "chest, heart",
+          "pos": "noun"
+        },
+        "songLine": "매일 가슴 뛰게 해, 이건 네가 몰라야만 돼",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "바라보다",
+      "wordData": {
+        "word": {
+          "korean": "바라보다",
+          "english": "to gaze at",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바라보다",
+          "english": "to gaze at",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "바라보다",
+          "english": "to gaze at",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈치",
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈치",
+          "english": "tact, sense of a situation",
+          "pos": "noun"
+        },
+        "songLine": "눈치 없이 친구들이 나오라고 부르네",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I keep wanting to show it off, again and again",
+          "options": [
+            "두근두근두근 (Heart, heart)",
+            "두근두근두근",
+            "설렌다, me likey",
+            "자꾸 드러내고 싶지 자꾸만"
+          ],
+          "correctAnswer": "설렌다, me likey",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "every little thing, all of it",
+          "options": [
+            "자꾸 드러내고 싶지 자꾸만",
+            "두근두근두근 (Heart, heart)",
+            "설렌다, me likey",
+            "두근두근두근"
+          ],
+          "correctAnswer": "두근두근두근 (Heart, heart)",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "I want to look the prettiest inside that small screen",
+          "options": [
+            "두근두근두근",
+            "설렌다, me likey",
+            "자꾸 드러내고 싶지 자꾸만",
+            "두근두근두근 (Heart, heart)"
+          ],
+          "correctAnswer": "두근두근두근",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Don't want to ~.' 감추고만 싶지 않아 — 'I don't want to just keep hiding' — 만 adds emphasis, 'just, only.'",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-고 싶지 않아",
+        "meaning": "'Don't want to ~.' 감추고만 싶지 않아 — 'I don't want to just keep hiding' — 만 adds emphasis, 'just, only.'",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'chest, heart'의 한국어는?",
+          "options": [
+            "바라보다",
+            "마음",
+            "눈치",
+            "가슴"
+          ],
+          "correctAnswer": "가슴"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to gaze at'의 한국어는?",
+          "options": [
+            "가슴",
+            "바라보다",
+            "눈치",
+            "마음"
+          ],
+          "correctAnswer": "바라보다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'tact, sense of a situation'의 한국어는?",
+          "options": [
+            "바라보다",
+            "가슴",
+            "사랑",
+            "눈치"
+          ],
+          "correctAnswer": "눈치"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-는데' 패턴은 어떤 의미예요?",
+          "options": [
+            "background information / mild contrast",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "background information / mild contrast"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "설렌다, me likey",
+        "두근두근두근 (Heart, heart)",
+        "두근두근두근",
+        "자꾸 드러내고 싶지 자꾸만",
+        "사소한 것 하나까지 전부다",
+        "작은 화면 속에 내가 제일 예뻐 보이고파",
+        "아직은 감춰 이런 내 마음 꾹꾹",
+        "멋 부린다는 건 정말 귀찮은 거"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "가슴",
+            "english": "chest, heart"
+          },
+          {
+            "korean": "바라보다",
+            "english": "to gaze at"
+          },
+          {
+            "korean": "눈치",
+            "english": "tact, sense of a situation"
+          }
+        ],
+        "patternLearned": "-고 싶지 않아"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "TWICE - Likey",
+    "artist": "TWICE",
+    "song": "Likey",
+    "curriculum_level": 3
+  }
+}

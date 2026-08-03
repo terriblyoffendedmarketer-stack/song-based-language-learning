@@ -1,0 +1,374 @@
+{
+  "id": "lesson-ive-baddie",
+  "songId": "ive-baddie",
+  "level": "intermediate",
+  "title": "Baddie — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IVE — Baddie",
+      "content": "In this lesson, we'll learn words related to confidence, self-reliance, defiance.\nGrammar: 될 대로 되라지 ('Let it be whatever it'll be.' A set expression fo)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Baddie is IVE's 2024 title track, and it continues the group's signature 'self-love,' unbothered persona — someone who's stopped apologizing for taking up space, refuses to play by other people's rule...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+        "나는 없어 거기 이미naneun eopseo geogi imi",
+        "어차피 못 찾을 테니eochapi mot chajeul teni",
+        "내 DNA엔 blue blood runsnae DNAen blue blood runs"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+        "나는 없어 거기 이미naneun eopseo geogi imi",
+        "어차피 못 찾을 테니eochapi mot chajeul teni",
+        "내 DNA엔 blue blood runsnae DNAen blue blood runs"
+      ],
+      "lyricTranslations": [
+        "I'm a baddie, ba-ba-baddie, baddie",
+        "pretty little risky baddie",
+        "whatever happens, let it happen",
+        "catch me if you can"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "찾다",
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "믿다",
+      "wordData": {
+        "word": {
+          "korean": "믿다",
+          "english": "to believe",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "믿다",
+          "english": "to believe",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "믿다",
+          "english": "to believe",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "빛",
+      "wordData": {
+        "word": {
+          "korean": "빛",
+          "english": "light",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "빛",
+          "english": "light",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "빛나는 우리 (us who shine)",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "빛",
+          "english": "light",
+          "pos": "noun"
+        },
+        "songLine": "다채로운 매력 수많은 변칙 위에 더 빛을 발하지dachaeroun maeryeok sumaneun byeonchik wie deo bicheul balhaji",
+        "dailySentence": {
+          "korean": "빛나는 우리 (us who shine)",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "I'm a baddie, ba-ba-baddie, baddie",
+          "options": [
+            "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+            "내 DNA엔 blue blood runsnae DNAen blue blood runs",
+            "어차피 못 찾을 테니eochapi mot chajeul teni",
+            "나는 없어 거기 이미naneun eopseo geogi imi"
+          ],
+          "correctAnswer": "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "pretty little risky baddie",
+          "options": [
+            "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+            "나는 없어 거기 이미naneun eopseo geogi imi",
+            "내 DNA엔 blue blood runsnae DNAen blue blood runs",
+            "어차피 못 찾을 테니eochapi mot chajeul teni"
+          ],
+          "correctAnswer": "나는 없어 거기 이미naneun eopseo geogi imi",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "whatever happens, let it happen",
+          "options": [
+            "나는 없어 거기 이미naneun eopseo geogi imi",
+            "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+            "내 DNA엔 blue blood runsnae DNAen blue blood runs",
+            "어차피 못 찾을 테니eochapi mot chajeul teni"
+          ],
+          "correctAnswer": "어차피 못 찾을 테니eochapi mot chajeul teni",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Let it be whatever it'll be.' A set expression for total acceptance of outcome, -라지 adding a casual, slightly defiant tone of not caring.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "될 대로 되라지",
+        "meaning": "'Let it be whatever it'll be.' A set expression for total acceptance of outcome, -라지 adding a casual, slightly defiant tone of not caring.",
+        "songExample": {
+          "korean": "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to find, look for'의 한국어는?",
+          "options": [
+            "찾다",
+            "믿다",
+            "행복",
+            "빛"
+          ],
+          "correctAnswer": "찾다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to believe'의 한국어는?",
+          "options": [
+            "찾다",
+            "믿다",
+            "빛",
+            "바람"
+          ],
+          "correctAnswer": "믿다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'light'의 한국어는?",
+          "options": [
+            "찾다",
+            "시간",
+            "믿다",
+            "빛"
+          ],
+          "correctAnswer": "빛"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄹ 테니(까)' 패턴은 어떤 의미예요?",
+          "options": [
+            "since I will / intend to (giving reason)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "since I will / intend to (giving reason)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "뭐든 될 대로 되라지mwodeun doel daero doeraji",
+        "나는 없어 거기 이미naneun eopseo geogi imi",
+        "어차피 못 찾을 테니eochapi mot chajeul teni",
+        "내 DNA엔 blue blood runsnae DNAen blue blood runs",
+        "더 솔직하게 말해줘deo soljikage malhaejwo",
+        "착한 척은 지겨워chakan cheogeun jigyeowo",
+        "우리 앞에선 룰이 의미 없었어 굳이uri apeseon ruri uimi eopseosseo guji",
+        "유행이 돌고 돌아도yuhaeng-i dolgo dorado"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "찾다",
+            "english": "to find, look for"
+          },
+          {
+            "korean": "믿다",
+            "english": "to believe"
+          },
+          {
+            "korean": "빛",
+            "english": "light"
+          }
+        ],
+        "patternLearned": "될 대로 되라지"
+      }
+    }
+  ],
+  "xpReward": 40,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IVE - Baddie",
+    "artist": "IVE",
+    "song": "Baddie",
+    "curriculum_level": 4
+  }
+}

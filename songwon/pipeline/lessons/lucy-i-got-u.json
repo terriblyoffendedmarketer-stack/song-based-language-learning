@@ -1,0 +1,380 @@
+{
+  "id": "lesson-lucy-i-got-u",
+  "songId": "lucy-i-got-u",
+  "level": "beginner",
+  "title": "I Got U — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "LUCY — I Got U",
+      "content": "In this lesson, we'll learn words related to instant connection, pursuit, impulsiveness.\nGrammar: -든 ('Whether/regardless of which.' Appears in 누가 먼저든 —)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "I Got U is a bright, breathless song about locking eyes with someone across a crowded room and deciding, right then, that this is it. LUCY describes the moment of noticing someone as if they're a diam...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "I got you-ooh-ooh-ooh 너를 잡을게",
+        "누가 먼저든 상관없잖아",
+        "맘 가는 대로 어린애처럼, I got you",
+        "수많은 사람들 속"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "I got you-ooh-ooh-ooh 너를 잡을게",
+        "누가 먼저든 상관없잖아",
+        "맘 가는 대로 어린애처럼, I got you",
+        "수많은 사람들 속"
+      ],
+      "lyricTranslations": [
+        "Among so many people",
+        "I'm locked into you (I got you)",
+        "were we hiding somewhere",
+        "until we finally met now?"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "난 꿈이라 해도 괜찮아",
+        "dailySentence": {
+          "korean": "빛나지 않아도 내 꿈을 응원해",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "어떤 세상을 살아왔는지",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "세상이 끝나도 너와 나는",
+        "dailySentence": {
+          "korean": "어떤 세상을 살아왔는지",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "찾다",
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "찾다",
+          "english": "to find, look for",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Among so many people",
+          "options": [
+            "누가 먼저든 상관없잖아",
+            "수많은 사람들 속",
+            "맘 가는 대로 어린애처럼, I got you",
+            "I got you-ooh-ooh-ooh 너를 잡을게"
+          ],
+          "correctAnswer": "I got you-ooh-ooh-ooh 너를 잡을게",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "I'm locked into you (I got you)",
+          "options": [
+            "누가 먼저든 상관없잖아",
+            "수많은 사람들 속",
+            "I got you-ooh-ooh-ooh 너를 잡을게",
+            "맘 가는 대로 어린애처럼, I got you"
+          ],
+          "correctAnswer": "누가 먼저든 상관없잖아",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "were we hiding somewhere",
+          "options": [
+            "누가 먼저든 상관없잖아",
+            "I got you-ooh-ooh-ooh 너를 잡을게",
+            "맘 가는 대로 어린애처럼, I got you",
+            "수많은 사람들 속"
+          ],
+          "correctAnswer": "맘 가는 대로 어린애처럼, I got you",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'Whether/regardless of which.' Appears in 누가 먼저든 — 'whoever goes first,' dismissing the question of who initiates as unimportant.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-든",
+        "meaning": "'Whether/regardless of which.' Appears in 누가 먼저든 — 'whoever goes first,' dismissing the question of who initiates as unimportant.",
+        "songExample": {
+          "korean": "누가 먼저든 상관없잖아",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "사랑",
+            "꿈",
+            "세상",
+            "찾다"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "시간",
+            "세상",
+            "꿈",
+            "찾다"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to find, look for'의 한국어는?",
+          "options": [
+            "찾다",
+            "꿈",
+            "시간",
+            "세상"
+          ],
+          "correctAnswer": "찾다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "I got you-ooh-ooh-ooh 너를 잡을게",
+        "누가 먼저든 상관없잖아",
+        "맘 가는 대로 어린애처럼, I got you",
+        "수많은 사람들 속",
+        "우린 어디 숨어있다",
+        "이제 만났는지 ([?])",
+        "내 맘이 already over you",
+        "얼레리꼴레리"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "세상",
+            "english": "world"
+          },
+          {
+            "korean": "찾다",
+            "english": "to find, look for"
+          }
+        ],
+        "patternLearned": "-든"
+      }
+    }
+  ],
+  "xpReward": 20,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "LUCY - I Got U",
+    "artist": "LUCY",
+    "song": "I Got U",
+    "curriculum_level": 1
+  }
+}

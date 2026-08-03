@@ -1,0 +1,368 @@
+{
+  "id": "lesson-mamamoo-gogobebe",
+  "songId": "mamamoo-gogobebe",
+  "level": "intermediate",
+  "title": "gogobebe — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "MAMAMOO — gogobebe",
+      "content": "In this lesson, we'll learn words related to letting go, self-permission, freedom from judgment.\nGrammar: -아/어도 괜찮아 ('It's okay even if...' 괜찮지 않아도 괜찮아 doubles the pat)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "gogobebe is a permission slip disguised as a party song. Every verse tells you to throw something off — your phone, your suit and tie, your dress code, the question of whether something is right or wr...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa"
+      ],
+      "lyricTranslations": [
+        "Put the phone away, show off your charm a bit more",
+        "throw away the headaches",
+        "here, drink away all your hurt in one glass",
+        "stop pretending to be good"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "괜찮다",
+      "wordData": {
+        "word": {
+          "korean": "괜찮다",
+          "english": "to be okay, fine",
+          "pos": "adjective",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "괜찮다",
+          "english": "to be okay, fine",
+          "pos": "adjective",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "괜찮다",
+          "english": "to be okay, fine",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "상처",
+      "wordData": {
+        "word": {
+          "korean": "상처",
+          "english": "wound",
+          "pos": "noun",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "상처",
+          "english": "wound",
+          "pos": "noun",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "상처",
+          "english": "wound",
+          "pos": "noun"
+        },
+        "songLine": "여기서 한 잔에 상처를 다 마셔yeogiseo han jane sangcheoreul da masyeo",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "변하다",
+      "wordData": {
+        "word": {
+          "korean": "변하다",
+          "english": "to change",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "변하다",
+          "english": "to change",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "변하다",
+          "english": "to change",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Put the phone away, show off your charm a bit more",
+          "options": [
+            "...",
+            "...",
+            "일루와 일루와 일루와illuwa illuwa illuwa",
+            "..."
+          ],
+          "correctAnswer": "일루와 일루와 일루와illuwa illuwa illuwa",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "throw away the headaches",
+          "options": [
+            "...",
+            "...",
+            "일루와 일루와 일루와illuwa illuwa illuwa",
+            "..."
+          ],
+          "correctAnswer": "일루와 일루와 일루와illuwa illuwa illuwa",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "here, drink away all your hurt in one glass",
+          "options": [
+            "...",
+            "...",
+            "일루와 일루와 일루와illuwa illuwa illuwa",
+            "..."
+          ],
+          "correctAnswer": "일루와 일루와 일루와illuwa illuwa illuwa",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'It's okay even if...' 괜찮지 않아도 괜찮아 doubles the pattern back on itself — it's okay [even if you're] not okay — which is exactly the loop that gives the phrase its comforting, slightly paradoxical power.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-아/어도 괜찮아",
+        "meaning": "'It's okay even if...' 괜찮지 않아도 괜찮아 doubles the pattern back on itself — it's okay [even if you're] not okay — which is exactly the loop that gives the phrase its comforting, slightly paradoxical power.",
+        "songExample": {
+          "korean": "골치 아픈 건 던져golchi apeun geon deonjyeo",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to be okay, fine'의 한국어는?",
+          "options": [
+            "괜찮다",
+            "상처",
+            "바람",
+            "변하다"
+          ],
+          "correctAnswer": "괜찮다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'wound'의 한국어는?",
+          "options": [
+            "상처",
+            "괜찮다",
+            "변하다",
+            "마음"
+          ],
+          "correctAnswer": "상처"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to change'의 한국어는?",
+          "options": [
+            "괜찮다",
+            "변하다",
+            "상처",
+            "마음"
+          ],
+          "correctAnswer": "변하다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어도' 패턴은 어떤 의미예요?",
+          "options": [
+            "even though, even if",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "even though, even if"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "일루와 일루와 일루와illuwa illuwa illuwa",
+        "폰은 저리 치워 끼는 좀 더 부려poneun jeori chiwo kkineun jom deo buryeo",
+        "골치 아픈 건 던져golchi apeun geon deonjyeo",
+        "여기서 한 잔에 상처를 다 마셔yeogiseo han jane sangcheoreul da masyeo",
+        "착한 척은 그만둬chakan cheogeun geumandwo"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "괜찮다",
+            "english": "to be okay, fine"
+          },
+          {
+            "korean": "상처",
+            "english": "wound"
+          },
+          {
+            "korean": "변하다",
+            "english": "to change"
+          }
+        ],
+        "patternLearned": "-아/어도 괜찮아"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "MAMAMOO - gogobebe",
+    "artist": "MAMAMOO",
+    "song": "gogobebe",
+    "curriculum_level": 3
+  }
+}

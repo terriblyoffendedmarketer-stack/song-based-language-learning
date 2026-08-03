@@ -1,0 +1,858 @@
+{
+  "id": "v5-unit2-lesson6",
+  "meta": {
+    "songId": "iu-good-day",
+    "songTitle": "Good Day",
+    "artist": "IU",
+    "unit": 2,
+    "lessonNumber": 6,
+    "grammarFocus": "-지 못하다",
+    "grammarMeaning": "cannot do",
+    "koreanRatio": 0.65
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "아프다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "to hurt",
+            "correct": true
+          },
+          {
+            "text": "rain",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "heart",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아프다 = to hurt."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "IU — Good day",
+      "content": "Inability. \"I can't stop thinking about you.\"\n\nGood Day is about the exact moment you decide to confess to someone, and everything that spirals through your head right before you say it. IU walks through her own nervous stalling — is the sky too perfectly blue on purpose, should she pretend not to notice something's wrong, is her new haircut the problem — before finally blurting out, in tears, that she likes him.\n\nIn this lesson, you'll learn the grammar pattern **-지 못하다**, which means \"cannot do.\" We'll see how IU uses it in \"Good day.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **멈추다** — to stop\n- **잊다** — to forget\n- **멈추지 못하다** — to be unable to stop\n- **잊지 못하다** — to be unable to forget\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "어쩜 이렇게 하늘은 더 파란 건지?",
+        "오늘따라 왜 바람은 또 완벽한지?",
+        "그냥 모르는 척, 하나 못 들은 척",
+        "지워버린 척 딴 얘길 시작할까?"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "어쩜 이렇게 하늘은 더 파란 건지?",
+          "english": "How is the sky even bluer today?",
+          "highlights": []
+        },
+        {
+          "korean": "오늘따라 왜 바람은 또 완벽한지?",
+          "english": "why does the wind feel so perfect, of all days?",
+          "highlights": []
+        },
+        {
+          "korean": "그냥 모르는 척, 하나 못 들은 척",
+          "english": "should I just pretend not to know, pretend not to hear",
+          "highlights": []
+        },
+        {
+          "korean": "지워버린 척 딴 얘길 시작할까?",
+          "english": "pretend I've erased it and start some other conversation?",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "멈추다",
+        "english": "to stop",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "멈추다"
+          ]
+        },
+        "audioKey": "멈추다"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "멈추다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "night",
+            "correct": false
+          },
+          {
+            "text": "to stop",
+            "correct": true
+          },
+          {
+            "text": "to be unable to forget",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멈추다 = to stop"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "비가 멈췄어요.",
+        "english": "The rain stopped.",
+        "highlights": [
+          "멈췄어요"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "비가 ___.",
+        "promptTranslation": "The rain stopped.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "멈추지 못하다",
+            "correct": false
+          },
+          {
+            "text": "멈췄어요",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "비가 멈췄어요. = The rain stopped."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "멈추지 못하다",
+        "english": "to be unable to stop",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "멈추지 못하다"
+          ]
+        },
+        "audioKey": "멈추지 못하다"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "멈추지 못하다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to be beautiful",
+            "correct": false
+          },
+          {
+            "text": "to stop",
+            "correct": false
+          },
+          {
+            "text": "to be unable to stop",
+            "correct": true
+          },
+          {
+            "text": "to forget",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멈추지 못하다 = to be unable to stop"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "멈추지 못해요.",
+        "english": "I can't stop.",
+        "highlights": [
+          "멈추지 못"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___해요.",
+        "promptTranslation": "I can't stop.",
+        "options": [
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "멈추지 못",
+            "correct": true
+          },
+          {
+            "text": "멈추지 못하다",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멈추지 못해요. = I can't stop."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "어쩜 이렇게 하늘은 더 파란 건지?",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "How is the sky even bluer today?",
+            "correct": true
+          },
+          {
+            "text": "why does the wind feel so perfect, of all days?",
+            "correct": false
+          },
+          {
+            "text": "should I just pretend not to know, pretend not to hear",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "어쩜 이렇게 하늘은 더 파란 건지? = How is the sky even bluer today?"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "잊다",
+        "english": "to forget",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "잊다"
+          ]
+        },
+        "audioKey": "잊다"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "잊다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "to be unable to forget",
+            "correct": false
+          },
+          {
+            "text": "to be unable to stop",
+            "correct": false
+          },
+          {
+            "text": "to forget",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "잊다 = to forget"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "이름을 잊었어요.",
+        "english": "I forgot the name.",
+        "highlights": [
+          "잊었어요"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "이름을 ___.",
+        "promptTranslation": "I forgot the name.",
+        "options": [
+          {
+            "text": "멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "잊었어요",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "이름을 잊었어요. = I forgot the name."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "비가 멈췄어요.",
+          "english": "The rain stopped.",
+          "highlights": [
+            "멈췄어요"
+          ]
+        },
+        {
+          "korean": "이름을 잊었어요.",
+          "english": "I forgot the name.",
+          "highlights": [
+            "잊었어요"
+          ]
+        }
+      ],
+      "note": "멈추다 + 잊다 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "How is the sky even bluer today?",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "그냥 모르는 척, 하나 못 들은 척",
+            "correct": false
+          },
+          {
+            "text": "오늘따라 왜 바람은 또 완벽한지?",
+            "correct": false
+          },
+          {
+            "text": "어쩜 이렇게 하늘은 더 파란 건지?",
+            "correct": true
+          },
+          {
+            "text": "지워버린 척 딴 얘길 시작할까?",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "어쩜 이렇게 하늘은 더 파란 건지?"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-지 못하다",
+        "meaning": "cannot do",
+        "explanation": "Inability. \"I can't stop thinking about you.\"",
+        "songExample": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "지 못하다"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "잊지 못하다",
+        "english": "to be unable to forget",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-지 못하다 = cannot do",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "잊지 못하다"
+          ]
+        },
+        "audioKey": "잊지 못하다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "잊지 못하다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to forget",
+            "correct": false
+          },
+          {
+            "text": "to be unable to forget",
+            "correct": true
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "to be unable to stop",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잊지 못하다 = to be unable to forget"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "잊지 못해요.",
+        "english": "I can't forget.",
+        "highlights": [
+          "잊지 못"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "잊___",
+        "promptTranslation": "to be unable to forget",
+        "options": [
+          {
+            "text": "지 못하다",
+            "correct": true
+          },
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -지 못하다예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "What does -지 못하다 express?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "but / however",
+            "correct": false
+          },
+          {
+            "text": "not at all",
+            "correct": false
+          },
+          {
+            "text": "always / every time",
+            "correct": false
+          },
+          {
+            "text": "cannot do",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "-지 못하다 = cannot do"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "잊지 못하다",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "잊다",
+            "correct": false
+          },
+          {
+            "text": "멈추다",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "멈추다 = to stop"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (to forget)",
+        "options": [
+          {
+            "text": "멈추다",
+            "correct": false
+          },
+          {
+            "text": "잊다",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잊다 = to forget"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "멈추지 못하다",
+        "promptTranslation": "\"to be unable to stop\" 를 한국어로?",
+        "options": [
+          {
+            "text": "멈추지 못하다",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "멈추다",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멈추지 못하다 = to be unable to stop"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "잠을 자___ 못해요.",
+        "promptTranslation": "I can't sleep.",
+        "options": [
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": false
+          },
+          {
+            "text": "지 못하다",
+            "correct": true
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -지 못하다!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"더\", \"건지?\", \"파란\", \"어쩜\", \"하늘은\", \"이렇게\"]",
+        "promptTranslation": "How is the sky even bluer today?",
+        "options": [
+          {
+            "text": "어쩜 이렇게 하늘은 더 파란 건지?",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "어쩜 이렇게 하늘은 더 파란 건지?"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "어쩜 이렇게 하늘은 더 파란 건지?",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "오늘따라 왜 바람은 또 완벽한지?",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그냥 모르는 척, 하나 못 들은 척",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "지워버린 척 딴 얘길 시작할까?",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "아무 말 못하게 입맞출까?",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "눈물이 차올라서 고갤 들어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "흐르지 못하게 또 살짝 웃어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "내게 왜 이러는지? 무슨 말을 하는지?",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "멈추다",
+          "english": "to stop",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "잊다",
+          "english": "to forget",
+          "kind": "word",
+          "partOfSpeech": "verb",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "멈추지 못하다",
+          "english": "to be unable to stop",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "잊지 못하다",
+          "english": "to be unable to forget",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-지 못하다",
+        "meaning": "cannot do"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}

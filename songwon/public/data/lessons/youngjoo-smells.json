@@ -1,0 +1,367 @@
+{
+  "id": "lesson-youngjoo-smells",
+  "songId": "youngjoo-smells",
+  "level": "beginner",
+  "title": "Smells — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "YOUNGJOO — Smells",
+      "content": "In this lesson, we'll learn words related to forgiveness, everyday intimacy, embarrassment.\nGrammar: -단걸 (contraction of -다는 것을) ('The fact that ~.' 맘대로 되지 않는단걸 — 'the fact that it)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Smells (냄새) tells a very small, very specific story: during a fight, one person goes into the bathroom and, embarrassed, makes a bodily sound they can't control — 뿡 뿡 뿡. It humiliates them in a moment...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "다투고 아프던 그날에 넌",
+        "화장실에 들어가 소릴 냈지",
+        "뿡 뿡 뿡",
+        "모든 것이 좋았었는데 넌"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "다투고 아프던 그날에 넌",
+        "화장실에 들어가 소릴 냈지",
+        "뿡 뿡 뿡",
+        "모든 것이 좋았었는데 넌"
+      ],
+      "lyricTranslations": [
+        "On that day when we fought and it hurt, you",
+        "went into the bathroom and made a sound",
+        "poot poot poot"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "사랑이 뭐 다 똑같지",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사라지다",
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb",
+          "topik": 3
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사라지다",
+          "english": "to disappear",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "지나다",
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "지나다",
+          "english": "to pass (time)",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "On that day when we fought and it hurt, you",
+          "options": [
+            "다투고 아프던 그날에 넌",
+            "모든 것이 좋았었는데 넌",
+            "화장실에 들어가 소릴 냈지",
+            "뿡 뿡 뿡"
+          ],
+          "correctAnswer": "다투고 아프던 그날에 넌",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "went into the bathroom and made a sound",
+          "options": [
+            "다투고 아프던 그날에 넌",
+            "모든 것이 좋았었는데 넌",
+            "화장실에 들어가 소릴 냈지",
+            "뿡 뿡 뿡"
+          ],
+          "correctAnswer": "화장실에 들어가 소릴 냈지",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "poot poot poot",
+          "options": [
+            "뿡 뿡 뿡",
+            "화장실에 들어가 소릴 냈지",
+            "모든 것이 좋았었는데 넌",
+            "다투고 아프던 그날에 넌"
+          ],
+          "correctAnswer": "뿡 뿡 뿡",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'The fact that ~.' 맘대로 되지 않는단걸 — 'the fact that it doesn't go as you want' — a casual spoken contraction common in lyrics and conversation.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-단걸 (contraction of -다는 것을)",
+        "meaning": "'The fact that ~.' 맘대로 되지 않는단걸 — 'the fact that it doesn't go as you want' — a casual spoken contraction common in lyrics and conversation.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "지나다",
+            "마음",
+            "사라지다"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'to disappear'의 한국어는?",
+          "options": [
+            "지나다",
+            "사랑",
+            "사라지다",
+            "세상"
+          ],
+          "correctAnswer": "사라지다"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'to pass (time)'의 한국어는?",
+          "options": [
+            "사라지다",
+            "사랑",
+            "지나다",
+            "바람"
+          ],
+          "correctAnswer": "지나다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어서' 패턴은 어떤 의미예요?",
+          "options": [
+            "'because'/sequential connector",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "'because'/sequential connector"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "다투고 아프던 그날에 넌",
+        "화장실에 들어가 소릴 냈지",
+        "뿡 뿡 뿡",
+        "모든 것이 좋았었는데 넌",
+        "그날은 왜 그렇게 싫었는지",
+        "냄새는 난다",
+        "니 잘못이 아니다",
+        "곧 사라질 냄샌데"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "사라지다",
+            "english": "to disappear"
+          },
+          {
+            "korean": "지나다",
+            "english": "to pass (time)"
+          }
+        ],
+        "patternLearned": "-단걸 (contraction of -다는 것을)"
+      }
+    }
+  ],
+  "xpReward": 20,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "YOUNGJOO - Smells",
+    "artist": "YOUNGJOO",
+    "song": "Smells",
+    "curriculum_level": 1
+  }
+}

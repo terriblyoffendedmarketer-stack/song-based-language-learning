@@ -1,0 +1,56 @@
+{
+  "safe_name": "JANNABI - for lovers who hesitate",
+  "artist": "JANNABI",
+  "song": "for lovers who hesitate",
+  "song_story": {
+    "overview": "This is a gentle, patient love song addressed to someone who's too cautious to fully commit. The narrator describes himself as an easy, open book of a person — someone who won't demand much, who just wants the other person to stay a while and leave a lasting impression. Rather than pushing for a real relationship, he proposes something quieter: shared secrets kept only at night, memories pressed like a bookmark between pages, something the hesitant lover can return to privately without pressure.",
+    "cultural_root": "The song leans on the idea of 미련 (miryeon) — lingering attachment or regret over something unresolved — contrasted with 그리움 (longing). The narrator explicitly says he'd rather feel painful longing than leave 미련 behind, reflecting a common emotional hierarchy in Korean lyrics: it's considered more dignified to fully feel and release love, even painfully, than to hold onto unfinished business. The gentle, unhurried courtship style — inviting someone to 'stop by' rather than demanding commitment — also reflects a slower, more patient romantic pacing valued in a lot of Korean indie and folk-rock songwriting.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "나는 읽기 쉬운 마음이야 / 당신도 스윽 훑고 가셔요 / 달랠 길 없는 외로운 마음 있지 / 머물다 가셔요 음 / 내게 긴 여운을 남겨줘요 / 사랑을 사랑을 해줘요 / 할 수 있다면 그럴 수만 있다면",
+        "literal": "I'm a heart that's easy to read / you can just skim through me and go / there's a lonely heart that can't be soothed / stop by for a while, mm",
+        "context": "읽기 쉬운 마음 — 'a heart that's easy to read' — presents himself as unguarded and low-effort to understand, deliberately removing pressure from the other person. 훑고 가셔요 uses the polite -셔요 form even in a casual invitation, giving a gentle, slightly old-fashioned courtesy to the whole song."
+      },
+      "verse_2": {
+        "lines": "새하얀 빛으로 그댈 비춰 줄게요 / 그러다 밤이 찾아오면 / 우리 둘만의 비밀을 새겨요 / 추억할 그 밤 위에 갈피를 꽂고선 / 남몰래 펼쳐보아요 / 나의 자라나는 마음을 / 못 본채 꺾어 버릴 순 없네",
+        "literal": "Leave a long afterglow in me / love me, love me / if I could, if only I could / I'd light you up in pure white light",
+        "context": "여운 (yeoun) means the lingering feeling or afterglow left behind by something — a song, a movie, a person. He's not asking to be loved forever, just to leave a lasting trace, a much smaller and more modest request than a typical declaration of love."
+      },
+      "chorus": {
+        "lines": "미련 남길바엔 그리워 아픈 게 나아 / 서둘러 안겨본 그 품은 따스할 테니 / 그러다 밤이 찾아오면 / 우리 둘만의 비밀을 새겨요 / 추억할 그 밤 위에 갈피를 꽂고선 / 남몰래 펼쳐보아요 / 언젠가 또 그날이 온대도",
+        "literal": "Then when night comes / let's carve out a secret only the two of us know / placing a bookmark on that night we'll remember / open it up secretly, just between us",
+        "context": "갈피를 꽂다 (to place a bookmark) is used metaphorically for marking a moment as something to return to later — pairing this with 새기다 (to carve/engrave) makes the memory feel deliberately preserved rather than something that just happens and fades."
+      },
+      "final_line": {
+        "lines": "우린 서둘러 뒤돌지 말아요 / 마주보던 그대로 뒷걸음치면서 / 서로의 안녕을 보아요 / 피고 지는 마음을 알아요 다시 돌아온 계절도 / 난 한 동안 새 활짝 피었다 질래 또 한번 영원히 / 그럼에도 내 사랑은 또 같은 꿈을 꾸고 / 그럼에도 꾸던 꿈을 미루진 않을래",
+        "literal": "I understand a heart that blooms and then falls, even the season that comes back around / for a while I'll bloom fully open, then fall again, forever, one more time / even so, my love dreams the same dream / even so, I won't put off the dream I was dreaming",
+        "context": "피고 지는 마음 — 'a heart that blooms and falls' — uses flower imagery for the cyclical nature of feelings, accepting that love fades and returns rather than expecting it to be permanent. 그럼에도 (even so), repeated twice, signals commitment despite full awareness that the feeling won't last in a straight line."
+      }
+    }
+  },
+  "artist_context": "JANNABI's sound blends folk-rock instrumentation with a soft, literary lyrical style, and this song fits their pattern of writing tender, patient love songs rather than dramatic ones, often addressed to a specific emotional type of person — here, someone too hesitant to commit.",
+  "honorific_level": "polite — consistent -요/-셔요 endings throughout, giving the invitation a gentle, courteous tone rather than a demanding one",
+  "themes": [
+    "patient love",
+    "hesitant partners",
+    "impermanence",
+    "gentle longing"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-(으)ㄹ 바엔",
+      "usage": "'Rather than X, [Y is preferable].' Appears in 미련 남길바엔 그리워 아픈 게 나아 — 'rather than leaving regret, painful longing is better.'",
+      "topik_level": 4
+    },
+    {
+      "pattern": "그럼에도",
+      "usage": "'Even so / despite that.' Connects two contrasting ideas, appearing twice in the final verse to affirm commitment despite acknowledged impermanence.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-아/어요 (polite invitation)",
+      "usage": "Soft polite command/suggestion form. Appears in 훑고 가셔요, 머물다 가셔요 — invitations phrased gently rather than as requests or demands.",
+      "topik_level": 1
+    }
+  ]
+}

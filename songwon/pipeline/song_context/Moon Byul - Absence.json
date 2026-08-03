@@ -1,0 +1,61 @@
+{
+  "safe_name": "Moon Byul - Absence",
+  "artist": "Moon Byul",
+  "song": "Absence",
+  "song_story": {
+    "overview": "Absence is about the specific dread of losing someone while they're still right next to you. The narrator can't explain what changed, only that something in her has started dying quietly, without her permission, even as she's physically holding onto the relationship every day. It's a much more vulnerable, downtempo mode than the confident, comedic energy Moon Byul usually brings as part of MAMAMOO — this is her solo material stripped down to something closer to a private confession.",
+    "cultural_root": "The title word 부재 (bujae) is a more literary, formal way to say 'absence' than the everyday word for someone being 'gone' — it's the kind of word used in psychology or philosophy to describe the state of something's not-there-ness. Choosing that word for a song about someone who is technically still present sets up the song's central idea: 부재 isn't about someone leaving physically, it's about an emotional presence quietly hollowing out while the body stays in the room.",
+    "the_lyrics": {
+      "verse_1": {
+        "lines": "아무 뜻도 없이 무심하게 내뱉었지만 / 이젠 나만 혼자 남겨두지 말란 뜻이야 / 이 순간은 무시해 푸념일 뿐인데 / 내 생각을 설명할 수 없어 / 혼란스러워 leave me alone / 비워낼 수 없는 미움도 / 내 온몸에 새길 듯이",
+        "literal": "I said it carelessly, without meaning anything by it / but now it means don't leave me here alone / ignore this moment, it's just complaining / but I can't explain my own thoughts",
+        "context": "The verse opens with her contradicting herself in real time — something said casually now reveals a real fear underneath (남겨두지 말란 뜻, meaning 'don't leave me behind'). Not being able to explain her own thinking is the song's first symptom of the emotional unraveling it goes on to describe."
+      },
+      "chorus": {
+        "lines": "내가 사랑했던 말들이 / 어느 순간 두려워져 / 내 마음을 밀어내 / 어제와는 다른 이유가 / 나도 모르게 죽고 있나 봐 / 네 마음이 필요해 / 하루 매 순간 네 몸을 안고 있어도",
+        "literal": "I'm confused, leave me alone / even resentment I can't empty out / as if carving it into my whole body / the words I used to love / at some point become frightening",
+        "context": "비워내다 (to empty something out) implies actively trying to get rid of a feeling and failing — the resentment isn't fading on its own, she's tried to remove it and can't. That the same words she once loved hearing now scare her shows how far the relationship's emotional register has shifted."
+      },
+      "verse_2": {
+        "lines": "네가 사라질 것 같아 / 이런 말 자꾸만 나 혼자 / 괜찮다고 말해 / 넌 등 돌리고 자네 / 채울 수 없는 부재에 / 난 엉켜버린 삶을 살아가네 / 몰랐던 건 아냐 남겨짐에 대해",
+        "literal": "It pushes my heart away / a different reason than yesterday's / I think, without realizing it, something in me is dying / I need your heart / even holding your body every moment of every day / it feels like you're going to disappear",
+        "context": "-나 봐 turns 'I'm dying inside' into a hesitant guess rather than a dramatic claim, which makes it land harder — she's noticing it happening to her rather than announcing it. The closing image — physically holding someone constantly and still feeling them vanish — is the whole song's thesis in two lines: presence and absence coexisting."
+      },
+      "bridge": {
+        "lines": "결국 모든 이별은 슬프기 마련이야 / 나만 놓으면 놓아 질 미련처럼 / 캄캄한 바다를 헤엄쳐 / 눈 먼 시작의 끝이 보여 / 혼란스러워 leave me alone / 비워낼 수 없는 미움도 / 내 온몸에 새길 듯이",
+        "literal": "In an absence I can't fill / I'm living a tangled-up life / it's not that I didn't know about being left behind / in the end, every breakup is bound to be sad",
+        "context": "채울 수 없는 부재 (an absence that can't be filled) is the title concept made concrete — she's not grieving a person who's gone, she's living inside a gap that exists even with the person still there. -기 마련이다 states something as an inevitable, general truth, which lets her step back and philosophize about heartbreak instead of just feeling it directly."
+      },
+      "final_line": {
+        "lines": "내가 사랑했던 말들이 / 어느 순간 두려워져 / 내 마음을 밀어내 / 어제와는 다른 이유가 / 나도 모르게 죽고 있나 봐 / 네 마음이 필요해 / 하루 매 순간 네 몸을 안고 있어도 / 네가 사라질 것 같아 / 네 마음이 필요해 / 하루 매 순간 네 몸을 안고 있어도 / 내가 사라질 것 같아",
+        "literal": "I need your heart / even holding your body every moment of every day / it feels like I'm going to disappear",
+        "context": "The song's final repetition swaps 네가 (you) for 내가 (I) from the earlier verse — it's no longer him she fears losing, it's herself. The person disappearing inside the relationship has quietly shifted from the other person to her own sense of self."
+      }
+    }
+  },
+  "artist_context": "Moon Byul, MAMAMOO's rapper and one of its main vocal-rap performers, uses her solo work to explore a quieter, more melancholic register than her group image, often writing or co-writing her own material. Absence sits within that more introspective solo catalog.",
+  "honorific_level": "informal — 반말 throughout, delivered as private, unguarded reflection",
+  "themes": [
+    "emotional absence",
+    "quiet loss",
+    "presence without connection",
+    "self-erasure"
+  ],
+  "grammar_highlights": [
+    {
+      "pattern": "-나 봐",
+      "usage": "A hesitant self-observation — 'I guess/it seems.' 죽고 있나 봐 makes an intense claim (something in me is dying) sound like a quiet realization rather than a dramatic statement.",
+      "topik_level": 3
+    },
+    {
+      "pattern": "-기 마련이다",
+      "usage": "'Is bound to / is only natural that.' 슬프기 마련이야 frames heartbreak as a universal inevitability, letting the singer generalize her specific pain into something everyone eventually faces.",
+      "topik_level": 4
+    },
+    {
+      "pattern": "-(으)ㄹ 것 같아",
+      "usage": "'It seems like / feels like.' 사라질 것 같아 repeats at both the song's midpoint and its end with the subject swapped (you → I), tracking how the fear shifts from losing someone else to losing herself.",
+      "topik_level": 2
+    }
+  ]
+}

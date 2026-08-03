@@ -1,0 +1,368 @@
+{
+  "id": "lesson-day6-shoot-me",
+  "songId": "day6-shoot-me",
+  "level": "intermediate",
+  "title": "Shoot Me — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "DAY6 — Shoot Me",
+      "content": "In this lesson, we'll learn words related to toxic relationship, emotional exhaustion, resignation.\nGrammar: 얼마든지 ('However much/many, as much as you want.' 얼마든지 맞아줄)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "Shoot Me takes a relationship falling apart and turns it into a gunfight metaphor — every cutting word from a partner is a bullet, and the singer, exhausted from the back-and-forth, tells them to just...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "쉬운 일이 절대 아냐",
+        "네 앞에 서는 건",
+        "스릴러 한편이야",
+        "잘 나가다가도"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "쉬운 일이 절대 아냐",
+        "네 앞에 서는 건",
+        "스릴러 한편이야",
+        "잘 나가다가도"
+      ],
+      "lyricTranslations": [
+        "It's never an easy thing",
+        "standing in front of you",
+        "it's like an episode of a thriller",
+        "just when things are going well"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "원하다",
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb",
+          "topik": 2
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "원하다",
+          "english": "to want",
+          "pos": "verb"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "눈빛",
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun",
+          "topik": 4
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "눈빛",
+          "english": "look in one's eyes",
+          "pos": "noun"
+        },
+        "songLine": "싸늘해져 가는 네 눈빛",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "아프다",
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "아프다",
+          "english": "sick, hurt",
+          "pos": "adjective"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "It's never an easy thing",
+          "options": [
+            "쉬운 일이 절대 아냐",
+            "네 앞에 서는 건",
+            "잘 나가다가도",
+            "스릴러 한편이야"
+          ],
+          "correctAnswer": "쉬운 일이 절대 아냐",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "standing in front of you",
+          "options": [
+            "쉬운 일이 절대 아냐",
+            "네 앞에 서는 건",
+            "잘 나가다가도",
+            "스릴러 한편이야"
+          ],
+          "correctAnswer": "네 앞에 서는 건",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "it's like an episode of a thriller",
+          "options": [
+            "네 앞에 서는 건",
+            "스릴러 한편이야",
+            "쉬운 일이 절대 아냐",
+            "잘 나가다가도"
+          ],
+          "correctAnswer": "스릴러 한편이야",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'However much/many, as much as you want.' 얼마든지 맞아줄게 = 'I'll take as many hits as you want' — signals total resignation.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "얼마든지",
+        "meaning": "'However much/many, as much as you want.' 얼마든지 맞아줄게 = 'I'll take as many hits as you want' — signals total resignation.",
+        "songExample": {
+          "korean": "얼마든지 맞아줄게",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'to want'의 한국어는?",
+          "options": [
+            "세상",
+            "눈빛",
+            "원하다",
+            "아프다"
+          ],
+          "correctAnswer": "원하다"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'look in one's eyes'의 한국어는?",
+          "options": [
+            "아프다",
+            "눈빛",
+            "사랑",
+            "원하다"
+          ],
+          "correctAnswer": "눈빛"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'sick, hurt'의 한국어는?",
+          "options": [
+            "원하다",
+            "하늘",
+            "아프다",
+            "눈빛"
+          ],
+          "correctAnswer": "아프다"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-아/어지다' 패턴은 어떤 의미예요?",
+          "options": [
+            "to become (a state)",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "to become (a state)"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "쉬운 일이 절대 아냐",
+        "네 앞에 서는 건",
+        "스릴러 한편이야",
+        "잘 나가다가도",
+        "뭔가 어긋나면",
+        "그대로 시작이야",
+        "싸늘해져 가는 네 눈빛",
+        "무거워지는 분위기"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "원하다",
+            "english": "to want"
+          },
+          {
+            "korean": "눈빛",
+            "english": "look in one's eyes"
+          },
+          {
+            "korean": "아프다",
+            "english": "sick, hurt"
+          }
+        ],
+        "patternLearned": "얼마든지"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "DAY6 - Shoot Me",
+    "artist": "DAY6",
+    "song": "Shoot Me",
+    "curriculum_level": 3
+  }
+}

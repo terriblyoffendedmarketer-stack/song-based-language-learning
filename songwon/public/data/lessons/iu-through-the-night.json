@@ -1,0 +1,380 @@
+{
+  "id": "lesson-iu-through-the-night",
+  "songId": "iu-through-the-night",
+  "level": "intermediate",
+  "title": "Through the Night(밤편지) — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "IU — Through the Night(밤편지)",
+      "content": "In this lesson, we'll learn words related to longing, quiet love, distance.\nGrammar: -(으)ㄹ게요 (Polite promise/intention form. Appears in 보낼게요, 띄울)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "밤편지, literally 'a night letter,' is a quiet love song written as a message sent across distance in the dark. IU imagines sending a firefly toward someone's window as a stand-in for the words she can't...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+        "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+        "사랑한다는 말이에요saranghandaneun marieyo",
+        "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+        "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+        "사랑한다는 말이에요saranghandaneun marieyo",
+        "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+      ],
+      "lyricTranslations": [
+        "Tonight, I'll send that day's firefly",
+        "close to your window",
+        "it means 'I love you'",
+        "I recall our first kiss"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "밤",
+      "wordData": {
+        "word": {
+          "korean": "밤",
+          "english": "night",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "밤",
+          "english": "night",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "밤",
+          "english": "night",
+          "pos": "noun"
+        },
+        "songLine": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "창",
+      "wordData": {
+        "word": {
+          "korean": "창",
+          "english": "window",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "창",
+          "english": "window",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "당신의 창 가까이 보낼게요",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "창",
+          "english": "window",
+          "pos": "noun"
+        },
+        "songLine": "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+        "dailySentence": {
+          "korean": "당신의 창 가까이 보낼게요",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": {
+          "korean": "희미해져 버릴 꿈처럼",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "좋은 꿈이길 바라요joeun kkumigil barayo",
+        "dailySentence": {
+          "korean": "희미해져 버릴 꿈처럼",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Tonight, I'll send that day's firefly",
+          "options": [
+            "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+            "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+            "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+            "사랑한다는 말이에요saranghandaneun marieyo"
+          ],
+          "correctAnswer": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "close to your window",
+          "options": [
+            "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+            "사랑한다는 말이에요saranghandaneun marieyo",
+            "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+            "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+          ],
+          "correctAnswer": "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "it means 'I love you'",
+          "options": [
+            "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+            "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+            "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+            "사랑한다는 말이에요saranghandaneun marieyo"
+          ],
+          "correctAnswer": "사랑한다는 말이에요saranghandaneun marieyo",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "Polite promise/intention form. Appears in 보낼게요, 띄울게요 — 'I will send' — softly committing to the act of sending the firefly.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-(으)ㄹ게요",
+        "meaning": "Polite promise/intention form. Appears in 보낼게요, 띄울게요 — 'I will send' — softly committing to the act of sending the firefly.",
+        "songExample": {
+          "korean": "",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'night'의 한국어는?",
+          "options": [
+            "밤",
+            "꿈",
+            "사랑",
+            "창"
+          ],
+          "correctAnswer": "밤"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'window'의 한국어는?",
+          "options": [
+            "꿈",
+            "행복",
+            "밤",
+            "창"
+          ],
+          "correctAnswer": "창"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "하늘",
+            "꿈",
+            "밤",
+            "창"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-처럼' 패턴은 어떤 의미예요?",
+          "options": [
+            "like, as",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "like, as"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+        "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+        "사랑한다는 말이에요saranghandaneun marieyo",
+        "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+        "그럼 언제든 눈을 감고geureom eonjedeun nuneul gamgo",
+        "가장 먼 곳으로 가요gajang meon goseuro gayo",
+        "난 파도가 머물던nan padoga meomuldeon",
+        "모래 위에 적힌 글씨처럼morae wie jeokin geulssicheoreom"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "밤",
+            "english": "night"
+          },
+          {
+            "korean": "창",
+            "english": "window"
+          },
+          {
+            "korean": "꿈",
+            "english": "dream"
+          }
+        ],
+        "patternLearned": "-(으)ㄹ게요"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "IU - Through the Night(밤편지)",
+    "artist": "IU",
+    "song": "Through the Night(밤편지)",
+    "curriculum_level": 3
+  }
+}

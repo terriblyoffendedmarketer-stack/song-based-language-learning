@@ -1,0 +1,374 @@
+{
+  "id": "lesson-twice-what-is-love",
+  "songId": "twice-what-is-love",
+  "level": "intermediate",
+  "title": "What is Love? — 수업",
+  "sections": [
+    {
+      "id": "s1-intro",
+      "type": "lesson-intro",
+      "title": "TWICE — What is Love?",
+      "content": "In this lesson, we'll learn words related to first love, anticipation, innocence.\nGrammar: -다는데 ('They say that ~ (but I haven't confirmed it).' 달콤)",
+      "musicPlaying": true
+    },
+    {
+      "id": "s2-intro2",
+      "type": "lesson-intro",
+      "title": "About this song",
+      "content": "What is Love? is TWICE's 2018 title track, built around someone who has never actually been in love trying to imagine what it feels like, using movies, books, and dramas as her only reference points. ...",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-lyrics-kr",
+      "type": "lyrics-korean",
+      "title": "가사를 읽어 보세요",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "매일같이 영화 속에서나",
+        "책 속에서나",
+        "드라마 속에서 사랑을 느껴",
+        "Mm, 사랑을 배워"
+      ]
+    },
+    {
+      "id": "s4-lyrics-en",
+      "type": "lyrics-translation",
+      "title": "무슨 뜻일까요?",
+      "content": "",
+      "musicPlaying": false,
+      "lyricLines": [
+        "매일같이 영화 속에서나",
+        "책 속에서나",
+        "드라마 속에서 사랑을 느껴",
+        "Mm, 사랑을 배워"
+      ],
+      "lyricTranslations": [
+        "Every single day, whether in movies",
+        "or in books",
+        "or in dramas, I feel love",
+        "I learn about love"
+      ]
+    },
+    {
+      "id": "s5-word-intro-0",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "사랑",
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s6-word-meaning-0",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s7-word-context-0",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "사랑",
+          "english": "love",
+          "pos": "noun"
+        },
+        "songLine": "드라마 속에서 사랑을 느껴",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s8-word-intro-1",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "꿈",
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        }
+      }
+    },
+    {
+      "id": "s9-word-meaning-1",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun",
+          "topik": 1
+        },
+        "exampleSentence": null
+      }
+    },
+    {
+      "id": "s10-word-context-1",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "꿈",
+          "english": "dream",
+          "pos": "noun"
+        },
+        "songLine": "",
+        "dailySentence": null
+      }
+    },
+    {
+      "id": "s11-word-intro-2",
+      "type": "word-intro",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "autoSpeak": "세상",
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        }
+      }
+    },
+    {
+      "id": "s12-word-meaning-2",
+      "type": "word-meaning",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun",
+          "topik": 2
+        },
+        "exampleSentence": {
+          "korean": "세상이 다 아름답다는데",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s13-word-context-2",
+      "type": "word-context",
+      "title": "",
+      "content": "",
+      "musicPlaying": false,
+      "wordData": {
+        "word": {
+          "korean": "세상",
+          "english": "world",
+          "pos": "noun"
+        },
+        "songLine": "(I wanna know) 세상이 다 아름답다는데",
+        "dailySentence": {
+          "korean": "세상이 다 아름답다는데",
+          "english": ""
+        }
+      }
+    },
+    {
+      "id": "s14-line-recall",
+      "type": "line-recall",
+      "title": "가사 기억하기",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "lr-0",
+          "type": "comprehension",
+          "prompt": "Every single day, whether in movies",
+          "options": [
+            "책 속에서나",
+            "매일같이 영화 속에서나",
+            "Mm, 사랑을 배워",
+            "드라마 속에서 사랑을 느껴"
+          ],
+          "correctAnswer": "매일같이 영화 속에서나",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-1",
+          "type": "comprehension",
+          "prompt": "or in books",
+          "options": [
+            "드라마 속에서 사랑을 느껴",
+            "매일같이 영화 속에서나",
+            "책 속에서나",
+            "Mm, 사랑을 배워"
+          ],
+          "correctAnswer": "책 속에서나",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        },
+        {
+          "id": "lr-2",
+          "type": "comprehension",
+          "prompt": "or in dramas, I feel love",
+          "options": [
+            "매일같이 영화 속에서나",
+            "Mm, 사랑을 배워",
+            "드라마 속에서 사랑을 느껴",
+            "책 속에서나"
+          ],
+          "correctAnswer": "드라마 속에서 사랑을 느껴",
+          "hint": "이 영어 뜻에 맞는 한국어 가사를 골라보세요"
+        }
+      ]
+    },
+    {
+      "id": "s15-pattern",
+      "type": "pattern-spotlight",
+      "title": "패턴을 찾아봐요",
+      "content": "'They say that ~ (but I haven't confirmed it).' 달콤하다는데, 아름답다는데 — reports secondhand information throughout the chorus, marking all her knowledge of love as hearsay.",
+      "musicPlaying": false,
+      "patternData": {
+        "pattern": "-다는데",
+        "meaning": "'They say that ~ (but I haven't confirmed it).' 달콤하다는데, 아름답다는데 — reports secondhand information throughout the chorus, marking all her knowledge of love as hearsay.",
+        "songExample": {
+          "korean": "(I wanna know) 사탕처럼 달콤하다는데",
+          "english": ""
+        },
+        "otherExamples": []
+      }
+    },
+    {
+      "id": "s16-practice",
+      "type": "practice",
+      "title": "연습해 봐요!",
+      "content": "",
+      "musicPlaying": false,
+      "exercises": [
+        {
+          "id": "pr-1",
+          "type": "fill-blank",
+          "prompt": "'love'의 한국어는?",
+          "options": [
+            "사랑",
+            "세상",
+            "사랑",
+            "꿈"
+          ],
+          "correctAnswer": "사랑"
+        },
+        {
+          "id": "pr-2",
+          "type": "fill-blank",
+          "prompt": "'dream'의 한국어는?",
+          "options": [
+            "세상",
+            "꿈",
+            "사랑",
+            "세상"
+          ],
+          "correctAnswer": "꿈"
+        },
+        {
+          "id": "pr-3",
+          "type": "fill-blank",
+          "prompt": "'world'의 한국어는?",
+          "options": [
+            "시간",
+            "세상",
+            "사랑",
+            "꿈"
+          ],
+          "correctAnswer": "세상"
+        },
+        {
+          "id": "pr-4",
+          "type": "comprehension",
+          "prompt": "'-(으)ㄹ지도 모르다' 패턴은 어떤 의미예요?",
+          "options": [
+            "'might; may possibly'",
+            "always / every time",
+            "but / however",
+            "because of that"
+          ],
+          "correctAnswer": "'might; may possibly'"
+        }
+      ]
+    },
+    {
+      "id": "s17-singalong",
+      "type": "sing-along",
+      "title": "따라 불러 봐요!",
+      "content": "",
+      "musicPlaying": true,
+      "lyricLines": [
+        "매일같이 영화 속에서나",
+        "책 속에서나",
+        "드라마 속에서 사랑을 느껴",
+        "Mm, 사랑을 배워",
+        "내 일처럼 자꾸 가슴이 뛰어",
+        "두근두근거려",
+        "설레임에 부풀어 올라",
+        "Mm, 궁금해서 미칠 것만 같아"
+      ]
+    },
+    {
+      "id": "s18-recap",
+      "type": "recap",
+      "title": "오늘 배운 것",
+      "content": "",
+      "musicPlaying": false,
+      "recapData": {
+        "wordsLearned": [
+          {
+            "korean": "사랑",
+            "english": "love"
+          },
+          {
+            "korean": "꿈",
+            "english": "dream"
+          },
+          {
+            "korean": "세상",
+            "english": "world"
+          }
+        ],
+        "patternLearned": "-다는데"
+      }
+    }
+  ],
+  "xpReward": 30,
+  "generatedAt": "2026-08-02T00:00:00.000Z",
+  "metadata": {
+    "safe_name": "TWICE - What is Love_",
+    "artist": "TWICE",
+    "song": "What is Love?",
+    "curriculum_level": 3
+  }
+}

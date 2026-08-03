@@ -1,0 +1,860 @@
+{
+  "id": "v5-unit4-lesson15",
+  "meta": {
+    "songId": "ben-just-like-a-dream",
+    "songTitle": "Just Like a Dream",
+    "artist": "BEN",
+    "unit": 4,
+    "lessonNumber": 15,
+    "grammarFocus": "-처럼",
+    "grammarMeaning": "like, as",
+    "koreanRatio": 0.8
+  },
+  "screens": [
+    {
+      "id": "s1-warmup",
+      "type": "warmup",
+      "label": "복습",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "멀어지다",
+        "promptTranslation": "지난 시간에 배운 거예요!",
+        "options": [
+          {
+            "text": "to grow distant",
+            "correct": true
+          },
+          {
+            "text": "heart",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "rain",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멀어지다 = to grow distant."
+      },
+      "scored": false
+    },
+    {
+      "id": "s2-intro",
+      "type": "intro",
+      "label": null,
+      "title": "BEN — Just Like a Dream",
+      "content": "Comparisons. \"Like a dream.\" \"Like a star.\"\n\nThis is a quiet, aching song about a love the singer can't tell was ever real. BEN spends the whole track circling one question: did I imagine how good that felt, or did you feel it too? He's caught between two people he's willing to accept — the one who loved him and the one who was only ever a dream — and he can't get either version to hold still.\n\nIn this lesson, you'll learn the grammar pattern **-처럼**, which means \"like, as.\" We'll see how BEN uses it in \"Just Like a Dream.\"",
+      "musicPlaying": true
+    },
+    {
+      "id": "s3-intro",
+      "type": "intro",
+      "label": null,
+      "title": "이번에 배울 것",
+      "content": "이번 레슨에서 배울 단어:\n- **별** — star\n- **꽃** — flower\n- **꿈처럼** — like a dream\n- **별처럼 빛나다** — to shine like a star\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "musicPlaying": true
+    },
+    {
+      "id": "s4-lyrics-kr",
+      "type": "lyrics-korean",
+      "label": "들어 보세요",
+      "lines": [
+        "나만 홀로 느낀 황홀함일까",
+        "그저 바라보는 시선이 무거워",
+        "맴도는 발걸음 여전히 네가 보고 싶어",
+        "I remember 차가웠던 그 날"
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s5-lyrics-en",
+      "type": "lyrics-english",
+      "label": "번역",
+      "lines": [
+        {
+          "korean": "나만 홀로 느낀 황홀함일까",
+          "english": "Was I the only one who felt that ecstasy?",
+          "highlights": []
+        },
+        {
+          "korean": "그저 바라보는 시선이 무거워",
+          "english": "The gaze I'm just watching from feels heavy",
+          "highlights": []
+        },
+        {
+          "korean": "맴도는 발걸음 여전히 네가 보고 싶어",
+          "english": "My steps keep circling back, I still miss you",
+          "highlights": []
+        },
+        {
+          "korean": "I remember 차가웠던 그 날",
+          "english": "I need your mind",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": false
+    },
+    {
+      "id": "s6-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "별",
+        "english": "star",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "별"
+          ]
+        },
+        "audioKey": "별"
+      }
+    },
+    {
+      "id": "s7-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "별",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "like a dream",
+            "correct": false
+          },
+          {
+            "text": "star",
+            "correct": true
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "flower",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "별 = star"
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s8-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "별이 많아요.",
+        "english": "There are many stars.",
+        "highlights": [
+          "별"
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___이 많아요.",
+        "promptTranslation": "There are many stars.",
+        "options": [
+          {
+            "text": "꿈처럼",
+            "correct": false
+          },
+          {
+            "text": "별",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "꽃",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "별이 많아요. = There are many stars."
+      },
+      "scored": true,
+      "itemIndex": 0
+    },
+    {
+      "id": "s10-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "꿈처럼",
+        "english": "like a dream",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": null,
+        "songLine": {
+          "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+          "english": "",
+          "highlights": [
+            "꿈처럼"
+          ]
+        },
+        "audioKey": "꿈처럼"
+      }
+    },
+    {
+      "id": "s11-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "꿈처럼",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to disappear",
+            "correct": false
+          },
+          {
+            "text": "to shine like a star",
+            "correct": false
+          },
+          {
+            "text": "like a dream",
+            "correct": true
+          },
+          {
+            "text": "star",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꿈처럼 = like a dream"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s12-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "꿈처럼 느껴져요.",
+        "english": "It feels like a dream.",
+        "highlights": [
+          "꿈처럼"
+        ]
+      }
+    },
+    {
+      "id": "s13-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 느껴져요.",
+        "promptTranslation": "It feels like a dream.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "꿈처럼",
+            "correct": true
+          },
+          {
+            "text": "별",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꿈처럼 느껴져요. = It feels like a dream."
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "song-comprehension",
+        "prompt": "나만 홀로 느낀 황홀함일까",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "Everything sounds different",
+            "correct": false
+          },
+          {
+            "text": "Was I the only one who felt that ecstasy?",
+            "correct": true
+          },
+          {
+            "text": "The gaze I'm just watching from feels heavy",
+            "correct": false
+          },
+          {
+            "text": "My steps keep circling back, I still miss you",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "나만 홀로 느낀 황홀함일까 = Was I the only one who felt that ecstasy?"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s15-teach",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "꽃",
+        "english": "flower",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "꽃"
+          ]
+        },
+        "audioKey": "꽃"
+      }
+    },
+    {
+      "id": "s16-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "꽃",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to hide",
+            "correct": false
+          },
+          {
+            "text": "to shine like a star",
+            "correct": false
+          },
+          {
+            "text": "like a dream",
+            "correct": false
+          },
+          {
+            "text": "flower",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "꽃 = flower"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s17-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "꽃이 예뻐요.",
+        "english": "The flowers are pretty.",
+        "highlights": [
+          "꽃"
+        ]
+      }
+    },
+    {
+      "id": "s18-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이 예뻐요.",
+        "promptTranslation": "The flowers are pretty.",
+        "options": [
+          {
+            "text": "꽃",
+            "correct": true
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "별",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꽃이 예뻐요. = The flowers are pretty."
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "별이 많아요.",
+          "english": "There are many stars.",
+          "highlights": [
+            "별"
+          ]
+        },
+        {
+          "korean": "꽃이 예뻐요.",
+          "english": "The flowers are pretty.",
+          "highlights": [
+            "꽃"
+          ]
+        }
+      ],
+      "note": "별 + 꽃 — 둘 다 이번 레슨에서 배운 단어예요."
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "line-recall",
+        "prompt": "Was I the only one who felt that ecstasy?",
+        "promptTranslation": "어떤 가사일까요?",
+        "options": [
+          {
+            "text": "맴도는 발걸음 여전히 네가 보고 싶어",
+            "correct": false
+          },
+          {
+            "text": "그저 바라보는 시선이 무거워",
+            "correct": false
+          },
+          {
+            "text": "나만 홀로 느낀 황홀함일까",
+            "correct": true
+          },
+          {
+            "text": "I remember 차가웠던 그 날",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "나만 홀로 느낀 황홀함일까"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s21-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-처럼",
+        "meaning": "like, as",
+        "explanation": "Comparisons. \"Like a dream.\" \"Like a star.\"",
+        "songExample": {
+          "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+          "english": "",
+          "highlights": [
+            "처럼"
+          ]
+        },
+        "examples": []
+      }
+    },
+    {
+      "id": "s22-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "별처럼 빛나다",
+        "english": "to shine like a star",
+        "kind": "phrase",
+        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
+        "grammarNote": "-처럼 = like, as",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": [
+            "별처럼 빛나다"
+          ]
+        },
+        "audioKey": "별처럼 빛나다"
+      }
+    },
+    {
+      "id": "s23-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "별처럼 빛나다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "like a dream",
+            "correct": false
+          },
+          {
+            "text": "flower",
+            "correct": false
+          },
+          {
+            "text": "to stop liking",
+            "correct": false
+          },
+          {
+            "text": "to shine like a star",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "별처럼 빛나다 = to shine like a star"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s24-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "별처럼 빛나요.",
+        "english": "You shine like a star.",
+        "highlights": [
+          "별처럼 빛나"
+        ]
+      }
+    },
+    {
+      "id": "s25-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "별___ 빛나다",
+        "promptTranslation": "to shine like a star",
+        "options": [
+          {
+            "text": "처럼",
+            "correct": true
+          },
+          {
+            "text": "고",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -처럼예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s26-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "pattern-comprehension",
+        "prompt": "별처럼 빛나다",
+        "promptTranslation": "여기서 -처럼는 무슨 느낌일까요?",
+        "options": [
+          {
+            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "correct": true
+          },
+          {
+            "text": "갑자기 일어났다가 멈췄어요",
+            "correct": false
+          },
+          {
+            "text": "일부러 그렇게 했어요",
+            "correct": false
+          },
+          {
+            "text": "더 이상 그렇지 않아요",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-처럼 = like, as — 선택이 아니라 저절로 된 거예요."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s27-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "___ 좋아요.",
+        "promptTranslation": "___ is nice.",
+        "options": [
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "행복",
+            "correct": false
+          },
+          {
+            "text": "꽃",
+            "correct": false
+          },
+          {
+            "text": "별",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "별 = star"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s28-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "distinguish",
+        "prompt": "___이/가 좋아요.",
+        "promptTranslation": "Which word fits? (flower)",
+        "options": [
+          {
+            "text": "별",
+            "correct": false
+          },
+          {
+            "text": "꽃",
+            "correct": true
+          },
+          {
+            "text": "마음",
+            "correct": false
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꽃 = flower"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s29-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "꿈처럼",
+        "promptTranslation": "\"like a dream\" 를 한국어로?",
+        "options": [
+          {
+            "text": "꿈처럼",
+            "correct": true
+          },
+          {
+            "text": "사랑",
+            "correct": false
+          },
+          {
+            "text": "별",
+            "correct": false
+          },
+          {
+            "text": "시간",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꿈처럼 = like a dream"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s30-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "grammar-fill",
+        "prompt": "꿈___ 느껴져요.",
+        "promptTranslation": "It feels like a dream.",
+        "options": [
+          {
+            "text": "게",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "처럼",
+            "correct": true
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "패턴은 항상 -처럼!"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s31-quiz",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "sentence-order",
+        "prompt": "[\"느낀\", \"나만\", \"홀로\", \"황홀함일까\"]",
+        "promptTranslation": "Was I the only one who felt that ecstasy?",
+        "options": [
+          {
+            "text": "나만 홀로 느낀 황홀함일까",
+            "correct": true
+          }
+        ],
+        "wrongExplanation": "나만 홀로 느낀 황홀함일까"
+      },
+      "scored": true,
+      "itemIndex": null
+    },
+    {
+      "id": "s32-singalong",
+      "type": "sing-along",
+      "label": "노래",
+      "lines": [
+        {
+          "korean": "나만 홀로 느낀 황홀함일까",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "그저 바라보는 시선이 무거워",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "맴도는 발걸음 여전히 네가 보고 싶어",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "I remember 차가웠던 그 날",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "자꾸 떨리는 내 가슴이 혼자 울까 봐",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+          "english": "",
+          "highlights": [
+            "꿈처럼"
+          ]
+        },
+        {
+          "korean": "그게 아니면 곁에 있어 줘",
+          "english": "",
+          "highlights": []
+        },
+        {
+          "korean": "무거워진 어깰 내게 보이며",
+          "english": "",
+          "highlights": []
+        }
+      ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s33-recap",
+      "type": "recap",
+      "label": "결과",
+      "items": [
+        {
+          "korean": "별",
+          "english": "star",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "꽃",
+          "english": "flower",
+          "kind": "word",
+          "partOfSpeech": "noun",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "꿈처럼",
+          "english": "like a dream",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        },
+        {
+          "korean": "별처럼 빛나다",
+          "english": "to shine like a star",
+          "kind": "phrase",
+          "partOfSpeech": "",
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
+        }
+      ],
+      "pattern": {
+        "pattern": "-처럼",
+        "meaning": "like, as"
+      },
+      "xpReward": 25,
+      "passThreshold": 0.8,
+      "totalQuizScreens": 16
+    }
+  ],
+  "generatedAt": "2026-08-03T00:00:00.000Z"
+}
