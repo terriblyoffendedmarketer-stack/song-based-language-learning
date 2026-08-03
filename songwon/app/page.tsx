@@ -86,7 +86,7 @@ export default function Home() {
                 </span>
               </div>
               <div className="mt-3 flex items-center justify-between">
-                <span className="text-sm font-semibold">계속 학습하기 →</span>
+                <span className="text-sm font-semibold"><KrTip en="Continue learning">계속 학습하기</KrTip> →</span>
                 <span className="text-xs opacity-60">
                   {nextLesson.screenCount} screens
                 </span>
@@ -96,7 +96,7 @@ export default function Home() {
             <div className="bg-sage-light border border-sage/30 rounded-2xl p-5 text-center">
               <p className="text-3xl mb-2">🎉</p>
               <p className="kr text-lg font-bold text-sage">
-                모든 레슨을 완료했어요!
+                <KrTip en="You completed all the lessons!">모든 레슨을 완료했어요!</KrTip>
               </p>
               <p className="text-sm text-muted mt-1">
                 All 20 lessons completed
@@ -198,15 +198,25 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Browse all lessons */}
-          <Link
-            href="/browse"
-            className="block w-full py-4 rounded-xl border border-border bg-card text-center
-              font-semibold text-sm hover:border-accent/40 transition-colors
-              active:scale-[0.98]"
-          >
-            <KrTip en="Browse all lessons">모든 레슨 보기</KrTip> →
-          </Link>
+          {/* Browse + Glossary */}
+          <div className="grid grid-cols-2 gap-3">
+            <Link
+              href="/browse"
+              className="block py-4 rounded-xl border border-border bg-card text-center
+                font-semibold text-sm hover:border-accent/40 transition-colors
+                active:scale-[0.98]"
+            >
+              <KrTip en="Browse all lessons">모든 레슨 보기</KrTip> →
+            </Link>
+            <Link
+              href="/glossary"
+              className="block py-4 rounded-xl border border-border bg-card text-center
+                font-semibold text-sm hover:border-accent/40 transition-colors
+                active:scale-[0.98]"
+            >
+              <KrTip en="Grammar Glossary">문법 사전</KrTip> →
+            </Link>
+          </div>
         </div>
       </main>
 
@@ -216,7 +226,7 @@ export default function Home() {
           {[
             { href: "/", icon: "🏠", label: "홈", en: "Home", active: true },
             { href: "/browse", icon: "📚", label: "레슨", en: "Lessons" },
-            { href: "/review", icon: "📖", label: "복습", en: "Review" },
+            { href: "/glossary", icon: "📐", label: "문법", en: "Grammar" },
             { href: "/progress", icon: "📊", label: "기록", en: "Progress" },
           ].map((item) => (
             <Link

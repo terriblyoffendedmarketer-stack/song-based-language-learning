@@ -1,0 +1,577 @@
+[
+  {
+    "pattern": "-고",
+    "meaning": "and / and then",
+    "explanation": "Connecting two actions or states. The simplest way to link ideas.",
+    "unit": 1,
+    "lesson": 1,
+    "lessonId": "v5-unit1-lesson1",
+    "song": "10cm — Phonecert",
+    "examples": [
+      {
+        "korean": "좋은 꿈 꿨어요.",
+        "english": "I had a nice dream.",
+        "source": "context"
+      },
+      {
+        "korean": "웃고 울었어요.",
+        "english": "I laughed and cried.",
+        "source": "context"
+      },
+      {
+        "korean": "사랑은 아름다워요.",
+        "english": "Love is beautiful.",
+        "source": "context"
+      },
+      {
+        "korean": "가수는 나고 관객은 너 하나",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-고 싶다",
+    "meaning": "want to do",
+    "explanation": "Expressing desires. One of the first things you need in any language.",
+    "unit": 1,
+    "lesson": 2,
+    "lessonId": "v5-unit1-lesson2",
+    "song": "Gaho — 시작",
+    "examples": [
+      {
+        "korean": "열쇠를 찾고 있어요.",
+        "english": "I'm looking for my keys.",
+        "source": "context"
+      },
+      {
+        "korean": "너를 찾고 싶어요.",
+        "english": "I want to find you.",
+        "source": "context"
+      },
+      {
+        "korean": "좋은 사람이에요.",
+        "english": "They're a good person.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-고 있다",
+    "meaning": "progressive / ongoing state",
+    "explanation": "Describing what's happening right now. \"I'm waiting\" vs \"I wait.\"",
+    "unit": 1,
+    "lesson": 3,
+    "lessonId": "v5-unit1-lesson3",
+    "song": "Punch — Stay With Me",
+    "examples": [
+      {
+        "korean": "친구를 기다려요.",
+        "english": "I'm waiting for a friend.",
+        "source": "context"
+      },
+      {
+        "korean": "아직 기다리고 있어요.",
+        "english": "I'm still waiting.",
+        "source": "context"
+      },
+      {
+        "korean": "내일 떠나요.",
+        "english": "I'm leaving tomorrow.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-(으)면",
+    "meaning": "if / when",
+    "explanation": "Conditional statements. \"If you smile, I'm happy.\"",
+    "unit": 1,
+    "lesson": 4,
+    "lessonId": "v5-unit1-lesson4",
+    "song": "Punch — Stay With Me",
+    "examples": [
+      {
+        "korean": "괜찮아요.",
+        "english": "It's okay.",
+        "source": "context"
+      },
+      {
+        "korean": "웃으면 괜찮아요.",
+        "english": "If you smile, it's okay.",
+        "source": "context"
+      },
+      {
+        "korean": "하늘이 예뻐요.",
+        "english": "The sky is pretty.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-지만",
+    "meaning": "but, although",
+    "explanation": "Expressing contrast. \"I want to forget, but I can't.\"",
+    "unit": 2,
+    "lesson": 5,
+    "lessonId": "v5-unit2-lesson5",
+    "song": "DAY6 — You Were Beautiful",
+    "examples": [
+      {
+        "korean": "머리가 아파요.",
+        "english": "My head hurts.",
+        "source": "context"
+      },
+      {
+        "korean": "아프지만 괜찮아요.",
+        "english": "It hurts but it's okay.",
+        "source": "context"
+      },
+      {
+        "korean": "마음이 따뜻해요.",
+        "english": "My heart is warm.",
+        "source": "context"
+      },
+      {
+        "korean": "지났지만jinatjiman",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-지 못하다",
+    "meaning": "cannot do",
+    "explanation": "Inability. \"I can't stop thinking about you.\"",
+    "unit": 2,
+    "lesson": 6,
+    "lessonId": "v5-unit2-lesson6",
+    "song": "IU — Good Day",
+    "examples": [
+      {
+        "korean": "비가 멈췄어요.",
+        "english": "The rain stopped.",
+        "source": "context"
+      },
+      {
+        "korean": "멈추지 못해요.",
+        "english": "I can't stop.",
+        "source": "context"
+      },
+      {
+        "korean": "이름을 잊었어요.",
+        "english": "I forgot the name.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-지 않다",
+    "meaning": "not, negation",
+    "explanation": "Standard negation. \"It doesn't change.\"",
+    "unit": 2,
+    "lesson": 7,
+    "lessonId": "v5-unit2-lesson7",
+    "song": "TWICE — Likey",
+    "examples": [
+      {
+        "korean": "계절이 변해요.",
+        "english": "The seasons change.",
+        "source": "context"
+      },
+      {
+        "korean": "마음은 변하지 않아요.",
+        "english": "My feelings don't change.",
+        "source": "context"
+      },
+      {
+        "korean": "끝까지 가요.",
+        "english": "Let's go to the end.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-아/어서",
+    "meaning": "because / and then",
+    "explanation": "Giving reasons. \"Because I love you, I'll stay.\"",
+    "unit": 2,
+    "lesson": 8,
+    "lessonId": "v5-unit2-lesson8",
+    "song": "Punch — Stay With Me",
+    "examples": [
+      {
+        "korean": "영화를 봐요.",
+        "english": "I watch a movie.",
+        "source": "context"
+      },
+      {
+        "korean": "좋아해서 말 못 해요.",
+        "english": "Because I like you, I can't say it.",
+        "source": "context"
+      },
+      {
+        "korean": "노래를 들어요.",
+        "english": "I listen to a song.",
+        "source": "context"
+      },
+      {
+        "korean": "아직은 멀리에서 너를 지켜보고 싶어",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-아/어 줘",
+    "meaning": "please do ~ for me",
+    "explanation": "Making requests. Essential for real conversation.",
+    "unit": 3,
+    "lesson": 9,
+    "lessonId": "v5-unit3-lesson9",
+    "song": "SHAUN — Way Back Home",
+    "examples": [
+      {
+        "korean": "손을 잡아요.",
+        "english": "I hold your hand.",
+        "source": "context"
+      },
+      {
+        "korean": "손 잡아 줘.",
+        "english": "Hold my hand (please).",
+        "source": "context"
+      },
+      {
+        "korean": "아이를 안아요.",
+        "english": "I hug the child.",
+        "source": "context"
+      },
+      {
+        "korean": "길 잃은 마음속에 널 가둔 채 살아",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-(으)ㄹ 것 같다",
+    "meaning": "it seems like / I think",
+    "explanation": "Expressing opinions softly. Koreans use this constantly.",
+    "unit": 3,
+    "lesson": 10,
+    "lessonId": "v5-unit3-lesson10",
+    "song": "IU — Through the Night(밤편지)",
+    "examples": [
+      {
+        "korean": "별이 빛나요.",
+        "english": "The stars shine.",
+        "source": "context"
+      },
+      {
+        "korean": "울 것 같아요.",
+        "english": "I think I'll cry.",
+        "source": "context"
+      },
+      {
+        "korean": "아기가 울어요.",
+        "english": "The baby is crying.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-잖아",
+    "meaning": "you know / isn't it / reminding",
+    "explanation": "Reminding someone of something they already know. Very casual and intimate.",
+    "unit": 3,
+    "lesson": 11,
+    "lessonId": "v5-unit3-lesson11",
+    "song": "BOL4 — Love story",
+    "examples": [
+      {
+        "korean": "잘 알아요.",
+        "english": "I know well.",
+        "source": "context"
+      },
+      {
+        "korean": "너도 알잖아.",
+        "english": "You know too, right?",
+        "source": "context"
+      },
+      {
+        "korean": "바다가 보여요.",
+        "english": "The ocean can be seen.",
+        "source": "context"
+      },
+      {
+        "korean": "아니잖아 이건, yeah",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-는데",
+    "meaning": "background info / mild contrast",
+    "explanation": "Setting the scene before your main point. Extremely common in spoken Korean.",
+    "unit": 3,
+    "lesson": 12,
+    "lessonId": "v5-unit3-lesson12",
+    "song": "BOL4 — Some",
+    "examples": [
+      {
+        "korean": "공원에서 걸어요.",
+        "english": "I walk in the park.",
+        "source": "context"
+      },
+      {
+        "korean": "비가 오는데 우산이 없어요.",
+        "english": "It's raining and I don't have an umbrella.",
+        "source": "context"
+      },
+      {
+        "korean": "비가 와요.",
+        "english": "It's raining.",
+        "source": "context"
+      },
+      {
+        "korean": "울어서 좋을 게 없는데",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-아/어도",
+    "meaning": "even though, even if",
+    "explanation": "Concession. \"Even if you leave, I'll be okay.\"",
+    "unit": 4,
+    "lesson": 13,
+    "lessonId": "v5-unit4-lesson13",
+    "song": "BTS — FAKE LOVE",
+    "examples": [
+      {
+        "korean": "소리가 사라졌어요.",
+        "english": "The sound disappeared.",
+        "source": "context"
+      },
+      {
+        "korean": "사라져도 기억할 거예요.",
+        "english": "Even if you disappear, I'll remember.",
+        "source": "context"
+      },
+      {
+        "korean": "내 곁에 있어요.",
+        "english": "You're by my side.",
+        "source": "context"
+      },
+      {
+        "korean": "아파도 강한 척 할 수가 있었어",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-아/어지다",
+    "meaning": "to become a state",
+    "explanation": "Describing changes of state. \"It's getting colder.\" \"I'm becoming lonely.\"",
+    "unit": 4,
+    "lesson": 14,
+    "lessonId": "v5-unit4-lesson14",
+    "song": "DAY6 — You Were Beautiful",
+    "examples": [
+      {
+        "korean": "점점 멀어져요.",
+        "english": "It's gradually getting farther.",
+        "source": "context"
+      },
+      {
+        "korean": "점점 멀어지고 있어요.",
+        "english": "We're gradually growing apart.",
+        "source": "context"
+      },
+      {
+        "korean": "영화가 슬퍼요.",
+        "english": "The movie is sad.",
+        "source": "context"
+      },
+      {
+        "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-처럼",
+    "meaning": "like, as",
+    "explanation": "Comparisons. \"Like a dream.\" \"Like a star.\"",
+    "unit": 4,
+    "lesson": 15,
+    "lessonId": "v5-unit4-lesson15",
+    "song": "BEN — Just Like a Dream",
+    "examples": [
+      {
+        "korean": "별이 많아요.",
+        "english": "There are many stars.",
+        "source": "context"
+      },
+      {
+        "korean": "꿈처럼 느껴져요.",
+        "english": "It feels like a dream.",
+        "source": "context"
+      },
+      {
+        "korean": "꽃이 예뻐요.",
+        "english": "The flowers are pretty.",
+        "source": "context"
+      },
+      {
+        "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-게 되다",
+    "meaning": "to end up ~ing",
+    "explanation": "Things that happen gradually or beyond your control. \"I ended up loving you.\"",
+    "unit": 4,
+    "lesson": 16,
+    "lessonId": "v5-unit4-lesson16",
+    "song": "10cm — My Eyes",
+    "examples": [
+      {
+        "korean": "엄마 목소리가 좋아요.",
+        "english": "Mom's voice is nice.",
+        "source": "context"
+      },
+      {
+        "korean": "친구 목소리가 들려요.",
+        "english": "I can hear my friend's voice.",
+        "source": "context"
+      },
+      {
+        "korean": "바다가 보여요.",
+        "english": "The ocean can be seen.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-아/어 버리다",
+    "meaning": "to do completely / with finality",
+    "explanation": "Something done completely, often with \"dammit, it happened.\"",
+    "unit": 5,
+    "lesson": 17,
+    "lessonId": "v5-unit5-lesson17",
+    "song": "BTS — FAKE LOVE",
+    "examples": [
+      {
+        "korean": "글씨를 지웠어요.",
+        "english": "I erased the writing.",
+        "source": "context"
+      },
+      {
+        "korean": "다 잊어 버렸어요.",
+        "english": "I completely forgot everything.",
+        "source": "context"
+      },
+      {
+        "korean": "내일 떠나요.",
+        "english": "I'm leaving tomorrow.",
+        "source": "context"
+      },
+      {
+        "korean": "아파도 강한 척 할 수가 있었어",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  },
+  {
+    "pattern": "-기 전에",
+    "meaning": "before doing",
+    "explanation": "Time sequencing. \"Before you leave.\"",
+    "unit": 5,
+    "lesson": 18,
+    "lessonId": "v5-unit5-lesson18",
+    "song": "Gaho — 시작",
+    "examples": [
+      {
+        "korean": "수업이 시작해요.",
+        "english": "Class is starting.",
+        "source": "context"
+      },
+      {
+        "korean": "떠나기 전에 말해 줘.",
+        "english": "Tell me before you leave.",
+        "source": "context"
+      },
+      {
+        "korean": "영화가 끝났어요.",
+        "english": "The movie ended.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-다가도",
+    "meaning": "even while in the middle of",
+    "explanation": "Contradictory simultaneous states. \"Even while laughing, I cry.\"",
+    "unit": 5,
+    "lesson": 19,
+    "lessonId": "v5-unit5-lesson19",
+    "song": "DAY6 — You Were Beautiful",
+    "examples": [
+      {
+        "korean": "자주 생각해요.",
+        "english": "I think about it often.",
+        "source": "context"
+      },
+      {
+        "korean": "웃다가도 울어요.",
+        "english": "I cry even while laughing.",
+        "source": "context"
+      },
+      {
+        "korean": "혼자 걸어요.",
+        "english": "I walk alone.",
+        "source": "context"
+      }
+    ]
+  },
+  {
+    "pattern": "-던",
+    "meaning": "past retrospective modifier",
+    "explanation": "Describing things as they were. \"The street we used to walk.\"",
+    "unit": 5,
+    "lesson": 20,
+    "lessonId": "v5-unit5-lesson20",
+    "song": "DAY6 — You Were Beautiful",
+    "examples": [
+      {
+        "korean": "좋은 추억이에요.",
+        "english": "It's a good memory.",
+        "source": "context"
+      },
+      {
+        "korean": "같이 걷던 길이에요.",
+        "english": "It's the road we used to walk together.",
+        "source": "context"
+      },
+      {
+        "korean": "꽃 향기가 좋아요.",
+        "english": "The flower's scent is nice.",
+        "source": "context"
+      },
+      {
+        "korean": "남아있던 기억들이namaitdeon gieokdeuri",
+        "english": "",
+        "source": "song"
+      }
+    ]
+  }
+]

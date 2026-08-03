@@ -25,15 +25,15 @@
             "correct": true
           },
           {
-            "text": "dream",
+            "text": "star",
             "correct": false
           },
           {
-            "text": "love",
+            "text": "sky",
             "correct": false
           },
           {
-            "text": "heart",
+            "text": "rain",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "떠나기 전에",
-        "promptTranslation": "\"before leaving\" 를 한국어로?",
+        "prompt": "before leaving",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "떠나기 전에",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "떠나기 전에 = before leaving"
+        "wrongExplanation": "before leaving = 떠나기 전에"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"시작은\", \"설레게\", \"새로운\", \"하지\", \"늘\"]",
-        "promptTranslation": "A new beginning always makes your heart race",
+        "prompt": "[\"시작하다\", \"전에\", \"하기\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "새로운 시작은 늘 설레게 하지",
+            "text": "시작하다 하기 전에",
             "correct": true
           }
         ],
-        "wrongExplanation": "새로운 시작은 늘 설레게 하지"
+        "wrongExplanation": "시작하다 하기 전에"
       },
       "scored": true,
       "itemIndex": null

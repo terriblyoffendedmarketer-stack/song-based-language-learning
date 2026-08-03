@@ -1145,19 +1145,19 @@ def generate_lesson(lesson_data, prev_lesson, corpus):
     }, s_num))
     screens[-1]["label"] = "종합 퀴즈"
 
-    # Mix 3: phrase recall
+    # Mix 3: reverse recall — given English, pick Korean (different from earlier tap-meaning)
     s_num += 1
     quiz_count += 1
     screens.append(screen_quiz({
         "type": "tap-meaning",
-        "prompt": item2["korean"],
-        "promptTranslation": f"\"{item2['english']}\" 를 한국어로?",
+        "prompt": item2["english"],
+        "promptTranslation": f"이 뜻에 맞는 한국어는?",
         "options": make_options(
             item2["korean"],
             get_distractors(item2["korean"], all_korean_words + FILLER_WORDS[:4]),
             f"qmix3"
         ),
-        "wrongExplanation": f"{item2['korean']} = {item2['english']}",
+        "wrongExplanation": f"{item2['english']} = {item2['korean']}",
     }, s_num))
     screens[-1]["label"] = "종합 퀴즈"
 
@@ -1201,30 +1201,46 @@ def generate_lesson(lesson_data, prev_lesson, corpus):
     }, s_num))
     screens[-1]["label"] = "종합 퀴즈"
 
-    # Mix 5: sentence ordering (song line)
+    # Mix 5: sentence ordering — use a short 3-4 word phrase, not a full song line
     s_num += 1
     quiz_count += 1
-    if session_lines:
-        order_line = session_lines[0]
-        order_words = order_line.split()
-        random.seed(f"order-{order_line}")
-        shuffled_words = order_words[:]
-        random.shuffle(shuffled_words)
-        screens.append(screen_quiz({
-            "type": "sentence-order",
-            "prompt": json.dumps(shuffled_words, ensure_ascii=False),
-            "promptTranslation": translations[0] if translations else "",
-            "options": [{"text": " ".join(order_words), "correct": True}],
-            "wrongExplanation": " ".join(order_words),
-        }, s_num))
-    else:
-        screens.append(screen_quiz({
-            "type": "tap-meaning",
-            "prompt": item1["korean"],
-            "promptTranslation": "무슨 뜻일까요?",
-            "options": make_options(item1["english"], ["dream", "star", "road"], f"qmix5"),
-            "wrongExplanation": f"{item1['korean']} = {item1['english']}",
-        }, s_num))
+    # Build a short phrase from taught items + grammar pattern
+    short_phrases = {
+        "-고": [item1["korean"], grammar_stem, item3["korean"]],
+        "-고 싶다": [item1["korean"], "하고", "싶다"],
+        "-고 있다": [item1["korean"], "하고", "있다"],
+        "-(으)면": [item1["korean"], "오면", "좋겠다"],
+        "-지만": [item1["korean"], "좋지만", item3["korean"]],
+        "-지 못하다": [item1["korean"], "하지", "못하다"],
+        "-지 않다": [item1["korean"], "하지", "않다"],
+        "-아/어서": [item1["korean"], "좋아서", item3["korean"]],
+        "-아/어 줘": [item1["korean"], "해", "줘"],
+        "-(으)ㄹ 것 같다": [item1["korean"], "올", "것", "같다"],
+        "-잖아": [item1["korean"], "좋잖아"],
+        "-는데": [item1["korean"], "좋은데"],
+        "-아/어도": [item1["korean"], "해도", "괜찮아"],
+        "-아/어지다": [item1["korean"], "좋아지다"],
+        "-처럼": [item1["korean"], "처럼"],
+        "-게 되다": [item1["korean"], "하게", "되다"],
+        "-아/어 버리다": [item1["korean"], "해", "버리다"],
+        "-기 전에": [item1["korean"], "하기", "전에"],
+        "-다가도": [item1["korean"], "하다가도"],
+        "-던": [item1["korean"], "하던", item3["korean"]],
+    }
+    order_words = short_phrases.get(grammar_key, [item1["korean"], grammar_stem, item3["korean"]])
+    random.seed(f"order-{'-'.join(order_words)}")
+    shuffled_words = order_words[:]
+    random.shuffle(shuffled_words)
+    # Ensure shuffled order differs from correct order
+    if shuffled_words == order_words:
+        shuffled_words = list(reversed(shuffled_words))
+    screens.append(screen_quiz({
+        "type": "sentence-order",
+        "prompt": json.dumps(shuffled_words, ensure_ascii=False),
+        "promptTranslation": f"Put these words in order",
+        "options": [{"text": " ".join(order_words), "correct": True}],
+        "wrongExplanation": " ".join(order_words),
+    }, s_num))
     screens[-1]["label"] = "종합 퀴즈"
 
     # ── SING ALONG ──

@@ -17,6 +17,7 @@ import type {
   LessonAttempt,
 } from "@/lib/types";
 import { recordLessonAttempt } from "@/lib/v5-progress";
+import { KrTip } from "@/components/ui/KrTip";
 
 export default function V5LearnPage({
   params,
@@ -30,7 +31,7 @@ export default function V5LearnPage({
   const [answers, setAnswers] = useState<Record<string, boolean>>({});
   const [canAdvance, setCanAdvance] = useState(false);
   const [saved, setSaved] = useState(false);
-  const { speak } = useTTS();
+  const { speak, retry, usedFallback } = useTTS();
 
   useEffect(() => {
     loadV5LessonById(lessonId).then((l) => {
@@ -41,12 +42,12 @@ export default function V5LearnPage({
   useEffect(() => {
     const s = lesson?.screens[currentIndex];
     if (!s) return;
-    if (s.type === "quiz" || s.type === "warmup") {
+    if ((s.type === "quiz" || s.type === "warmup") && answers[s.id] === undefined) {
       setCanAdvance(false);
     } else {
       setCanAdvance(true);
     }
-  }, [lesson, currentIndex]);
+  }, [lesson, currentIndex, answers]);
 
   const handleQuizAnswered = useCallback(
     (screenId: string, correct: boolean) => {
@@ -127,12 +128,30 @@ export default function V5LearnPage({
             />
           </div>
           <span className="text-xs font-mono text-faint">
+            {currentIndex + 1}/{totalScreens}
             {answeredCount > 0 && (
-              <span className="text-sage">{correctCount}/{answeredCount}</span>
+              <span className="text-sage ml-2">{correctCount}/{answeredCount}</span>
             )}
           </span>
         </div>
       </div>
+
+      {/* TTS fallback retry */}
+      {usedFallback && (
+        <div className="px-4 py-1.5 border-b border-coral/30 bg-coral-light">
+          <div className="max-w-lg mx-auto flex items-center justify-between">
+            <p className="text-xs text-coral">
+              <KrTip en="Voice quality was low">음성 품질이 낮았어요</KrTip>
+            </p>
+            <button
+              onClick={retry}
+              className="text-xs text-coral font-semibold hover:underline"
+            >
+              <KrTip en="Retry">다시 시도</KrTip> ↻
+            </button>
+          </div>
+        </div>
+      )}
 
       {/* Audio player */}
       {screen?.musicPlaying && (
@@ -181,7 +200,7 @@ export default function V5LearnPage({
                   : "bg-border text-faint cursor-not-allowed"
               }`}
             >
-              계속
+              <KrTip en="Continue">계속</KrTip>
             </button>
           </div>
         </div>
@@ -339,6 +358,41 @@ function HighlightedText({
    ================================================================ */
 
 function IntroScreen({ screen }: { screen: { title: string; content: string } }) {
+  const lines = screen.content.split("\n").filter((l) => l.trim());
+  // Reorder: grammar/lesson lines first, song description after
+  const grammarLines = lines.filter((l) => /grammar|pattern|learn|배울|-(으)|you'll/i.test(l));
+  const songLines = lines.filter((l) => !/grammar|pattern|learn|배울|-(으)|you'll/i.test(l));
+  const reordered = [...grammarLines, ...songLines];
+
+  function renderLine(p: string, i: number) {
+    if (p.startsWith("- **")) {
+      const match = p.match(/^- \*\*(.+?)\*\* — (.+)$/);
+      if (match) {
+        return (
+          <div key={i} className="flex items-baseline gap-2 pl-2">
+            <span className="kr font-bold text-foreground">{match[1]}</span>
+            <span className="text-muted">— {match[2]}</span>
+          </div>
+        );
+      }
+    }
+    if (p.includes("**")) {
+      const parts = p.split(/\*\*(.+?)\*\*/g);
+      return (
+        <p key={i}>
+          {parts.map((part, j) =>
+            j % 2 === 1 ? (
+              <strong key={j} className="kr text-foreground">{part}</strong>
+            ) : (
+              <span key={j}>{part}</span>
+            )
+          )}
+        </p>
+      );
+    }
+    return <p key={i}>{p}</p>;
+  }
+
   return (
     <div className="space-y-5">
       <div className="text-center space-y-2">
@@ -346,34 +400,7 @@ function IntroScreen({ screen }: { screen: { title: string; content: string } })
         <h1 className="text-xl font-black">{screen.title}</h1>
       </div>
       <div className="text-sm text-muted leading-relaxed space-y-3">
-        {screen.content.split("\n").map((p, i) => {
-          if (p.startsWith("- **")) {
-            const match = p.match(/^- \*\*(.+?)\*\* — (.+)$/);
-            if (match) {
-              return (
-                <div key={i} className="flex items-baseline gap-2 pl-2">
-                  <span className="kr font-bold text-foreground">{match[1]}</span>
-                  <span className="text-muted">— {match[2]}</span>
-                </div>
-              );
-            }
-          }
-          if (p.includes("**")) {
-            const parts = p.split(/\*\*(.+?)\*\*/g);
-            return (
-              <p key={i}>
-                {parts.map((part, j) =>
-                  j % 2 === 1 ? (
-                    <strong key={j} className="kr text-foreground">{part}</strong>
-                  ) : (
-                    <span key={j}>{part}</span>
-                  )
-                )}
-              </p>
-            );
-          }
-          return <p key={i}>{p}</p>;
-        })}
+        {reordered.map(renderLine)}
       </div>
     </div>
   );
@@ -395,9 +422,9 @@ function LyricsKoreanScreen({
       <div className="flex items-center gap-2 mb-4">
         <span className="text-2xl">👀</span>
         <div>
-          <p className="kr font-bold">가사를 읽어 보세요</p>
+          <p className="kr font-bold"><KrTip en="Read the lyrics">가사를 읽어 보세요</KrTip></p>
           <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-            {screen.label || "들어 보세요"}
+            <KrTip en={screen.label ? screen.label : "Listen"}>{screen.label || "들어 보세요"}</KrTip>
           </p>
         </div>
       </div>
@@ -413,7 +440,7 @@ function LyricsKoreanScreen({
         ))}
       </div>
       <p className="text-xs text-faint text-center kr">
-        끝까지 하면 이 가사를 이해할 수 있어요
+        <KrTip en="By the end you'll understand these lyrics">끝까지 하면 이 가사를 이해할 수 있어요</KrTip>
       </p>
     </div>
   );
@@ -431,9 +458,9 @@ function LyricsEnglishScreen({
       <div className="flex items-center gap-2 mb-4">
         <span className="text-2xl">📖</span>
         <div>
-          <p className="kr font-bold">무슨 뜻일까요?</p>
+          <p className="kr font-bold"><KrTip en="What does it mean?">무슨 뜻일까요?</KrTip></p>
           <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-            번역
+            <KrTip en="Translation">번역</KrTip>
           </p>
         </div>
       </div>
@@ -455,7 +482,7 @@ function LyricsEnglishScreen({
         ))}
       </div>
       <p className="text-xs text-faint text-center kr">
-        배울 단어는 하이라이트 되어 있어요
+        <KrTip en="Words you'll learn are highlighted">배울 단어는 하이라이트 되어 있어요</KrTip>
       </p>
     </div>
   );
@@ -484,7 +511,7 @@ function WordCardScreen({
   return (
     <div className="space-y-6">
       <p className="text-[10px] uppercase tracking-wider text-accent font-semibold text-center">
-        새 단어
+        <KrTip en="New word">새 단어</KrTip>
       </p>
       <button
         onClick={() => speak(item.korean, 0.75)}
@@ -497,13 +524,13 @@ function WordCardScreen({
         {item.partOfSpeech && (
           <p className="text-xs text-faint">{item.partOfSpeech}</p>
         )}
-        <p className="text-accent text-xs">🔊 탭하면 다시 들을 수 있어요</p>
+        <p className="text-accent text-xs">🔊 <KrTip en="Tap to hear again">탭하면 다시 들을 수 있어요</KrTip></p>
       </button>
 
       {item.songLine.korean && (
         <div className="bg-accent-light border border-accent/20 rounded-xl p-4 space-y-2">
           <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-            노래에서
+            <KrTip en="In the song">노래에서</KrTip>
           </p>
           <button
             onClick={() => speak(item.songLine.korean)}
@@ -543,7 +570,7 @@ function PhraseCardScreen({
   return (
     <div className="space-y-6">
       <p className="text-[10px] uppercase tracking-wider text-accent font-semibold text-center">
-        새 표현
+        <KrTip en="New expression">새 표현</KrTip>
       </p>
       <button
         onClick={() => speak(item.korean, 0.75)}
@@ -553,7 +580,7 @@ function PhraseCardScreen({
           {item.korean}
         </p>
         <p className="text-lg text-muted">{item.english}</p>
-        <p className="text-accent text-xs">🔊 탭하면 다시 들을 수 있어요</p>
+        <p className="text-accent text-xs">🔊 <KrTip en="Tap to hear again">탭하면 다시 들을 수 있어요</KrTip></p>
       </button>
 
       {item.phraseNote && (
@@ -569,7 +596,7 @@ function PhraseCardScreen({
       {item.songLine.korean && (
         <div className="bg-accent-light border border-accent/20 rounded-xl p-4 space-y-2">
           <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-            노래에서
+            <KrTip en="In the song">노래에서</KrTip>
           </p>
           <button
             onClick={() => speak(item.songLine.korean)}
@@ -609,8 +636,11 @@ function QuizScreenView({
   answered?: boolean;
   label?: string;
 }) {
-  const [selected, setSelected] = useState<number | null>(null);
-  const [revealed, setRevealed] = useState(false);
+  const alreadyAnswered = answered !== undefined;
+  const [selected, setSelected] = useState<number | null>(
+    alreadyAnswered ? quiz.options.findIndex((o) => o.correct) : null
+  );
+  const [revealed, setRevealed] = useState(alreadyAnswered);
 
   const isSentenceOrder = quiz.type === "sentence-order";
 
@@ -632,6 +662,7 @@ function QuizScreenView({
         speak={speak}
         onAnswered={onAnswered}
         label={label}
+        alreadyAnswered={alreadyAnswered}
       />
     );
   }
@@ -698,8 +729,8 @@ function QuizScreenView({
         >
           <p className="font-bold kr">
             {selected !== null && quiz.options[selected]?.correct
-              ? "맞아요! 👏"
-              : "틀렸어요"}
+              ? <><KrTip en="Correct!">맞아요!</KrTip> 👏</>
+              : <KrTip en="Wrong">틀렸어요</KrTip>}
           </p>
           {selected !== null &&
             !quiz.options[selected]?.correct &&
@@ -719,15 +750,20 @@ function SentenceOrderQuiz({
   speak,
   onAnswered,
   label,
+  alreadyAnswered,
 }: {
   quiz: V5Quiz;
   speak: (t: string) => Promise<void>;
   onAnswered: (correct: boolean) => void;
   label?: string;
+  alreadyAnswered?: boolean;
 }) {
-  const [orderedWords, setOrderedWords] = useState<string[]>([]);
-  const [revealed, setRevealed] = useState(false);
-  const [isCorrect, setIsCorrect] = useState(false);
+  const correctAnswer = quiz.options[0]?.text || "";
+  const [orderedWords, setOrderedWords] = useState<string[]>(
+    alreadyAnswered ? correctAnswer.split(" ") : []
+  );
+  const [revealed, setRevealed] = useState(!!alreadyAnswered);
+  const [isCorrect, setIsCorrect] = useState(!!alreadyAnswered);
 
   let availableWords: string[] = [];
   try {
@@ -735,8 +771,6 @@ function SentenceOrderQuiz({
   } catch {
     availableWords = quiz.prompt.split(" ");
   }
-
-  const correctAnswer = quiz.options[0]?.text || "";
 
   const handleAdd = (word: string) => {
     if (revealed) return;
@@ -765,7 +799,7 @@ function SentenceOrderQuiz({
         </p>
       )}
       <div>
-        <p className="kr text-lg font-bold">순서대로 나열하세요</p>
+        <p className="kr text-lg font-bold"><KrTip en="Put in order">순서대로 나열하세요</KrTip></p>
         {quiz.promptTranslation && (
           <p className="text-sm text-muted mt-1">{quiz.promptTranslation}</p>
         )}
@@ -782,7 +816,7 @@ function SentenceOrderQuiz({
           </button>
         ))}
         {orderedWords.length === 0 && (
-          <span className="text-faint text-sm">단어를 탭하세요</span>
+          <span className="text-faint text-sm"><KrTip en="Tap the words">단어를 탭하세요</KrTip></span>
         )}
       </div>
 
@@ -813,7 +847,7 @@ function SentenceOrderQuiz({
           onClick={handleCheck}
           className="w-full py-3 rounded-xl bg-accent text-white text-sm font-semibold hover:bg-accent-hover transition-colors"
         >
-          확인
+          <KrTip en="Check">확인</KrTip>
         </button>
       )}
 
@@ -828,7 +862,7 @@ function SentenceOrderQuiz({
           <p className="font-bold kr">{isCorrect ? "맞아요! 👏" : "틀렸어요"}</p>
           {!isCorrect && (
             <p className="text-xs mt-1 opacity-80 kr">
-              정답: {correctAnswer}
+              <KrTip en="Correct answer">정답</KrTip>: {correctAnswer}
             </p>
           )}
         </div>
@@ -860,7 +894,7 @@ function ContextSentenceScreen({
   return (
     <div className="space-y-5">
       <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-        문장 연습
+        <KrTip en="Sentence practice">문장 연습</KrTip>
       </p>
 
       <div className="bg-card border border-border rounded-xl p-5 space-y-3">
@@ -909,7 +943,7 @@ function PairContextScreen({
   return (
     <div className="space-y-5">
       <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-        비교해 보세요
+        <KrTip en="Compare">비교해 보세요</KrTip>
       </p>
 
       <div className="space-y-3">
@@ -952,7 +986,7 @@ function PatternSpotlightScreen({
   return (
     <div className="space-y-5">
       <p className="text-[10px] uppercase tracking-wider text-accent font-semibold text-center">
-        패턴을 찾아봐요
+        <KrTip en="Find the pattern">패턴을 찾아봐요</KrTip>
       </p>
 
       <div className="bg-accent-light border border-accent/20 rounded-xl p-5 text-center space-y-2">
@@ -965,7 +999,7 @@ function PatternSpotlightScreen({
       {spotlight.songExample.korean && (
         <div className="bg-card border border-border rounded-xl p-4 space-y-1">
           <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-            노래에서
+            <KrTip en="In the song">노래에서</KrTip>
           </p>
           <button
             onClick={() => speak(spotlight.songExample.korean)}
@@ -988,7 +1022,7 @@ function PatternSpotlightScreen({
       {spotlight.examples.length > 0 && (
         <div className="space-y-2">
           <p className="text-[10px] uppercase tracking-wider text-faint font-semibold">
-            더 많은 예문
+            <KrTip en="More examples">더 많은 예문</KrTip>
           </p>
           {spotlight.examples.map((ex, i) => (
             <div
@@ -1028,9 +1062,9 @@ function SingAlongScreen({
       <div className="flex items-center gap-2 mb-4">
         <span className="text-2xl">🎤</span>
         <div>
-          <p className="kr font-bold">따라 불러 봐요!</p>
+          <p className="kr font-bold"><KrTip en="Sing along!">따라 불러 봐요!</KrTip></p>
           <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
-            노래
+            <KrTip en="Song">노래</KrTip>
           </p>
         </div>
       </div>
@@ -1086,7 +1120,7 @@ function RecapScreen({
       <div className="text-center space-y-2">
         <p className="text-5xl">{passed ? "🎉" : "📚"}</p>
         <p className="kr text-2xl font-black">
-          {passed ? "수고했어요!" : "다시 도전해 보세요!"}
+          {passed ? <KrTip en="Great work!">수고했어요!</KrTip> : <KrTip en="Try again!">다시 도전해 보세요!</KrTip>}
         </p>
       </div>
 
@@ -1096,7 +1130,7 @@ function RecapScreen({
           {correctCount}/{totalQuizzes}
         </p>
         <p className={`text-sm font-semibold ${passed ? "text-sage" : "text-coral"}`}>
-          {percentage}% — {passed ? "통과!" : "80% 필요"}
+          {percentage}% — {passed ? <KrTip en="Passed!">통과!</KrTip> : <KrTip en="Need 80%">80% 필요</KrTip>}
         </p>
       </div>
 
@@ -1110,7 +1144,7 @@ function RecapScreen({
       {/* Words learned */}
       <div className="space-y-2">
         <p className="text-xs font-semibold text-accent uppercase tracking-wider">
-          배운 단어와 표현
+          <KrTip en="Words and expressions learned">배운 단어와 표현</KrTip>
         </p>
         <div className="grid gap-2">
           {screen.items.map((item, i) => (
@@ -1119,7 +1153,7 @@ function RecapScreen({
               className="flex items-center gap-3 bg-card border border-border rounded-xl p-3"
             >
               <span className="text-[10px] uppercase tracking-wider text-faint w-8">
-                {item.kind === "phrase" ? "표현" : "단어"}
+                {item.kind === "phrase" ? <KrTip en="Expression">표현</KrTip> : <KrTip en="Word">단어</KrTip>}
               </span>
               <span className="kr font-bold">{item.korean}</span>
               <span className="text-sm text-muted">— {item.english}</span>
@@ -1132,7 +1166,7 @@ function RecapScreen({
       {screen.pattern && (
         <div className="bg-accent-light border border-accent/20 rounded-xl p-4 text-center">
           <p className="text-xs font-semibold text-accent uppercase tracking-wider mb-1">
-            배운 패턴
+            <KrTip en="Pattern learned">배운 패턴</KrTip>
           </p>
           <p className="kr text-lg font-bold">{screen.pattern.pattern}</p>
           <p className="text-sm text-muted">{screen.pattern.meaning}</p>
@@ -1146,7 +1180,7 @@ function RecapScreen({
             onClick={() => window.location.reload()}
             className="w-full py-4 rounded-xl bg-accent text-white font-semibold hover:bg-accent-hover transition-colors active:scale-[0.98]"
           >
-            다시 하기
+            <KrTip en="Try again">다시 하기</KrTip>
           </button>
         )}
         <button
@@ -1157,7 +1191,7 @@ function RecapScreen({
               : "border border-border text-muted hover:bg-card"
           }`}
         >
-          {passed ? "홈으로 돌아가기" : "나중에 다시 하기"}
+          {passed ? <KrTip en="Back to home">홈으로 돌아가기</KrTip> : <KrTip en="Try again later">나중에 다시 하기</KrTip>}
         </button>
       </div>
     </div>

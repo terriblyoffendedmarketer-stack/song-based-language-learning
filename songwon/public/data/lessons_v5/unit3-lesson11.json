@@ -25,7 +25,7 @@
             "correct": true
           },
           {
-            "text": "star",
+            "text": "sky",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": false
           },
           {
-            "text": "rain",
+            "text": "heart",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "알잖아",
-        "promptTranslation": "\"you know, right?\" 를 한국어로?",
+        "prompt": "you know, right?",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "알잖아",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "알잖아 = you know, right?"
+        "wrongExplanation": "you know, right? = 알잖아"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"좋아하던\", \"날\", \"그때\"]",
-        "promptTranslation": "Thought that I was a princess",
+        "prompt": "[\"좋잖아\", \"알다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "날 좋아하던 그때",
+            "text": "알다 좋잖아",
             "correct": true
           }
         ],
-        "wrongExplanation": "날 좋아하던 그때"
+        "wrongExplanation": "알다 좋잖아"
       },
       "scored": true,
       "itemIndex": null

@@ -21,15 +21,15 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "rain",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": false
-          },
-          {
             "text": "heart",
+            "correct": false
+          },
+          {
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "love",
             "correct": false
           },
           {
@@ -703,8 +703,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "걷던 길",
-        "promptTranslation": "\"the road we used to walk\" 를 한국어로?",
+        "prompt": "the road we used to walk",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "걷던 길",
@@ -723,7 +723,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "걷던 길 = the road we used to walk"
+        "wrongExplanation": "the road we used to walk = 걷던 길"
       },
       "scored": true,
       "itemIndex": null
@@ -765,15 +765,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"mari\", \"말이jigeum\", \"i\", \"이\", \"지금\"]",
-        "promptTranslation": "What I'm saying right now",
+        "prompt": "[\"하던\", \"향기\", \"추억\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "지금 이 말이jigeum i mari",
+            "text": "추억 하던 향기",
             "correct": true
           }
         ],
-        "wrongExplanation": "지금 이 말이jigeum i mari"
+        "wrongExplanation": "추억 하던 향기"
       },
       "scored": true,
       "itemIndex": null

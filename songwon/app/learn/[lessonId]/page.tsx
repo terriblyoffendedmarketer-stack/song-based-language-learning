@@ -35,7 +35,8 @@ export default function LearnPage({
   const [earnedXP, setEarnedXP] = useState(0);
   const [showComplete, setShowComplete] = useState(false);
   const [levelUp, setLevelUp] = useState<string | null>(null);
-  const { speak } = useTTS();
+  const [completedScreens, setCompletedScreens] = useState<Set<number>>(new Set());
+  const { speak, retry, usedFallback } = useTTS();
 
   useEffect(() => {
     const state = loadState();
@@ -52,8 +53,13 @@ export default function LearnPage({
     });
   }, [lessonId]);
 
+  const markScreenCompleted = useCallback((index: number) => {
+    setCompletedScreens((prev) => new Set(prev).add(index));
+  }, []);
+
   const handleNext = useCallback(() => {
     if (!lesson) return;
+    markScreenCompleted(currentIndex);
     if (currentIndex < lesson.sections.length - 1) {
       setCurrentIndex((i) => i + 1);
     } else {
@@ -107,9 +113,28 @@ export default function LearnPage({
           <div className="flex-1 h-2 bg-border rounded-full overflow-hidden">
             <div className="h-full bg-accent rounded-full transition-all duration-500 ease-out" style={{ width: `${progress}%` }} />
           </div>
-          <span className="text-xs font-mono text-faint">{currentIndex + 1}/{lesson.sections.length}</span>
+          <span className="text-xs font-mono text-faint">
+            <KrTip en={`Screen ${currentIndex + 1}`}>화면</KrTip> {currentIndex + 1}/{lesson.sections.length}
+          </span>
         </div>
       </div>
+
+      {/* TTS fallback retry */}
+      {usedFallback && (
+        <div className="px-4 py-1.5 border-b border-coral/30 bg-coral-light">
+          <div className="max-w-lg mx-auto flex items-center justify-between">
+            <p className="text-xs text-coral">
+              <KrTip en="Voice quality was low">음성 품질이 낮았어요</KrTip>
+            </p>
+            <button
+              onClick={retry}
+              className="text-xs text-coral font-semibold hover:underline"
+            >
+              <KrTip en="Retry">다시 시도</KrTip> ↻
+            </button>
+          </div>
+        </div>
+      )}
 
       {/* Audio player for music-playing sections */}
       {songName && section.musicPlaying && (
@@ -126,7 +151,11 @@ export default function LearnPage({
           <SectionRenderer
             key={section.id}
             section={section}
-            onExerciseCorrect={() => setEarnedXP((x) => x + 5)}
+            isCompleted={completedScreens.has(currentIndex)}
+            onExerciseCorrect={() => {
+              setEarnedXP((x) => x + 5);
+              markScreenCompleted(currentIndex);
+            }}
             speak={speak}
           />
         </div>
@@ -158,8 +187,9 @@ export default function LearnPage({
    Section Renderer — dispatches to the right component per type
    ================================================================ */
 
-function SectionRenderer({ section, onExerciseCorrect, speak }: {
+function SectionRenderer({ section, isCompleted, onExerciseCorrect, speak }: {
   section: LessonSection;
+  isCompleted: boolean;
   onExerciseCorrect: () => void;
   speak: (text: string, speed?: number) => Promise<void>;
 }) {
@@ -177,17 +207,17 @@ function SectionRenderer({ section, onExerciseCorrect, speak }: {
     case "word-context":
       return <WordContextSection section={section} speak={speak} />;
     case "line-recall":
-      return <ExerciseSection section={section} onCorrect={onExerciseCorrect} speak={speak} title="가사 기억하기" titleEn="Recall the lyrics" icon="🧠" />;
+      return <ExerciseSection section={section} isCompleted={isCompleted} onCorrect={onExerciseCorrect} speak={speak} title="가사 기억하기" titleEn="Recall the lyrics" icon="🧠" />;
     case "pattern-spotlight":
       return <PatternSpotlightSection section={section} speak={speak} />;
     case "practice":
-      return <ExerciseSection section={section} onCorrect={onExerciseCorrect} speak={speak} title="연습해 봐요!" titleEn="Let's practice!" icon="✏️" />;
+      return <ExerciseSection section={section} isCompleted={isCompleted} onCorrect={onExerciseCorrect} speak={speak} title="연습해 봐요!" titleEn="Let's practice!" icon="✏️" />;
     case "sing-along":
       return <SingAlongSection section={section} speak={speak} />;
     case "recap":
       return <RecapSection section={section} speak={speak} />;
     default:
-      return <FallbackSection section={section} onExerciseCorrect={onExerciseCorrect} speak={speak} />;
+      return <FallbackSection section={section} isCompleted={isCompleted} onExerciseCorrect={onExerciseCorrect} speak={speak} />;
   }
 }
 
@@ -203,6 +233,15 @@ const titleTranslations: Record<string, string> = {
   "연습해 봐요!": "Let's practice!",
   "따라 불러 봐요!": "Sing along!",
   "오늘 배운 것": "What you learned today",
+  "이번에 배울 것": "What you'll learn",
+  "새 단어": "New word",
+  "새 표현": "New expression",
+  "문장 연습": "Sentence practice",
+  "복습": "Review",
+  "가사 퀴즈": "Lyrics quiz",
+  "종합 퀴즈": "Mixed quiz",
+  "노래": "Song",
+  "결과": "Results",
 };
 
 function SectionHeader({ icon, title, titleEn, subtitle }: { icon: string; title: string; titleEn?: string; subtitle?: string }) {
@@ -231,15 +270,38 @@ function TappableLine({ line, speak }: { line: string; speak: (t: string) => voi
    ================================================================ */
 
 function LessonIntroSection({ section }: { section: LessonSection }) {
+  const isAboutSong = section.title === "About this song" || section.id?.includes("intro2");
+  const content = section.content || "";
+
+  if (isAboutSong) {
+    return (
+      <div className="space-y-5">
+        <div className="text-center space-y-2">
+          <p className="text-3xl">🎶</p>
+          <h1 className="text-lg font-black"><KrTip en="About this song">이 노래에 대해</KrTip></h1>
+        </div>
+        <div className="text-sm text-muted leading-relaxed space-y-2">
+          {content.split("\n").map((p, i) => <p key={i}>{p}</p>)}
+        </div>
+      </div>
+    );
+  }
+
+  // Main intro: reorder to grammar first, song second
+  const lines = content.split("\n").filter((l) => l.trim());
+  const grammarLines = lines.filter((l) => /grammar|pattern|learn|배울/i.test(l));
+  const songLines = lines.filter((l) => !/grammar|pattern|learn|배울/i.test(l));
+  const reordered = [...grammarLines, ...songLines];
+
   return (
     <div className="space-y-5">
       <div className="text-center space-y-2">
         <p className="text-3xl">🎵</p>
         <h1 className="text-xl font-black">{section.title}</h1>
       </div>
-      {section.content && (
+      {reordered.length > 0 && (
         <div className="text-sm text-muted leading-relaxed space-y-2">
-          {section.content.split("\n").map((p, i) => <p key={i}>{p}</p>)}
+          {reordered.map((p, i) => <p key={i}>{p}</p>)}
         </div>
       )}
     </div>
@@ -257,7 +319,7 @@ function LyricsKoreanSection({ section, speak }: { section: LessonSection; speak
           ))}
         </div>
       )}
-      <p className="text-xs text-faint text-center">Read along while the song plays</p>
+      <p className="text-xs text-faint text-center"><KrTip en="Read along while the song plays">노래를 들으면서 읽어 보세요</KrTip></p>
     </div>
   );
 }
@@ -302,6 +364,9 @@ function WordIntroSection({ section, speak }: { section: LessonSection; speak: (
 
   return (
     <div className="flex-1 flex flex-col items-center justify-center min-h-[40vh] space-y-6">
+      <div className="text-center space-y-1">
+        <p className="text-[10px] uppercase tracking-wider text-accent font-semibold"><KrTip en="New word">새 단어</KrTip></p>
+      </div>
       <button
         onClick={() => speak(wd.word.korean, 0.75)}
         className="group text-center space-y-2"
@@ -309,8 +374,20 @@ function WordIntroSection({ section, speak }: { section: LessonSection; speak: (
         <p className="kr text-5xl font-black group-hover:text-accent transition-colors">
           {wd.word.korean}
         </p>
-        <p className="text-accent text-sm">🔊 tap to hear again</p>
+        <p className="text-lg text-muted">{wd.word.english}</p>
+        {wd.word.pos && <p className="text-xs text-faint">{wd.word.pos}</p>}
+        <p className="text-accent text-sm">🔊 tap to hear</p>
       </button>
+
+      {wd.exampleSentence && (
+        <div className="w-full bg-card border border-border rounded-xl p-4 space-y-2">
+          <p className="text-[10px] uppercase tracking-wider text-faint font-semibold"><KrTip en="Example">예문</KrTip></p>
+          <TappableLine line={wd.exampleSentence.korean} speak={(t) => speak(t)} />
+          {wd.exampleSentence.english && (
+            <p className="text-sm text-muted italic">{wd.exampleSentence.english}</p>
+          )}
+        </div>
+      )}
     </div>
   );
 }
@@ -333,7 +410,7 @@ function WordMeaningSection({ section, speak }: { section: LessonSection; speak:
 
       {wd.exampleSentence && (
         <div className="bg-card border border-border rounded-xl p-4 space-y-2">
-          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">Example</p>
+          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold"><KrTip en="Example">예문</KrTip></p>
           <TappableLine line={wd.exampleSentence.korean} speak={(t) => speak(t)} />
           {wd.exampleSentence.english && (
             <p className="text-sm text-muted italic">{wd.exampleSentence.english}</p>
@@ -361,14 +438,14 @@ function WordContextSection({ section, speak }: { section: LessonSection; speak:
 
       {wd.songLine && (
         <div className="bg-accent-light border border-accent/20 rounded-xl p-4 space-y-2">
-          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">In the song</p>
+          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold"><KrTip en="In the song">노래에서</KrTip></p>
           <TappableLine line={wd.songLine} speak={(t) => speak(t)} />
         </div>
       )}
 
       {wd.dailySentence && (
         <div className="bg-card border border-border rounded-xl p-4 space-y-2">
-          <p className="text-[10px] uppercase tracking-wider text-faint font-semibold">Daily usage</p>
+          <p className="text-[10px] uppercase tracking-wider text-faint font-semibold"><KrTip en="Daily usage">일상 표현</KrTip></p>
           <TappableLine line={wd.dailySentence.korean} speak={(t) => speak(t)} />
           {wd.dailySentence.english && (
             <p className="text-sm text-muted italic">{wd.dailySentence.english}</p>
@@ -383,11 +460,22 @@ function WordContextSection({ section, speak }: { section: LessonSection; speak:
    Phase 3-4: Quiz, Pattern, Practice
    ================================================================ */
 
-function ExerciseSection({ section, onCorrect, speak, title, titleEn, icon }: {
-  section: LessonSection; onCorrect: () => void;
+function ExerciseSection({ section, isCompleted, onCorrect, speak, title, titleEn, icon }: {
+  section: LessonSection; isCompleted: boolean; onCorrect: () => void;
   speak: (t: string, s?: number) => Promise<void>;
   title: string; titleEn: string; icon: string;
 }) {
+  if (isCompleted) {
+    return (
+      <div className="space-y-5">
+        <SectionHeader icon={icon} title={title} titleEn={titleEn} />
+        <div className="bg-sage-light border border-sage/30 rounded-xl p-4 text-center">
+          <p className="text-sage font-semibold text-sm"><KrTip en="Already completed!">이미 완료했어요!</KrTip> ✓</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-5">
       <SectionHeader icon={icon} title={title} titleEn={titleEn} />
@@ -415,14 +503,14 @@ function PatternSpotlightSection({ section, speak }: { section: LessonSection; s
       </div>
       {pd.songExample.korean && (
         <div className="bg-card border border-border rounded-xl p-4 space-y-1">
-          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">From the song</p>
+          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold"><KrTip en="From the song">노래에서</KrTip></p>
           <TappableLine line={pd.songExample.korean} speak={(t) => speak(t)} />
           {pd.songExample.english && <p className="text-sm text-muted italic">{pd.songExample.english}</p>}
         </div>
       )}
       {pd.otherExamples.length > 0 && (
         <div className="space-y-2">
-          <p className="text-[10px] uppercase tracking-wider text-faint font-semibold">More examples</p>
+          <p className="text-[10px] uppercase tracking-wider text-faint font-semibold"><KrTip en="More examples">더 많은 예문</KrTip></p>
           {pd.otherExamples.map((ex, i) => (
             <div key={i} className="bg-card border border-border rounded-xl p-3">
               <TappableLine line={ex.korean} speak={(t) => speak(t)} />
@@ -461,7 +549,7 @@ function RecapSection({ section, speak }: { section: LessonSection; speak: (t: s
       <SectionHeader icon="🏆" title={section.title} titleEn="What you learned today" subtitle="RECAP" />
       {rd?.wordsLearned && rd.wordsLearned.length > 0 && (
         <div className="space-y-2">
-          <p className="text-xs font-semibold text-accent uppercase tracking-wider">Words learned</p>
+          <p className="text-xs font-semibold text-accent uppercase tracking-wider"><KrTip en="Words learned">배운 단어</KrTip></p>
           <div className="grid gap-2">
             {rd.wordsLearned.map((w, i) => (
               <button key={i} onClick={() => speak(w.korean, 0.8)}
@@ -476,7 +564,7 @@ function RecapSection({ section, speak }: { section: LessonSection; speak: (t: s
       )}
       {rd?.patternLearned && (
         <div className="bg-accent-light border border-accent/20 rounded-xl p-4 text-center">
-          <p className="text-xs font-semibold text-accent uppercase tracking-wider mb-1">Pattern learned</p>
+          <p className="text-xs font-semibold text-accent uppercase tracking-wider mb-1"><KrTip en="Pattern learned">배운 패턴</KrTip></p>
           <p className="kr text-lg font-bold">{rd.patternLearned}</p>
         </div>
       )}
@@ -488,8 +576,8 @@ function RecapSection({ section, speak }: { section: LessonSection; speak: (t: s
    Fallback for legacy section types
    ================================================================ */
 
-function FallbackSection({ section, onExerciseCorrect, speak }: {
-  section: LessonSection; onExerciseCorrect: () => void;
+function FallbackSection({ section, isCompleted, onExerciseCorrect, speak }: {
+  section: LessonSection; isCompleted: boolean; onExerciseCorrect: () => void;
   speak: (t: string, s?: number) => Promise<void>;
 }) {
   return (
@@ -507,11 +595,16 @@ function FallbackSection({ section, onExerciseCorrect, speak }: {
           ))}
         </div>
       )}
-      {section.exercises && section.exercises.length > 0 && (
+      {section.exercises && section.exercises.length > 0 && !isCompleted && (
         <div className="space-y-4">
           {section.exercises.map((exercise) => (
             <ExerciseCard key={exercise.id} exercise={exercise} onCorrect={onExerciseCorrect} speak={speak} />
           ))}
+        </div>
+      )}
+      {section.exercises && section.exercises.length > 0 && isCompleted && (
+        <div className="bg-sage-light border border-sage/30 rounded-xl p-4 text-center">
+          <p className="text-sage font-semibold text-sm"><KrTip en="Already completed!">이미 완료했어요!</KrTip> ✓</p>
         </div>
       )}
     </div>

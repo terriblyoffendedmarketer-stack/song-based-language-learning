@@ -93,6 +93,11 @@ export async function getTTSAudio(key: string): Promise<Blob | undefined> {
   return db.get("tts", key);
 }
 
+export async function deleteTTSAudio(key: string): Promise<void> {
+  const db = await getDB();
+  await db.delete("tts", key);
+}
+
 export function addSong(song: Song): AppState {
   return updateState((s) => ({ ...s, songs: [...s.songs, song] }));
 }

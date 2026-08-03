@@ -21,7 +21,7 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "sky",
+            "text": "road",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": false
           },
           {
-            "text": "love",
+            "text": "night",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "잊어 버리다",
-        "promptTranslation": "\"to completely forget\" 를 한국어로?",
+        "prompt": "to completely forget",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "잊어 버리다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "잊어 버리다 = to completely forget"
+        "wrongExplanation": "to completely forget = 잊어 버리다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"난\", \"널\", \"위해서라면\"]",
-        "promptTranslation": "If it was for you, I could",
+        "prompt": "[\"지우다\", \"버리다\", \"해\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "널 위해서라면 난",
+            "text": "지우다 해 버리다",
             "correct": true
           }
         ],
-        "wrongExplanation": "널 위해서라면 난"
+        "wrongExplanation": "지우다 해 버리다"
       },
       "scored": true,
       "itemIndex": null

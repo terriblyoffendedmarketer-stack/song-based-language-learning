@@ -21,11 +21,11 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "sky",
+            "text": "heart",
             "correct": false
           },
           {
-            "text": "rain",
+            "text": "road",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": true
           },
           {
-            "text": "heart",
+            "text": "sky",
             "correct": false
           }
         ],
@@ -668,8 +668,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "잡아 줘",
-        "promptTranslation": "\"hold me (please)\" 를 한국어로?",
+        "prompt": "hold me (please)",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "잡아 줘",
@@ -688,7 +688,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "잡아 줘 = hold me (please)"
+        "wrongExplanation": "hold me (please) = 잡아 줘"
       },
       "scored": true,
       "itemIndex": null
@@ -730,15 +730,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"조용히\", \"기억을\", \"방을\", \"꺼내\", \"들어\", \"열어\", \"잠든\"]",
-        "promptTranslation": "(direct English)",
+        "prompt": "[\"잡다\", \"줘\", \"해\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+            "text": "잡다 해 줘",
             "correct": true
           }
         ],
-        "wrongExplanation": "조용히 잠든 방을 열어 기억을 꺼내 들어"
+        "wrongExplanation": "잡다 해 줘"
       },
       "scored": true,
       "itemIndex": null

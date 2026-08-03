@@ -41,3 +41,4 @@ yarn-error.log*
 next-env.d.ts
 pipeline/.cache
 pipeline/__pycache__/
+pipeline/audio/

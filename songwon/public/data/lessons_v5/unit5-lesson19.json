@@ -21,11 +21,11 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "heart",
+            "text": "sky",
             "correct": false
           },
           {
-            "text": "night",
+            "text": "star",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": true
           },
           {
-            "text": "dream",
+            "text": "road",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "웃다가도 울다",
-        "promptTranslation": "\"to cry even while laughing\" 를 한국어로?",
+        "prompt": "to cry even while laughing",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "웃다가도 울다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "웃다가도 울다 = to cry even while laughing"
+        "wrongExplanation": "to cry even while laughing = 웃다가도 울다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"mari\", \"말이jigeum\", \"i\", \"이\", \"지금\"]",
-        "promptTranslation": "What I'm saying right now",
+        "prompt": "[\"하다가도\", \"생각하다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "지금 이 말이jigeum i mari",
+            "text": "생각하다 하다가도",
             "correct": true
           }
         ],
-        "wrongExplanation": "지금 이 말이jigeum i mari"
+        "wrongExplanation": "생각하다 하다가도"
       },
       "scored": true,
       "itemIndex": null

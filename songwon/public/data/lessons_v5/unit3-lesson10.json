@@ -25,15 +25,15 @@
             "correct": true
           },
           {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "rain",
+            "text": "night",
             "correct": false
           },
           {
             "text": "love",
+            "correct": false
+          },
+          {
+            "text": "sky",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "울 것 같다",
-        "promptTranslation": "\"I think I'll cry\" 를 한국어로?",
+        "prompt": "I think I'll cry",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "울 것 같다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "울 것 같다 = I think I'll cry"
+        "wrongExplanation": "I think I'll cry = 울 것 같다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"banditbureul\", \"그날의\", \"반딧불을i\", \"geunarui\", \"밤\", \"bam\", \"이\"]",
-        "promptTranslation": "Tonight, I'll send that day's firefly",
+        "prompt": "[\"것\", \"같다\", \"빛나다\", \"올\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+            "text": "빛나다 올 것 같다",
             "correct": true
           }
         ],
-        "wrongExplanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul"
+        "wrongExplanation": "빛나다 올 것 같다"
       },
       "scored": true,
       "itemIndex": null

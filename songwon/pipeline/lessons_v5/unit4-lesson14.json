@@ -21,7 +21,7 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "heart",
+            "text": "love",
             "correct": false
           },
           {
@@ -29,11 +29,11 @@
             "correct": true
           },
           {
-            "text": "love",
+            "text": "heart",
             "correct": false
           },
           {
-            "text": "dream",
+            "text": "sky",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "멀어지고 있다",
-        "promptTranslation": "\"to be growing distant\" 를 한국어로?",
+        "prompt": "to be growing distant",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "멀어지고 있다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "멀어지고 있다 = to be growing distant"
+        "wrongExplanation": "to be growing distant = 멀어지고 있다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"mari\", \"말이jigeum\", \"i\", \"이\", \"지금\"]",
-        "promptTranslation": "What I'm saying right now",
+        "prompt": "[\"좋아지다\", \"멀어지다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "지금 이 말이jigeum i mari",
+            "text": "멀어지다 좋아지다",
             "correct": true
           }
         ],
-        "wrongExplanation": "지금 이 말이jigeum i mari"
+        "wrongExplanation": "멀어지다 좋아지다"
       },
       "scored": true,
       "itemIndex": null

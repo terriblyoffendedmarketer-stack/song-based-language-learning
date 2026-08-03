@@ -21,11 +21,11 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "love",
+            "text": "night",
             "correct": false
           },
           {
-            "text": "sky",
+            "text": "road",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": true
           },
           {
-            "text": "rain",
+            "text": "sky",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "찾고 싶다",
-        "promptTranslation": "\"to want to find\" 를 한국어로?",
+        "prompt": "to want to find",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "찾고 싶다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "찾고 싶다 = to want to find"
+        "wrongExplanation": "to want to find = 찾고 싶다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"시작은\", \"설레게\", \"새로운\", \"하지\", \"늘\"]",
-        "promptTranslation": "A new beginning always makes your heart race",
+        "prompt": "[\"하고\", \"싶다\", \"찾다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "새로운 시작은 늘 설레게 하지",
+            "text": "찾다 하고 싶다",
             "correct": true
           }
         ],
-        "wrongExplanation": "새로운 시작은 늘 설레게 하지"
+        "wrongExplanation": "찾다 하고 싶다"
       },
       "scored": true,
       "itemIndex": null

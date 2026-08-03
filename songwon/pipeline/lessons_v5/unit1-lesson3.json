@@ -25,15 +25,15 @@
             "correct": true
           },
           {
-            "text": "night",
+            "text": "road",
+            "correct": false
+          },
+          {
+            "text": "sky",
             "correct": false
           },
           {
             "text": "dream",
-            "correct": false
-          },
-          {
-            "text": "heart",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "기다리고 있다",
-        "promptTranslation": "\"to be waiting\" 를 한국어로?",
+        "prompt": "to be waiting",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "기다리고 있다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "기다리고 있다 = to be waiting"
+        "wrongExplanation": "to be waiting = 기다리고 있다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"감으면\", \"나의\", \"눈을\", \"두\"]",
-        "promptTranslation": "When I close my eyes",
+        "prompt": "[\"하고\", \"있다\", \"기다리다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "나의 두 눈을 감으면",
+            "text": "기다리다 하고 있다",
             "correct": true
           }
         ],
-        "wrongExplanation": "나의 두 눈을 감으면"
+        "wrongExplanation": "기다리다 하고 있다"
       },
       "scored": true,
       "itemIndex": null

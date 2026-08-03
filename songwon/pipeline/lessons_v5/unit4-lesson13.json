@@ -21,7 +21,7 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "rain",
+            "text": "road",
             "correct": false
           },
           {
@@ -29,11 +29,11 @@
             "correct": true
           },
           {
-            "text": "sky",
+            "text": "rain",
             "correct": false
           },
           {
-            "text": "star",
+            "text": "dream",
             "correct": false
           }
         ],
@@ -673,8 +673,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "사라져도",
-        "promptTranslation": "\"even if (you) disappear\" 를 한국어로?",
+        "prompt": "even if (you) disappear",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "사라져도",
@@ -693,7 +693,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "사라져도 = even if (you) disappear"
+        "wrongExplanation": "even if (you) disappear = 사라져도"
       },
       "scored": true,
       "itemIndex": null
@@ -735,15 +735,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"난\", \"널\", \"위해서라면\"]",
-        "promptTranslation": "If it was for you, I could",
+        "prompt": "[\"괜찮아\", \"해도\", \"사라지다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "널 위해서라면 난",
+            "text": "사라지다 해도 괜찮아",
             "correct": true
           }
         ],
-        "wrongExplanation": "널 위해서라면 난"
+        "wrongExplanation": "사라지다 해도 괜찮아"
       },
       "scored": true,
       "itemIndex": null

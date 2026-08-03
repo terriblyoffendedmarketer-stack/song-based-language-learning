@@ -25,15 +25,15 @@
             "correct": true
           },
           {
+            "text": "star",
+            "correct": false
+          },
+          {
             "text": "sky",
             "correct": false
           },
           {
-            "text": "night",
-            "correct": false
-          },
-          {
-            "text": "road",
+            "text": "dream",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "변하지 않다",
-        "promptTranslation": "\"to not change\" 를 한국어로?",
+        "prompt": "to not change",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "변하지 않다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "변하지 않다 = to not change"
+        "wrongExplanation": "to not change = 변하지 않다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"me\", \"likey\", \"설렌다,\"]",
-        "promptTranslation": "I keep wanting to show it off, again and again",
+        "prompt": "[\"않다\", \"변하다\", \"하지\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "설렌다, me likey",
+            "text": "변하다 하지 않다",
             "correct": true
           }
         ],
-        "wrongExplanation": "설렌다, me likey"
+        "wrongExplanation": "변하다 하지 않다"
       },
       "scored": true,
       "itemIndex": null

@@ -21,15 +21,15 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "dream",
+            "text": "love",
+            "correct": false
+          },
+          {
+            "text": "road",
             "correct": false
           },
           {
             "text": "star",
-            "correct": false
-          },
-          {
-            "text": "love",
             "correct": false
           },
           {
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "비가 오는데",
-        "promptTranslation": "\"it's raining, and...\" 를 한국어로?",
+        "prompt": "it's raining, and...",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "비가 오는데",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "비가 오는데 = it's raining, and..."
+        "wrongExplanation": "it's raining, and... = 비가 오는데"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"서툰\", \"표현이\", \"잘못인가요\", \"것도\"]",
-        "promptTranslation": "Is it wrong that I'm bad at expressing myself?",
+        "prompt": "[\"좋은데\", \"걷다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "표현이 서툰 것도 잘못인가요",
+            "text": "걷다 좋은데",
             "correct": true
           }
         ],
-        "wrongExplanation": "표현이 서툰 것도 잘못인가요"
+        "wrongExplanation": "걷다 좋은데"
       },
       "scored": true,
       "itemIndex": null

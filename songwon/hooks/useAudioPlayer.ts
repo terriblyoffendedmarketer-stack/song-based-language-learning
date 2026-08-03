@@ -22,7 +22,7 @@ export function useAudioPlayer({ songName, autoPlay, onEnd }: UseAudioPlayerOpti
     if (!songName) return;
 
     const howl = new Howl({
-      src: [`/api/audio?song=${encodeURIComponent(songName)}`],
+      src: [`/audio/${encodeURIComponent(songName)}.mp3`],
       format: ["mp3"],
       html5: true,
       preload: true,

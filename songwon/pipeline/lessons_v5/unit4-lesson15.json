@@ -25,15 +25,15 @@
             "correct": true
           },
           {
-            "text": "heart",
+            "text": "road",
             "correct": false
           },
           {
-            "text": "dream",
+            "text": "sky",
             "correct": false
           },
           {
-            "text": "rain",
+            "text": "night",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "꿈처럼",
-        "promptTranslation": "\"like a dream\" 를 한국어로?",
+        "prompt": "like a dream",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "꿈처럼",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "꿈처럼 = like a dream"
+        "wrongExplanation": "like a dream = 꿈처럼"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"느낀\", \"나만\", \"홀로\", \"황홀함일까\"]",
-        "promptTranslation": "Was I the only one who felt that ecstasy?",
+        "prompt": "[\"처럼\", \"별\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "나만 홀로 느낀 황홀함일까",
+            "text": "별 처럼",
             "correct": true
           }
         ],
-        "wrongExplanation": "나만 홀로 느낀 황홀함일까"
+        "wrongExplanation": "별 처럼"
       },
       "scored": true,
       "itemIndex": null

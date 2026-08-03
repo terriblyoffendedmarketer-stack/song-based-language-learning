@@ -21,15 +21,15 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "dream",
+            "text": "heart",
+            "correct": false
+          },
+          {
+            "text": "night",
             "correct": false
           },
           {
             "text": "star",
-            "correct": false
-          },
-          {
-            "text": "love",
             "correct": false
           },
           {
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "좋아해서",
-        "promptTranslation": "\"because I like (you)\" 를 한국어로?",
+        "prompt": "because I like (you)",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "좋아해서",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "좋아해서 = because I like (you)"
+        "wrongExplanation": "because I like (you) = 좋아해서"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"감으면\", \"나의\", \"눈을\", \"두\"]",
-        "promptTranslation": "When I close my eyes",
+        "prompt": "[\"좋아서\", \"보다\", \"듣다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "나의 두 눈을 감으면",
+            "text": "보다 좋아서 듣다",
             "correct": true
           }
         ],
-        "wrongExplanation": "나의 두 눈을 감으면"
+        "wrongExplanation": "보다 좋아서 듣다"
       },
       "scored": true,
       "itemIndex": null

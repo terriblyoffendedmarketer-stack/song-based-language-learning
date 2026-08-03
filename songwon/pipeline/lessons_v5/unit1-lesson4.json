@@ -29,7 +29,7 @@
             "correct": false
           },
           {
-            "text": "sky",
+            "text": "road",
             "correct": false
           },
           {
@@ -673,8 +673,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "웃으면 괜찮다",
-        "promptTranslation": "\"if you smile, it's okay\" 를 한국어로?",
+        "prompt": "if you smile, it's okay",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "웃으면 괜찮다",
@@ -693,7 +693,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "웃으면 괜찮다 = if you smile, it's okay"
+        "wrongExplanation": "if you smile, it's okay = 웃으면 괜찮다"
       },
       "scored": true,
       "itemIndex": null
@@ -735,15 +735,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"감으면\", \"나의\", \"눈을\", \"두\"]",
-        "promptTranslation": "When I close my eyes",
+        "prompt": "[\"오면\", \"좋겠다\", \"괜찮다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "나의 두 눈을 감으면",
+            "text": "괜찮다 오면 좋겠다",
             "correct": true
           }
         ],
-        "wrongExplanation": "나의 두 눈을 감으면"
+        "wrongExplanation": "괜찮다 오면 좋겠다"
       },
       "scored": true,
       "itemIndex": null

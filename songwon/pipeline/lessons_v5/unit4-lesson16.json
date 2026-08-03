@@ -21,11 +21,11 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "night",
+            "text": "rain",
             "correct": false
           },
           {
-            "text": "road",
+            "text": "heart",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": true
           },
           {
-            "text": "rain",
+            "text": "sky",
             "correct": false
           }
         ],
@@ -705,8 +705,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "목소리가 들리다",
-        "promptTranslation": "\"a voice can be heard\" 를 한국어로?",
+        "prompt": "a voice can be heard",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "목소리가 들리다",
@@ -725,7 +725,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "목소리가 들리다 = a voice can be heard"
+        "wrongExplanation": "a voice can be heard = 목소리가 들리다"
       },
       "scored": true,
       "itemIndex": null
@@ -767,15 +767,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"넘나\", \"들려\", \"크게\", \"너의\", \"목소리만\"]",
-        "promptTranslation": "Only your voice sounds unbelievably loud to me",
+        "prompt": "[\"하게\", \"목소리\", \"되다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "너의 목소리만 넘나 크게 들려",
+            "text": "목소리 하게 되다",
             "correct": true
           }
         ],
-        "wrongExplanation": "너의 목소리만 넘나 크게 들려"
+        "wrongExplanation": "목소리 하게 되다"
       },
       "scored": true,
       "itemIndex": null

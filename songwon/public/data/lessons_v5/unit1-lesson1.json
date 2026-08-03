@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "웃고 울다",
-        "promptTranslation": "\"to laugh and cry\" 를 한국어로?",
+        "prompt": "to laugh and cry",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "웃고 울다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "웃고 울다 = to laugh and cry"
+        "wrongExplanation": "to laugh and cry = 웃고 울다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"단독\", \"이건\", \"세상에서\", \"제일\", \"공연\", \"비싼\"]",
-        "promptTranslation": "This is the most expensive solo concert in the world",
+        "prompt": "[\"사랑\", \"고\", \"꿈\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "이건 세상에서 제일 비싼 단독 공연",
+            "text": "꿈 고 사랑",
             "correct": true
           }
         ],
-        "wrongExplanation": "이건 세상에서 제일 비싼 단독 공연"
+        "wrongExplanation": "꿈 고 사랑"
       },
       "scored": true,
       "itemIndex": null

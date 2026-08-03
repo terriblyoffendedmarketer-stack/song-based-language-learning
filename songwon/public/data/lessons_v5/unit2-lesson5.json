@@ -21,11 +21,11 @@
         "promptTranslation": "지난 시간에 배운 거예요!",
         "options": [
           {
-            "text": "heart",
+            "text": "night",
             "correct": false
           },
           {
-            "text": "sky",
+            "text": "heart",
             "correct": false
           },
           {
@@ -33,7 +33,7 @@
             "correct": true
           },
           {
-            "text": "rain",
+            "text": "star",
             "correct": false
           }
         ],
@@ -674,8 +674,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "아프지만 괜찮다",
-        "promptTranslation": "\"it hurts but it's okay\" 를 한국어로?",
+        "prompt": "it hurts but it's okay",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "아프지만 괜찮다",
@@ -694,7 +694,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "아프지만 괜찮다 = it hurts but it's okay"
+        "wrongExplanation": "it hurts but it's okay = 아프지만 괜찮다"
       },
       "scored": true,
       "itemIndex": null
@@ -736,15 +736,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"mari\", \"말이jigeum\", \"i\", \"이\", \"지금\"]",
-        "promptTranslation": "What I'm saying right now",
+        "prompt": "[\"마음\", \"좋지만\", \"아프다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "지금 이 말이jigeum i mari",
+            "text": "아프다 좋지만 마음",
             "correct": true
           }
         ],
-        "wrongExplanation": "지금 이 말이jigeum i mari"
+        "wrongExplanation": "아프다 좋지만 마음"
       },
       "scored": true,
       "itemIndex": null

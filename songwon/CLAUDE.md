@@ -134,13 +134,25 @@ The pipeline lives in `pipeline/`. Read `pipeline/README.md` for scripts and run
 12. **BewhY lyrics file corrupted**: `pipeline/lyrics/BewhY - OK (Prod. by GRAY).txt` contained a K-pop release calendar instead of actual lyrics. FIXED — user pasted correct lyrics manually.
 
 ## What's NOT Built Yet (Web App)
-- **V4 interleaved lesson flow** — lessons need to follow SESSION_DESIGN.md V4 (interleaved teach/test/context). Current lessons use old V2 flat structure. See EXAMPLE_LESSON doc.
-- **Grammar-first curriculum** — current curriculum is song-first (each song = one lesson). Needs rebuild to grammar-first (each grammar point = one lesson, songs matched). See CURRICULUM_PROGRESSION.md.
+- **Grammar glossary** — searchable reference page of grammar points with examples. Later: linked from lessons.
+- **Quiz variety** — quiz questions too repetitive, need more varied phrasing/contexts
+- **Phrase building difficulty curve** — sentence assembly exercises come before teaching word-chaining
+- **Quiz design pass** — overall quiz sections need rethinking per interleaved teach/test philosophy
+- **Audio files on Vercel** — 500MB audio in `pipeline/audio/`, Vercel needs them in `public/` or external CDN
+- **TTS robustness** — TTS falls back to robotic voice after a point, no retry/regenerate option
 - **Prettier UI** — user said "the user interface looks so boring." Needs visual redesign.
-- **New section types** — `vocab-transition`, `word-card`, `context-sentence`, `quiz` not yet in types.ts or UI
 - Audio segment playback (play specific verse/chorus sections, not just full song)
 - Audio line extraction (mapping lyrics lines to timestamps in MP3s)
 - User onboarding flow (level placement, song preferences)
+
+## Recent Fixes (2026-08-03)
+- **KrTip hover on all Korean UI** — every Korean label/button in both V4 and V5 lesson pages shows English on hover/tap
+- **Screen number in progress bar** — shows "화면 N/total" in V5, "화면 N/total" in V4
+- **Back-nav preserves state** — going back to completed quiz screens shows them as already answered, no re-answering needed
+- **TTS strips blanks** — underscores, long dashes, em-dashes stripped before sending to TTS
+- **Intro card grammar-first** — grammar/lesson lines reordered before song description in intro screens
+- **WordIntro shows example sentence** — word introduction screen now includes meaning + example sentence inline
+- **Songwon.command** — macOS launcher file, double-click to start dev server
 
 ## TTS Setup
 - **Edge TTS** (Microsoft Neural voices, free) — pre-generated cache in `pipeline/tts_cache/`

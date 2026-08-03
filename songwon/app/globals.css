@@ -123,10 +123,11 @@ body {
 button .kr-tip,
 a .kr-tip {
   cursor: inherit;
-  pointer-events: none;
-  border-bottom: none;
+  border-bottom: 1px dotted var(--faint);
 }
-.kr-tip:hover::after {
+.kr-tip:hover::after,
+.kr-tip:focus::after,
+.kr-tip.show-tip::after {
   content: attr(data-tip);
   position: absolute;
   bottom: 100%;

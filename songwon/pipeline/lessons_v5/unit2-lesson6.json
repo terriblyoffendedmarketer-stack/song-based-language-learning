@@ -25,15 +25,15 @@
             "correct": true
           },
           {
-            "text": "rain",
-            "correct": false
-          },
-          {
             "text": "dream",
             "correct": false
           },
           {
-            "text": "heart",
+            "text": "star",
+            "correct": false
+          },
+          {
+            "text": "road",
             "correct": false
           }
         ],
@@ -672,8 +672,8 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "멈추지 못하다",
-        "promptTranslation": "\"to be unable to stop\" 를 한국어로?",
+        "prompt": "to be unable to stop",
+        "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
           {
             "text": "멈추지 못하다",
@@ -692,7 +692,7 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "멈추지 못하다 = to be unable to stop"
+        "wrongExplanation": "to be unable to stop = 멈추지 못하다"
       },
       "scored": true,
       "itemIndex": null
@@ -734,15 +734,15 @@
       "label": "종합 퀴즈",
       "quiz": {
         "type": "sentence-order",
-        "prompt": "[\"더\", \"건지?\", \"파란\", \"어쩜\", \"하늘은\", \"이렇게\"]",
-        "promptTranslation": "How is the sky even bluer today?",
+        "prompt": "[\"못하다\", \"하지\", \"멈추다\"]",
+        "promptTranslation": "Put these words in order",
         "options": [
           {
-            "text": "어쩜 이렇게 하늘은 더 파란 건지?",
+            "text": "멈추다 하지 못하다",
             "correct": true
           }
         ],
-        "wrongExplanation": "어쩜 이렇게 하늘은 더 파란 건지?"
+        "wrongExplanation": "멈추다 하지 못하다"
       },
       "scored": true,
       "itemIndex": null
