@@ -20,14 +20,14 @@ const notoSerifKR = Noto_Serif_KR({
 });
 
 export const metadata: Metadata = {
-  title: "송원 Songwon — Learn Korean Through Music",
+  title: "Songwon Korean — Learn Korean Through Music",
   description:
     "Master Korean through songs you love. Immersive lessons, real music, natural learning.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "송원",
+    title: "Songwon",
   },
 };
 

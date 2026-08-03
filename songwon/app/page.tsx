@@ -38,13 +38,11 @@ export default function Home() {
         <div className="max-w-lg mx-auto">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="kr text-2xl font-black tracking-tight">
-                <KrTip en="Songwon">송원</KrTip>
+              <h1 className="text-2xl font-black tracking-tight">
+                Songwon Korean
               </h1>
               <p className="text-xs text-muted">
-                <KrTip en="Learn Korean through songs">
-                  노래로 배우는 한국어
-                </KrTip>
+                Learn Korean through songs
               </p>
             </div>
             <div className="flex items-center gap-3">
