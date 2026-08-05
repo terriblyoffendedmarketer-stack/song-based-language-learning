@@ -8,7 +8,7 @@ import {
   type V5LessonIndexEntry,
 } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
-import { loadV5Progress, defaultProgress, isUnitUnlocked, isLessonUnlocked } from "@/lib/v5-progress";
+import { loadV5Progress, defaultProgress, isUnitUnlocked, isLessonUnlocked, initTesterMode } from "@/lib/v5-progress";
 import type { V5UserProgress } from "@/lib/types";
 
 const UNIT_COLORS: Record<number, string> = {
@@ -53,6 +53,7 @@ export default function BrowsePage() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    initTesterMode();
     loadV5LessonIndex()
       .then(setIndex)
       .catch(() => setError("Failed to load lesson data"));

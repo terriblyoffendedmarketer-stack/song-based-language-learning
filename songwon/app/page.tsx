@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { loadV5Progress, defaultProgress, loadInProgress, isLessonUnlocked, getLessonNumber } from "@/lib/v5-progress";
+import { loadV5Progress, defaultProgress, loadInProgress, isLessonUnlocked, getLessonNumber, initTesterMode } from "@/lib/v5-progress";
 import { loadV5LessonIndex, type V5LessonIndex } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
 import type { V5UserProgress } from "@/lib/types";
@@ -22,6 +22,7 @@ export default function Home() {
   const [index, setIndex] = useState<V5LessonIndex | null>(null);
 
   useEffect(() => {
+    initTesterMode();
     const inProgress = loadInProgress();
     if (inProgress) {
       router.replace(`/learn/v5/${inProgress.lessonId}`);

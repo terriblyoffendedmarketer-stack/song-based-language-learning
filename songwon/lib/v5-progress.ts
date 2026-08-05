@@ -5,6 +5,20 @@ const PASS_THRESHOLD = 0.8;
 const LESSONS_TO_UNLOCK = 4;
 const LESSONS_PER_SET = 5;
 const IN_PROGRESS_KEY = "songwon-in-progress";
+const TESTER_KEY = "songwon-tester";
+
+export function initTesterMode(): void {
+  if (typeof window === "undefined") return;
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("tester") === "1") {
+    sessionStorage.setItem(TESTER_KEY, "1");
+  }
+}
+
+export function isTesterMode(): boolean {
+  if (typeof window === "undefined") return false;
+  return sessionStorage.getItem(TESTER_KEY) === "1";
+}
 
 export function loadV5Progress(): V5UserProgress {
   if (typeof window === "undefined") return defaultProgress();
@@ -108,6 +122,7 @@ export function isUnitUnlocked(
   progress: V5UserProgress,
   unitNum: number
 ): boolean {
+  if (isTesterMode()) return true;
   const firstLesson = (unitNum - 1) * 4 + 1;
   return isLessonUnlocked(progress, firstLesson);
 }
@@ -129,6 +144,7 @@ function isLessonPassed(progress: V5UserProgress, lessonNumber: number): boolean
 }
 
 export function isLessonUnlocked(progress: V5UserProgress, lessonNumber: number): boolean {
+  if (isTesterMode()) return true;
   const set = Math.ceil(lessonNumber / LESSONS_PER_SET);
   if (set === 1) return true;
   const prevSetStart = (set - 2) * LESSONS_PER_SET + 1;
