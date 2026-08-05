@@ -133,12 +133,12 @@ export default function V5LearnPage({
       {/* Progress bar */}
       <div className="px-4 py-3 border-b border-border sticky top-0 bg-background z-10">
         <div className="max-w-lg mx-auto flex items-center gap-3">
-          <Link
-            href="/"
+          <button
+            onClick={() => { clearInProgress(); router.push("/"); }}
             className="text-muted hover:text-foreground text-sm"
           >
             ✕
-          </Link>
+          </button>
           <div className="flex-1 h-2 bg-border rounded-full overflow-hidden">
             <div
               className="h-full bg-accent rounded-full transition-all duration-500 ease-out"
