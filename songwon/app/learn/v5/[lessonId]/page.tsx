@@ -16,8 +16,9 @@ import type {
   V5PatternSpotlight,
   LessonAttempt,
 } from "@/lib/types";
-import { recordLessonAttempt } from "@/lib/v5-progress";
+import { recordLessonAttempt, saveInProgress, loadInProgress, clearInProgress } from "@/lib/v5-progress";
 import { KrTip } from "@/components/ui/KrTip";
+import Link from "next/link";
 
 export default function V5LearnPage({
   params,
@@ -31,11 +32,20 @@ export default function V5LearnPage({
   const [answers, setAnswers] = useState<Record<string, boolean>>({});
   const [canAdvance, setCanAdvance] = useState(false);
   const [saved, setSaved] = useState(false);
+  const [restored, setRestored] = useState(false);
   const { speak, retry, usedFallback } = useTTS();
 
   useEffect(() => {
     loadV5LessonById(lessonId).then((l) => {
-      if (l) setLesson(l);
+      if (l) {
+        setLesson(l);
+        const progress = loadInProgress();
+        if (progress && progress.lessonId === lessonId && progress.currentIndex < l.screens.length) {
+          setCurrentIndex(progress.currentIndex);
+          setAnswers(progress.answers);
+          setRestored(true);
+        }
+      }
     });
   }, [lessonId]);
 
@@ -75,6 +85,13 @@ export default function V5LearnPage({
   const totalQuizzes = scoredQuizzes.length;
   const correctCount = scoredQuizzes.filter((s) => answers[s.id] === true).length;
 
+  // Persist in-progress state for resume
+  useEffect(() => {
+    if (!lesson) return;
+    if (screen?.type === "recap") return;
+    saveInProgress({ lessonId, currentIndex, answers });
+  }, [lesson, lessonId, currentIndex, answers, screen?.type]);
+
   // Save progress when reaching the recap screen
   useEffect(() => {
     if (!lesson || saved) return;
@@ -92,6 +109,7 @@ export default function V5LearnPage({
       })),
     };
     recordLessonAttempt(attempt);
+    clearInProgress();
     setSaved(true);
   }, [screen?.type, lesson, saved, correctCount, totalQuizzes, answers]);
 
@@ -115,12 +133,12 @@ export default function V5LearnPage({
       {/* Progress bar */}
       <div className="px-4 py-3 border-b border-border sticky top-0 bg-background z-10">
         <div className="max-w-lg mx-auto flex items-center gap-3">
-          <button
-            onClick={() => router.back()}
+          <Link
+            href="/"
             className="text-muted hover:text-foreground text-sm"
           >
             ✕
-          </button>
+          </Link>
           <div className="flex-1 h-2 bg-border rounded-full overflow-hidden">
             <div
               className="h-full bg-accent rounded-full transition-all duration-500 ease-out"
@@ -1184,7 +1202,7 @@ function RecapScreen({
           </button>
         )}
         <button
-          onClick={() => router.push("/browse")}
+          onClick={() => router.push("/")}
           className={`w-full py-4 rounded-xl font-semibold transition-colors active:scale-[0.98] ${
             passed
               ? "bg-accent text-white hover:bg-accent-hover"
