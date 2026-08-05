@@ -257,6 +257,14 @@ export interface V5PatternSpotlight {
   examples: { korean: string; english: string; note?: string }[];
 }
 
+export interface V5DictionaryEntry {
+  word: string;
+  romanization: string;
+  partOfSpeech: string;
+  definition: string;
+  example?: { korean: string; english: string };
+}
+
 export type V5ScreenType =
   | "warmup"
   | "intro"
@@ -268,6 +276,7 @@ export type V5ScreenType =
   | "context-sentence"
   | "pair-context"
   | "pattern-spotlight"
+  | "line-breakdown"
   | "sing-along"
   | "recap";
 
@@ -288,6 +297,7 @@ export interface V5IntroScreen extends V5ScreenBase {
   type: "intro";
   title: string;
   content: string;
+  contentEnglish?: string;
   musicPlaying: true;
 }
 
@@ -336,6 +346,13 @@ export interface V5PatternSpotlightScreen extends V5ScreenBase {
   spotlight: V5PatternSpotlight;
 }
 
+export interface V5LineBreakdownScreen extends V5ScreenBase {
+  type: "line-breakdown";
+  lyricLine: string;
+  breakdown: string;
+  dictionary: V5DictionaryEntry[];
+}
+
 export interface V5SingAlongScreen extends V5ScreenBase {
   type: "sing-along";
   lines: V5SongLine[];
@@ -362,6 +379,7 @@ export type V5Screen =
   | V5ContextSentenceScreen
   | V5PairContextScreen
   | V5PatternSpotlightScreen
+  | V5LineBreakdownScreen
   | V5SingAlongScreen
   | V5RecapScreen;
 

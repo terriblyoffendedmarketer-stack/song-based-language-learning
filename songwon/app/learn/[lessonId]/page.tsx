@@ -121,16 +121,16 @@ export default function LearnPage({
 
       {/* TTS fallback retry */}
       {usedFallback && (
-        <div className="px-4 py-1.5 border-b border-coral/30 bg-coral-light">
+        <div className="px-4 py-1 border-b border-border">
           <div className="max-w-lg mx-auto flex items-center justify-between">
-            <p className="text-xs text-coral">
-              <KrTip en="Voice quality was low">음성 품질이 낮았어요</KrTip>
+            <p className="text-[10px] text-faint">
+              Voice quality was low
             </p>
             <button
               onClick={retry}
-              className="text-xs text-coral font-semibold hover:underline"
+              className="text-[10px] text-muted hover:text-accent transition-colors"
             >
-              <KrTip en="Retry">다시 시도</KrTip> ↻
+              Retry ↻
             </button>
           </div>
         </div>

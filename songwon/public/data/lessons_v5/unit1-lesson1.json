@@ -20,22 +20,10 @@
         "prompt": "꿈",
         "promptTranslation": null,
         "options": [
-          {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": true
-          },
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          }
+          { "text": "star", "correct": false },
+          { "text": "dream", "correct": true },
+          { "text": "road", "correct": false },
+          { "text": "night", "correct": false }
         ],
         "wrongExplanation": "꿈 = dream. 곧 배울 거예요!"
       },
@@ -45,8 +33,9 @@
       "id": "s2-intro",
       "type": "intro",
       "label": null,
-      "title": "10cm — Phonecert",
-      "content": "Connecting two actions or states. The simplest way to link ideas.\n\nPhonecert (폰서트) is a pun combining 'phone' and 'concert' — the entire premise is a private show performed just for one person over a phone call. The narrator sets it up like an actual concert, with instructions to the listener (get comfortable, keep your battery charged, stay on the line) before performing an intimate, slightly nervous set of songs meant only for them.\n\nIn this lesson, you'll learn the grammar pattern **-고**, which means \"and / and then.\" We'll see how 10cm uses it in \"Phonecert.\"",
+      "title": "10cm — 폰서트",
+      "content": "이번 레슨에서는 **-고**라는 문법을 배워요.\n**-고**는 두 가지 행동이나 상태를 연결해요.\n가장 간단한 연결 방법이에요.\n\n10cm의 **폰서트**는 '폰'과 '콘서트'를 합친 말이에요.\n전화로 노래를 불러주는 특별한 공연이에요.\n가수가 한 사람만을 위해 노래하는 이야기예요.",
+      "contentEnglish": "In this lesson, you'll learn the grammar pattern -고.\n-고 connects two actions or states — the simplest way to link ideas.\n\n10cm's Phonecert (폰서트) is a pun combining 'phone' and 'concert.'\nThe narrator performs a private show over a phone call — a concert for one person only.",
       "musicPlaying": true
     },
     {
@@ -55,6 +44,7 @@
       "label": null,
       "title": "이번에 배울 것",
       "content": "이번 레슨에서 배울 단어:\n- **꿈** — dream\n- **사랑** — love\n- **웃고 울다** — to laugh and cry\n- **사랑하고 싶다** — to want to love\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
+      "contentEnglish": "Words you'll learn in this lesson:\n- 꿈 — dream\n- 사랑 — love\n- 웃고 울다 — to laugh and cry\n- 사랑하고 싶다 — to want to love\n\nBy the end, you'll understand the lyrics of this song.",
       "musicPlaying": true
     },
     {
@@ -106,13 +96,7 @@
         "english": "dream",
         "kind": "word",
         "partOfSpeech": "noun",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "꿈"
-          ]
-        },
+        "songLine": { "korean": "", "english": "", "highlights": ["꿈"] },
         "audioKey": "꿈"
       }
     },
@@ -125,22 +109,10 @@
         "prompt": "꿈",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          {
-            "text": "to laugh and cry",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": true
-          },
-          {
-            "text": "to want to love",
-            "correct": false
-          }
+          { "text": "to laugh and cry", "correct": false },
+          { "text": "night", "correct": false },
+          { "text": "dream", "correct": true },
+          { "text": "to want to love", "correct": false }
         ],
         "wrongExplanation": "꿈 = dream"
       },
@@ -154,9 +126,7 @@
       "sentence": {
         "korean": "좋은 꿈 꿨어요.",
         "english": "I had a nice dream.",
-        "highlights": [
-          "꿈"
-        ]
+        "highlights": ["꿈"]
       }
     },
     {
@@ -168,22 +138,10 @@
         "prompt": "좋은 ___ 꿨어요.",
         "promptTranslation": "I had a nice dream.",
         "options": [
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "꿈",
-            "correct": true
-          },
-          {
-            "text": "웃고 울다",
-            "correct": false
-          }
+          { "text": "시간", "correct": false },
+          { "text": "사랑", "correct": false },
+          { "text": "꿈", "correct": true },
+          { "text": "웃고 울다", "correct": false }
         ],
         "wrongExplanation": "좋은 꿈 꿨어요. = I had a nice dream."
       },
@@ -191,7 +149,28 @@
       "itemIndex": 0
     },
     {
-      "id": "s10-teach",
+      "id": "s10-reading",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "이건 세상에서 제일 비싼 단독 공연",
+      "breakdown": "이 노래에서 가수는 전화로 노래를 불러줘요. 보통 공연은 많은 사람이 보지만, 이 공연은 한 사람만 들어요.\n\"이건\"은 \"이것은\"의 줄임말이에요. \"세상에서 제일 비싼\"은 세상에서 가장 비싸다는 뜻이에요.\n\"단독 공연\"은 한 명의 가수가 혼자 하는 공연이에요. 관객이 한 명뿐이니까, 정말 비싼 공연이죠!\n이 노래의 \"공연\"은 진짜 무대가 아니라 전화 통화예요. 그래서 재미있어요.",
+      "dictionary": [
+        { "word": "가수", "romanization": "ga-su", "partOfSpeech": "noun", "definition": "singer", "example": { "korean": "저 가수는 노래를 잘해요.", "english": "That singer sings well." } },
+        { "word": "전화", "romanization": "jeon-hwa", "partOfSpeech": "noun", "definition": "phone, phone call", "example": { "korean": "전화가 왔어요.", "english": "A phone call came." } },
+        { "word": "노래", "romanization": "no-rae", "partOfSpeech": "noun", "definition": "song", "example": { "korean": "이 노래 좋아요.", "english": "I like this song." } },
+        { "word": "보통", "romanization": "bo-tong", "partOfSpeech": "adverb", "definition": "usually, normally", "example": { "korean": "보통 아침에 일어나요.", "english": "I usually wake up in the morning." } },
+        { "word": "공연", "romanization": "gong-yeon", "partOfSpeech": "noun", "definition": "performance, concert, show", "example": { "korean": "오늘 공연이 있어요.", "english": "There's a show today." } },
+        { "word": "사람", "romanization": "sa-ram", "partOfSpeech": "noun", "definition": "person, people", "example": { "korean": "좋은 사람이에요.", "english": "They're a good person." } },
+        { "word": "줄임말", "romanization": "jul-im-mal", "partOfSpeech": "noun", "definition": "abbreviation, contraction" },
+        { "word": "세상", "romanization": "se-sang", "partOfSpeech": "noun", "definition": "world", "example": { "korean": "세상은 넓어요.", "english": "The world is wide." } },
+        { "word": "비싼", "romanization": "bi-ssan", "partOfSpeech": "adjective", "definition": "expensive", "example": { "korean": "이 가방은 비싸요.", "english": "This bag is expensive." } },
+        { "word": "관객", "romanization": "gwan-gaek", "partOfSpeech": "noun", "definition": "audience member, spectator" },
+        { "word": "무대", "romanization": "mu-dae", "partOfSpeech": "noun", "definition": "stage", "example": { "korean": "무대가 커요.", "english": "The stage is big." } },
+        { "word": "통화", "romanization": "tong-hwa", "partOfSpeech": "noun", "definition": "phone call, conversation", "example": { "korean": "통화 중이에요.", "english": "I'm on a call." } }
+      ]
+    },
+    {
+      "id": "s11-teach",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
@@ -200,18 +179,12 @@
         "kind": "phrase",
         "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
         "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "웃고 울다"
-          ]
-        },
+        "songLine": { "korean": "", "english": "", "highlights": ["웃고 울다"] },
         "audioKey": "웃고 울다"
       }
     },
     {
-      "id": "s11-quiz",
+      "id": "s12-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -219,22 +192,10 @@
         "prompt": "웃고 울다",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          {
-            "text": "to disappear",
-            "correct": false
-          },
-          {
-            "text": "to want to love",
-            "correct": false
-          },
-          {
-            "text": "to laugh and cry",
-            "correct": true
-          },
-          {
-            "text": "love",
-            "correct": false
-          }
+          { "text": "to disappear", "correct": false },
+          { "text": "to want to love", "correct": false },
+          { "text": "to laugh and cry", "correct": true },
+          { "text": "love", "correct": false }
         ],
         "wrongExplanation": "웃고 울다 = to laugh and cry"
       },
@@ -242,19 +203,17 @@
       "itemIndex": 1
     },
     {
-      "id": "s12-context",
+      "id": "s13-context",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
         "korean": "웃고 울었어요.",
         "english": "I laughed and cried.",
-        "highlights": [
-          "웃고 울"
-        ]
+        "highlights": ["웃고 울"]
       }
     },
     {
-      "id": "s13-quiz",
+      "id": "s14-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -262,22 +221,10 @@
         "prompt": "___었어요.",
         "promptTranslation": "I laughed and cried.",
         "options": [
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "웃고 울",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑하고 싶다",
-            "correct": false
-          }
+          { "text": "행복", "correct": false },
+          { "text": "웃고 울", "correct": true },
+          { "text": "마음", "correct": false },
+          { "text": "사랑하고 싶다", "correct": false }
         ],
         "wrongExplanation": "웃고 울었어요. = I laughed and cried."
       },
@@ -285,7 +232,7 @@
       "itemIndex": 1
     },
     {
-      "id": "s14-quiz",
+      "id": "s15-quiz",
       "type": "quiz",
       "label": "가사 퀴즈",
       "quiz": {
@@ -293,22 +240,10 @@
         "prompt": "이건 세상에서 제일 비싼 단독 공연",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "This is the most expensive solo concert in the world",
-            "correct": true
-          },
-          {
-            "text": "the singer is me, and the one audience member is you",
-            "correct": false
-          },
-          {
-            "text": "before the glamorous curtain rises soon",
-            "correct": false
-          }
+          { "text": "Everything sounds different", "correct": false },
+          { "text": "This is the most expensive solo concert in the world", "correct": true },
+          { "text": "the singer is me, and the one audience member is you", "correct": false },
+          { "text": "before the glamorous curtain rises soon", "correct": false }
         ],
         "wrongExplanation": "이건 세상에서 제일 비싼 단독 공연 = This is the most expensive solo concert in the world"
       },
@@ -316,7 +251,25 @@
       "itemIndex": null
     },
     {
-      "id": "s15-teach",
+      "id": "s16-reading",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "가수는 나고 관객은 너 하나",
+      "breakdown": "여기서 \"-고\"가 나와요! \"나고\"는 \"나이고\"의 줄임말이에요. 가수는 나이**고** 관객은 너 — 두 가지 사실을 연결해요.\n\"하나\"는 숫자 1이에요. 관객이 \"너 하나\" — 오직 한 명이에요.\n이 노래에서 가수는 사랑하는 사람 한 명에게만 노래해요. 다른 사람은 없어요.\n\"-고\"는 이렇게 두 문장을 하나로 만들어요. 아주 자주 쓰는 문법이에요!",
+      "dictionary": [
+        { "word": "가수", "romanization": "ga-su", "partOfSpeech": "noun", "definition": "singer" },
+        { "word": "관객", "romanization": "gwan-gaek", "partOfSpeech": "noun", "definition": "audience member, spectator" },
+        { "word": "하나", "romanization": "ha-na", "partOfSpeech": "number", "definition": "one, the number 1", "example": { "korean": "사과 하나 주세요.", "english": "Give me one apple, please." } },
+        { "word": "숫자", "romanization": "sut-ja", "partOfSpeech": "noun", "definition": "number, numeral" },
+        { "word": "사실", "romanization": "sa-sil", "partOfSpeech": "noun", "definition": "fact, truth", "example": { "korean": "사실이에요?", "english": "Is that true?" } },
+        { "word": "사랑하는", "romanization": "sa-rang-ha-neun", "partOfSpeech": "adjective", "definition": "beloved, loved", "example": { "korean": "사랑하는 가족이에요.", "english": "They're my beloved family." } },
+        { "word": "문장", "romanization": "mun-jang", "partOfSpeech": "noun", "definition": "sentence" },
+        { "word": "문법", "romanization": "mun-beop", "partOfSpeech": "noun", "definition": "grammar" },
+        { "word": "연결", "romanization": "yeon-gyeol", "partOfSpeech": "noun", "definition": "connection, linking", "example": { "korean": "두 문장을 연결해요.", "english": "Connect the two sentences." } }
+      ]
+    },
+    {
+      "id": "s17-teach",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -324,57 +277,8 @@
         "english": "love",
         "kind": "word",
         "partOfSpeech": "noun",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "사랑"
-          ]
-        },
+        "songLine": { "korean": "", "english": "", "highlights": ["사랑"] },
         "audioKey": "사랑"
-      }
-    },
-    {
-      "id": "s16-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "사랑",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "to laugh and cry",
-            "correct": false
-          },
-          {
-            "text": "love",
-            "correct": true
-          },
-          {
-            "text": "to hide",
-            "correct": false
-          },
-          {
-            "text": "to want to love",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "사랑 = love"
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s17-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "사랑은 아름다워요.",
-        "english": "Love is beautiful.",
-        "highlights": [
-          "사랑"
-        ]
       }
     },
     {
@@ -382,26 +286,43 @@
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
+        "type": "tap-meaning",
+        "prompt": "사랑",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          { "text": "to laugh and cry", "correct": false },
+          { "text": "love", "correct": true },
+          { "text": "to hide", "correct": false },
+          { "text": "to want to love", "correct": false }
+        ],
+        "wrongExplanation": "사랑 = love"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "사랑은 아름다워요.",
+        "english": "Love is beautiful.",
+        "highlights": ["사랑"]
+      }
+    },
+    {
+      "id": "s20-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
         "type": "distinguish",
         "prompt": "___은 아름다워요.",
         "promptTranslation": "Love is beautiful.",
         "options": [
-          {
-            "text": "사랑",
-            "correct": true
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "꿈",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          }
+          { "text": "사랑", "correct": true },
+          { "text": "시간", "correct": false },
+          { "text": "꿈", "correct": false },
+          { "text": "마음", "correct": false }
         ],
         "wrongExplanation": "사랑은 아름다워요. = Love is beautiful."
       },
@@ -409,29 +330,17 @@
       "itemIndex": 2
     },
     {
-      "id": "s19-pair",
+      "id": "s21-pair",
       "type": "pair-context",
       "label": "비교해 보세요",
       "sentences": [
-        {
-          "korean": "좋은 꿈 꿨어요.",
-          "english": "I had a nice dream.",
-          "highlights": [
-            "꿈"
-          ]
-        },
-        {
-          "korean": "사랑은 아름다워요.",
-          "english": "Love is beautiful.",
-          "highlights": [
-            "사랑"
-          ]
-        }
+        { "korean": "좋은 꿈 꿨어요.", "english": "I had a nice dream.", "highlights": ["꿈"] },
+        { "korean": "사랑은 아름다워요.", "english": "Love is beautiful.", "highlights": ["사랑"] }
       ],
       "note": "꿈 + 사랑 — 둘 다 이번 레슨에서 배운 단어예요."
     },
     {
-      "id": "s20-quiz",
+      "id": "s22-quiz",
       "type": "quiz",
       "label": "가사 퀴즈",
       "quiz": {
@@ -439,22 +348,10 @@
         "prompt": "This is the most expensive solo concert in the world",
         "promptTranslation": "어떤 가사일까요?",
         "options": [
-          {
-            "text": "화려한 막이 이제 곧 올라가기 전에",
-            "correct": false
-          },
-          {
-            "text": "가수는 나고 관객은 너 하나",
-            "correct": false
-          },
-          {
-            "text": "이건 세상에서 제일 비싼 단독 공연",
-            "correct": true
-          },
-          {
-            "text": "그저 몇 가지만 주의해줘요",
-            "correct": false
-          }
+          { "text": "화려한 막이 이제 곧 올라가기 전에", "correct": false },
+          { "text": "가수는 나고 관객은 너 하나", "correct": false },
+          { "text": "이건 세상에서 제일 비싼 단독 공연", "correct": true },
+          { "text": "그저 몇 가지만 주의해줘요", "correct": false }
         ],
         "wrongExplanation": "이건 세상에서 제일 비싼 단독 공연"
       },
@@ -462,7 +359,7 @@
       "itemIndex": null
     },
     {
-      "id": "s21-pattern",
+      "id": "s23-pattern",
       "type": "pattern-spotlight",
       "label": "패턴을 찾아봐요",
       "spotlight": {
@@ -472,15 +369,30 @@
         "songExample": {
           "korean": "가수는 나고 관객은 너 하나",
           "english": "",
-          "highlights": [
-            "고"
-          ]
+          "highlights": ["고"]
         },
         "examples": []
       }
     },
     {
-      "id": "s22-teach",
+      "id": "s24-reading",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "화려한 막이 이제 곧 올라가기 전에",
+      "breakdown": "\"화려한\"은 아름답고 멋있다는 뜻이에요. \"막\"은 무대의 커튼이에요.\n\"올라가다\"는 위로 가다라는 뜻이에요. 여기서는 커튼이 올라가요. 공연이 시작되기 전이에요.\n\"-기 전에\"는 무언가 하기 전이라는 뜻이에요. 예를 들어 \"먹기 전에 손을 씻어요\" — 먹기 전에!\n가수가 말해요: 공연이 시작하기 전에 준비해 달라고. 편한 옷을 입고, 좋은 자리에 누워 달라고.",
+      "dictionary": [
+        { "word": "화려한", "romanization": "hwa-ryeo-han", "partOfSpeech": "adjective", "definition": "glamorous, splendid, gorgeous", "example": { "korean": "화려한 옷을 입었어요.", "english": "They wore glamorous clothes." } },
+        { "word": "무대", "romanization": "mu-dae", "partOfSpeech": "noun", "definition": "stage", "example": { "korean": "무대가 커요.", "english": "The stage is big." } },
+        { "word": "올라가다", "romanization": "ol-la-ga-da", "partOfSpeech": "verb", "definition": "to go up, to rise", "example": { "korean": "산을 올라가요.", "english": "I go up the mountain." } },
+        { "word": "시작", "romanization": "si-jak", "partOfSpeech": "noun", "definition": "start, beginning", "example": { "korean": "시작해요!", "english": "Let's start!" } },
+        { "word": "준비", "romanization": "jun-bi", "partOfSpeech": "noun", "definition": "preparation, getting ready", "example": { "korean": "준비됐어요?", "english": "Are you ready?" } },
+        { "word": "편한", "romanization": "pyeon-han", "partOfSpeech": "adjective", "definition": "comfortable, easy", "example": { "korean": "편한 옷이 좋아요.", "english": "I like comfortable clothes." } },
+        { "word": "자리", "romanization": "ja-ri", "partOfSpeech": "noun", "definition": "seat, place, spot", "example": { "korean": "좋은 자리예요.", "english": "It's a good seat." } },
+        { "word": "누워", "romanization": "nu-wo", "partOfSpeech": "verb", "definition": "to lie down", "example": { "korean": "침대에 누워요.", "english": "I lie down on the bed." } }
+      ]
+    },
+    {
+      "id": "s25-teach",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
@@ -489,18 +401,12 @@
         "kind": "phrase",
         "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
         "grammarNote": "-고 = and / and then",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "사랑하고 싶다"
-          ]
-        },
+        "songLine": { "korean": "", "english": "", "highlights": ["사랑하고 싶다"] },
         "audioKey": "사랑하고 싶다"
       }
     },
     {
-      "id": "s23-quiz",
+      "id": "s26-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -508,22 +414,10 @@
         "prompt": "사랑하고 싶다",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "love",
-            "correct": false
-          },
-          {
-            "text": "to want to love",
-            "correct": true
-          },
-          {
-            "text": "to laugh and cry",
-            "correct": false
-          }
+          { "text": "to stop liking", "correct": false },
+          { "text": "love", "correct": false },
+          { "text": "to want to love", "correct": true },
+          { "text": "to laugh and cry", "correct": false }
         ],
         "wrongExplanation": "사랑하고 싶다 = to want to love"
       },
@@ -531,19 +425,17 @@
       "itemIndex": 3
     },
     {
-      "id": "s24-context",
+      "id": "s27-context",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
         "korean": "사랑하고 싶어요.",
         "english": "I want to love.",
-        "highlights": [
-          "사랑하고 싶"
-        ]
+        "highlights": ["사랑하고 싶"]
       }
     },
     {
-      "id": "s25-quiz",
+      "id": "s28-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -551,22 +443,10 @@
         "prompt": "사랑하___ 싶다",
         "promptTranslation": "to want to love",
         "options": [
-          {
-            "text": "고",
-            "correct": true
-          },
-          {
-            "text": "지만",
-            "correct": false
-          },
-          {
-            "text": "면",
-            "correct": false
-          },
-          {
-            "text": "아서",
-            "correct": false
-          }
+          { "text": "고", "correct": true },
+          { "text": "지만", "correct": false },
+          { "text": "면", "correct": false },
+          { "text": "아서", "correct": false }
         ],
         "wrongExplanation": "패턴은 항상 -고예요."
       },
@@ -574,30 +454,36 @@
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
+      "id": "s29-reading",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그저 몇 가지만 주의해줘요",
+      "breakdown": "\"그저\"는 \"그냥\"과 비슷한 뜻이에요. \"단지\" 또는 \"그냥\"이라고 생각하면 돼요.\n\"몇 가지\"는 여러 개 중에서 몇 개라는 뜻이에요. 많지 않아요.\n\"주의해줘요\"는 조심해 달라는 뜻이에요. 가수가 관객에게 부탁하는 거예요.\n가수의 부탁은 뭘까요? 편한 옷을 입고, 좋은 자리에 눕고, 배터리를 확인하고, 전화를 끊지 말라는 거예요. 여기서도 \"-고\"가 많이 쓰여요!",
+      "dictionary": [
+        { "word": "그저", "romanization": "geu-jeo", "partOfSpeech": "adverb", "definition": "just, merely, simply" },
+        { "word": "비슷한", "romanization": "bi-seut-han", "partOfSpeech": "adjective", "definition": "similar", "example": { "korean": "이 두 개는 비슷해요.", "english": "These two are similar." } },
+        { "word": "단지", "romanization": "dan-ji", "partOfSpeech": "adverb", "definition": "only, just, merely" },
+        { "word": "여러", "romanization": "yeo-reo", "partOfSpeech": "determiner", "definition": "several, many", "example": { "korean": "여러 사람이 왔어요.", "english": "Several people came." } },
+        { "word": "조심", "romanization": "jo-sim", "partOfSpeech": "noun", "definition": "caution, care", "example": { "korean": "조심하세요!", "english": "Be careful!" } },
+        { "word": "부탁", "romanization": "bu-tak", "partOfSpeech": "noun", "definition": "request, favor", "example": { "korean": "부탁이 있어요.", "english": "I have a favor to ask." } },
+        { "word": "배터리", "romanization": "bae-teo-ri", "partOfSpeech": "noun", "definition": "battery" },
+        { "word": "확인", "romanization": "hwak-in", "partOfSpeech": "noun", "definition": "confirmation, checking", "example": { "korean": "다시 확인해요.", "english": "Let me check again." } },
+        { "word": "끊지", "romanization": "kkeun-ji", "partOfSpeech": "verb", "definition": "to hang up, to cut off", "example": { "korean": "전화를 끊지 마세요.", "english": "Don't hang up the phone." } }
+      ]
+    },
+    {
+      "id": "s30-quiz",
       "type": "quiz",
-      "label": "퀴즈",
+      "label": "종합 퀴즈",
       "quiz": {
         "type": "pattern-comprehension",
         "prompt": "What does -고 express?",
         "promptTranslation": null,
         "options": [
-          {
-            "text": "but / however",
-            "correct": false
-          },
-          {
-            "text": "not at all",
-            "correct": false
-          },
-          {
-            "text": "always / every time",
-            "correct": false
-          },
-          {
-            "text": "and / and then",
-            "correct": true
-          }
+          { "text": "but / however", "correct": false },
+          { "text": "not at all", "correct": false },
+          { "text": "always / every time", "correct": false },
+          { "text": "and / and then", "correct": true }
         ],
         "wrongExplanation": "-고 = and / and then"
       },
@@ -605,7 +491,7 @@
       "itemIndex": 3
     },
     {
-      "id": "s27-quiz",
+      "id": "s31-quiz",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
@@ -613,22 +499,10 @@
         "prompt": "___ 좋아요.",
         "promptTranslation": "___ is nice.",
         "options": [
-          {
-            "text": "사랑하고 싶다",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "꿈",
-            "correct": true
-          }
+          { "text": "사랑하고 싶다", "correct": false },
+          { "text": "마음", "correct": false },
+          { "text": "사랑", "correct": false },
+          { "text": "꿈", "correct": true }
         ],
         "wrongExplanation": "꿈 = dream"
       },
@@ -636,7 +510,7 @@
       "itemIndex": null
     },
     {
-      "id": "s28-quiz",
+      "id": "s32-quiz",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
@@ -644,22 +518,10 @@
         "prompt": "___이/가 좋아요.",
         "promptTranslation": "Which word fits? (love)",
         "options": [
-          {
-            "text": "꿈",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          }
+          { "text": "꿈", "correct": false },
+          { "text": "사랑", "correct": true },
+          { "text": "마음", "correct": false },
+          { "text": "행복", "correct": false }
         ],
         "wrongExplanation": "사랑 = love"
       },
@@ -667,7 +529,7 @@
       "itemIndex": null
     },
     {
-      "id": "s29-quiz",
+      "id": "s33-quiz",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
@@ -675,22 +537,10 @@
         "prompt": "to laugh and cry",
         "promptTranslation": "이 뜻에 맞는 한국어는?",
         "options": [
-          {
-            "text": "웃고 울다",
-            "correct": true
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "꿈",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          }
+          { "text": "웃고 울다", "correct": true },
+          { "text": "사랑", "correct": false },
+          { "text": "꿈", "correct": false },
+          { "text": "시간", "correct": false }
         ],
         "wrongExplanation": "to laugh and cry = 웃고 울다"
       },
@@ -698,7 +548,7 @@
       "itemIndex": null
     },
     {
-      "id": "s30-quiz",
+      "id": "s34-quiz",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
@@ -706,22 +556,10 @@
         "prompt": "노래하___ 춤춰요.",
         "promptTranslation": "I sing and dance.",
         "options": [
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "면",
-            "correct": false
-          },
-          {
-            "text": "고",
-            "correct": true
-          },
-          {
-            "text": "게",
-            "correct": false
-          }
+          { "text": "처럼", "correct": false },
+          { "text": "면", "correct": false },
+          { "text": "고", "correct": true },
+          { "text": "게", "correct": false }
         ],
         "wrongExplanation": "패턴은 항상 -고!"
       },
@@ -729,7 +567,7 @@
       "itemIndex": null
     },
     {
-      "id": "s31-quiz",
+      "id": "s35-quiz",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
@@ -737,10 +575,7 @@
         "prompt": "[\"사랑\", \"고\", \"꿈\"]",
         "promptTranslation": "Put these words in order",
         "options": [
-          {
-            "text": "꿈 고 사랑",
-            "correct": true
-          }
+          { "text": "꿈 고 사랑", "correct": true }
         ],
         "wrongExplanation": "꿈 고 사랑"
       },
@@ -748,111 +583,36 @@
       "itemIndex": null
     },
     {
-      "id": "s32-singalong",
+      "id": "s36-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
-        {
-          "korean": "이건 세상에서 제일 비싼 단독 공연",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "가수는 나고 관객은 너 하나",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "화려한 막이 이제 곧 올라가기 전에",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "그저 몇 가지만 주의해줘요",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "세상에서 제일 편한 옷을 갈아 입고",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "제일 좋아하는 자리에 누워",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "배터리가 바닥나지 않게 조심하고",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "통화상태를 항상 유지해줘요",
-          "english": "",
-          "highlights": []
-        }
+        { "korean": "이건 세상에서 제일 비싼 단독 공연", "english": "", "highlights": [] },
+        { "korean": "가수는 나고 관객은 너 하나", "english": "", "highlights": [] },
+        { "korean": "화려한 막이 이제 곧 올라가기 전에", "english": "", "highlights": [] },
+        { "korean": "그저 몇 가지만 주의해줘요", "english": "", "highlights": [] },
+        { "korean": "세상에서 제일 편한 옷을 갈아 입고", "english": "", "highlights": [] },
+        { "korean": "제일 좋아하는 자리에 누워", "english": "", "highlights": [] },
+        { "korean": "배터리가 바닥나지 않게 조심하고", "english": "", "highlights": [] },
+        { "korean": "통화상태를 항상 유지해줘요", "english": "", "highlights": [] }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s37-recap",
       "type": "recap",
       "label": "결과",
       "items": [
-        {
-          "korean": "꿈",
-          "english": "dream",
-          "kind": "word",
-          "partOfSpeech": "noun",
-          "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
-          }
-        },
-        {
-          "korean": "사랑",
-          "english": "love",
-          "kind": "word",
-          "partOfSpeech": "noun",
-          "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
-          }
-        },
-        {
-          "korean": "웃고 울다",
-          "english": "to laugh and cry",
-          "kind": "phrase",
-          "partOfSpeech": "",
-          "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
-          }
-        },
-        {
-          "korean": "사랑하고 싶다",
-          "english": "to want to love",
-          "kind": "phrase",
-          "partOfSpeech": "",
-          "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
-          }
-        }
+        { "korean": "꿈", "english": "dream", "kind": "word", "partOfSpeech": "noun", "songLine": { "korean": "", "english": "", "highlights": [] } },
+        { "korean": "사랑", "english": "love", "kind": "word", "partOfSpeech": "noun", "songLine": { "korean": "", "english": "", "highlights": [] } },
+        { "korean": "웃고 울다", "english": "to laugh and cry", "kind": "phrase", "partOfSpeech": "", "songLine": { "korean": "", "english": "", "highlights": [] } },
+        { "korean": "사랑하고 싶다", "english": "to want to love", "kind": "phrase", "partOfSpeech": "", "songLine": { "korean": "", "english": "", "highlights": [] } }
       ],
-      "pattern": {
-        "pattern": "-고",
-        "meaning": "and / and then"
-      },
+      "pattern": { "pattern": "-고", "meaning": "and / and then" },
       "xpReward": 25,
       "passThreshold": 0.8,
       "totalQuizScreens": 16
     }
   ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  "generatedAt": "2026-08-05T00:00:00.000Z"
 }

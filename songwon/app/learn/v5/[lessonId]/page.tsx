@@ -14,6 +14,7 @@ import type {
   V5ContextSentence,
   V5SongLine,
   V5PatternSpotlight,
+  V5DictionaryEntry,
   LessonAttempt,
 } from "@/lib/types";
 import { recordLessonAttempt, saveInProgress, loadInProgress, clearInProgress } from "@/lib/v5-progress";
@@ -156,16 +157,16 @@ export default function V5LearnPage({
 
       {/* TTS fallback retry */}
       {usedFallback && (
-        <div className="px-4 py-1.5 border-b border-coral/30 bg-coral-light">
+        <div className="px-4 py-1 border-b border-border">
           <div className="max-w-lg mx-auto flex items-center justify-between">
-            <p className="text-xs text-coral">
-              <KrTip en="Voice quality was low">음성 품질이 낮았어요</KrTip>
+            <p className="text-[10px] text-faint">
+              Voice quality was low
             </p>
             <button
               onClick={retry}
-              className="text-xs text-coral font-semibold hover:underline"
+              className="text-[10px] text-muted hover:text-accent transition-colors"
             >
-              <KrTip en="Retry">다시 시도</KrTip> ↻
+              Retry ↻
             </button>
           </div>
         </div>
@@ -261,7 +262,7 @@ function ScreenRenderer({
         />
       );
     case "intro":
-      return <IntroScreen screen={screen} />;
+      return <IntroScreen screen={screen} speak={speak} />;
     case "lyrics-korean":
       return <LyricsKoreanScreen screen={screen} speak={speak} />;
     case "lyrics-english":
@@ -296,6 +297,15 @@ function ScreenRenderer({
     case "pattern-spotlight":
       return (
         <PatternSpotlightScreen spotlight={screen.spotlight} speak={speak} />
+      );
+    case "line-breakdown":
+      return (
+        <LineBreakdownScreen
+          lyricLine={screen.lyricLine}
+          breakdown={screen.breakdown}
+          dictionary={screen.dictionary}
+          speak={speak}
+        />
       );
     case "sing-along":
       return <SingAlongScreen lines={screen.lines} speak={speak} />;
@@ -375,12 +385,20 @@ function HighlightedText({
    Intro Screen
    ================================================================ */
 
-function IntroScreen({ screen }: { screen: { title: string; content: string } }) {
+function IntroScreen({
+  screen,
+  speak,
+}: {
+  screen: { title: string; content: string; contentEnglish?: string };
+  speak: (t: string) => Promise<void>;
+}) {
+  const [showEnglish, setShowEnglish] = useState(false);
+  const isKoreanFirst = !!screen.contentEnglish;
+
   const lines = screen.content.split("\n").filter((l) => l.trim());
-  // Reorder: grammar/lesson lines first, song description after
-  const grammarLines = lines.filter((l) => /grammar|pattern|learn|배울|-(으)|you'll/i.test(l));
-  const songLines = lines.filter((l) => !/grammar|pattern|learn|배울|-(으)|you'll/i.test(l));
-  const reordered = [...grammarLines, ...songLines];
+  const englishLines = screen.contentEnglish
+    ? screen.contentEnglish.split("\n").filter((l) => l.trim())
+    : [];
 
   function renderLine(p: string, i: number) {
     if (p.startsWith("- **")) {
@@ -410,6 +428,56 @@ function IntroScreen({ screen }: { screen: { title: string; content: string } })
     }
     return <p key={i}>{p}</p>;
   }
+
+  if (isKoreanFirst) {
+    return (
+      <div className="space-y-5">
+        <div className="text-center space-y-2">
+          <p className="text-3xl">🎵</p>
+          <h1 className="kr text-xl font-black">{screen.title}</h1>
+        </div>
+        <div className="bg-card border border-border rounded-xl p-5 space-y-3">
+          {lines.map((line, i) => (
+            <button
+              key={i}
+              onClick={() => speak(line.replace(/\*\*/g, ""))}
+              className="kr text-sm font-bold leading-relaxed block w-full text-left hover:text-accent transition-colors"
+            >
+              {line.includes("**") ? (
+                line.split(/\*\*(.+?)\*\*/g).map((part, j) =>
+                  j % 2 === 1 ? (
+                    <strong key={j} className="text-accent">{part}</strong>
+                  ) : (
+                    <span key={j}>{part}</span>
+                  )
+                )
+              ) : (
+                line
+              )}
+              {" "}<span className="text-faint text-xs">🔊</span>
+            </button>
+          ))}
+        </div>
+        <button
+          onClick={() => setShowEnglish(!showEnglish)}
+          className="w-full text-center text-xs text-muted hover:text-accent transition-colors py-2"
+        >
+          {showEnglish ? "Hide English" : "Tap to see English"}
+        </button>
+        {showEnglish && (
+          <div className="text-sm text-muted leading-relaxed space-y-2 bg-card/50 border border-border rounded-xl p-4">
+            {englishLines.map((line, i) => (
+              <p key={i} className="text-xs">{line}</p>
+            ))}
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  const grammarLines = lines.filter((l) => /grammar|pattern|learn|배울|-(으)|you'll/i.test(l));
+  const songLines = lines.filter((l) => !/grammar|pattern|learn|배울|-(으)|you'll/i.test(l));
+  const reordered = [...grammarLines, ...songLines];
 
   return (
     <div className="space-y-5">
@@ -1061,6 +1129,172 @@ function PatternSpotlightScreen({
         </div>
       )}
     </div>
+  );
+}
+
+/* ================================================================
+   Line Breakdown (Reading Checkpoint)
+   ================================================================ */
+
+function LineBreakdownScreen({
+  lyricLine,
+  breakdown,
+  dictionary,
+  speak,
+}: {
+  lyricLine: string;
+  breakdown: string;
+  dictionary: V5DictionaryEntry[];
+  speak: (t: string) => Promise<void>;
+}) {
+  const [selectedWord, setSelectedWord] = useState<V5DictionaryEntry | null>(null);
+
+  const dictMap = new Map(dictionary.map((d) => [d.word, d]));
+
+  function tokenize(text: string): { text: string; entry?: V5DictionaryEntry }[] {
+    const tokens: { text: string; entry?: V5DictionaryEntry }[] = [];
+    let remaining = text;
+
+    while (remaining.length > 0) {
+      let bestMatch = "";
+      let bestIdx = remaining.length;
+
+      for (const [word] of dictMap) {
+        const idx = remaining.indexOf(word);
+        if (idx !== -1 && (idx < bestIdx || (idx === bestIdx && word.length > bestMatch.length))) {
+          bestIdx = idx;
+          bestMatch = word;
+        }
+      }
+
+      if (!bestMatch) {
+        tokens.push({ text: remaining });
+        break;
+      }
+
+      if (bestIdx > 0) {
+        tokens.push({ text: remaining.slice(0, bestIdx) });
+      }
+      tokens.push({ text: bestMatch, entry: dictMap.get(bestMatch) });
+      remaining = remaining.slice(bestIdx + bestMatch.length);
+    }
+
+    return tokens;
+  }
+
+  const paragraphs = breakdown.split("\n").filter((l) => l.trim());
+
+  return (
+    <div className="space-y-5">
+      <p className="text-[10px] uppercase tracking-wider text-accent font-semibold text-center">
+        Reading Checkpoint
+      </p>
+
+      <div className="bg-accent-light border border-accent/20 rounded-xl p-4">
+        <button
+          onClick={() => speak(lyricLine)}
+          className="kr text-lg font-black text-accent leading-relaxed block w-full text-left hover:opacity-80 transition-opacity"
+        >
+          &ldquo;{lyricLine}&rdquo; <span className="text-faint text-xs">🔊</span>
+        </button>
+      </div>
+
+      <div className="bg-card border border-border rounded-xl p-5 space-y-4">
+        {paragraphs.map((para, i) => (
+          <p key={i} className="kr text-sm font-medium leading-[2] text-foreground">
+            {tokenize(para).map((token, j) =>
+              token.entry ? (
+                <button
+                  key={j}
+                  onClick={() => setSelectedWord(token.entry!)}
+                  className="border-b border-dashed border-accent/40 hover:bg-accent-light transition-colors rounded-sm px-0.5"
+                >
+                  {token.text}
+                </button>
+              ) : (
+                <span key={j}>{token.text}</span>
+              )
+            )}
+          </p>
+        ))}
+      </div>
+
+      <p className="text-[10px] text-faint text-center">
+        Tap underlined words for dictionary
+      </p>
+
+      {selectedWord && (
+        <DictionaryPopup
+          entry={selectedWord}
+          speak={speak}
+          onClose={() => setSelectedWord(null)}
+        />
+      )}
+    </div>
+  );
+}
+
+function DictionaryPopup({
+  entry,
+  speak,
+  onClose,
+}: {
+  entry: V5DictionaryEntry;
+  speak: (t: string) => Promise<void>;
+  onClose: () => void;
+}) {
+  useEffect(() => {
+    speak(entry.word);
+  }, [entry.word, speak]);
+
+  return (
+    <>
+      <div
+        className="fixed inset-0 bg-black/20 z-40"
+        onClick={onClose}
+      />
+      <div className="fixed bottom-0 left-0 right-0 z-50 animate-slide-up">
+        <div className="max-w-lg mx-auto bg-card border-t border-border rounded-t-2xl p-5 shadow-xl space-y-3">
+          <div className="flex items-start justify-between">
+            <div>
+              <button
+                onClick={() => speak(entry.word)}
+                className="kr text-2xl font-black hover:text-accent transition-colors"
+              >
+                {entry.word} <span className="text-faint text-sm">🔊</span>
+              </button>
+              <p className="text-xs text-faint">{entry.romanization}</p>
+            </div>
+            <button
+              onClick={onClose}
+              className="text-faint hover:text-foreground text-lg p-1"
+            >
+              ✕
+            </button>
+          </div>
+
+          <div className="flex items-center gap-2">
+            <span className="text-[10px] uppercase tracking-wider font-bold text-accent bg-accent-light px-2 py-0.5 rounded">
+              {entry.partOfSpeech}
+            </span>
+          </div>
+
+          <p className="text-sm font-semibold">{entry.definition}</p>
+
+          {entry.example && (
+            <div className="bg-background border border-border rounded-lg p-3 space-y-1">
+              <button
+                onClick={() => speak(entry.example!.korean)}
+                className="kr text-sm font-bold block w-full text-left hover:text-accent transition-colors"
+              >
+                {entry.example.korean} <span className="text-faint text-xs">🔊</span>
+              </button>
+              <p className="text-xs text-muted">{entry.example.english}</p>
+            </div>
+          )}
+        </div>
+      </div>
+    </>
   );
 }
 
