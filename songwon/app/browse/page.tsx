@@ -8,7 +8,7 @@ import {
   type V5LessonIndexEntry,
 } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
-import { loadV5Progress, defaultProgress, isUnitUnlocked } from "@/lib/v5-progress";
+import { loadV5Progress, defaultProgress, isUnitUnlocked, isLessonUnlocked } from "@/lib/v5-progress";
 import type { V5UserProgress } from "@/lib/types";
 
 const UNIT_COLORS: Record<number, string> = {
@@ -173,8 +173,7 @@ export default function BrowsePage() {
 
             {!unitUnlocked && (
               <p className="text-xs mt-2 opacity-70">
-                Pass 4 lessons in Unit {activeUnit - 1} to
-                unlock
+                Complete the previous 5 lessons to unlock
               </p>
             )}
           </div>
@@ -183,12 +182,13 @@ export default function BrowsePage() {
           <div className="grid gap-3">
             {currentLessons.map((lesson) => {
               const status = getLessonStatus(progress, lesson.id);
+              const lessonAvailable = isLessonUnlocked(progress, lesson.lessonNumber);
               return (
                 <LessonCard
                   key={lesson.id}
                   lesson={lesson}
                   status={status}
-                  unitUnlocked={unitUnlocked}
+                  unitUnlocked={lessonAvailable}
                   unitColor={UNIT_COLORS[activeUnit]}
                 />
               );

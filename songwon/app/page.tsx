@@ -1,8 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { loadV5Progress, defaultProgress } from "@/lib/v5-progress";
+import { loadV5Progress, defaultProgress, loadInProgress, isLessonUnlocked, getLessonNumber } from "@/lib/v5-progress";
 import { loadV5LessonIndex, type V5LessonIndex } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
 import type { V5UserProgress } from "@/lib/types";
@@ -16,13 +17,19 @@ const UNIT_LABELS: Record<number, string> = {
 };
 
 export default function Home() {
+  const router = useRouter();
   const [progress, setProgress] = useState<V5UserProgress>(defaultProgress());
   const [index, setIndex] = useState<V5LessonIndex | null>(null);
 
   useEffect(() => {
+    const inProgress = loadInProgress();
+    if (inProgress) {
+      router.replace(`/learn/v5/${inProgress.lessonId}`);
+      return;
+    }
     setProgress(loadV5Progress());
     loadV5LessonIndex().then(setIndex);
-  }, []);
+  }, [router]);
 
   const currentUnit = findCurrentUnit(progress);
   const nextLesson = index ? findNextLesson(progress, index) : null;
@@ -153,11 +160,9 @@ export default function Home() {
                 );
                 const passed =
                   unitProgress?.lessons.filter((l) => l.passed).length ?? 0;
-                const unlocked =
-                  unitNum === 1 ||
-                  (progress.units
-                    .find((u) => u.unit === unitNum - 1)
-                    ?.lessons.filter((l) => l.passed).length ?? 0) >= 4;
+                const unlocked = unitLessons.some((l) =>
+                  isLessonUnlocked(progress, l.lessonNumber)
+                );
 
                 return (
                   <div
@@ -267,15 +272,9 @@ function findNextLesson(
   screenCount: number;
 } | null {
   for (let u = 1; u <= 5; u++) {
-    const unlocked =
-      u === 1 ||
-      (progress.units
-        .find((x) => x.unit === u - 1)
-        ?.lessons.filter((l) => l.passed).length ?? 0) >= 4;
-    if (!unlocked) continue;
-
     const lessons = index.units[String(u)]?.lessons ?? [];
     for (const lesson of lessons) {
+      if (!isLessonUnlocked(progress, lesson.lessonNumber)) continue;
       const status = progress.units
         .find((x) => x.unit === u)
         ?.lessons.find((l) => l.lessonId === lesson.id);

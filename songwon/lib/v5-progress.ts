@@ -3,6 +3,8 @@ import type { V5UserProgress, LessonAttempt, UnitProgress } from "./types";
 const STORAGE_KEY = "songwon-v5-progress";
 const PASS_THRESHOLD = 0.8;
 const LESSONS_TO_UNLOCK = 4;
+const LESSONS_PER_SET = 5;
+const IN_PROGRESS_KEY = "songwon-in-progress";
 
 export function loadV5Progress(): V5UserProgress {
   if (typeof window === "undefined") return defaultProgress();
@@ -106,10 +108,60 @@ export function isUnitUnlocked(
   progress: V5UserProgress,
   unitNum: number
 ): boolean {
-  if (unitNum === 1) return true;
-  const prevUnit = progress.units.find((u) => u.unit === unitNum - 1);
-  if (!prevUnit) return false;
-  return prevUnit.lessons.filter((l) => l.passed).length >= LESSONS_TO_UNLOCK;
+  const firstLesson = (unitNum - 1) * 4 + 1;
+  return isLessonUnlocked(progress, firstLesson);
+}
+
+export function getLessonNumber(lessonId: string): number {
+  const match = lessonId.match(/lesson(\d+)/);
+  return match ? parseInt(match[1]) : 1;
+}
+
+function isLessonPassed(progress: V5UserProgress, lessonNumber: number): boolean {
+  for (const unit of progress.units) {
+    for (const lesson of unit.lessons) {
+      if (getLessonNumber(lesson.lessonId) === lessonNumber && lesson.passed) {
+        return true;
+      }
+    }
+  }
+  return false;
+}
+
+export function isLessonUnlocked(progress: V5UserProgress, lessonNumber: number): boolean {
+  const set = Math.ceil(lessonNumber / LESSONS_PER_SET);
+  if (set === 1) return true;
+  const prevSetStart = (set - 2) * LESSONS_PER_SET + 1;
+  const prevSetEnd = (set - 1) * LESSONS_PER_SET;
+  for (let n = prevSetStart; n <= prevSetEnd; n++) {
+    if (!isLessonPassed(progress, n)) return false;
+  }
+  return true;
+}
+
+export interface InProgressState {
+  lessonId: string;
+  currentIndex: number;
+  answers: Record<string, boolean>;
+}
+
+export function saveInProgress(state: InProgressState): void {
+  if (typeof window === "undefined") return;
+  localStorage.setItem(IN_PROGRESS_KEY, JSON.stringify(state));
+}
+
+export function loadInProgress(): InProgressState | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = localStorage.getItem(IN_PROGRESS_KEY);
+    if (raw) return JSON.parse(raw);
+  } catch {}
+  return null;
+}
+
+export function clearInProgress(): void {
+  if (typeof window === "undefined") return;
+  localStorage.removeItem(IN_PROGRESS_KEY);
 }
 
 function getUnitFromLessonId(lessonId: string): number {
