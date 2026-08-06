@@ -431,7 +431,16 @@ function IntroScreen({
           <p className="text-3xl">🎵</p>
           <h1 className="kr text-xl font-black">{screen.title}</h1>
         </div>
-        <div className="bg-card border border-border rounded-xl p-5 space-y-3">
+        <div className="bg-card border border-border rounded-xl p-5 space-y-3 relative">
+          <button
+            onClick={() => setShowEnglish(!showEnglish)}
+            className={`absolute top-2 right-2 w-7 h-7 flex items-center justify-center rounded-full text-xs transition-colors ${
+              showEnglish ? "bg-accent/15 text-accent" : "text-faint hover:text-muted"
+            }`}
+            aria-label={showEnglish ? "Hide English" : "Show English"}
+          >
+            Aa
+          </button>
           {lines.map((line, i) => (
             <button
               key={i}
@@ -453,12 +462,6 @@ function IntroScreen({
             </button>
           ))}
         </div>
-        <button
-          onClick={() => setShowEnglish(!showEnglish)}
-          className="w-full text-center text-xs text-muted hover:text-accent transition-colors py-2"
-        >
-          {showEnglish ? "Hide English" : "Tap to see English"}
-        </button>
         {showEnglish && (
           <div className="text-sm text-muted leading-relaxed space-y-2 bg-card/50 border border-border rounded-xl p-4">
             {englishLines.map((line, i) => (
