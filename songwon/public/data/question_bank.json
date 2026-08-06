@@ -1,0 +1,3123 @@
+[
+  {
+    "type": "tap-meaning",
+    "prompt": "꿈",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "dream",
+    "wrong": [
+      "to laugh and cry",
+      "night",
+      "to want to love"
+    ],
+    "explanation": "꿈 = dream",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "좋은 ___ 꿨어요.",
+    "promptTranslation": "I had a nice dream.",
+    "correct": "꿈",
+    "wrong": [
+      "시간",
+      "사랑",
+      "웃고 울다"
+    ],
+    "explanation": "좋은 꿈 꿨어요. = I had a nice dream.",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "웃고 울다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to laugh and cry",
+    "wrong": [
+      "to disappear",
+      "to want to love",
+      "love"
+    ],
+    "explanation": "웃고 울다 = to laugh and cry",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___었어요.",
+    "promptTranslation": "I laughed and cried.",
+    "correct": "웃고 울",
+    "wrong": [
+      "행복",
+      "마음",
+      "사랑하고 싶다"
+    ],
+    "explanation": "웃고 울었어요. = I laughed and cried.",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "이건 세상에서 제일 비싼 단독 공연",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "This is the most expensive solo concert in the world",
+    "wrong": [
+      "Everything sounds different",
+      "the singer is me, and the one audience member is you",
+      "before the glamorous curtain rises soon"
+    ],
+    "explanation": "이건 세상에서 제일 비싼 단독 공연 = This is the most expensive solo concert in the world",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "사랑",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "love",
+    "wrong": [
+      "to laugh and cry",
+      "to hide",
+      "to want to love"
+    ],
+    "explanation": "사랑 = love",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___은 아름다워요.",
+    "promptTranslation": "Love is beautiful.",
+    "correct": "사랑",
+    "wrong": [
+      "시간",
+      "꿈",
+      "마음"
+    ],
+    "explanation": "사랑은 아름다워요. = Love is beautiful.",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "This is the most expensive solo concert in the world",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "이건 세상에서 제일 비싼 단독 공연",
+    "wrong": [
+      "화려한 막이 이제 곧 올라가기 전에",
+      "가수는 나고 관객은 너 하나",
+      "그저 몇 가지만 주의해줘요"
+    ],
+    "explanation": "이건 세상에서 제일 비싼 단독 공연",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "사랑하고 싶다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to want to love",
+    "wrong": [
+      "to stop liking",
+      "love",
+      "to laugh and cry"
+    ],
+    "explanation": "사랑하고 싶다 = to want to love",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "사랑하___ 싶다",
+    "promptTranslation": "to want to love",
+    "correct": "고",
+    "wrong": [
+      "지만",
+      "면",
+      "아서"
+    ],
+    "explanation": "패턴은 항상 -고예요.",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -고 express?",
+    "promptTranslation": null,
+    "correct": "and / and then",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-고 = and / and then",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 좋아요.",
+    "promptTranslation": "___ is nice.",
+    "correct": "꿈",
+    "wrong": [
+      "사랑하고 싶다",
+      "마음",
+      "사랑"
+    ],
+    "explanation": "꿈 = dream",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___이/가 좋아요.",
+    "promptTranslation": "Which word fits? (love)",
+    "correct": "사랑",
+    "wrong": [
+      "꿈",
+      "마음",
+      "행복"
+    ],
+    "explanation": "사랑 = love",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to laugh and cry",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "웃고 울다",
+    "wrong": [
+      "사랑",
+      "꿈",
+      "시간"
+    ],
+    "explanation": "to laugh and cry = 웃고 울다",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "노래하___ 춤춰요.",
+    "promptTranslation": "I sing and dance.",
+    "correct": "고",
+    "wrong": [
+      "처럼",
+      "면",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -고!",
+    "lesson": "unit1-lesson1",
+    "grammar": "-고"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "찾다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to find",
+    "wrong": [
+      "person",
+      "star",
+      "to want to find"
+    ],
+    "explanation": "찾다 = to find",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "열쇠를 ___ 있어요.",
+    "promptTranslation": "I'm looking for my keys.",
+    "correct": "찾고",
+    "wrong": [
+      "사랑",
+      "찾고 싶다",
+      "찾다"
+    ],
+    "explanation": "열쇠를 찾고 있어요. = I'm looking for my keys.",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "찾고 싶다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to want to find",
+    "wrong": [
+      "to disappear",
+      "person",
+      "to be beautiful"
+    ],
+    "explanation": "찾고 싶다 = to want to find",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "너를 ___어요.",
+    "promptTranslation": "I want to find you.",
+    "correct": "찾고 싶",
+    "wrong": [
+      "찾다",
+      "행복",
+      "찾고 싶다"
+    ],
+    "explanation": "너를 찾고 싶어요. = I want to find you.",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "새로운 시작은 늘 설레게 하지",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "A new beginning always makes your heart race",
+    "wrong": [
+      "I can hear other things too",
+      "as if you could overcome everything",
+      "Everything sounds different"
+    ],
+    "explanation": "새로운 시작은 늘 설레게 하지 = A new beginning always makes your heart race",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "사람",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "person",
+    "wrong": [
+      "to want to find",
+      "to want to say",
+      "to hide"
+    ],
+    "explanation": "사람 = person",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "좋은 ___이에요.",
+    "promptTranslation": "They're a good person.",
+    "correct": "사람",
+    "wrong": [
+      "찾고",
+      "세상",
+      "사랑"
+    ],
+    "explanation": "좋은 사람이에요. = They're a good person.",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "A new beginning always makes your heart race",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "새로운 시작은 늘 설레게 하지",
+    "wrong": [
+      "시간을 뒤쫓는 시계바늘처럼",
+      "모든 걸 이겨낼 것처럼",
+      "앞질러 가고 싶어 하지"
+    ],
+    "explanation": "새로운 시작은 늘 설레게 하지",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "말하고 싶다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to want to say",
+    "wrong": [
+      "to stop liking",
+      "to want to find",
+      "person"
+    ],
+    "explanation": "말하고 싶다 = to want to say",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "말하___",
+    "promptTranslation": "to want to say",
+    "correct": "고 싶다",
+    "wrong": [
+      "는데",
+      "처럼",
+      "아서"
+    ],
+    "explanation": "패턴은 항상 -고 싶다예요.",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -고 싶다 express?",
+    "promptTranslation": null,
+    "correct": "want to do",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-고 싶다 = want to do",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to want to find",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "찾고 싶다",
+    "wrong": [
+      "사랑",
+      "찾다",
+      "시간"
+    ],
+    "explanation": "to want to find = 찾고 싶다",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "먹___ 싶어요.",
+    "promptTranslation": "I want to eat.",
+    "correct": "고 싶다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -고 싶다!",
+    "lesson": "unit1-lesson2",
+    "grammar": "-고 싶다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "기다리다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to wait",
+    "wrong": [
+      "dream",
+      "to leave",
+      "night"
+    ],
+    "explanation": "기다리다 = to wait",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "친구를 ___.",
+    "promptTranslation": "I'm waiting for a friend.",
+    "correct": "기다려요",
+    "wrong": [
+      "행복",
+      "사랑",
+      "마음"
+    ],
+    "explanation": "친구를 기다려요. = I'm waiting for a friend.",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "기다리고 있다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be waiting",
+    "wrong": [
+      "to be loud",
+      "to be beautiful",
+      "to be protecting"
+    ],
+    "explanation": "기다리고 있다 = to be waiting",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "아직 ___어요.",
+    "promptTranslation": "I'm still waiting.",
+    "correct": "기다리고 있",
+    "wrong": [
+      "기다리다",
+      "떠나다",
+      "기다리고 있다"
+    ],
+    "explanation": "아직 기다리고 있어요. = I'm still waiting.",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "나의 두 눈을 감으면",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "When I close my eyes",
+    "wrong": [
+      "Everything sounds different",
+      "those eyes come to mind",
+      "because my heart keeps aching"
+    ],
+    "explanation": "나의 두 눈을 감으면 = When I close my eyes",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "떠나다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to leave",
+    "wrong": [
+      "to be waiting",
+      "to be protecting",
+      "to hide"
+    ],
+    "explanation": "떠나다 = to leave",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "내일 ___.",
+    "promptTranslation": "I'm leaving tomorrow.",
+    "correct": "떠나요",
+    "wrong": [
+      "기다려요",
+      "시간",
+      "행복"
+    ],
+    "explanation": "내일 떠나요. = I'm leaving tomorrow.",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "When I close my eyes",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "나의 두 눈을 감으면",
+    "wrong": [
+      "자꾸 가슴이 시려서",
+      "떠오르는 그 눈동자",
+      "잊혀지길 바랬어"
+    ],
+    "explanation": "나의 두 눈을 감으면",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "지키고 있다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be protecting",
+    "wrong": [
+      "to stop liking",
+      "to leave",
+      "to be waiting"
+    ],
+    "explanation": "지키고 있다 = to be protecting",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "지키___",
+    "promptTranslation": "to be protecting",
+    "correct": "고 있다",
+    "wrong": [
+      "처럼",
+      "아서",
+      "고"
+    ],
+    "explanation": "패턴은 항상 -고 있다예요.",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -고 있다 express?",
+    "promptTranslation": null,
+    "correct": "progressive / ongoing state",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-고 있다 = progressive / ongoing state",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to be waiting",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "기다리고 있다",
+    "wrong": [
+      "사랑",
+      "기다리다",
+      "시간"
+    ],
+    "explanation": "to be waiting = 기다리고 있다",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "공부하___ 있어요.",
+    "promptTranslation": "I'm studying.",
+    "correct": "고 있다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -고 있다!",
+    "lesson": "unit1-lesson3",
+    "grammar": "-고 있다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "괜찮다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be okay",
+    "wrong": [
+      "star",
+      "night",
+      "dream"
+    ],
+    "explanation": "괜찮다 = to be okay",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___.",
+    "promptTranslation": "It's okay.",
+    "correct": "괜찮아요",
+    "wrong": [
+      "웃으면 괜찮다",
+      "시간",
+      "하늘"
+    ],
+    "explanation": "괜찮아요. = It's okay.",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "웃으면 괜찮다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "if you smile, it's okay",
+    "wrong": [
+      "to be okay",
+      "to be beautiful",
+      "to be loud"
+    ],
+    "explanation": "웃으면 괜찮다 = if you smile, it's okay",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 괜찮아요.",
+    "promptTranslation": "If you smile, it's okay.",
+    "correct": "웃으면",
+    "wrong": [
+      "웃으면 괜찮다",
+      "시간이 지나면",
+      "사랑"
+    ],
+    "explanation": "웃으면 괜찮아요. = If you smile, it's okay.",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "하늘",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "sky",
+    "wrong": [
+      "if you smile, it's okay",
+      "if time passes",
+      "to hide"
+    ],
+    "explanation": "하늘 = sky",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___이 예뻐요.",
+    "promptTranslation": "The sky is pretty.",
+    "correct": "하늘",
+    "wrong": [
+      "괜찮아요",
+      "시간",
+      "사랑"
+    ],
+    "explanation": "하늘이 예뻐요. = The sky is pretty.",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "시간이 지나면",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "if time passes",
+    "wrong": [
+      "sky",
+      "to stop liking",
+      "if you smile, it's okay"
+    ],
+    "explanation": "시간이 지나면 = if time passes",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -(으)면 express?",
+    "promptTranslation": null,
+    "correct": "if / when",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-(으)면 = if / when",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "if you smile, it's okay",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "웃으면 괜찮다",
+    "wrong": [
+      "사랑",
+      "괜찮다",
+      "시간"
+    ],
+    "explanation": "if you smile, it's okay = 웃으면 괜찮다",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "비가 오___ 집에 있어요.",
+    "promptTranslation": "If it rains, I stay home.",
+    "correct": "(으)면",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -(으)면!",
+    "lesson": "unit1-lesson4",
+    "grammar": "-(으)면"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "아프다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to hurt",
+    "wrong": [
+      "heart / mind",
+      "to be sad but smile",
+      "dream"
+    ],
+    "explanation": "아프다 = to hurt",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "머리가 ___.",
+    "promptTranslation": "My head hurts.",
+    "correct": "아파요",
+    "wrong": [
+      "사랑",
+      "시간",
+      "마음"
+    ],
+    "explanation": "머리가 아파요. = My head hurts.",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "아프지만 괜찮다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "it hurts but it's okay",
+    "wrong": [
+      "to hurt",
+      "heart / mind",
+      "to be sad but smile"
+    ],
+    "explanation": "아프지만 괜찮다 = it hurts but it's okay",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "지금 이 말이jigeum i mari",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "What I'm saying right now",
+    "wrong": [
+      "Everything sounds different",
+      "isn't that we should start over again",
+      "it's just that"
+    ],
+    "explanation": "지금 이 말이jigeum i mari = What I'm saying right now",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "마음",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "heart / mind",
+    "wrong": [
+      "it hurts but it's okay",
+      "to be sad but smile",
+      "to hide"
+    ],
+    "explanation": "마음 = heart / mind",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___이 따뜻해요.",
+    "promptTranslation": "My heart is warm.",
+    "correct": "마음",
+    "wrong": [
+      "사람",
+      "아파요",
+      "사랑"
+    ],
+    "explanation": "마음이 따뜻해요. = My heart is warm.",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "What I'm saying right now",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "지금 이 말이jigeum i mari",
+    "wrong": [
+      "시작하자는 건 아냐sijakajaneun geon anya",
+      "우리가 다시uriga dasi",
+      "그저 너의geujeo neoui"
+    ],
+    "explanation": "지금 이 말이jigeum i mari",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "슬프지만 웃다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be sad but smile",
+    "wrong": [
+      "heart / mind",
+      "to stop liking",
+      "it hurts but it's okay"
+    ],
+    "explanation": "슬프지만 웃다 = to be sad but smile",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "슬프___ 웃다",
+    "promptTranslation": "to be sad but smile",
+    "correct": "지만",
+    "wrong": [
+      "게",
+      "면",
+      "는데"
+    ],
+    "explanation": "패턴은 항상 -지만예요.",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -지만 express?",
+    "promptTranslation": null,
+    "correct": "but, although",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-지만 = but, although",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "it hurts but it's okay",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "아프지만 괜찮다",
+    "wrong": [
+      "사랑",
+      "아프다",
+      "시간"
+    ],
+    "explanation": "it hurts but it's okay = 아프지만 괜찮다",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "춥___ 괜찮아요.",
+    "promptTranslation": "It's cold but it's okay.",
+    "correct": "지만",
+    "wrong": [
+      "처럼",
+      "면",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -지만!",
+    "lesson": "unit2-lesson5",
+    "grammar": "-지만"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "멈추다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to stop",
+    "wrong": [
+      "star",
+      "night",
+      "to be unable to forget"
+    ],
+    "explanation": "멈추다 = to stop",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "비가 ___.",
+    "promptTranslation": "The rain stopped.",
+    "correct": "멈췄어요",
+    "wrong": [
+      "사랑",
+      "행복",
+      "멈추지 못하다"
+    ],
+    "explanation": "비가 멈췄어요. = The rain stopped.",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "멈추지 못하다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be unable to stop",
+    "wrong": [
+      "to be beautiful",
+      "to stop",
+      "to forget"
+    ],
+    "explanation": "멈추지 못하다 = to be unable to stop",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___해요.",
+    "promptTranslation": "I can't stop.",
+    "correct": "멈추지 못",
+    "wrong": [
+      "행복",
+      "마음",
+      "멈추지 못하다"
+    ],
+    "explanation": "멈추지 못해요. = I can't stop.",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "어쩜 이렇게 하늘은 더 파란 건지?",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "How is the sky even bluer today?",
+    "wrong": [
+      "Everything sounds different",
+      "why does the wind feel so perfect, of all days?",
+      "should I just pretend not to know, pretend not to hear"
+    ],
+    "explanation": "어쩜 이렇게 하늘은 더 파란 건지? = How is the sky even bluer today?",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "잊다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to forget",
+    "wrong": [
+      "to hide",
+      "to be unable to forget",
+      "to be unable to stop"
+    ],
+    "explanation": "잊다 = to forget",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "이름을 ___.",
+    "promptTranslation": "I forgot the name.",
+    "correct": "잊었어요",
+    "wrong": [
+      "멈췄어요",
+      "행복",
+      "마음"
+    ],
+    "explanation": "이름을 잊었어요. = I forgot the name.",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "How is the sky even bluer today?",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "어쩜 이렇게 하늘은 더 파란 건지?",
+    "wrong": [
+      "그냥 모르는 척, 하나 못 들은 척",
+      "오늘따라 왜 바람은 또 완벽한지?",
+      "지워버린 척 딴 얘길 시작할까?"
+    ],
+    "explanation": "어쩜 이렇게 하늘은 더 파란 건지?",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "잊지 못하다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be unable to forget",
+    "wrong": [
+      "to forget",
+      "to stop liking",
+      "to be unable to stop"
+    ],
+    "explanation": "잊지 못하다 = to be unable to forget",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "잊___",
+    "promptTranslation": "to be unable to forget",
+    "correct": "지 못하다",
+    "wrong": [
+      "아서",
+      "게",
+      "면"
+    ],
+    "explanation": "패턴은 항상 -지 못하다예요.",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -지 못하다 express?",
+    "promptTranslation": null,
+    "correct": "cannot do",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-지 못하다 = cannot do",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to be unable to stop",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "멈추지 못하다",
+    "wrong": [
+      "사랑",
+      "멈추다",
+      "시간"
+    ],
+    "explanation": "to be unable to stop = 멈추지 못하다",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "잠을 자___ 못해요.",
+    "promptTranslation": "I can't sleep.",
+    "correct": "지 못하다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -지 못하다!",
+    "lesson": "unit2-lesson6",
+    "grammar": "-지 못하다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "변하다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to change",
+    "wrong": [
+      "end",
+      "to not end",
+      "night"
+    ],
+    "explanation": "변하다 = to change",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "계절이 ___.",
+    "promptTranslation": "The seasons change.",
+    "correct": "변해요",
+    "wrong": [
+      "마음",
+      "변하지 않다",
+      "끝나지 않다"
+    ],
+    "explanation": "계절이 변해요. = The seasons change.",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "변하지 않다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to not change",
+    "wrong": [
+      "end",
+      "to be loud",
+      "to disappear"
+    ],
+    "explanation": "변하지 않다 = to not change",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "마음은 ___아요.",
+    "promptTranslation": "My feelings don't change.",
+    "correct": "변하지 않",
+    "wrong": [
+      "사랑",
+      "행복",
+      "시간"
+    ],
+    "explanation": "마음은 변하지 않아요. = My feelings don't change.",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "설렌다, me likey",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "I keep wanting to show it off, again and again",
+    "wrong": [
+      "Everything sounds different",
+      "every little thing, all of it",
+      "I want to look the prettiest inside that small screen"
+    ],
+    "explanation": "설렌다, me likey = I keep wanting to show it off, again and again",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "끝",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "end",
+    "wrong": [
+      "to not change",
+      "to hide",
+      "to not end"
+    ],
+    "explanation": "끝 = end",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___까지 가요.",
+    "promptTranslation": "Let's go to the end.",
+    "correct": "끝",
+    "wrong": [
+      "시간",
+      "변해요",
+      "행복"
+    ],
+    "explanation": "끝까지 가요. = Let's go to the end.",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "I keep wanting to show it off, again and again",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "설렌다, me likey",
+    "wrong": [
+      "두근두근두근",
+      "두근두근두근 (Heart, heart)",
+      "자꾸 드러내고 싶지 자꾸만"
+    ],
+    "explanation": "설렌다, me likey",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "끝나지 않다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to not end",
+    "wrong": [
+      "end",
+      "to not change",
+      "to stop liking"
+    ],
+    "explanation": "끝나지 않다 = to not end",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "끝나___",
+    "promptTranslation": "to not end",
+    "correct": "지 않다",
+    "wrong": [
+      "고",
+      "아서",
+      "면"
+    ],
+    "explanation": "패턴은 항상 -지 않다예요.",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -지 않다 express?",
+    "promptTranslation": null,
+    "correct": "not, negation",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-지 않다 = not, negation",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to not change",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "변하지 않다",
+    "wrong": [
+      "사랑",
+      "변하다",
+      "시간"
+    ],
+    "explanation": "to not change = 변하지 않다",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "걱정하___ 않아요.",
+    "promptTranslation": "I don't worry.",
+    "correct": "지 않다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -지 않다!",
+    "lesson": "unit2-lesson7",
+    "grammar": "-지 않다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "보다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to see",
+    "wrong": [
+      "dream",
+      "to hear",
+      "because I miss (you)"
+    ],
+    "explanation": "보다 = to see",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "영화를 ___.",
+    "promptTranslation": "I watch a movie.",
+    "correct": "봐요",
+    "wrong": [
+      "행복",
+      "듣다",
+      "시간"
+    ],
+    "explanation": "영화를 봐요. = I watch a movie.",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "좋아해서",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "because I like (you)",
+    "wrong": [
+      "to see",
+      "because I miss (you)",
+      "to be loud"
+    ],
+    "explanation": "좋아해서 = because I like (you)",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 말 못 해요.",
+    "promptTranslation": "Because I like you, I can't say it.",
+    "correct": "좋아해서",
+    "wrong": [
+      "듣다",
+      "보고 싶어서",
+      "마음"
+    ],
+    "explanation": "좋아해서 말 못 해요. = Because I like you, I can't say it.",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "듣다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to hear",
+    "wrong": [
+      "to hide",
+      "because I like (you)",
+      "because I miss (you)"
+    ],
+    "explanation": "듣다 = to hear",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "노래를 ___.",
+    "promptTranslation": "I listen to a song.",
+    "correct": "들어요",
+    "wrong": [
+      "마음",
+      "행복",
+      "봐요"
+    ],
+    "explanation": "노래를 들어요. = I listen to a song.",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "보고 싶어서",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "because I miss (you)",
+    "wrong": [
+      "because I like (you)",
+      "to stop liking",
+      "to hear"
+    ],
+    "explanation": "보고 싶어서 = because I miss (you)",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "pattern-comprehension",
+    "prompt": "What does -아/어서 express?",
+    "promptTranslation": null,
+    "correct": "because / and then",
+    "wrong": [
+      "but / however",
+      "not at all",
+      "always / every time"
+    ],
+    "explanation": "-아/어서 = because / and then",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "because I like (you)",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "좋아해서",
+    "wrong": [
+      "사랑",
+      "보다",
+      "시간"
+    ],
+    "explanation": "because I like (you) = 좋아해서",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "피곤해___ 쉬었어요.",
+    "promptTranslation": "I rested because I was tired.",
+    "correct": "아/어서",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -아/어서!",
+    "lesson": "unit2-lesson8",
+    "grammar": "-아/어서"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "빛나다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to shine",
+    "wrong": [
+      "I think (they'll) like it",
+      "I think I'll cry",
+      "dream"
+    ],
+    "explanation": "빛나다 = to shine",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "별이 ___.",
+    "promptTranslation": "The stars shine.",
+    "correct": "빛나요",
+    "wrong": [
+      "마음",
+      "울 것 같다",
+      "빛나다"
+    ],
+    "explanation": "별이 빛나요. = The stars shine.",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "울 것 같다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "I think I'll cry",
+    "wrong": [
+      "to be loud",
+      "to disappear",
+      "to be beautiful"
+    ],
+    "explanation": "울 것 같다 = I think I'll cry",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___아요.",
+    "promptTranslation": "I think I'll cry.",
+    "correct": "울 것 같",
+    "wrong": [
+      "시간",
+      "사랑",
+      "행복"
+    ],
+    "explanation": "울 것 같아요. = I think I'll cry.",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "Tonight, I'll send that day's firefly",
+    "wrong": [
+      "Everything sounds different",
+      "close to your window",
+      "it means 'I love you'"
+    ],
+    "explanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul = Tonight, I'll send that day's firefly",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "울다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to cry",
+    "wrong": [
+      "to hide",
+      "I think (they'll) like it",
+      "I think I'll cry"
+    ],
+    "explanation": "울다 = to cry",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "아기가 ___.",
+    "promptTranslation": "The baby is crying.",
+    "correct": "울어요",
+    "wrong": [
+      "시간",
+      "사람",
+      "빛나요"
+    ],
+    "explanation": "아기가 울어요. = The baby is crying.",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "Tonight, I'll send that day's firefly",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+    "wrong": [
+      "사랑한다는 말이에요saranghandaneun marieyo",
+      "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+      "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+    ],
+    "explanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "좋아할 것 같다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "I think (they'll) like it",
+    "wrong": [
+      "to cry",
+      "I think I'll cry",
+      "to stop liking"
+    ],
+    "explanation": "좋아할 것 같다 = I think (they'll) like it",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "I think I'll cry",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "울 것 같다",
+    "wrong": [
+      "사랑",
+      "빛나다",
+      "시간"
+    ],
+    "explanation": "I think I'll cry = 울 것 같다",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "비가 올 것 ___.",
+    "promptTranslation": "I think it'll rain.",
+    "correct": "(으)ㄹ 것 같다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -(으)ㄹ 것 같다!",
+    "lesson": "unit3-lesson10",
+    "grammar": "-(으)ㄹ 것 같다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "알다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to know",
+    "wrong": [
+      "you know, right?",
+      "to be seen",
+      "dream"
+    ],
+    "explanation": "알다 = to know",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "잘 ___.",
+    "promptTranslation": "I know well.",
+    "correct": "알아요",
+    "wrong": [
+      "행복",
+      "시간",
+      "알잖아"
+    ],
+    "explanation": "잘 알아요. = I know well.",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "알잖아",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "you know, right?",
+    "wrong": [
+      "to know",
+      "to be seen",
+      "to disappear"
+    ],
+    "explanation": "알잖아 = you know, right?",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "너도 ___.",
+    "promptTranslation": "You know too, right?",
+    "correct": "알잖아",
+    "wrong": [
+      "행복",
+      "보이잖아",
+      "사랑"
+    ],
+    "explanation": "너도 알잖아. = You know too, right?",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "날 좋아하던 그때",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "Thought that I was a princess",
+    "wrong": [
+      "Everything sounds different",
+      "back when you liked me",
+      "shyly handing me a flower"
+    ],
+    "explanation": "날 좋아하던 그때 = Thought that I was a princess",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "보이다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be seen",
+    "wrong": [
+      "to hide",
+      "you know, right?",
+      "you can see it, can't you?"
+    ],
+    "explanation": "보이다 = to be seen",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "바다가 ___.",
+    "promptTranslation": "The ocean can be seen.",
+    "correct": "보여요",
+    "wrong": [
+      "세상",
+      "알아요",
+      "사랑"
+    ],
+    "explanation": "바다가 보여요. = The ocean can be seen.",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "Thought that I was a princess",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "날 좋아하던 그때",
+    "wrong": [
+      "웃으며 손을 내밀었지",
+      "수줍게 꽃을 건네던 너에게",
+      "시간 지나 my birthday"
+    ],
+    "explanation": "날 좋아하던 그때",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "보이잖아",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "you can see it, can't you?",
+    "wrong": [
+      "to be seen",
+      "to stop liking",
+      "you know, right?"
+    ],
+    "explanation": "보이잖아 = you can see it, can't you?",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "보이___",
+    "promptTranslation": "you can see it, can't you?",
+    "correct": "잖아",
+    "wrong": [
+      "게",
+      "는데",
+      "아서"
+    ],
+    "explanation": "패턴은 항상 -잖아예요.",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "you know, right?",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "알잖아",
+    "wrong": [
+      "사랑",
+      "알다",
+      "시간"
+    ],
+    "explanation": "you know, right? = 알잖아",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "알___.",
+    "promptTranslation": "You know, right?",
+    "correct": "잖아",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -잖아!",
+    "lesson": "unit3-lesson11",
+    "grammar": "-잖아"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "걷다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to walk",
+    "wrong": [
+      "rain",
+      "dream",
+      "I was walking, and..."
+    ],
+    "explanation": "걷다 = to walk",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "공원에서 ___.",
+    "promptTranslation": "I walk in the park.",
+    "correct": "걸어요",
+    "wrong": [
+      "시간",
+      "사랑",
+      "마음"
+    ],
+    "explanation": "공원에서 걸어요. = I walk in the park.",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "비가 오는데",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "it's raining, and...",
+    "wrong": [
+      "to be beautiful",
+      "to disappear",
+      "I was walking, and..."
+    ],
+    "explanation": "비가 오는데 = it's raining, and...",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 우산이 없어요.",
+    "promptTranslation": "It's raining and I don't have an umbrella.",
+    "correct": "비가 오는데",
+    "wrong": [
+      "마음",
+      "시간",
+      "걷고 있는데"
+    ],
+    "explanation": "비가 오는데 우산이 없어요. = It's raining and I don't have an umbrella.",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "표현이 서툰 것도 잘못인가요",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "Is it wrong that I'm bad at expressing myself?",
+    "wrong": [
+      "Everything sounds different",
+      "I'm a warm woman in a cold city",
+      "is it that strange to just say I like you?"
+    ],
+    "explanation": "표현이 서툰 것도 잘못인가요 = Is it wrong that I'm bad at expressing myself?",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "비",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "rain",
+    "wrong": [
+      "to hide",
+      "it's raining, and...",
+      "I was walking, and..."
+    ],
+    "explanation": "비 = rain",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___가 와요.",
+    "promptTranslation": "It's raining.",
+    "correct": "비",
+    "wrong": [
+      "세상",
+      "사랑",
+      "걸어요"
+    ],
+    "explanation": "비가 와요. = It's raining.",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "Is it wrong that I'm bad at expressing myself?",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "표현이 서툰 것도 잘못인가요",
+    "wrong": [
+      "그냥 좋아한단 말도 안 되는가요",
+      "나 차가운 도시에 따뜻한 여잔데",
+      "솔직하게 난 말하고 싶어요"
+    ],
+    "explanation": "표현이 서툰 것도 잘못인가요",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "걷고 있는데",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "I was walking, and...",
+    "wrong": [
+      "rain",
+      "to stop liking",
+      "it's raining, and..."
+    ],
+    "explanation": "걷고 있는데 = I was walking, and...",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "걷고 있___",
+    "promptTranslation": "I was walking, and...",
+    "correct": "는데",
+    "wrong": [
+      "아서",
+      "면",
+      "지만"
+    ],
+    "explanation": "패턴은 항상 -는데예요.",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "it's raining, and...",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "비가 오는데",
+    "wrong": [
+      "사랑",
+      "걷다",
+      "시간"
+    ],
+    "explanation": "it's raining, and... = 비가 오는데",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "비가 오___.",
+    "promptTranslation": "It's raining, and...",
+    "correct": "는데",
+    "wrong": [
+      "처럼",
+      "면",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -는데!",
+    "lesson": "unit3-lesson12",
+    "grammar": "-는데"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "잡다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to hold / to grab",
+    "wrong": [
+      "night",
+      "hug me (please)",
+      "to hug"
+    ],
+    "explanation": "잡다 = to hold / to grab",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "손을 ___.",
+    "promptTranslation": "I hold your hand.",
+    "correct": "잡아요",
+    "wrong": [
+      "잡아 줘",
+      "안다",
+      "행복"
+    ],
+    "explanation": "손을 잡아요. = I hold your hand.",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "잡아 줘",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "hold me (please)",
+    "wrong": [
+      "hug me (please)",
+      "to hug",
+      "to hold / to grab"
+    ],
+    "explanation": "잡아 줘 = hold me (please)",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "손 ___.",
+    "promptTranslation": "Hold my hand (please).",
+    "correct": "잡아 줘",
+    "wrong": [
+      "잡다",
+      "안아 줘",
+      "안다"
+    ],
+    "explanation": "손 잡아 줘. = Hold my hand (please).",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "(direct English)",
+    "wrong": [
+      "I can hear other things too",
+      "Everything sounds different"
+    ],
+    "explanation": "조용히 잠든 방을 열어 기억을 꺼내 들어 = (direct English)",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "안다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to hug",
+    "wrong": [
+      "to hide",
+      "hug me (please)",
+      "hold me (please)"
+    ],
+    "explanation": "안다 = to hug",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "아이를 ___.",
+    "promptTranslation": "I hug the child.",
+    "correct": "안아요",
+    "wrong": [
+      "사람",
+      "잡아요",
+      "사랑"
+    ],
+    "explanation": "아이를 안아요. = I hug the child.",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "(direct English)",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+    "wrong": [
+      "길 잃은 마음속에 널 가둔 채 살아",
+      "부서진 시간 위에서 선명히 너는 떠올라",
+      "그만 그만"
+    ],
+    "explanation": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "안아 줘",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "hug me (please)",
+    "wrong": [
+      "hold me (please)",
+      "to hug",
+      "to stop liking"
+    ],
+    "explanation": "안아 줘 = hug me (please)",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "hold me (please)",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "잡아 줘",
+    "wrong": [
+      "사랑",
+      "잡다",
+      "시간"
+    ],
+    "explanation": "hold me (please) = 잡아 줘",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "도와___.",
+    "promptTranslation": "Help me (please).",
+    "correct": "아/어 줘",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -아/어 줘!",
+    "lesson": "unit3-lesson9",
+    "grammar": "-아/어 줘"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "사라지다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to disappear",
+    "wrong": [
+      "night",
+      "star",
+      "dream"
+    ],
+    "explanation": "사라지다 = to disappear",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "소리가 ___.",
+    "promptTranslation": "The sound disappeared.",
+    "correct": "사라졌어요",
+    "wrong": [
+      "사라져도",
+      "아파도 괜찮다",
+      "사라지다"
+    ],
+    "explanation": "소리가 사라졌어요. = The sound disappeared.",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "사라져도",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "even if (you) disappear",
+    "wrong": [
+      "to disappear",
+      "to be beautiful",
+      "even if it hurts, it's okay"
+    ],
+    "explanation": "사라져도 = even if (you) disappear",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 기억할 거예요.",
+    "promptTranslation": "Even if you disappear, I'll remember.",
+    "correct": "사라져도",
+    "wrong": [
+      "아파도 괜찮다",
+      "행복",
+      "시간"
+    ],
+    "explanation": "사라져도 기억할 거예요. = Even if you disappear, I'll remember.",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "널 위해서라면 난",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "If it was for you, I could",
+    "wrong": [
+      "Everything sounds different",
+      "pretend to be happy even when sad",
+      "if it was for you, I could"
+    ],
+    "explanation": "널 위해서라면 난 = If it was for you, I could",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "곁",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "side (of a person)",
+    "wrong": [
+      "even if (you) disappear",
+      "even if it hurts, it's okay",
+      "to hide"
+    ],
+    "explanation": "곁 = side (of a person)",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "내 ___에 있어요.",
+    "promptTranslation": "You're by my side.",
+    "correct": "곁",
+    "wrong": [
+      "사라졌어요",
+      "마음",
+      "사람"
+    ],
+    "explanation": "내 곁에 있어요. = You're by my side.",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "If it was for you, I could",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "널 위해서라면 난",
+    "wrong": [
+      "아파도 강한 척 할 수가 있었어",
+      "슬퍼도 기쁜 척 할 수가 있었어",
+      "..."
+    ],
+    "explanation": "널 위해서라면 난",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "아파도 괜찮다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "even if it hurts, it's okay",
+    "wrong": [
+      "to stop liking",
+      "even if (you) disappear",
+      "side (of a person)"
+    ],
+    "explanation": "아파도 괜찮다 = even if it hurts, it's okay",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "even if (you) disappear",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "사라져도",
+    "wrong": [
+      "사랑",
+      "사라지다",
+      "시간"
+    ],
+    "explanation": "even if (you) disappear = 사라져도",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "힘들___ 괜찮아요.",
+    "promptTranslation": "Even if it's hard, it's okay.",
+    "correct": "아/어도",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -아/어도!",
+    "lesson": "unit4-lesson13",
+    "grammar": "-아/어도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "멀어지다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to grow distant",
+    "wrong": [
+      "to be sad",
+      "dream",
+      "night"
+    ],
+    "explanation": "멀어지다 = to grow distant",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "점점 ___.",
+    "promptTranslation": "It's gradually getting farther.",
+    "correct": "멀어져요",
+    "wrong": [
+      "멀어지다",
+      "슬퍼지다",
+      "멀어지고 있다"
+    ],
+    "explanation": "점점 멀어져요. = It's gradually getting farther.",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "멀어지고 있다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be growing distant",
+    "wrong": [
+      "to disappear",
+      "to be beautiful",
+      "to be sad"
+    ],
+    "explanation": "멀어지고 있다 = to be growing distant",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "점점 ___어요.",
+    "promptTranslation": "We're gradually growing apart.",
+    "correct": "멀어지고 있",
+    "wrong": [
+      "마음",
+      "멀어지고 있다",
+      "슬프다"
+    ],
+    "explanation": "점점 멀어지고 있어요. = We're gradually growing apart.",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "슬프다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to be sad",
+    "wrong": [
+      "to be growing distant",
+      "to hide",
+      "to become sad"
+    ],
+    "explanation": "슬프다 = to be sad",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "영화가 ___.",
+    "promptTranslation": "The movie is sad.",
+    "correct": "슬퍼요",
+    "wrong": [
+      "사랑",
+      "사람",
+      "멀어져요"
+    ],
+    "explanation": "영화가 슬퍼요. = The movie is sad.",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "슬퍼지다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to become sad",
+    "wrong": [
+      "to be growing distant",
+      "to be sad",
+      "to stop liking"
+    ],
+    "explanation": "슬퍼지다 = to become sad",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to be growing distant",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "멀어지고 있다",
+    "wrong": [
+      "사랑",
+      "멀어지다",
+      "시간"
+    ],
+    "explanation": "to be growing distant = 멀어지고 있다",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "날씨가 추워___.",
+    "promptTranslation": "The weather is getting cold.",
+    "correct": "아/어지다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -아/어지다!",
+    "lesson": "unit4-lesson14",
+    "grammar": "-아/어지다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "별",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "star",
+    "wrong": [
+      "like a dream",
+      "dream",
+      "flower"
+    ],
+    "explanation": "별 = star",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___이 많아요.",
+    "promptTranslation": "There are many stars.",
+    "correct": "별",
+    "wrong": [
+      "꿈처럼",
+      "사랑",
+      "꽃"
+    ],
+    "explanation": "별이 많아요. = There are many stars.",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "꿈처럼",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "like a dream",
+    "wrong": [
+      "to disappear",
+      "to shine like a star",
+      "star"
+    ],
+    "explanation": "꿈처럼 = like a dream",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 느껴져요.",
+    "promptTranslation": "It feels like a dream.",
+    "correct": "꿈처럼",
+    "wrong": [
+      "사랑",
+      "별",
+      "마음"
+    ],
+    "explanation": "꿈처럼 느껴져요. = It feels like a dream.",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "나만 홀로 느낀 황홀함일까",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "Was I the only one who felt that ecstasy?",
+    "wrong": [
+      "Everything sounds different",
+      "The gaze I'm just watching from feels heavy",
+      "My steps keep circling back, I still miss you"
+    ],
+    "explanation": "나만 홀로 느낀 황홀함일까 = Was I the only one who felt that ecstasy?",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "꽃",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "flower",
+    "wrong": [
+      "to hide",
+      "to shine like a star",
+      "like a dream"
+    ],
+    "explanation": "꽃 = flower",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "Was I the only one who felt that ecstasy?",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "나만 홀로 느낀 황홀함일까",
+    "wrong": [
+      "맴도는 발걸음 여전히 네가 보고 싶어",
+      "그저 바라보는 시선이 무거워",
+      "I remember 차가웠던 그 날"
+    ],
+    "explanation": "나만 홀로 느낀 황홀함일까",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "별처럼 빛나다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to shine like a star",
+    "wrong": [
+      "like a dream",
+      "flower",
+      "to stop liking"
+    ],
+    "explanation": "별처럼 빛나다 = to shine like a star",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "별___ 빛나다",
+    "promptTranslation": "to shine like a star",
+    "correct": "처럼",
+    "wrong": [
+      "고",
+      "게",
+      "아서"
+    ],
+    "explanation": "패턴은 항상 -처럼예요.",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "like a dream",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "꿈처럼",
+    "wrong": [
+      "사랑",
+      "별",
+      "시간"
+    ],
+    "explanation": "like a dream = 꿈처럼",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "꿈___ 느껴져요.",
+    "promptTranslation": "It feels like a dream.",
+    "correct": "처럼",
+    "wrong": [
+      "게",
+      "면",
+      "아서"
+    ],
+    "explanation": "패턴은 항상 -처럼!",
+    "lesson": "unit4-lesson15",
+    "grammar": "-처럼"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "목소리",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "voice",
+    "wrong": [
+      "a voice can be heard",
+      "star",
+      "night"
+    ],
+    "explanation": "목소리 = voice",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "엄마 ___가 좋아요.",
+    "promptTranslation": "Mom's voice is nice.",
+    "correct": "목소리",
+    "wrong": [
+      "사랑",
+      "좋아하게 되다",
+      "마음"
+    ],
+    "explanation": "엄마 목소리가 좋아요. = Mom's voice is nice.",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "목소리가 들리다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "a voice can be heard",
+    "wrong": [
+      "to be seen",
+      "voice",
+      "to end up liking"
+    ],
+    "explanation": "목소리가 들리다 = a voice can be heard",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "친구 ___요.",
+    "promptTranslation": "I can hear my friend's voice.",
+    "correct": "목소리가 들려",
+    "wrong": [
+      "목소리가 들리다",
+      "보이다",
+      "마음"
+    ],
+    "explanation": "친구 목소리가 들려요. = I can hear my friend's voice.",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "fill-blank-song",
+    "prompt": "너의 ___만 넘나 크게 들려",
+    "promptTranslation": "노래를 완성하세요",
+    "correct": "목소리",
+    "wrong": [
+      "보이다",
+      "목소리가 들리다",
+      "시간"
+    ],
+    "explanation": "너의 목소리만 넘나 크게 들려",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "song-comprehension",
+    "prompt": "너의 목소리만 넘나 크게 들려",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "Only your voice sounds unbelievably loud to me",
+    "wrong": [
+      "Everything sounds different",
+      "nothing else is audible at all",
+      "only your eyes look unbelievably big to me"
+    ],
+    "explanation": "너의 목소리만 넘나 크게 들려 = Only your voice sounds unbelievably loud to me",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "line-recall",
+    "prompt": "Only your voice sounds unbelievably loud to me",
+    "promptTranslation": "어떤 가사일까요?",
+    "correct": "너의 목소리만 넘나 크게 들려",
+    "wrong": [
+      "너의 눈동자만 넘나 크게 보여",
+      "다른건 아무것도 안들리고",
+      "아니 내가 정말 미친걸까"
+    ],
+    "explanation": "너의 목소리만 넘나 크게 들려",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "좋아하게 되다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to end up liking",
+    "wrong": [
+      "to be seen",
+      "to stop liking",
+      "a voice can be heard"
+    ],
+    "explanation": "좋아하게 되다 = to end up liking",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "좋아하___",
+    "promptTranslation": "to end up liking",
+    "correct": "게 되다",
+    "wrong": [
+      "면",
+      "지만",
+      "는데"
+    ],
+    "explanation": "패턴은 항상 -게 되다예요.",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "a voice can be heard",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "목소리가 들리다",
+    "wrong": [
+      "사랑",
+      "목소리",
+      "시간"
+    ],
+    "explanation": "a voice can be heard = 목소리가 들리다",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "커피를 좋아하___ 됐어요.",
+    "promptTranslation": "I ended up liking coffee.",
+    "correct": "게 되다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -게 되다!",
+    "lesson": "unit4-lesson16",
+    "grammar": "-게 되다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "지우다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to erase",
+    "wrong": [
+      "dream",
+      "to leave for good",
+      "to completely forget"
+    ],
+    "explanation": "지우다 = to erase",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "글씨를 ___.",
+    "promptTranslation": "I erased the writing.",
+    "correct": "지웠어요",
+    "wrong": [
+      "행복",
+      "사랑",
+      "마음"
+    ],
+    "explanation": "글씨를 지웠어요. = I erased the writing.",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "잊어 버리다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to completely forget",
+    "wrong": [
+      "to leave",
+      "to be loud",
+      "to disappear"
+    ],
+    "explanation": "잊어 버리다 = to completely forget",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "다 ___렸어요.",
+    "promptTranslation": "I completely forgot everything.",
+    "correct": "잊어 버",
+    "wrong": [
+      "떠나 버리다",
+      "행복",
+      "지우다"
+    ],
+    "explanation": "다 잊어 버렸어요. = I completely forgot everything.",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "떠나 버리다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to leave for good",
+    "wrong": [
+      "to completely forget",
+      "to leave",
+      "to stop liking"
+    ],
+    "explanation": "떠나 버리다 = to leave for good",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to completely forget",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "잊어 버리다",
+    "wrong": [
+      "사랑",
+      "지우다",
+      "시간"
+    ],
+    "explanation": "to completely forget = 잊어 버리다",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "다 먹어 ___.",
+    "promptTranslation": "I ate it all up.",
+    "correct": "아/어 버리다",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -아/어 버리다!",
+    "lesson": "unit5-lesson17",
+    "grammar": "-아/어 버리다"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "시작하다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to start",
+    "wrong": [
+      "before leaving",
+      "dream",
+      "before starting"
+    ],
+    "explanation": "시작하다 = to start",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "수업이 ___.",
+    "promptTranslation": "Class is starting.",
+    "correct": "시작해요",
+    "wrong": [
+      "끝나다",
+      "행복",
+      "사랑"
+    ],
+    "explanation": "수업이 시작해요. = Class is starting.",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "떠나기 전에",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "before leaving",
+    "wrong": [
+      "to disappear",
+      "to be loud",
+      "to end"
+    ],
+    "explanation": "떠나기 전에 = before leaving",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___ 말해 줘.",
+    "promptTranslation": "Tell me before you leave.",
+    "correct": "떠나기 전에",
+    "wrong": [
+      "끝나다",
+      "사랑",
+      "마음"
+    ],
+    "explanation": "떠나기 전에 말해 줘. = Tell me before you leave.",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "끝나다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to end",
+    "wrong": [
+      "before starting",
+      "to hide",
+      "before leaving"
+    ],
+    "explanation": "끝나다 = to end",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "시작하기 전에",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "before starting",
+    "wrong": [
+      "to end",
+      "to stop liking",
+      "before leaving"
+    ],
+    "explanation": "시작하기 전에 = before starting",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "시작하___",
+    "promptTranslation": "before starting",
+    "correct": "기 전에",
+    "wrong": [
+      "는데",
+      "면",
+      "아서"
+    ],
+    "explanation": "패턴은 항상 -기 전에예요.",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "before leaving",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "떠나기 전에",
+    "wrong": [
+      "사랑",
+      "시작하다",
+      "시간"
+    ],
+    "explanation": "before leaving = 떠나기 전에",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "자___ 전에 책을 읽어요.",
+    "promptTranslation": "I read before sleeping.",
+    "correct": "기 전에",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -기 전에!",
+    "lesson": "unit5-lesson18",
+    "grammar": "-기 전에"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "생각하다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to think",
+    "wrong": [
+      "even while thinking",
+      "alone",
+      "dream"
+    ],
+    "explanation": "생각하다 = to think",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "자주 ___.",
+    "promptTranslation": "I think about it often.",
+    "correct": "생각해요",
+    "wrong": [
+      "생각하다",
+      "시간",
+      "마음"
+    ],
+    "explanation": "자주 생각해요. = I think about it often.",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "웃다가도 울다",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "to cry even while laughing",
+    "wrong": [
+      "to be beautiful",
+      "even while thinking",
+      "to think"
+    ],
+    "explanation": "웃다가도 울다 = to cry even while laughing",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "___어요.",
+    "promptTranslation": "I cry even while laughing.",
+    "correct": "웃다가도 울",
+    "wrong": [
+      "마음",
+      "웃다가도 울다",
+      "사랑"
+    ],
+    "explanation": "웃다가도 울어요. = I cry even while laughing.",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "혼자",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "alone",
+    "wrong": [
+      "even while thinking",
+      "to cry even while laughing",
+      "to hide"
+    ],
+    "explanation": "혼자 = alone",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "___ 걸어요.",
+    "promptTranslation": "I walk alone.",
+    "correct": "혼자",
+    "wrong": [
+      "시간",
+      "사람",
+      "생각해요"
+    ],
+    "explanation": "혼자 걸어요. = I walk alone.",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "생각하다가도",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "even while thinking",
+    "wrong": [
+      "alone",
+      "to stop liking",
+      "to cry even while laughing"
+    ],
+    "explanation": "생각하다가도 = even while thinking",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "생각하___",
+    "promptTranslation": "even while thinking",
+    "correct": "다가도",
+    "wrong": [
+      "는데",
+      "처럼",
+      "지만"
+    ],
+    "explanation": "패턴은 항상 -다가도예요.",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "to cry even while laughing",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "웃다가도 울다",
+    "wrong": [
+      "사랑",
+      "생각하다",
+      "시간"
+    ],
+    "explanation": "to cry even while laughing = 웃다가도 울다",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "웃___도 울어요.",
+    "promptTranslation": "I cry even while laughing.",
+    "correct": "다가도",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -다가도!",
+    "lesson": "unit5-lesson19",
+    "grammar": "-다가도"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "추억",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "memory / nostalgia",
+    "wrong": [
+      "the road we used to walk",
+      "dream",
+      "star"
+    ],
+    "explanation": "추억 = memory / nostalgia",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "걷던 길",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "the road we used to walk",
+    "wrong": [
+      "the person I used to love",
+      "to be beautiful",
+      "memory / nostalgia"
+    ],
+    "explanation": "걷던 길 = the road we used to walk",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "fill-blank",
+    "prompt": "같이 ___이에요.",
+    "promptTranslation": "It's the road we used to walk together.",
+    "correct": "걷던 길",
+    "wrong": [
+      "행복",
+      "사랑",
+      "향기"
+    ],
+    "explanation": "같이 걷던 길이에요. = It's the road we used to walk together.",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "fill-blank-song",
+    "prompt": "___이 되었을 거야chueogi doe-eosseul geoya",
+    "promptTranslation": "노래를 완성하세요",
+    "correct": "추억",
+    "wrong": [
+      "마음",
+      "시간",
+      "향기"
+    ],
+    "explanation": "추억이 되었을 거야chueogi doe-eosseul geoya",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "향기",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "scent / fragrance",
+    "wrong": [
+      "the road we used to walk",
+      "the person I used to love",
+      "to hide"
+    ],
+    "explanation": "향기 = scent / fragrance",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "distinguish",
+    "prompt": "꽃 ___가 좋아요.",
+    "promptTranslation": "The flower's scent is nice.",
+    "correct": "향기",
+    "wrong": [
+      "추억",
+      "시간",
+      "마음"
+    ],
+    "explanation": "꽃 향기가 좋아요. = The flower's scent is nice.",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "사랑하던 사람",
+    "promptTranslation": "무슨 뜻일까요?",
+    "correct": "the person I used to love",
+    "wrong": [
+      "to stop liking",
+      "scent / fragrance",
+      "the road we used to walk"
+    ],
+    "explanation": "사랑하던 사람 = the person I used to love",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "사랑하___ 사람",
+    "promptTranslation": "the person I used to love",
+    "correct": "던",
+    "wrong": [
+      "아서",
+      "처럼",
+      "는데"
+    ],
+    "explanation": "패턴은 항상 -던예요.",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "tap-meaning",
+    "prompt": "the road we used to walk",
+    "promptTranslation": "이 뜻에 맞는 한국어는?",
+    "correct": "걷던 길",
+    "wrong": [
+      "사랑",
+      "추억",
+      "시간"
+    ],
+    "explanation": "the road we used to walk = 걷던 길",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  },
+  {
+    "type": "grammar-fill",
+    "prompt": "좋아하___ 노래예요.",
+    "promptTranslation": "It's a song I used to like.",
+    "correct": "던",
+    "wrong": [
+      "아서",
+      "처럼",
+      "게"
+    ],
+    "explanation": "패턴은 항상 -던!",
+    "lesson": "unit5-lesson20",
+    "grammar": "-던"
+  }
+]

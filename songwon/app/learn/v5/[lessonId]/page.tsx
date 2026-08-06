@@ -40,12 +40,7 @@ export default function V5LearnPage({
     loadV5LessonById(lessonId).then((l) => {
       if (l) {
         setLesson(l);
-        const progress = loadInProgress();
-        if (progress && progress.lessonId === lessonId && progress.currentIndex < l.screens.length) {
-          setCurrentIndex(progress.currentIndex);
-          setAnswers(progress.answers);
-          setRestored(true);
-        }
+        setRestored(true);
       }
     });
   }, [lessonId]);
@@ -86,12 +81,12 @@ export default function V5LearnPage({
   const totalQuizzes = scoredQuizzes.length;
   const correctCount = scoredQuizzes.filter((s) => answers[s.id] === true).length;
 
-  // Persist in-progress state for resume
+  // Mark this lesson as in-progress for resume
   useEffect(() => {
     if (!lesson) return;
     if (screen?.type === "recap") return;
-    saveInProgress({ lessonId, currentIndex, answers });
-  }, [lesson, lessonId, currentIndex, answers, screen?.type]);
+    saveInProgress({ lessonId, currentIndex: 0, answers: {} });
+  }, [lesson, lessonId, screen?.type]);
 
   // Save progress when reaching the recap screen
   useEffect(() => {

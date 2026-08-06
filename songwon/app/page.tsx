@@ -6,6 +6,7 @@ import Link from "next/link";
 import { loadV5Progress, defaultProgress, loadInProgress, isLessonUnlocked, getLessonNumber, initTesterMode } from "@/lib/v5-progress";
 import { loadV5LessonIndex, type V5LessonIndex } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
+import { StartupQuestion } from "@/components/StartupQuestion";
 import type { V5UserProgress } from "@/lib/types";
 
 const UNIT_LABELS: Record<number, string> = {
@@ -20,17 +21,29 @@ export default function Home() {
   const router = useRouter();
   const [progress, setProgress] = useState<V5UserProgress>(defaultProgress());
   const [index, setIndex] = useState<V5LessonIndex | null>(null);
+  const [showQuestion, setShowQuestion] = useState(true);
+  const [resumeLessonId, setResumeLessonId] = useState<string | null>(null);
 
   useEffect(() => {
     initTesterMode();
     const inProgress = loadInProgress();
     if (inProgress) {
-      router.replace(`/learn/v5/${inProgress.lessonId}`);
-      return;
+      setResumeLessonId(inProgress.lessonId);
     }
     setProgress(loadV5Progress());
     loadV5LessonIndex().then(setIndex);
-  }, [router]);
+  }, []);
+
+  const handleQuestionDismiss = () => {
+    setShowQuestion(false);
+    if (resumeLessonId) {
+      router.replace(`/learn/v5/${resumeLessonId}`);
+    }
+  };
+
+  if (showQuestion) {
+    return <StartupQuestion onDismiss={handleQuestionDismiss} />;
+  }
 
   const currentUnit = findCurrentUnit(progress);
   const nextLesson = index ? findNextLesson(progress, index) : null;

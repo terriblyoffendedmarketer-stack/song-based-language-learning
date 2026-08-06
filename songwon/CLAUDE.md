@@ -3,6 +3,7 @@
 # Songwon (송원) — Korean Language Learning Through Songs
 
 Read PROJECT.md for the full spec, architecture, and current status.
+Read ROADMAP.md for the product vision: V2 (user Spotify playlists), V3 (language-agnostic), and Promised Land (song snippet extraction). That doc is the north star but is NOT the current sprint — don't build toward it unless explicitly asked.
 
 ## Quick Context
 - Korean learning web app: users upload MP3s of Korean songs → Claude AI generates immersive lessons → Duolingo-style study flow
