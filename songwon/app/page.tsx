@@ -21,7 +21,10 @@ export default function Home() {
   const router = useRouter();
   const [progress, setProgress] = useState<V5UserProgress>(defaultProgress());
   const [index, setIndex] = useState<V5LessonIndex | null>(null);
-  const [showQuestion, setShowQuestion] = useState(true);
+  const [showQuestion, setShowQuestion] = useState(() => {
+    if (typeof window === "undefined") return false;
+    return !sessionStorage.getItem("songwon-question-shown");
+  });
   const [resumeLessonId, setResumeLessonId] = useState<string | null>(null);
 
   useEffect(() => {
@@ -35,6 +38,7 @@ export default function Home() {
   }, []);
 
   const handleQuestionDismiss = () => {
+    sessionStorage.setItem("songwon-question-shown", "1");
     setShowQuestion(false);
     if (resumeLessonId) {
       router.replace(`/learn/v5/${resumeLessonId}`);
