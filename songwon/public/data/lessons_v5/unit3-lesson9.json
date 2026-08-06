@@ -211,6 +211,91 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+      "breakdown": "\"조용히\"는 소리가 없는 거예요. \"잠든\"은 \"잠들다\"에서 왔어요 — 잠이 든 상태예요.\n\"방을 열다\"는 문을 여는 거예요. 여기서는 기억의 방이에요.\n\"꺼내다\"는 안에서 밖으로 가져오는 거예요. 기억을 꺼내요.\n가수가 조용한 밤에 기억의 방을 열어요. 잡아 **줘**, 안아 **줘** — 가수의 부탁이에요.",
+      "dictionary": [
+        {
+          "word": "조용히",
+          "romanization": "jo-yong-hi",
+          "partOfSpeech": "adverb",
+          "definition": "quietly, silently",
+          "example": {
+            "korean": "조용히 하세요.",
+            "english": "Please be quiet."
+          }
+        },
+        {
+          "word": "잠들다",
+          "romanization": "jam-deul-da",
+          "partOfSpeech": "verb",
+          "definition": "to fall asleep",
+          "example": {
+            "korean": "빨리 잠들었어요.",
+            "english": "I fell asleep quickly."
+          }
+        },
+        {
+          "word": "방",
+          "romanization": "bang",
+          "partOfSpeech": "noun",
+          "definition": "room",
+          "example": {
+            "korean": "방이 넓어요.",
+            "english": "The room is spacious."
+          }
+        },
+        {
+          "word": "열다",
+          "romanization": "yeol-da",
+          "partOfSpeech": "verb",
+          "definition": "to open",
+          "example": {
+            "korean": "문을 열어요.",
+            "english": "I open the door."
+          }
+        },
+        {
+          "word": "꺼내다",
+          "romanization": "kkeo-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to take out",
+          "example": {
+            "korean": "가방에서 꺼내요.",
+            "english": "Take it out of the bag."
+          }
+        },
+        {
+          "word": "기억",
+          "romanization": "gi-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory"
+        },
+        {
+          "word": "밤",
+          "romanization": "bam",
+          "partOfSpeech": "noun",
+          "definition": "night",
+          "example": {
+            "korean": "밤에 별을 봐요.",
+            "english": "I see stars at night."
+          }
+        },
+        {
+          "word": "부탁",
+          "romanization": "bu-tak",
+          "partOfSpeech": "noun",
+          "definition": "request, favor",
+          "example": {
+            "korean": "부탁이 있어요.",
+            "english": "I have a favor to ask."
+          }
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -329,6 +414,75 @@
         },
         "audioKey": "안다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "부서진 시간 위에서 선명히 너는 떠올라",
+      "breakdown": "\"부서지다\"는 깨지는 거예요. \"부서진 시간\" — 시간이 깨졌어요.\n\"위에서\"는 \"~위에 서서\"예요. 부서진 시간 위에 서 있어요.\n\"선명히\"는 아주 잘 보이는 거예요. 흐릿하지 않고 선명해요.\n\"너는 떠올라\" — 부서진 시간 속에서도 너는 선명히 떠올라요.",
+      "dictionary": [
+        {
+          "word": "부서지다",
+          "romanization": "bu-seo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to break, to shatter"
+        },
+        {
+          "word": "위",
+          "romanization": "wi",
+          "partOfSpeech": "noun",
+          "definition": "top, above",
+          "example": {
+            "korean": "책상 위에 있어요.",
+            "english": "It's on the desk."
+          }
+        },
+        {
+          "word": "선명히",
+          "romanization": "seon-myeong-hi",
+          "partOfSpeech": "adverb",
+          "definition": "clearly, vividly"
+        },
+        {
+          "word": "선명하다",
+          "romanization": "seon-myeong-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "clear, vivid"
+        },
+        {
+          "word": "떠오르다",
+          "romanization": "tteo-o-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to come to mind, to rise"
+        },
+        {
+          "word": "흐릿하다",
+          "romanization": "heu-rit-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "blurry, hazy"
+        },
+        {
+          "word": "깨지다",
+          "romanization": "kkae-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to break, to crack",
+          "example": {
+            "korean": "유리가 깨졌어요.",
+            "english": "The glass broke."
+          }
+        },
+        {
+          "word": "속",
+          "romanization": "sok",
+          "partOfSpeech": "noun",
+          "definition": "inside",
+          "example": {
+            "korean": "마음속에 있어요.",
+            "english": "It's in my heart."
+          }
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -476,6 +630,83 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "길 잃은 마음속에 널 가둔 채 살아",
+      "breakdown": "\"길 잃은\"은 길을 잃어버린 거예요. 어디로 가야 할지 몰라요.\n\"마음속\"은 마음 안이에요. \"속\"은 \"inside\"예요.\n\"가두다\"는 나가지 못하게 하는 거예요. 감옥에 가두는 것처럼.\n가수는 마음속에 \"너\"를 가둔 채 살아요. 잡아 **줘** — 제발, 나를 잡아 줘!",
+      "dictionary": [
+        {
+          "word": "길",
+          "romanization": "gil",
+          "partOfSpeech": "noun",
+          "definition": "road, path",
+          "example": {
+            "korean": "길이 좁아요.",
+            "english": "The road is narrow."
+          }
+        },
+        {
+          "word": "잃다",
+          "romanization": "il-ta",
+          "partOfSpeech": "verb",
+          "definition": "to lose",
+          "example": {
+            "korean": "지갑을 잃었어요.",
+            "english": "I lost my wallet."
+          }
+        },
+        {
+          "word": "마음속",
+          "romanization": "ma-eum-sok",
+          "partOfSpeech": "noun",
+          "definition": "inside one's heart/mind"
+        },
+        {
+          "word": "가두다",
+          "romanization": "ga-du-da",
+          "partOfSpeech": "verb",
+          "definition": "to confine, to trap"
+        },
+        {
+          "word": "채",
+          "romanization": "chae",
+          "partOfSpeech": "noun",
+          "definition": "state, as it is (while remaining)"
+        },
+        {
+          "word": "살다",
+          "romanization": "sal-da",
+          "partOfSpeech": "verb",
+          "definition": "to live",
+          "example": {
+            "korean": "서울에 살아요.",
+            "english": "I live in Seoul."
+          }
+        },
+        {
+          "word": "제발",
+          "romanization": "je-bal",
+          "partOfSpeech": "adverb",
+          "definition": "please (desperately)",
+          "example": {
+            "korean": "제발 도와줘요.",
+            "english": "Please help me."
+          }
+        },
+        {
+          "word": "나가다",
+          "romanization": "na-ga-da",
+          "partOfSpeech": "verb",
+          "definition": "to go out",
+          "example": {
+            "korean": "밖에 나가요.",
+            "english": "I go outside."
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -599,6 +830,75 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그만 그만",
+      "breakdown": "\"그만\"은 \"stop\" 또는 \"enough\"예요. 두 번 반복해서 강하게 말해요.\n\"그만하다\"는 하던 것을 멈추는 거예요.\n가수는 이제 그만하고 싶어요. 아픈 기억을, 외로운 마음을.\n잡아 **줘**, 안아 **줘** — \"-아/어 줘\"는 누군가에게 부탁할 때 써요. 간절한 부탁이에요.",
+      "dictionary": [
+        {
+          "word": "그만",
+          "romanization": "geu-man",
+          "partOfSpeech": "adverb",
+          "definition": "stop, enough",
+          "example": {
+            "korean": "그만해요.",
+            "english": "Stop it."
+          }
+        },
+        {
+          "word": "반복하다",
+          "romanization": "ban-bok-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to repeat"
+        },
+        {
+          "word": "강하다",
+          "romanization": "gang-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "strong"
+        },
+        {
+          "word": "멈추다",
+          "romanization": "meom-chu-da",
+          "partOfSpeech": "verb",
+          "definition": "to stop"
+        },
+        {
+          "word": "아픈",
+          "romanization": "a-peun",
+          "partOfSpeech": "adjective",
+          "definition": "painful, sick"
+        },
+        {
+          "word": "외롭다",
+          "romanization": "oe-rop-da",
+          "partOfSpeech": "adjective",
+          "definition": "lonely",
+          "example": {
+            "korean": "혼자서 외로워요.",
+            "english": "I'm lonely being alone."
+          }
+        },
+        {
+          "word": "간절하다",
+          "romanization": "gan-jeol-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "earnest, desperate"
+        },
+        {
+          "word": "이제",
+          "romanization": "i-je",
+          "partOfSpeech": "adverb",
+          "definition": "now, from now on",
+          "example": {
+            "korean": "이제 가요.",
+            "english": "Let's go now."
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",

@@ -211,6 +211,67 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "새로운 시작은 늘 설레게 하지",
+      "breakdown": "Gaho의 \"시작\"을 다시 만나요! 이번에는 \"-기 전에\" 문법이에요.\n\"새로운 시작\" — 새로운 시작을 하기 **전에** 설레는 마음이 있어요.\n\"설레게 하다\"는 마음을 두근두근하게 만드는 거예요.\n시작하**기 전에** 설레요. 떠나**기 전에** 걱정해요. \"-기 전에\"는 순서를 말해요!",
+      "dictionary": [
+        {
+          "word": "시작",
+          "romanization": "si-jak",
+          "partOfSpeech": "noun",
+          "definition": "start, beginning"
+        },
+        {
+          "word": "설레다",
+          "romanization": "seol-le-da",
+          "partOfSpeech": "verb",
+          "definition": "to feel excited"
+        },
+        {
+          "word": "걱정하다",
+          "romanization": "geok-jeong-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to worry",
+          "example": {
+            "korean": "걱정하지 마세요.",
+            "english": "Don't worry."
+          }
+        },
+        {
+          "word": "두근두근",
+          "romanization": "du-geun-du-geun",
+          "partOfSpeech": "adverb",
+          "definition": "thump-thump"
+        },
+        {
+          "word": "마음",
+          "romanization": "ma-eum",
+          "partOfSpeech": "noun",
+          "definition": "heart, mind"
+        },
+        {
+          "word": "만들다",
+          "romanization": "man-deul-da",
+          "partOfSpeech": "verb",
+          "definition": "to make"
+        },
+        {
+          "word": "순서",
+          "romanization": "sun-seo",
+          "partOfSpeech": "noun",
+          "definition": "order, sequence"
+        },
+        {
+          "word": "늘",
+          "romanization": "neul",
+          "partOfSpeech": "adverb",
+          "definition": "always"
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +394,75 @@
         },
         "audioKey": "끝나다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "모든 걸 이겨낼 것처럼",
+      "breakdown": "\"모든 걸 이겨내다\" — 모든 것을 이기다, 극복하다.\n시작하**기 전에**는 이런 마음이에요. 모든 걸 이길 수 있을 것 같아요!\n\"것처럼\" — 마치 그런 것처럼. 실제로는 모를 수 있어요.\n시작하**기 전에** 우리는 항상 자신감이 있어요. 끝나**기 전에**도 희망이 있어요.",
+      "dictionary": [
+        {
+          "word": "이겨내다",
+          "romanization": "i-gyeo-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to overcome"
+        },
+        {
+          "word": "극복하다",
+          "romanization": "geuk-bok-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to overcome"
+        },
+        {
+          "word": "이기다",
+          "romanization": "i-gi-da",
+          "partOfSpeech": "verb",
+          "definition": "to win, to defeat",
+          "example": {
+            "korean": "시합에서 이겼어요.",
+            "english": "I won the game."
+          }
+        },
+        {
+          "word": "마치",
+          "romanization": "ma-chi",
+          "partOfSpeech": "adverb",
+          "definition": "as if"
+        },
+        {
+          "word": "실제로",
+          "romanization": "sil-je-ro",
+          "partOfSpeech": "adverb",
+          "definition": "actually"
+        },
+        {
+          "word": "자신감",
+          "romanization": "ja-sin-gam",
+          "partOfSpeech": "noun",
+          "definition": "confidence",
+          "example": {
+            "korean": "자신감이 있어요.",
+            "english": "I have confidence."
+          }
+        },
+        {
+          "word": "희망",
+          "romanization": "hui-mang",
+          "partOfSpeech": "noun",
+          "definition": "hope",
+          "example": {
+            "korean": "희망이 있어요.",
+            "english": "There's hope."
+          }
+        },
+        {
+          "word": "항상",
+          "romanization": "hang-sang",
+          "partOfSpeech": "adverb",
+          "definition": "always"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +610,71 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시간을 뒤쫓는 시계바늘처럼",
+      "breakdown": "시계바늘은 시간을 쫓아가요. 멈추지 않아요.\n\"뒤쫓다\"는 따라가는 거예요. 시간이 가**기 전에** 잡고 싶어요!\n시간이 흐르**기 전에**, 지나가**기 전에** — 가수는 서두르고 싶어요.\n\"-기 전에\"는 시간의 순서를 말해요. 시간이 가**기 전에** 행동해요!",
+      "dictionary": [
+        {
+          "word": "시계바늘",
+          "romanization": "si-gye-ba-neul",
+          "partOfSpeech": "noun",
+          "definition": "clock hand"
+        },
+        {
+          "word": "쫓다",
+          "romanization": "jjot-da",
+          "partOfSpeech": "verb",
+          "definition": "to chase"
+        },
+        {
+          "word": "멈추다",
+          "romanization": "meom-chu-da",
+          "partOfSpeech": "verb",
+          "definition": "to stop"
+        },
+        {
+          "word": "잡다",
+          "romanization": "jap-da",
+          "partOfSpeech": "verb",
+          "definition": "to catch, to hold",
+          "example": {
+            "korean": "손을 잡아요.",
+            "english": "I hold hands."
+          }
+        },
+        {
+          "word": "흐르다",
+          "romanization": "heu-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to flow"
+        },
+        {
+          "word": "서두르다",
+          "romanization": "seo-du-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to hurry",
+          "example": {
+            "korean": "서두르세요!",
+            "english": "Hurry up!"
+          }
+        },
+        {
+          "word": "시간",
+          "romanization": "si-gan",
+          "partOfSpeech": "noun",
+          "definition": "time"
+        },
+        {
+          "word": "지나가다",
+          "romanization": "ji-na-ga-da",
+          "partOfSpeech": "verb",
+          "definition": "to pass by"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +798,71 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "앞질러 가고 싶어 하지",
+      "breakdown": "\"앞지르다\" — 시간보다 먼저 가는 거예요!\n시작하**기 전에** 앞질러 가고 싶어요. 시간을 이기고 싶어요.\n이 노래의 메시지: 시작하**기 전에** 설레는 마음, 끝나**기 전에** 모든 걸 하고 싶은 마음.\n떠나**기 전에** 말해요. 시작하**기 전에** 준비해요. \"-기 전에\"를 잘 배웠어요!",
+      "dictionary": [
+        {
+          "word": "앞지르다",
+          "romanization": "ap-ji-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to overtake, to pass"
+        },
+        {
+          "word": "이기다",
+          "romanization": "i-gi-da",
+          "partOfSpeech": "verb",
+          "definition": "to win, to beat"
+        },
+        {
+          "word": "메시지",
+          "romanization": "me-si-ji",
+          "partOfSpeech": "noun",
+          "definition": "message"
+        },
+        {
+          "word": "하고 싶다",
+          "romanization": "ha-go sip-da",
+          "partOfSpeech": "phrase",
+          "definition": "to want to do"
+        },
+        {
+          "word": "준비하다",
+          "romanization": "jun-bi-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to prepare",
+          "example": {
+            "korean": "준비하세요.",
+            "english": "Get ready."
+          }
+        },
+        {
+          "word": "말하다",
+          "romanization": "mal-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to say"
+        },
+        {
+          "word": "떠나다",
+          "romanization": "tteo-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to leave"
+        },
+        {
+          "word": "배우다",
+          "romanization": "bae-u-da",
+          "partOfSpeech": "verb",
+          "definition": "to learn",
+          "example": {
+            "korean": "많이 배웠어요.",
+            "english": "I learned a lot."
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",

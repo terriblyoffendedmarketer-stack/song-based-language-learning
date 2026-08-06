@@ -211,6 +211,67 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "널 위해서라면 난",
+      "breakdown": "BTS의 FAKE LOVE를 다시 만나요! 이번에는 \"-아/어 버리다\" 문법이에요.\n\"널 위해서라면\" — 너를 위해서라면. 사랑을 위해서.\n이전 레슨에서 \"-아/어도\"를 배웠어요. 이번에는 완전히 끝내는 느낌이에요.\n잊어 **버리다**, 떠나 **버리다** — 돌이킬 수 없는 행동이에요.",
+      "dictionary": [
+        {
+          "word": "다시",
+          "romanization": "da-si",
+          "partOfSpeech": "adverb",
+          "definition": "again"
+        },
+        {
+          "word": "만나다",
+          "romanization": "man-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to meet"
+        },
+        {
+          "word": "이번",
+          "romanization": "i-beon",
+          "partOfSpeech": "noun",
+          "definition": "this time"
+        },
+        {
+          "word": "완전히",
+          "romanization": "wan-jeon-hi",
+          "partOfSpeech": "adverb",
+          "definition": "completely"
+        },
+        {
+          "word": "끝내다",
+          "romanization": "kkeut-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to finish, to end something",
+          "example": {
+            "korean": "일을 끝내요.",
+            "english": "I finish the work."
+          }
+        },
+        {
+          "word": "느낌",
+          "romanization": "neu-kkim",
+          "partOfSpeech": "noun",
+          "definition": "feeling, sense"
+        },
+        {
+          "word": "돌이키다",
+          "romanization": "dol-i-ki-da",
+          "partOfSpeech": "verb",
+          "definition": "to reverse, to turn back"
+        },
+        {
+          "word": "행동",
+          "romanization": "haeng-dong",
+          "partOfSpeech": "noun",
+          "definition": "action, behavior"
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +394,67 @@
         },
         "audioKey": "떠나다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "슬퍼도 기쁜 척 할 수가 있었어",
+      "breakdown": "이전에 이 가사를 봤어요. 슬퍼**도** 기쁜 척 — \"-아/어도\".\n하지만 이번 레슨에서는 다른 부분을 봐요.\n\"할 수가 있었어\" — 과거에 할 수 있었어요. 지금은?\n지금은 더 이상 못해요. 가짜 사랑을 지워 **버렸어**요. 완전히 끝이에요.",
+      "dictionary": [
+        {
+          "word": "이전",
+          "romanization": "i-jeon",
+          "partOfSpeech": "adjective",
+          "definition": "previous"
+        },
+        {
+          "word": "부분",
+          "romanization": "bu-bun",
+          "partOfSpeech": "noun",
+          "definition": "part, section"
+        },
+        {
+          "word": "더 이상",
+          "romanization": "deo i-sang",
+          "partOfSpeech": "phrase",
+          "definition": "anymore, no longer"
+        },
+        {
+          "word": "못하다",
+          "romanization": "mo-ta-da",
+          "partOfSpeech": "verb",
+          "definition": "to be unable to do"
+        },
+        {
+          "word": "가짜",
+          "romanization": "ga-jja",
+          "partOfSpeech": "noun",
+          "definition": "fake"
+        },
+        {
+          "word": "지우다",
+          "romanization": "ji-u-da",
+          "partOfSpeech": "verb",
+          "definition": "to erase"
+        },
+        {
+          "word": "끝",
+          "romanization": "kkeut",
+          "partOfSpeech": "noun",
+          "definition": "end",
+          "example": {
+            "korean": "끝이에요.",
+            "english": "It's the end."
+          }
+        },
+        {
+          "word": "과거",
+          "romanization": "gwa-geo",
+          "partOfSpeech": "noun",
+          "definition": "past"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +602,63 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "널 위해서라면 난",
+      "breakdown": "또 반복이에요. \"널 위해서라면\" — 이 말이 세 번째 나와요.\n반복은 음악에서 감정을 강하게 해요. 같은 말이지만 감정이 달라져요.\n처음: 사랑을 위해 참았어요.\n지금: 참던 것을 다 놓아 **버렸어**요. 더 이상 가짜가 아니에요.",
+      "dictionary": [
+        {
+          "word": "세 번째",
+          "romanization": "se beon-jjae",
+          "partOfSpeech": "phrase",
+          "definition": "third time"
+        },
+        {
+          "word": "감정",
+          "romanization": "gam-jeong",
+          "partOfSpeech": "noun",
+          "definition": "emotion"
+        },
+        {
+          "word": "달라지다",
+          "romanization": "dal-la-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to become different"
+        },
+        {
+          "word": "처음",
+          "romanization": "cheo-eum",
+          "partOfSpeech": "noun",
+          "definition": "first, beginning"
+        },
+        {
+          "word": "참다",
+          "romanization": "cham-da",
+          "partOfSpeech": "verb",
+          "definition": "to endure, to hold back"
+        },
+        {
+          "word": "놓다",
+          "romanization": "no-ta",
+          "partOfSpeech": "verb",
+          "definition": "to let go, to release"
+        },
+        {
+          "word": "놓아 버리다",
+          "romanization": "no-a beo-ri-da",
+          "partOfSpeech": "phrase",
+          "definition": "to let go completely"
+        },
+        {
+          "word": "강하게",
+          "romanization": "gang-ha-ge",
+          "partOfSpeech": "adverb",
+          "definition": "strongly"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +782,67 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "아파도 강한 척 할 수가 있었어",
+      "breakdown": "\"아파도 강한 척\" — 아프지만 강한 것처럼 행동했어요.\n\"할 수가 있었어\" — 이제는 과거예요. 더 이상 그렇게 못해요.\n떠나 **버렸어**요 — 완전히 떠났어요. 돌아오지 않아요.\n\"-아/어 버리다\"는 이렇게 써요: 완전히, 돌이킬 수 없이. 잊어 **버리다**, 떠나 **버리다**!",
+      "dictionary": [
+        {
+          "word": "아프다",
+          "romanization": "a-peu-da",
+          "partOfSpeech": "adjective",
+          "definition": "to hurt"
+        },
+        {
+          "word": "강한",
+          "romanization": "gang-han",
+          "partOfSpeech": "adjective",
+          "definition": "strong"
+        },
+        {
+          "word": "행동하다",
+          "romanization": "haeng-dong-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to act, to behave"
+        },
+        {
+          "word": "이제",
+          "romanization": "i-je",
+          "partOfSpeech": "adverb",
+          "definition": "now"
+        },
+        {
+          "word": "떠나다",
+          "romanization": "tteo-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to leave",
+          "example": {
+            "korean": "여행을 떠나요.",
+            "english": "I leave on a trip."
+          }
+        },
+        {
+          "word": "떠나 버리다",
+          "romanization": "tteo-na beo-ri-da",
+          "partOfSpeech": "phrase",
+          "definition": "to leave for good"
+        },
+        {
+          "word": "돌아오다",
+          "romanization": "dol-a-o-da",
+          "partOfSpeech": "verb",
+          "definition": "to come back, to return"
+        },
+        {
+          "word": "완전히",
+          "romanization": "wan-jeon-hi",
+          "partOfSpeech": "adverb",
+          "definition": "completely"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

@@ -62,10 +62,10 @@
       "type": "lyrics-korean",
       "label": "들어 보세요",
       "lines": [
-        "지금 이 말이jigeum i mari",
-        "우리가 다시uriga dasi",
-        "시작하자는 건 아냐sijakajaneun geon anya",
-        "그저 너의geujeo neoui"
+        "지금 이 말이",
+        "우리가 다시",
+        "시작하자는 건 아냐",
+        "그저 너의"
       ],
       "musicPlaying": true
     },
@@ -75,22 +75,22 @@
       "label": "번역",
       "lines": [
         {
-          "korean": "지금 이 말이jigeum i mari",
+          "korean": "지금 이 말이",
           "english": "What I'm saying right now",
           "highlights": []
         },
         {
-          "korean": "우리가 다시uriga dasi",
+          "korean": "우리가 다시",
           "english": "isn't that we should start over again",
           "highlights": []
         },
         {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "korean": "시작하자는 건 아냐",
           "english": "it's just that",
           "highlights": []
         },
         {
-          "korean": "그저 너의geujeo neoui",
+          "korean": "그저 너의",
           "english": "some memory of you that had been staying inside me",
           "highlights": []
         }
@@ -209,6 +209,71 @@
         },
         "audioKey": "멀어지고 있다"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "지금 이 말이",
+      "breakdown": "다시 DAY6의 \"예뻤어\"를 만나요! 이번에는 \"-아/어지다\" 문법이에요.\n\"지금\"은 \"now\"예요. \"이 말\" = 이 이야기, 지금 하는 말.\n이전 레슨에서 \"-지만\"을 배웠어요. 이번에는 \"변하다\"가 \"변해**지다**\"가 돼요!\n\"멀어**지다**\" — 점점 멀어져요. 상태가 변해요.",
+      "dictionary": [
+        {
+          "word": "다시",
+          "romanization": "da-si",
+          "partOfSpeech": "adverb",
+          "definition": "again"
+        },
+        {
+          "word": "만나다",
+          "romanization": "man-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to meet"
+        },
+        {
+          "word": "이번",
+          "romanization": "i-beon",
+          "partOfSpeech": "noun",
+          "definition": "this time",
+          "example": {
+            "korean": "이번에는 다를 거예요.",
+            "english": "This time will be different."
+          }
+        },
+        {
+          "word": "문법",
+          "romanization": "mun-beop",
+          "partOfSpeech": "noun",
+          "definition": "grammar"
+        },
+        {
+          "word": "이전",
+          "romanization": "i-jeon",
+          "partOfSpeech": "adjective",
+          "definition": "previous"
+        },
+        {
+          "word": "변하다",
+          "romanization": "byeon-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to change"
+        },
+        {
+          "word": "점점",
+          "romanization": "jeom-jeom",
+          "partOfSpeech": "adverb",
+          "definition": "gradually",
+          "example": {
+            "korean": "점점 좋아져요.",
+            "english": "It's gradually getting better."
+          }
+        },
+        {
+          "word": "상태",
+          "romanization": "sang-tae",
+          "partOfSpeech": "noun",
+          "definition": "state, condition"
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -333,6 +398,79 @@
         },
         "audioKey": "슬프다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "우리가 다시",
+      "breakdown": "\"우리\" — 가수와 그 사람, 둘이에요.\n\"다시\" = again. \"우리가 다시\" — 우리가 다시 무엇을 할까요?\n여기서 중요한 건, 이미 끝났다는 거예요. 관계가 끝났어요.\n멀어**지다** — 두 사람이 점점 멀어**졌어**요. 가까웠는데 멀어**졌어**요.",
+      "dictionary": [
+        {
+          "word": "우리",
+          "romanization": "u-ri",
+          "partOfSpeech": "pronoun",
+          "definition": "we, us"
+        },
+        {
+          "word": "다시",
+          "romanization": "da-si",
+          "partOfSpeech": "adverb",
+          "definition": "again"
+        },
+        {
+          "word": "이미",
+          "romanization": "i-mi",
+          "partOfSpeech": "adverb",
+          "definition": "already",
+          "example": {
+            "korean": "이미 했어요.",
+            "english": "I already did it."
+          }
+        },
+        {
+          "word": "끝나다",
+          "romanization": "kkeut-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to end"
+        },
+        {
+          "word": "관계",
+          "romanization": "gwan-gye",
+          "partOfSpeech": "noun",
+          "definition": "relationship",
+          "example": {
+            "korean": "좋은 관계예요.",
+            "english": "It's a good relationship."
+          }
+        },
+        {
+          "word": "가깝다",
+          "romanization": "ga-kkap-da",
+          "partOfSpeech": "adjective",
+          "definition": "close, near",
+          "example": {
+            "korean": "집이 가까워요.",
+            "english": "The house is close."
+          }
+        },
+        {
+          "word": "멀다",
+          "romanization": "meol-da",
+          "partOfSpeech": "adjective",
+          "definition": "far",
+          "example": {
+            "korean": "학교가 멀어요.",
+            "english": "School is far."
+          }
+        },
+        {
+          "word": "둘",
+          "romanization": "dul",
+          "partOfSpeech": "number",
+          "definition": "two (counting people)"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +618,67 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시작하자는 건 아냐",
+      "breakdown": "\"시작하자\"는 \"let's start\"예요. \"건\"은 \"것은\"의 줄임말이에요.\n\"아냐\" = \"아니야\" — \"it's not that.\"이에요.\n가수가 말해요: 다시 시작하자는 건 아냐. 돌아가자는 게 아니에요.\n관계가 멀어**졌어**요. 슬퍼**졌어**요. 하지만 다시 시작하자는 건 아니에요.",
+      "dictionary": [
+        {
+          "word": "시작하다",
+          "romanization": "si-jak-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to start"
+        },
+        {
+          "word": "아니다",
+          "romanization": "a-ni-da",
+          "partOfSpeech": "adjective",
+          "definition": "to not be"
+        },
+        {
+          "word": "돌아가다",
+          "romanization": "dol-a-ga-da",
+          "partOfSpeech": "verb",
+          "definition": "to go back, to return",
+          "example": {
+            "korean": "집에 돌아가요.",
+            "english": "I go back home."
+          }
+        },
+        {
+          "word": "줄임말",
+          "romanization": "jul-im-mal",
+          "partOfSpeech": "noun",
+          "definition": "contraction"
+        },
+        {
+          "word": "관계",
+          "romanization": "gwan-gye",
+          "partOfSpeech": "noun",
+          "definition": "relationship"
+        },
+        {
+          "word": "슬프다",
+          "romanization": "seul-peu-da",
+          "partOfSpeech": "adjective",
+          "definition": "sad"
+        },
+        {
+          "word": "슬퍼지다",
+          "romanization": "seul-peo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to become sad"
+        },
+        {
+          "word": "말하다",
+          "romanization": "mal-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to say, to speak"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +802,63 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그저 너의",
+      "breakdown": "\"그저 너의\" — 그저 너의 기억이...\n\"그저\"는 \"just, merely\"예요. 큰 것을 원하는 게 아니에요.\n가수는 그저 기억만 남겨두고 싶어요. 기억이 아름다워**졌어**요.\n멀어**지다**, 슬퍼**지다**, 아름다워**지다** — \"-아/어지다\"는 상태의 변화예요!",
+      "dictionary": [
+        {
+          "word": "그저",
+          "romanization": "geu-jeo",
+          "partOfSpeech": "adverb",
+          "definition": "just, merely"
+        },
+        {
+          "word": "원하다",
+          "romanization": "won-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to want"
+        },
+        {
+          "word": "남기다",
+          "romanization": "nam-gi-da",
+          "partOfSpeech": "verb",
+          "definition": "to leave behind"
+        },
+        {
+          "word": "남겨두다",
+          "romanization": "nam-gyeo-du-da",
+          "partOfSpeech": "verb",
+          "definition": "to keep, to leave as is"
+        },
+        {
+          "word": "아름답다",
+          "romanization": "a-reum-dap-da",
+          "partOfSpeech": "adjective",
+          "definition": "beautiful"
+        },
+        {
+          "word": "아름다워지다",
+          "romanization": "a-reum-da-wo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to become beautiful"
+        },
+        {
+          "word": "변화",
+          "romanization": "byeon-hwa",
+          "partOfSpeech": "noun",
+          "definition": "change"
+        },
+        {
+          "word": "멀어지다",
+          "romanization": "meol-eo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to grow distant, to become far"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

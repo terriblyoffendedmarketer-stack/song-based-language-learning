@@ -65,7 +65,7 @@
         "날 좋아하던 그때",
         "수줍게 꽃을 건네던 너에게",
         "웃으며 손을 내밀었지",
-        "시간 지나 my birthday"
+        "시간 지나"
       ],
       "musicPlaying": true
     },
@@ -90,7 +90,7 @@
           "highlights": []
         },
         {
-          "korean": "시간 지나 my birthday",
+          "korean": "시간 지나",
           "english": "I smiled and took your hand",
           "highlights": []
         }
@@ -209,6 +209,79 @@
         },
         "audioKey": "알잖아"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "날 좋아하던 그때",
+      "breakdown": "\"날\"은 \"나를\"의 줄임말이에요. 나를 좋아하던...\n\"좋아하던\"은 과거에 좋아했다는 뜻이에요. \"-던\"은 과거 기억이에요.\n\"그때\"는 \"that time\"이에요. 예전에 좋아하던 그때.\n알**잖아**, 그때 얼마나 행복했는지. 알**잖아** — 너도 기억하지?",
+      "dictionary": [
+        {
+          "word": "날",
+          "romanization": "nal",
+          "partOfSpeech": "pronoun",
+          "definition": "me (contraction of 나를)"
+        },
+        {
+          "word": "좋아하다",
+          "romanization": "jo-a-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to like",
+          "example": {
+            "korean": "너를 좋아해요.",
+            "english": "I like you."
+          }
+        },
+        {
+          "word": "그때",
+          "romanization": "geu-ttae",
+          "partOfSpeech": "noun",
+          "definition": "that time, back then",
+          "example": {
+            "korean": "그때가 좋았어요.",
+            "english": "Those were good times."
+          }
+        },
+        {
+          "word": "과거",
+          "romanization": "gwa-geo",
+          "partOfSpeech": "noun",
+          "definition": "past"
+        },
+        {
+          "word": "기억",
+          "romanization": "gi-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory"
+        },
+        {
+          "word": "예전",
+          "romanization": "ye-jeon",
+          "partOfSpeech": "noun",
+          "definition": "before, in the past"
+        },
+        {
+          "word": "얼마나",
+          "romanization": "eol-ma-na",
+          "partOfSpeech": "adverb",
+          "definition": "how much",
+          "example": {
+            "korean": "얼마나 좋아해요?",
+            "english": "How much do you like it?"
+          }
+        },
+        {
+          "word": "행복하다",
+          "romanization": "haeng-bok-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "happy",
+          "example": {
+            "korean": "행복해요.",
+            "english": "I'm happy."
+          }
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -333,6 +406,75 @@
         },
         "audioKey": "보이다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "수줍게 꽃을 건네던 너에게",
+      "breakdown": "\"수줍다\"는 부끄러운 거예요. \"수줍게\"는 부끄럽게.\n\"꽃\"은 flower예요. \"건네다\"는 무언가를 주는 거예요.\n\"너에게\"는 \"너\" + \"에게\" = \"to you\"예요.\n수줍게 꽃을 건네던 너 — 알**잖아**, 그 모습이 예뻤어. 보이**잖아**, 아직도 기억에.",
+      "dictionary": [
+        {
+          "word": "수줍다",
+          "romanization": "su-jup-da",
+          "partOfSpeech": "adjective",
+          "definition": "shy, bashful"
+        },
+        {
+          "word": "수줍게",
+          "romanization": "su-jup-ge",
+          "partOfSpeech": "adverb",
+          "definition": "shyly"
+        },
+        {
+          "word": "꽃",
+          "romanization": "kkot",
+          "partOfSpeech": "noun",
+          "definition": "flower",
+          "example": {
+            "korean": "꽃이 예뻐요.",
+            "english": "The flower is pretty."
+          }
+        },
+        {
+          "word": "건네다",
+          "romanization": "geon-ne-da",
+          "partOfSpeech": "verb",
+          "definition": "to hand over, to give"
+        },
+        {
+          "word": "부끄럽다",
+          "romanization": "bu-kkeu-reop-da",
+          "partOfSpeech": "adjective",
+          "definition": "embarrassed, shy"
+        },
+        {
+          "word": "모습",
+          "romanization": "mo-seup",
+          "partOfSpeech": "noun",
+          "definition": "appearance, figure",
+          "example": {
+            "korean": "예쁜 모습이에요.",
+            "english": "It's a pretty sight."
+          }
+        },
+        {
+          "word": "예쁘다",
+          "romanization": "ye-ppeu-da",
+          "partOfSpeech": "adjective",
+          "definition": "pretty",
+          "example": {
+            "korean": "너무 예뻐요.",
+            "english": "So pretty."
+          }
+        },
+        {
+          "word": "에게",
+          "romanization": "e-ge",
+          "partOfSpeech": "particle",
+          "definition": "to (a person)"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +622,83 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "웃으며 손을 내밀었지",
+      "breakdown": "\"웃다\"는 smile 또는 laugh예요. \"웃으며\"는 웃으면서.\n\"손\"은 hand예요. \"내밀다\"는 앞으로 뻗는 거예요.\n\"웃으며 손을 내밀었지\" — 웃으면서 손을 내밀었어요.\n알**잖아**, 그때 내가 손을 내밀었**잖아**. 기억하지? \"-잖아\"는 상대방도 아는 사실을 확인해요.",
+      "dictionary": [
+        {
+          "word": "웃다",
+          "romanization": "ut-da",
+          "partOfSpeech": "verb",
+          "definition": "to smile, to laugh",
+          "example": {
+            "korean": "웃는 얼굴이 예뻐요.",
+            "english": "Your smiling face is pretty."
+          }
+        },
+        {
+          "word": "손",
+          "romanization": "son",
+          "partOfSpeech": "noun",
+          "definition": "hand",
+          "example": {
+            "korean": "손이 따뜻해요.",
+            "english": "Your hands are warm."
+          }
+        },
+        {
+          "word": "내밀다",
+          "romanization": "nae-mil-da",
+          "partOfSpeech": "verb",
+          "definition": "to extend, to hold out",
+          "example": {
+            "korean": "손을 내밀어요.",
+            "english": "I hold out my hand."
+          }
+        },
+        {
+          "word": "뻗다",
+          "romanization": "ppeot-da",
+          "partOfSpeech": "verb",
+          "definition": "to stretch, to extend"
+        },
+        {
+          "word": "앞으로",
+          "romanization": "a-peu-ro",
+          "partOfSpeech": "adverb",
+          "definition": "forward",
+          "example": {
+            "korean": "앞으로 가요.",
+            "english": "Go forward."
+          }
+        },
+        {
+          "word": "상대방",
+          "romanization": "sang-dae-bang",
+          "partOfSpeech": "noun",
+          "definition": "the other person"
+        },
+        {
+          "word": "확인하다",
+          "romanization": "hwak-in-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to confirm, to check"
+        },
+        {
+          "word": "사실",
+          "romanization": "sa-sil",
+          "partOfSpeech": "noun",
+          "definition": "fact, truth",
+          "example": {
+            "korean": "사실이에요.",
+            "english": "It's true."
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +822,83 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시간 지나 my birthday",
+      "breakdown": "\"시간\"은 time이에요. \"지나다\"는 시간이 흘러가는 거예요.\n\"시간 지나\" = 시간이 지나서, 시간이 흐른 후에.\n이 노래에서 영어 \"my birthday\"를 섞어 써요. 시간이 지나 생일이 왔어요.\n알**잖아**, 시간이 지나도 기억은 남아요. 보이**잖아**, 아직도 그때의 감정이.",
+      "dictionary": [
+        {
+          "word": "시간",
+          "romanization": "si-gan",
+          "partOfSpeech": "noun",
+          "definition": "time",
+          "example": {
+            "korean": "시간이 없어요.",
+            "english": "There's no time."
+          }
+        },
+        {
+          "word": "지나다",
+          "romanization": "ji-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to pass (time)",
+          "example": {
+            "korean": "시간이 빨리 지나요.",
+            "english": "Time passes quickly."
+          }
+        },
+        {
+          "word": "흐르다",
+          "romanization": "heu-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to flow",
+          "example": {
+            "korean": "강물이 흘러요.",
+            "english": "The river flows."
+          }
+        },
+        {
+          "word": "생일",
+          "romanization": "saeng-il",
+          "partOfSpeech": "noun",
+          "definition": "birthday",
+          "example": {
+            "korean": "생일 축하해요!",
+            "english": "Happy birthday!"
+          }
+        },
+        {
+          "word": "남다",
+          "romanization": "nam-da",
+          "partOfSpeech": "verb",
+          "definition": "to remain, to stay",
+          "example": {
+            "korean": "기억에 남아요.",
+            "english": "It remains in my memory."
+          }
+        },
+        {
+          "word": "감정",
+          "romanization": "gam-jeong",
+          "partOfSpeech": "noun",
+          "definition": "emotion, feeling"
+        },
+        {
+          "word": "아직도",
+          "romanization": "a-jik-do",
+          "partOfSpeech": "adverb",
+          "definition": "still, even now"
+        },
+        {
+          "word": "섞다",
+          "romanization": "seok-da",
+          "partOfSpeech": "verb",
+          "definition": "to mix"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

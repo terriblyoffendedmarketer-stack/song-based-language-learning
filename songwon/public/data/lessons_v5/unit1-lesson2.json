@@ -211,6 +211,95 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "새로운 시작은 늘 설레게 하지",
+      "breakdown": "\"새로운\"은 \"새롭다\"에서 온 말이에요. 영어로 \"new\"예요.\n\"시작\"은 무언가 처음 하는 거예요. 이 노래의 제목도 \"시작\"이에요.\n\"설레다\"는 마음이 두근두근하는 거예요. 새로운 시작은 늘 설레요!\n\"늘\"은 \"항상\"이라는 뜻이에요. 새로운 시작은 항상 설레게 해요.",
+      "dictionary": [
+        {
+          "word": "새로운",
+          "romanization": "sae-ro-un",
+          "partOfSpeech": "adjective",
+          "definition": "new",
+          "example": {
+            "korean": "새로운 친구를 만났어요.",
+            "english": "I met a new friend."
+          }
+        },
+        {
+          "word": "시작",
+          "romanization": "si-jak",
+          "partOfSpeech": "noun",
+          "definition": "start, beginning",
+          "example": {
+            "korean": "시작이 반이에요.",
+            "english": "Starting is half the battle."
+          }
+        },
+        {
+          "word": "늘",
+          "romanization": "neul",
+          "partOfSpeech": "adverb",
+          "definition": "always",
+          "example": {
+            "korean": "늘 고마워요.",
+            "english": "I'm always grateful."
+          }
+        },
+        {
+          "word": "설레다",
+          "romanization": "seol-le-da",
+          "partOfSpeech": "verb",
+          "definition": "to feel excited, heart fluttering",
+          "example": {
+            "korean": "마음이 설레요.",
+            "english": "My heart is fluttering."
+          }
+        },
+        {
+          "word": "항상",
+          "romanization": "hang-sang",
+          "partOfSpeech": "adverb",
+          "definition": "always, all the time",
+          "example": {
+            "korean": "항상 행복하세요.",
+            "english": "Be happy always."
+          }
+        },
+        {
+          "word": "마음",
+          "romanization": "ma-eum",
+          "partOfSpeech": "noun",
+          "definition": "heart, mind",
+          "example": {
+            "korean": "마음이 따뜻해요.",
+            "english": "My heart feels warm."
+          }
+        },
+        {
+          "word": "두근두근",
+          "romanization": "du-geun-du-geun",
+          "partOfSpeech": "adverb",
+          "definition": "thump-thump (heartbeat sound)",
+          "example": {
+            "korean": "심장이 두근두근해요.",
+            "english": "My heart is thumping."
+          }
+        },
+        {
+          "word": "처음",
+          "romanization": "cheo-eum",
+          "partOfSpeech": "noun",
+          "definition": "first time",
+          "example": {
+            "korean": "처음 만났어요.",
+            "english": "We met for the first time."
+          }
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +422,87 @@
         },
         "audioKey": "사람"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "모든 걸 이겨낼 것처럼",
+      "breakdown": "\"모든\"은 \"전부\" 또는 \"다\"라는 뜻이에요. \"모든 걸\"은 \"모든 것을\"의 줄임말이에요.\n\"이겨내다\"는 어려운 일을 견디고 성공하는 거예요. 힘든 일이 있어도 이겨내요!\n\"것처럼\"은 \"~같이\"라는 뜻이에요. \"마치 모든 걸 이길 수 있는 것처럼\" — 그렇게 느낀다는 거예요.\n이 가사에서 가수는 새로운 시작이 모든 걸 이겨낼 수 있게 해 준다고 말해요.",
+      "dictionary": [
+        {
+          "word": "모든",
+          "romanization": "mo-deun",
+          "partOfSpeech": "determiner",
+          "definition": "all, every",
+          "example": {
+            "korean": "모든 사람이 왔어요.",
+            "english": "Everyone came."
+          }
+        },
+        {
+          "word": "이겨내다",
+          "romanization": "i-gyeo-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to overcome, to endure",
+          "example": {
+            "korean": "어려움을 이겨냈어요.",
+            "english": "I overcame the difficulty."
+          }
+        },
+        {
+          "word": "힘들다",
+          "romanization": "him-deul-da",
+          "partOfSpeech": "adjective",
+          "definition": "hard, difficult, tiring",
+          "example": {
+            "korean": "오늘 힘들었어요.",
+            "english": "Today was hard."
+          }
+        },
+        {
+          "word": "견디다",
+          "romanization": "gyeon-di-da",
+          "partOfSpeech": "verb",
+          "definition": "to endure, to bear",
+          "example": {
+            "korean": "조금만 견디세요.",
+            "english": "Hang in there a little more."
+          }
+        },
+        {
+          "word": "성공",
+          "romanization": "seong-gong",
+          "partOfSpeech": "noun",
+          "definition": "success",
+          "example": {
+            "korean": "성공했어요!",
+            "english": "I succeeded!"
+          }
+        },
+        {
+          "word": "느끼다",
+          "romanization": "neu-kki-da",
+          "partOfSpeech": "verb",
+          "definition": "to feel",
+          "example": {
+            "korean": "행복을 느껴요.",
+            "english": "I feel happiness."
+          }
+        },
+        {
+          "word": "줄임말",
+          "romanization": "jul-im-mal",
+          "partOfSpeech": "noun",
+          "definition": "abbreviation, contraction"
+        },
+        {
+          "word": "마치",
+          "romanization": "ma-chi",
+          "partOfSpeech": "adverb",
+          "definition": "as if, just like"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +650,83 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시간을 뒤쫓는 시계바늘처럼",
+      "breakdown": "\"시간\"은 \"time\"이에요. \"시계\"는 시간을 보여주는 물건이에요.\n\"바늘\"은 시계에서 도는 가는 막대기예요. \"시계바늘\"은 시계의 바늘이에요.\n\"뒤쫓다\"는 누군가를 따라가는 거예요. 시계바늘이 시간을 따라가요.\n이 가사는 예쁜 비유예요. 시간을 따라가는 시계바늘**처럼** — 가수도 무언가를 따라가고 싶어요!",
+      "dictionary": [
+        {
+          "word": "시간",
+          "romanization": "si-gan",
+          "partOfSpeech": "noun",
+          "definition": "time",
+          "example": {
+            "korean": "시간이 없어요.",
+            "english": "There's no time."
+          }
+        },
+        {
+          "word": "시계",
+          "romanization": "si-gye",
+          "partOfSpeech": "noun",
+          "definition": "clock, watch",
+          "example": {
+            "korean": "시계를 봐요.",
+            "english": "I look at the clock."
+          }
+        },
+        {
+          "word": "바늘",
+          "romanization": "ba-neul",
+          "partOfSpeech": "noun",
+          "definition": "needle, hand (of a clock)"
+        },
+        {
+          "word": "뒤쫓다",
+          "romanization": "dwi-jjot-da",
+          "partOfSpeech": "verb",
+          "definition": "to chase, to pursue",
+          "example": {
+            "korean": "꿈을 뒤쫓아요.",
+            "english": "I chase my dreams."
+          }
+        },
+        {
+          "word": "따라가다",
+          "romanization": "tta-ra-ga-da",
+          "partOfSpeech": "verb",
+          "definition": "to follow",
+          "example": {
+            "korean": "길을 따라가요.",
+            "english": "I follow the road."
+          }
+        },
+        {
+          "word": "비유",
+          "romanization": "bi-yu",
+          "partOfSpeech": "noun",
+          "definition": "metaphor, analogy"
+        },
+        {
+          "word": "물건",
+          "romanization": "mul-geon",
+          "partOfSpeech": "noun",
+          "definition": "thing, object",
+          "example": {
+            "korean": "좋은 물건이에요.",
+            "english": "It's a good item."
+          }
+        },
+        {
+          "word": "도는",
+          "romanization": "do-neun",
+          "partOfSpeech": "adjective",
+          "definition": "turning, spinning"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +850,79 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "앞질러 가고 싶어 하지",
+      "breakdown": "여기서 \"-고 싶다\"가 나와요! 이 레슨의 문법이에요.\n\"앞지르다\"는 다른 사람보다 먼저 가는 거예요. 예를 들어, 달리기에서 앞지르면 1등이에요.\n\"가고 싶어 하지\" — 가수는 시간보다 더 빨리 가**고 싶어** 해요!\n찾**고 싶다**, 말하**고 싶다**, 가**고 싶다** — 모두 같은 \"-고 싶다\" 문법이에요. 하고 싶은 일이 있을 때 쓰세요!",
+      "dictionary": [
+        {
+          "word": "앞지르다",
+          "romanization": "ap-ji-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to overtake, to pass",
+          "example": {
+            "korean": "차를 앞질렀어요.",
+            "english": "I overtook the car."
+          }
+        },
+        {
+          "word": "먼저",
+          "romanization": "meon-jeo",
+          "partOfSpeech": "adverb",
+          "definition": "first, ahead",
+          "example": {
+            "korean": "먼저 가세요.",
+            "english": "Go ahead first."
+          }
+        },
+        {
+          "word": "달리기",
+          "romanization": "dal-li-gi",
+          "partOfSpeech": "noun",
+          "definition": "running, race"
+        },
+        {
+          "word": "빠르다",
+          "romanization": "ppa-reu-da",
+          "partOfSpeech": "adjective",
+          "definition": "fast, quick",
+          "example": {
+            "korean": "너무 빨라요.",
+            "english": "It's too fast."
+          }
+        },
+        {
+          "word": "문법",
+          "romanization": "mun-beop",
+          "partOfSpeech": "noun",
+          "definition": "grammar"
+        },
+        {
+          "word": "예를 들어",
+          "romanization": "ye-reul deul-eo",
+          "partOfSpeech": "phrase",
+          "definition": "for example"
+        },
+        {
+          "word": "쓰다",
+          "romanization": "sseu-da",
+          "partOfSpeech": "verb",
+          "definition": "to use; to write",
+          "example": {
+            "korean": "이 단어를 자주 써요.",
+            "english": "I use this word often."
+          }
+        },
+        {
+          "word": "1등",
+          "romanization": "il-deung",
+          "partOfSpeech": "noun",
+          "definition": "first place"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

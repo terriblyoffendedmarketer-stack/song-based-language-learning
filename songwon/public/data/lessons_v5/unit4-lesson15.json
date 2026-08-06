@@ -65,7 +65,7 @@
         "나만 홀로 느낀 황홀함일까",
         "그저 바라보는 시선이 무거워",
         "맴도는 발걸음 여전히 네가 보고 싶어",
-        "I remember 차가웠던 그 날"
+        "차가웠던 그 날"
       ],
       "musicPlaying": true
     },
@@ -90,7 +90,7 @@
           "highlights": []
         },
         {
-          "korean": "I remember 차가웠던 그 날",
+          "korean": "차가웠던 그 날",
           "english": "I need your mind",
           "highlights": []
         }
@@ -209,6 +209,71 @@
         },
         "audioKey": "꿈처럼"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나만 홀로 느낀 황홀함일까",
+      "breakdown": "\"나만\"은 \"오직 나\"예요. 다른 사람은 아니에요.\n\"홀로\"는 \"혼자\"라는 뜻이에요. 혼자서 느꼈어요.\n\"황홀하다\"는 너무 아름다워서 정신이 없는 거예요. 꿈**처럼** 아름다워요.\n\"일까\" = \"인가\" — \"일까?\"는 자기 자신에게 물어보는 거예요. 나만 느낀 걸까?",
+      "dictionary": [
+        {
+          "word": "나만",
+          "romanization": "na-man",
+          "partOfSpeech": "phrase",
+          "definition": "only me"
+        },
+        {
+          "word": "홀로",
+          "romanization": "hol-lo",
+          "partOfSpeech": "adverb",
+          "definition": "alone, by oneself"
+        },
+        {
+          "word": "느끼다",
+          "romanization": "neu-kki-da",
+          "partOfSpeech": "verb",
+          "definition": "to feel",
+          "example": {
+            "korean": "행복을 느꼈어요.",
+            "english": "I felt happiness."
+          }
+        },
+        {
+          "word": "황홀하다",
+          "romanization": "hwang-hol-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "ecstatic, enchanting"
+        },
+        {
+          "word": "정신",
+          "romanization": "jeong-sin",
+          "partOfSpeech": "noun",
+          "definition": "mind, consciousness"
+        },
+        {
+          "word": "혼자",
+          "romanization": "hon-ja",
+          "partOfSpeech": "adverb",
+          "definition": "alone, by oneself",
+          "example": {
+            "korean": "혼자 가요.",
+            "english": "I go alone."
+          }
+        },
+        {
+          "word": "자기 자신",
+          "romanization": "ja-gi ja-sin",
+          "partOfSpeech": "phrase",
+          "definition": "oneself"
+        },
+        {
+          "word": "오직",
+          "romanization": "o-jik",
+          "partOfSpeech": "adverb",
+          "definition": "only"
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -333,6 +398,79 @@
         },
         "audioKey": "꽃"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그저 바라보는 시선이 무거워",
+      "breakdown": "\"바라보다\"는 멀리서 오래 보는 거예요. 한국어의 예쁜 표현이에요.\n\"시선\"은 눈이 보는 방향이에요. \"무겁다\"는 heavy예요.\n\"시선이 무거워\" — 바라보는 눈이 무거워요. 슬프고 답답해요.\n별**처럼** 빛나는 사람을 바라봐요. 꿈**처럼** 아름다운 사람을.",
+      "dictionary": [
+        {
+          "word": "바라보다",
+          "romanization": "ba-ra-bo-da",
+          "partOfSpeech": "verb",
+          "definition": "to gaze at, to look at",
+          "example": {
+            "korean": "별을 바라봐요.",
+            "english": "I gaze at the stars."
+          }
+        },
+        {
+          "word": "시선",
+          "romanization": "si-seon",
+          "partOfSpeech": "noun",
+          "definition": "gaze, line of sight"
+        },
+        {
+          "word": "무겁다",
+          "romanization": "mu-geop-da",
+          "partOfSpeech": "adjective",
+          "definition": "heavy",
+          "example": {
+            "korean": "가방이 무거워요.",
+            "english": "The bag is heavy."
+          }
+        },
+        {
+          "word": "멀리",
+          "romanization": "meol-li",
+          "partOfSpeech": "adverb",
+          "definition": "far away",
+          "example": {
+            "korean": "멀리서 봤어요.",
+            "english": "I saw from far away."
+          }
+        },
+        {
+          "word": "방향",
+          "romanization": "bang-hyang",
+          "partOfSpeech": "noun",
+          "definition": "direction"
+        },
+        {
+          "word": "슬프다",
+          "romanization": "seul-peu-da",
+          "partOfSpeech": "adjective",
+          "definition": "sad"
+        },
+        {
+          "word": "답답하다",
+          "romanization": "dap-dap-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "frustrating, stuffy"
+        },
+        {
+          "word": "오래",
+          "romanization": "o-rae",
+          "partOfSpeech": "adverb",
+          "definition": "for a long time",
+          "example": {
+            "korean": "오래 기다렸어요.",
+            "english": "I waited a long time."
+          }
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +618,71 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "맴도는 발걸음 여전히 네가 보고 싶어",
+      "breakdown": "\"맴돌다\"는 같은 곳을 계속 도는 거예요. 가수의 발걸음이 맴돌아요.\n\"발걸음\"은 걷는 발이에요. 어디로 갈지 모르고 맴돌아요.\n\"여전히\"는 \"still\"이에요. 변하지 않았어요.\n꿈**처럼** 사라진 사람 — 여전히 보고 싶어요. 꽃**처럼** 예뻤던 기억이 남아 있어요.",
+      "dictionary": [
+        {
+          "word": "맴돌다",
+          "romanization": "maem-dol-da",
+          "partOfSpeech": "verb",
+          "definition": "to circle, to wander around"
+        },
+        {
+          "word": "발걸음",
+          "romanization": "bal-geol-eum",
+          "partOfSpeech": "noun",
+          "definition": "footstep"
+        },
+        {
+          "word": "여전히",
+          "romanization": "yeo-jeon-hi",
+          "partOfSpeech": "adverb",
+          "definition": "still, as before",
+          "example": {
+            "korean": "여전히 좋아해요.",
+            "english": "I still like it."
+          }
+        },
+        {
+          "word": "사라지다",
+          "romanization": "sa-ra-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to disappear"
+        },
+        {
+          "word": "보고 싶다",
+          "romanization": "bo-go sip-da",
+          "partOfSpeech": "phrase",
+          "definition": "to miss someone"
+        },
+        {
+          "word": "걷다",
+          "romanization": "geot-da",
+          "partOfSpeech": "verb",
+          "definition": "to walk"
+        },
+        {
+          "word": "남아 있다",
+          "romanization": "nam-a it-da",
+          "partOfSpeech": "phrase",
+          "definition": "to remain"
+        },
+        {
+          "word": "꿈",
+          "romanization": "kkum",
+          "partOfSpeech": "noun",
+          "definition": "dream",
+          "example": {
+            "korean": "좋은 꿈 꿔요.",
+            "english": "Have good dreams."
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +806,79 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "차가웠던 그 날",
+      "breakdown": "\"차갑다\"의 과거형은 \"차가웠다\"예요. 그 날은 추웠어요.\n\"그 날\"은 특정한 날이에요. 기억 속의 날이에요.\n\"I remember\" — 이 노래에서도 영어를 섞어 써요.\n그 차가웠던 날이 꿈**처럼** 느껴져요. 별**처럼** 빛나던 시간이 지나갔어요.",
+      "dictionary": [
+        {
+          "word": "차갑다",
+          "romanization": "cha-gap-da",
+          "partOfSpeech": "adjective",
+          "definition": "cold",
+          "example": {
+            "korean": "날씨가 차가워요.",
+            "english": "The weather is cold."
+          }
+        },
+        {
+          "word": "차가웠던",
+          "romanization": "cha-ga-wot-deon",
+          "partOfSpeech": "adjective",
+          "definition": "that was cold"
+        },
+        {
+          "word": "날",
+          "romanization": "nal",
+          "partOfSpeech": "noun",
+          "definition": "day",
+          "example": {
+            "korean": "좋은 날이에요.",
+            "english": "It's a good day."
+          }
+        },
+        {
+          "word": "추웠다",
+          "romanization": "chu-wot-da",
+          "partOfSpeech": "adjective",
+          "definition": "was cold (past)"
+        },
+        {
+          "word": "기억 속",
+          "romanization": "gi-eok sok",
+          "partOfSpeech": "phrase",
+          "definition": "in one's memory"
+        },
+        {
+          "word": "느껴지다",
+          "romanization": "neu-kkyeo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to be felt",
+          "example": {
+            "korean": "따뜻하게 느껴져요.",
+            "english": "It feels warm."
+          }
+        },
+        {
+          "word": "지나가다",
+          "romanization": "ji-na-ga-da",
+          "partOfSpeech": "verb",
+          "definition": "to pass by",
+          "example": {
+            "korean": "시간이 지나갔어요.",
+            "english": "Time has passed."
+          }
+        },
+        {
+          "word": "빛나다",
+          "romanization": "bin-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to shine"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

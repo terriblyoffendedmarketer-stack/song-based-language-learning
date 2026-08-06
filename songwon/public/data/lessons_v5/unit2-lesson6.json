@@ -211,6 +211,79 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "어쩜 이렇게 하늘은 더 파란 건지?",
+      "breakdown": "\"어쩜\"은 \"어쩌면\"의 줄임말이에요. \"how can it be?\"라는 뜻이에요.\n\"하늘\"은 \"sky\"예요. \"파란\"은 \"blue\"예요. 하늘이 파래요!\n\"더\"는 \"more\"예요. 오늘 하늘이 더 파래요 — 보통보다 더!\n가수는 슬프지만 하늘은 아름다워요. 슬픔을 멈추**지 못해**요.",
+      "dictionary": [
+        {
+          "word": "어쩜",
+          "romanization": "eo-jjeom",
+          "partOfSpeech": "adverb",
+          "definition": "how (in amazement)"
+        },
+        {
+          "word": "이렇게",
+          "romanization": "i-reo-ke",
+          "partOfSpeech": "adverb",
+          "definition": "like this, this much"
+        },
+        {
+          "word": "하늘",
+          "romanization": "ha-neul",
+          "partOfSpeech": "noun",
+          "definition": "sky",
+          "example": {
+            "korean": "하늘이 예뻐요.",
+            "english": "The sky is pretty."
+          }
+        },
+        {
+          "word": "파랗다",
+          "romanization": "pa-ra-ta",
+          "partOfSpeech": "adjective",
+          "definition": "blue",
+          "example": {
+            "korean": "바다가 파래요.",
+            "english": "The ocean is blue."
+          }
+        },
+        {
+          "word": "더",
+          "romanization": "deo",
+          "partOfSpeech": "adverb",
+          "definition": "more",
+          "example": {
+            "korean": "더 먹고 싶어요.",
+            "english": "I want to eat more."
+          }
+        },
+        {
+          "word": "보통",
+          "romanization": "bo-tong",
+          "partOfSpeech": "adverb",
+          "definition": "usually, normally"
+        },
+        {
+          "word": "아름답다",
+          "romanization": "a-reum-dap-da",
+          "partOfSpeech": "adjective",
+          "definition": "beautiful",
+          "example": {
+            "korean": "꽃이 아름다워요.",
+            "english": "The flower is beautiful."
+          }
+        },
+        {
+          "word": "슬픔",
+          "romanization": "seul-peum",
+          "partOfSpeech": "noun",
+          "definition": "sadness, sorrow"
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +406,83 @@
         },
         "audioKey": "잊다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "오늘따라 왜 바람은 또 완벽한지?",
+      "breakdown": "\"오늘따라\"는 \"유독 오늘\"이라는 뜻이에요. 다른 날보다 오늘이 특별해요.\n\"바람\"은 \"wind\"예요. \"완벽한\"은 \"perfect\"이에요.\n\"왜\"는 \"why\"예요. 가수가 물어요: 왜 오늘 바람이 이렇게 완벽한 거야?\n가수가 슬플 때 세상은 너무 아름다워요. 슬픔을 잊**지 못하**는데, 바람은 완벽해요.",
+      "dictionary": [
+        {
+          "word": "오늘따라",
+          "romanization": "o-neul-tta-ra",
+          "partOfSpeech": "adverb",
+          "definition": "especially today, of all days"
+        },
+        {
+          "word": "왜",
+          "romanization": "wae",
+          "partOfSpeech": "adverb",
+          "definition": "why",
+          "example": {
+            "korean": "왜요?",
+            "english": "Why?"
+          }
+        },
+        {
+          "word": "바람",
+          "romanization": "ba-ram",
+          "partOfSpeech": "noun",
+          "definition": "wind",
+          "example": {
+            "korean": "바람이 불어요.",
+            "english": "The wind is blowing."
+          }
+        },
+        {
+          "word": "완벽하다",
+          "romanization": "wan-byeok-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "perfect",
+          "example": {
+            "korean": "완벽한 하루였어요.",
+            "english": "It was a perfect day."
+          }
+        },
+        {
+          "word": "유독",
+          "romanization": "yu-dok",
+          "partOfSpeech": "adverb",
+          "definition": "particularly, especially"
+        },
+        {
+          "word": "특별하다",
+          "romanization": "teuk-byeol-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "special"
+        },
+        {
+          "word": "세상",
+          "romanization": "se-sang",
+          "partOfSpeech": "noun",
+          "definition": "world",
+          "example": {
+            "korean": "세상은 넓어요.",
+            "english": "The world is wide."
+          }
+        },
+        {
+          "word": "물어보다",
+          "romanization": "mul-eo-bo-da",
+          "partOfSpeech": "verb",
+          "definition": "to ask",
+          "example": {
+            "korean": "질문을 물어봐요.",
+            "english": "I ask a question."
+          }
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +630,79 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그냥 모르는 척, 하나 못 들은 척",
+      "breakdown": "\"그냥\"은 \"just\"이에요. 특별한 이유 없이.\n\"모르는 척\"은 모르는 것처럼 행동하는 거예요. 알지만 모르는 척해요.\n\"못 들은 척\"은 듣**지 못한** 것처럼 하는 거예요.\n\"척\"은 실제로는 아닌데 그런 것처럼 하는 거예요. 가수가 고민해요: 모르는 척할까?",
+      "dictionary": [
+        {
+          "word": "그냥",
+          "romanization": "geu-nyang",
+          "partOfSpeech": "adverb",
+          "definition": "just, simply",
+          "example": {
+            "korean": "그냥 가요.",
+            "english": "Just go."
+          }
+        },
+        {
+          "word": "모르다",
+          "romanization": "mo-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to not know",
+          "example": {
+            "korean": "잘 모르겠어요.",
+            "english": "I'm not sure."
+          }
+        },
+        {
+          "word": "척",
+          "romanization": "cheok",
+          "partOfSpeech": "noun",
+          "definition": "pretense, pretending"
+        },
+        {
+          "word": "행동하다",
+          "romanization": "haeng-dong-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to act, to behave"
+        },
+        {
+          "word": "듣다",
+          "romanization": "deut-da",
+          "partOfSpeech": "verb",
+          "definition": "to hear, to listen",
+          "example": {
+            "korean": "음악을 들어요.",
+            "english": "I listen to music."
+          }
+        },
+        {
+          "word": "실제로",
+          "romanization": "sil-je-ro",
+          "partOfSpeech": "adverb",
+          "definition": "actually, in reality"
+        },
+        {
+          "word": "이유",
+          "romanization": "i-yu",
+          "partOfSpeech": "noun",
+          "definition": "reason",
+          "example": {
+            "korean": "이유가 뭐예요?",
+            "english": "What's the reason?"
+          }
+        },
+        {
+          "word": "고민하다",
+          "romanization": "go-min-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to worry, to agonize"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +826,79 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "지워버린 척 딴 얘길 시작할까?",
+      "breakdown": "\"지우다\"는 \"erase\"예요. \"지워버리다\"는 완전히 지우는 거예요.\n\"딴\"은 \"다른\"이에요. \"딴 얘기\" = 다른 이야기.\n\"시작할까?\"는 \"should I start?\"예요. 가수가 자기 자신에게 물어봐요.\n가수는 슬픔을 잊**지 못해**요. 하지만 잊은 척하고 다른 이야기를 할까 고민해요.",
+      "dictionary": [
+        {
+          "word": "지우다",
+          "romanization": "ji-u-da",
+          "partOfSpeech": "verb",
+          "definition": "to erase, to delete",
+          "example": {
+            "korean": "글씨를 지워요.",
+            "english": "I erase the writing."
+          }
+        },
+        {
+          "word": "지워버리다",
+          "romanization": "ji-wo-beo-ri-da",
+          "partOfSpeech": "verb",
+          "definition": "to completely erase"
+        },
+        {
+          "word": "딴",
+          "romanization": "ttan",
+          "partOfSpeech": "determiner",
+          "definition": "other, different"
+        },
+        {
+          "word": "얘기",
+          "romanization": "yae-gi",
+          "partOfSpeech": "noun",
+          "definition": "talk, story (casual for 이야기)",
+          "example": {
+            "korean": "무슨 얘기예요?",
+            "english": "What are you talking about?"
+          }
+        },
+        {
+          "word": "다른",
+          "romanization": "da-reun",
+          "partOfSpeech": "adjective",
+          "definition": "different, other",
+          "example": {
+            "korean": "다른 거 없어요?",
+            "english": "Is there anything else?"
+          }
+        },
+        {
+          "word": "자기",
+          "romanization": "ja-gi",
+          "partOfSpeech": "pronoun",
+          "definition": "oneself"
+        },
+        {
+          "word": "자신",
+          "romanization": "ja-sin",
+          "partOfSpeech": "noun",
+          "definition": "self, oneself"
+        },
+        {
+          "word": "완전히",
+          "romanization": "wan-jeon-hi",
+          "partOfSpeech": "adverb",
+          "definition": "completely",
+          "example": {
+            "korean": "완전히 달라요.",
+            "english": "It's completely different."
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",

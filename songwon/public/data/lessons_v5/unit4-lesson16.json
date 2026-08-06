@@ -213,6 +213,75 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "너의 목소리만 넘나 크게 들려",
+      "breakdown": "\"너의\"는 \"your\"이에요. \"목소리\"는 \"voice\"예요.\n\"만\"은 \"only\"예요. 너의 목소리**만** — 오직 너의 목소리만!\n\"넘나\"는 \"너무나\"의 줄임말이에요. \"too much\" 또는 \"so\"예요.\n\"크게 들리다\"는 큰 소리로 들린다는 뜻이에요. 좋아하**게 되**니까 목소리가 크게 들려요!",
+      "dictionary": [
+        {
+          "word": "목소리",
+          "romanization": "mok-so-ri",
+          "partOfSpeech": "noun",
+          "definition": "voice",
+          "example": {
+            "korean": "목소리가 좋아요.",
+            "english": "You have a nice voice."
+          }
+        },
+        {
+          "word": "만",
+          "romanization": "man",
+          "partOfSpeech": "particle",
+          "definition": "only"
+        },
+        {
+          "word": "넘나",
+          "romanization": "neom-na",
+          "partOfSpeech": "adverb",
+          "definition": "so much, excessively (slang for 너무나)"
+        },
+        {
+          "word": "크게",
+          "romanization": "keu-ge",
+          "partOfSpeech": "adverb",
+          "definition": "loudly, in a big way",
+          "example": {
+            "korean": "크게 말해요.",
+            "english": "Speak loudly."
+          }
+        },
+        {
+          "word": "들리다",
+          "romanization": "deul-li-da",
+          "partOfSpeech": "verb",
+          "definition": "to be heard",
+          "example": {
+            "korean": "소리가 들려요.",
+            "english": "I can hear a sound."
+          }
+        },
+        {
+          "word": "오직",
+          "romanization": "o-jik",
+          "partOfSpeech": "adverb",
+          "definition": "only, solely"
+        },
+        {
+          "word": "소리",
+          "romanization": "so-ri",
+          "partOfSpeech": "noun",
+          "definition": "sound"
+        },
+        {
+          "word": "큰",
+          "romanization": "keun",
+          "partOfSpeech": "adjective",
+          "definition": "big, loud"
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -347,6 +416,63 @@
       },
       "scored": true,
       "itemIndex": null
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "다른건 아무것도 안들리고",
+      "breakdown": "\"다른 건\"은 \"다른 것은\"의 줄임말이에요. 다른 것 = other things.\n\"아무것도 안\"은 \"nothing at all\"이에요. 하나도 안 들려요.\n\"안 들리고\" — \"안 들리다\" + \"-고\" (and). 안 들리**고**... 다음이 뭘까요?\n너의 목소리만 들리**게 돼**요. 다른 건 안 들리**게 돼**요. 이것이 사랑인가?",
+      "dictionary": [
+        {
+          "word": "다른",
+          "romanization": "da-reun",
+          "partOfSpeech": "adjective",
+          "definition": "other, different"
+        },
+        {
+          "word": "아무것도",
+          "romanization": "a-mu-geot-do",
+          "partOfSpeech": "pronoun",
+          "definition": "nothing at all"
+        },
+        {
+          "word": "안",
+          "romanization": "an",
+          "partOfSpeech": "adverb",
+          "definition": "not (negation)"
+        },
+        {
+          "word": "들리다",
+          "romanization": "deul-li-da",
+          "partOfSpeech": "verb",
+          "definition": "to be heard"
+        },
+        {
+          "word": "하나도",
+          "romanization": "ha-na-do",
+          "partOfSpeech": "adverb",
+          "definition": "not even one"
+        },
+        {
+          "word": "사랑",
+          "romanization": "sa-rang",
+          "partOfSpeech": "noun",
+          "definition": "love"
+        },
+        {
+          "word": "줄임말",
+          "romanization": "jul-im-mal",
+          "partOfSpeech": "noun",
+          "definition": "abbreviation"
+        },
+        {
+          "word": "다음",
+          "romanization": "da-eum",
+          "partOfSpeech": "noun",
+          "definition": "next"
+        }
+      ]
     },
     {
       "id": "s16-teach",
@@ -513,6 +639,71 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "너의 눈동자만 넘나 크게 보여",
+      "breakdown": "첫 번째 가사와 비슷해요! \"목소리\" 대신 \"눈동자\"가 왔어요.\n\"보이다\"는 \"보다\"의 수동형이에요. \"보여\" = 보여요, 보인다.\n너의 눈동자만 넘나 크게 보여 — 너의 눈만 보여요!\n좋아하**게 되**면 그 사람의 눈이 크게 보이**게 돼**요.",
+      "dictionary": [
+        {
+          "word": "눈동자",
+          "romanization": "nun-dong-ja",
+          "partOfSpeech": "noun",
+          "definition": "pupil, eyes"
+        },
+        {
+          "word": "보이다",
+          "romanization": "bo-i-da",
+          "partOfSpeech": "verb",
+          "definition": "to be seen, to be visible",
+          "example": {
+            "korean": "잘 보여요.",
+            "english": "I can see it well."
+          }
+        },
+        {
+          "word": "보다",
+          "romanization": "bo-da",
+          "partOfSpeech": "verb",
+          "definition": "to see, to watch",
+          "example": {
+            "korean": "영화를 봐요.",
+            "english": "I watch a movie."
+          }
+        },
+        {
+          "word": "대신",
+          "romanization": "dae-sin",
+          "partOfSpeech": "noun/adverb",
+          "definition": "instead"
+        },
+        {
+          "word": "수동형",
+          "romanization": "su-dong-hyeong",
+          "partOfSpeech": "noun",
+          "definition": "passive form"
+        },
+        {
+          "word": "비슷하다",
+          "romanization": "bi-seut-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "similar"
+        },
+        {
+          "word": "크게",
+          "romanization": "keu-ge",
+          "partOfSpeech": "adverb",
+          "definition": "largely, in a big way"
+        },
+        {
+          "word": "사람",
+          "romanization": "sa-ram",
+          "partOfSpeech": "noun",
+          "definition": "person"
+        }
+      ]
+    },
+    {
       "id": "s23-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -636,6 +827,75 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "아니 내가 정말 미친걸까",
+      "breakdown": "\"아니\"는 \"no, wait\"이에요. 갑자기 멈추고 생각하는 거예요.\n\"정말\"은 \"really\"예요. \"미치다\"는 \"to go crazy\"예요.\n\"미친걸까\" = 내가 진짜 미친 건가? 미친 것일까?\n가수가 물어요: 이게 정상인가? 누군가를 좋아하**게 되**면 미치는 걸까?",
+      "dictionary": [
+        {
+          "word": "아니",
+          "romanization": "a-ni",
+          "partOfSpeech": "interjection",
+          "definition": "no, wait"
+        },
+        {
+          "word": "정말",
+          "romanization": "jeong-mal",
+          "partOfSpeech": "adverb",
+          "definition": "really, truly",
+          "example": {
+            "korean": "정말이에요?",
+            "english": "Is it really?"
+          }
+        },
+        {
+          "word": "미치다",
+          "romanization": "mi-chi-da",
+          "partOfSpeech": "verb",
+          "definition": "to go crazy, to be insane",
+          "example": {
+            "korean": "미치겠어요!",
+            "english": "I'm going crazy!"
+          }
+        },
+        {
+          "word": "갑자기",
+          "romanization": "gap-ja-gi",
+          "partOfSpeech": "adverb",
+          "definition": "suddenly"
+        },
+        {
+          "word": "정상",
+          "romanization": "jeong-sang",
+          "partOfSpeech": "noun",
+          "definition": "normal",
+          "example": {
+            "korean": "정상이에요.",
+            "english": "It's normal."
+          }
+        },
+        {
+          "word": "누군가",
+          "romanization": "nu-gun-ga",
+          "partOfSpeech": "pronoun",
+          "definition": "someone"
+        },
+        {
+          "word": "생각하다",
+          "romanization": "saeng-gak-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to think"
+        },
+        {
+          "word": "내가",
+          "romanization": "nae-ga",
+          "partOfSpeech": "pronoun",
+          "definition": "I (subject marker)"
+        }
+      ]
     },
     {
       "id": "s28-quiz",

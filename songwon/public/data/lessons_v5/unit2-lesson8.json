@@ -211,6 +211,83 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나의 두 눈을 감으면",
+      "breakdown": "이 노래를 다시 만나요! Punch의 Stay With Me예요.\n\"나의 두 눈을 감으면\" — 눈을 감으면 사랑하는 사람이 보여요.\n\"눈을 감다\"는 눈을 닫는 거예요. 잠을 잘 때 눈을 감아요.\n왜 눈을 감을까요? 보고 싶어**서**. \"-아/어서\"는 이유를 말해요!",
+      "dictionary": [
+        {
+          "word": "다시",
+          "romanization": "da-si",
+          "partOfSpeech": "adverb",
+          "definition": "again",
+          "example": {
+            "korean": "다시 만나요.",
+            "english": "Let's meet again."
+          }
+        },
+        {
+          "word": "만나다",
+          "romanization": "man-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to meet",
+          "example": {
+            "korean": "반가워요, 만나서.",
+            "english": "Nice to meet you."
+          }
+        },
+        {
+          "word": "감다",
+          "romanization": "gam-da",
+          "partOfSpeech": "verb",
+          "definition": "to close (eyes)"
+        },
+        {
+          "word": "닫다",
+          "romanization": "dat-da",
+          "partOfSpeech": "verb",
+          "definition": "to close, to shut"
+        },
+        {
+          "word": "잠",
+          "romanization": "jam",
+          "partOfSpeech": "noun",
+          "definition": "sleep",
+          "example": {
+            "korean": "잠이 와요.",
+            "english": "I'm getting sleepy."
+          }
+        },
+        {
+          "word": "잠을 자다",
+          "romanization": "jam-eul ja-da",
+          "partOfSpeech": "phrase",
+          "definition": "to sleep"
+        },
+        {
+          "word": "이유",
+          "romanization": "i-yu",
+          "partOfSpeech": "noun",
+          "definition": "reason",
+          "example": {
+            "korean": "이유가 뭐예요?",
+            "english": "What's the reason?"
+          }
+        },
+        {
+          "word": "보고 싶다",
+          "romanization": "bo-go sip-da",
+          "partOfSpeech": "phrase",
+          "definition": "to miss someone",
+          "example": {
+            "korean": "너무 보고 싶어요.",
+            "english": "I miss you so much."
+          }
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +410,75 @@
         },
         "audioKey": "듣다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "떠오르는 그 눈동자",
+      "breakdown": "눈을 감으면 — 떠오르는 그 눈동자. 사랑하는 사람의 눈이에요.\n\"떠오르다\"는 생각이 나는 거예요. 좋아해**서** 자꾸 떠올라요.\n\"그\"는 특정한 사람을 가리켜요. \"그 사람\" \"그 눈동자\" — 바로 그 사람!\n\"보고 싶어서\" 눈을 감아요. \"좋아해서\" 잊을 수 없어요.",
+      "dictionary": [
+        {
+          "word": "떠오르다",
+          "romanization": "tteo-o-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to come to mind"
+        },
+        {
+          "word": "눈동자",
+          "romanization": "nun-dong-ja",
+          "partOfSpeech": "noun",
+          "definition": "pupil, eyes"
+        },
+        {
+          "word": "특정한",
+          "romanization": "teuk-jeong-han",
+          "partOfSpeech": "adjective",
+          "definition": "specific, particular"
+        },
+        {
+          "word": "가리키다",
+          "romanization": "ga-ri-ki-da",
+          "partOfSpeech": "verb",
+          "definition": "to point to, to indicate"
+        },
+        {
+          "word": "바로",
+          "romanization": "ba-ro",
+          "partOfSpeech": "adverb",
+          "definition": "exactly, right",
+          "example": {
+            "korean": "바로 그거예요!",
+            "english": "That's exactly it!"
+          }
+        },
+        {
+          "word": "잊다",
+          "romanization": "it-da",
+          "partOfSpeech": "verb",
+          "definition": "to forget"
+        },
+        {
+          "word": "생각",
+          "romanization": "saeng-gak",
+          "partOfSpeech": "noun",
+          "definition": "thought, idea",
+          "example": {
+            "korean": "좋은 생각이에요.",
+            "english": "That's a good idea."
+          }
+        },
+        {
+          "word": "좋아하다",
+          "romanization": "jo-a-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to like",
+          "example": {
+            "korean": "많이 좋아해요.",
+            "english": "I like it a lot."
+          }
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +626,67 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "자꾸 가슴이 시려서",
+      "breakdown": "\"가슴이 시리다\" — 마음이 차갑고 아파요.\n여기서 \"-아/어서\"가 나와요! \"시려**서**\" = 시리기 때문에. 이유예요.\n가슴이 시려**서** 어떻게 해요? 잊혀지길 바랐어요. 시리니까 잊고 싶었어요.\n\"-아/어서\"는 이유를 말할 때 아주 많이 써요. \"좋아해**서**\", \"보고 싶어**서**\", \"시려**서**\".",
+      "dictionary": [
+        {
+          "word": "시리다",
+          "romanization": "si-ri-da",
+          "partOfSpeech": "adjective",
+          "definition": "to ache from cold"
+        },
+        {
+          "word": "때문에",
+          "romanization": "ttae-mun-e",
+          "partOfSpeech": "postposition",
+          "definition": "because of"
+        },
+        {
+          "word": "차갑다",
+          "romanization": "cha-gap-da",
+          "partOfSpeech": "adjective",
+          "definition": "cold"
+        },
+        {
+          "word": "아프다",
+          "romanization": "a-peu-da",
+          "partOfSpeech": "adjective",
+          "definition": "to hurt, painful"
+        },
+        {
+          "word": "바라다",
+          "romanization": "ba-ra-da",
+          "partOfSpeech": "verb",
+          "definition": "to wish, to hope"
+        },
+        {
+          "word": "잊다",
+          "romanization": "it-da",
+          "partOfSpeech": "verb",
+          "definition": "to forget"
+        },
+        {
+          "word": "많이",
+          "romanization": "man-i",
+          "partOfSpeech": "adverb",
+          "definition": "a lot, much",
+          "example": {
+            "korean": "많이 먹었어요.",
+            "english": "I ate a lot."
+          }
+        },
+        {
+          "word": "어떻게",
+          "romanization": "eo-tteo-ke",
+          "partOfSpeech": "adverb",
+          "definition": "how"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +810,67 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "잊혀지길 바랬어",
+      "breakdown": "\"잊혀지다\"는 자연스럽게 잊어지는 거예요.\n\"바라다\"의 과거형은 \"바랬어\"예요. \"원했어요\"라는 뜻이에요.\n가수는 왜 잊고 싶었을까요? 가슴이 시려**서**. 아파**서**.\n보고 싶어**서** 괴로워요. 좋아해**서** 잊지 못해요. \"-아/어서\"로 이유를 말할 수 있어요!",
+      "dictionary": [
+        {
+          "word": "잊혀지다",
+          "romanization": "i-tyeo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to be forgotten"
+        },
+        {
+          "word": "자연스럽다",
+          "romanization": "ja-yeon-seu-reop-da",
+          "partOfSpeech": "adjective",
+          "definition": "natural"
+        },
+        {
+          "word": "원하다",
+          "romanization": "won-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to want",
+          "example": {
+            "korean": "뭘 원해요?",
+            "english": "What do you want?"
+          }
+        },
+        {
+          "word": "과거형",
+          "romanization": "gwa-geo-hyeong",
+          "partOfSpeech": "noun",
+          "definition": "past tense form"
+        },
+        {
+          "word": "괴롭다",
+          "romanization": "goe-rop-da",
+          "partOfSpeech": "adjective",
+          "definition": "painful, tormenting"
+        },
+        {
+          "word": "가슴",
+          "romanization": "ga-seum",
+          "partOfSpeech": "noun",
+          "definition": "chest, heart"
+        },
+        {
+          "word": "잊지 못하다",
+          "romanization": "it-ji mo-ta-da",
+          "partOfSpeech": "phrase",
+          "definition": "to be unable to forget"
+        },
+        {
+          "word": "이유",
+          "romanization": "i-yu",
+          "partOfSpeech": "noun",
+          "definition": "reason"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

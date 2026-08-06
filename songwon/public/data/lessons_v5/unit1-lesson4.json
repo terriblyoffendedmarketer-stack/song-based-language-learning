@@ -211,6 +211,79 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나의 두 눈을 감으면",
+      "breakdown": "이 가사에서 \"-(으)면\"이 나와요! 이 레슨의 문법이에요.\n\"감으면\"은 \"감다\" + \"-(으)면\"이에요. \"눈을 감으면\" = \"눈을 감을 때\" — if I close my eyes.\n\"-(으)면\"은 조건을 말할 때 써요. \"비가 오면 우산을 써요\" — 비가 오면!\n이 노래에서 가수가 눈을 감으**면** 사랑하는 사람이 떠올라요.",
+      "dictionary": [
+        {
+          "word": "감다",
+          "romanization": "gam-da",
+          "partOfSpeech": "verb",
+          "definition": "to close (eyes)",
+          "example": {
+            "korean": "눈을 감으세요.",
+            "english": "Close your eyes."
+          }
+        },
+        {
+          "word": "조건",
+          "romanization": "jo-geon",
+          "partOfSpeech": "noun",
+          "definition": "condition"
+        },
+        {
+          "word": "비",
+          "romanization": "bi",
+          "partOfSpeech": "noun",
+          "definition": "rain",
+          "example": {
+            "korean": "비가 와요.",
+            "english": "It's raining."
+          }
+        },
+        {
+          "word": "우산",
+          "romanization": "u-san",
+          "partOfSpeech": "noun",
+          "definition": "umbrella",
+          "example": {
+            "korean": "우산을 가져가요.",
+            "english": "Take an umbrella."
+          }
+        },
+        {
+          "word": "쓰다",
+          "romanization": "sseu-da",
+          "partOfSpeech": "verb",
+          "definition": "to use; to wear (hat/umbrella)"
+        },
+        {
+          "word": "때",
+          "romanization": "ttae",
+          "partOfSpeech": "noun",
+          "definition": "time, when",
+          "example": {
+            "korean": "그때 만나요.",
+            "english": "Let's meet then."
+          }
+        },
+        {
+          "word": "떠오르다",
+          "romanization": "tteo-o-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to come to mind, to rise"
+        },
+        {
+          "word": "사랑하는",
+          "romanization": "sa-rang-ha-neun",
+          "partOfSpeech": "adjective",
+          "definition": "beloved"
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -334,6 +407,79 @@
         },
         "audioKey": "하늘"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "떠오르는 그 눈동자",
+      "breakdown": "이전 가사에서 \"눈을 감으**면**\"이라고 했어요. 그 다음은?\n떠오르는 그 눈동자 — 사랑하는 사람의 눈이 기억나요.\n\"떠오르다\"는 머릿속에 그림이 나타나는 것 같아요. 기억이 떠올라요.\n\"-(으)면\"으로 만들어 보면: \"생각하면 눈동자가 떠올라요.\" 이렇게 쓸 수 있어요!",
+      "dictionary": [
+        {
+          "word": "이전",
+          "romanization": "i-jeon",
+          "partOfSpeech": "noun/adjective",
+          "definition": "previous, before"
+        },
+        {
+          "word": "기억나다",
+          "romanization": "gi-eok-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to remember, to recall",
+          "example": {
+            "korean": "이름이 기억나요.",
+            "english": "I remember the name."
+          }
+        },
+        {
+          "word": "그림",
+          "romanization": "geu-rim",
+          "partOfSpeech": "noun",
+          "definition": "picture, drawing",
+          "example": {
+            "korean": "그림을 그려요.",
+            "english": "I draw a picture."
+          }
+        },
+        {
+          "word": "나타나다",
+          "romanization": "na-ta-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to appear"
+        },
+        {
+          "word": "생각하다",
+          "romanization": "saeng-gak-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to think",
+          "example": {
+            "korean": "자주 생각해요.",
+            "english": "I think about it often."
+          }
+        },
+        {
+          "word": "만들다",
+          "romanization": "man-deul-da",
+          "partOfSpeech": "verb",
+          "definition": "to make, to create",
+          "example": {
+            "korean": "음식을 만들어요.",
+            "english": "I make food."
+          }
+        },
+        {
+          "word": "이렇게",
+          "romanization": "i-reo-ke",
+          "partOfSpeech": "adverb",
+          "definition": "like this, in this way"
+        },
+        {
+          "word": "눈동자",
+          "romanization": "nun-dong-ja",
+          "partOfSpeech": "noun",
+          "definition": "pupil, eyes"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -481,6 +627,87 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "자꾸 가슴이 시려서",
+      "breakdown": "\"가슴이 시리다\"는 마음이 아프다는 뜻이에요.\n\"시리다\"를 \"-(으)면\"으로 써 볼까요? \"가슴이 시리**면** 어떻게 해요?\" — 가슴이 시리면!\n\"자꾸\"는 반복해서라는 뜻이에요. 가슴이 한 번 아픈 게 아니라, 자꾸 아파요.\n웃으**면** 괜찮을까요? 시간이 지나**면** 괜찮을까요? 가수는 아직 모르겠어요.",
+      "dictionary": [
+        {
+          "word": "가슴",
+          "romanization": "ga-seum",
+          "partOfSpeech": "noun",
+          "definition": "chest, heart",
+          "example": {
+            "korean": "가슴이 아파요.",
+            "english": "My heart aches."
+          }
+        },
+        {
+          "word": "시리다",
+          "romanization": "si-ri-da",
+          "partOfSpeech": "adjective",
+          "definition": "to ache from cold"
+        },
+        {
+          "word": "반복",
+          "romanization": "ban-bok",
+          "partOfSpeech": "noun",
+          "definition": "repetition"
+        },
+        {
+          "word": "아프다",
+          "romanization": "a-peu-da",
+          "partOfSpeech": "adjective",
+          "definition": "to hurt, to be sick",
+          "example": {
+            "korean": "머리가 아파요.",
+            "english": "My head hurts."
+          }
+        },
+        {
+          "word": "한 번",
+          "romanization": "han beon",
+          "partOfSpeech": "noun",
+          "definition": "once",
+          "example": {
+            "korean": "한 번만 해요.",
+            "english": "Do it just once."
+          }
+        },
+        {
+          "word": "어떻게",
+          "romanization": "eo-tteo-ke",
+          "partOfSpeech": "adverb",
+          "definition": "how",
+          "example": {
+            "korean": "어떻게 해요?",
+            "english": "What should I do?"
+          }
+        },
+        {
+          "word": "아직",
+          "romanization": "a-jik",
+          "partOfSpeech": "adverb",
+          "definition": "still, yet",
+          "example": {
+            "korean": "아직 몰라요.",
+            "english": "I still don't know."
+          }
+        },
+        {
+          "word": "모르다",
+          "romanization": "mo-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to not know",
+          "example": {
+            "korean": "잘 모르겠어요.",
+            "english": "I'm not sure."
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -604,6 +831,83 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "잊혀지길 바랬어",
+      "breakdown": "가수는 잊혀지길 바랬어요 — 잊히고 싶었어요.\n\"-(으)면\" 문법으로 이 마음을 표현해 볼까요?\n\"시간이 지나**면** 잊을 수 있을까?\" — 시간이 지나면 잊힐까?\n\"웃으**면** 괜찮아질까?\" — 웃으면 마음이 나아질까?\n이 노래에서 가수는 조건을 생각해요. \"~하면 괜찮을까?\" 하지만 아직 괜찮지 않아요.",
+      "dictionary": [
+        {
+          "word": "잊히다",
+          "romanization": "it-hi-da",
+          "partOfSpeech": "verb",
+          "definition": "to be forgotten"
+        },
+        {
+          "word": "표현하다",
+          "romanization": "pyo-hyeon-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to express"
+        },
+        {
+          "word": "나아지다",
+          "romanization": "na-a-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to get better, to improve",
+          "example": {
+            "korean": "많이 나아졌어요.",
+            "english": "It got much better."
+          }
+        },
+        {
+          "word": "지나다",
+          "romanization": "ji-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to pass (time)",
+          "example": {
+            "korean": "시간이 빨리 지나요.",
+            "english": "Time passes quickly."
+          }
+        },
+        {
+          "word": "마음",
+          "romanization": "ma-eum",
+          "partOfSpeech": "noun",
+          "definition": "heart, mind",
+          "example": {
+            "korean": "마음이 아파요.",
+            "english": "My heart hurts."
+          }
+        },
+        {
+          "word": "하지만",
+          "romanization": "ha-ji-man",
+          "partOfSpeech": "conjunction",
+          "definition": "but, however"
+        },
+        {
+          "word": "괜찮다",
+          "romanization": "gwaen-chan-ta",
+          "partOfSpeech": "adjective",
+          "definition": "to be okay, to be fine",
+          "example": {
+            "korean": "괜찮아요.",
+            "english": "It's okay."
+          }
+        },
+        {
+          "word": "빨리",
+          "romanization": "ppal-li",
+          "partOfSpeech": "adverb",
+          "definition": "quickly, fast",
+          "example": {
+            "korean": "빨리 와요.",
+            "english": "Come quickly."
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",

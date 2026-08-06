@@ -62,10 +62,10 @@
       "type": "lyrics-korean",
       "label": "들어 보세요",
       "lines": [
-        "지금 이 말이jigeum i mari",
-        "우리가 다시uriga dasi",
-        "시작하자는 건 아냐sijakajaneun geon anya",
-        "그저 너의geujeo neoui"
+        "지금 이 말이",
+        "우리가 다시",
+        "시작하자는 건 아냐",
+        "그저 너의"
       ],
       "musicPlaying": true
     },
@@ -75,22 +75,22 @@
       "label": "번역",
       "lines": [
         {
-          "korean": "지금 이 말이jigeum i mari",
+          "korean": "지금 이 말이",
           "english": "What I'm saying right now",
           "highlights": []
         },
         {
-          "korean": "우리가 다시uriga dasi",
+          "korean": "우리가 다시",
           "english": "isn't that we should start over again",
           "highlights": []
         },
         {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "korean": "시작하자는 건 아냐",
           "english": "it's just that",
           "highlights": []
         },
         {
-          "korean": "그저 너의geujeo neoui",
+          "korean": "그저 너의",
           "english": "some memory of you that had been staying inside me",
           "highlights": []
         }
@@ -209,6 +209,71 @@
         },
         "audioKey": "걷던 길"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "지금 이 말이",
+      "breakdown": "DAY6의 \"예뻤어\"를 마지막으로 만나요! 이번에는 \"-던\" 문법이에요.\n\"-던\"은 과거의 기억을 말해요. 예전에 하**던** 일, 좋아하**던** 사람.\n\"지금 이 말이\" — 지금 하는 말이지만, 과거의 기억에 대한 말이에요.\n이 노래 제목이 \"예뻤어\" — 예쁘**던** 사람. 사랑하**던** 사람.",
+      "dictionary": [
+        {
+          "word": "마지막",
+          "romanization": "ma-ji-mak",
+          "partOfSpeech": "noun",
+          "definition": "last, final",
+          "example": {
+            "korean": "마지막 레슨이에요.",
+            "english": "It's the last lesson."
+          }
+        },
+        {
+          "word": "과거",
+          "romanization": "gwa-geo",
+          "partOfSpeech": "noun",
+          "definition": "past"
+        },
+        {
+          "word": "기억",
+          "romanization": "gi-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory"
+        },
+        {
+          "word": "예전",
+          "romanization": "ye-jeon",
+          "partOfSpeech": "noun",
+          "definition": "before, in the past"
+        },
+        {
+          "word": "제목",
+          "romanization": "je-mok",
+          "partOfSpeech": "noun",
+          "definition": "title",
+          "example": {
+            "korean": "노래 제목이에요.",
+            "english": "It's the song title."
+          }
+        },
+        {
+          "word": "예쁘다",
+          "romanization": "ye-ppeu-da",
+          "partOfSpeech": "adjective",
+          "definition": "pretty"
+        },
+        {
+          "word": "사랑하다",
+          "romanization": "sa-rang-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to love"
+        },
+        {
+          "word": "대한",
+          "romanization": "dae-han",
+          "partOfSpeech": "preposition",
+          "definition": "about, regarding"
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -345,6 +410,71 @@
       },
       "scored": true,
       "itemIndex": null
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "우리가 다시",
+      "breakdown": "\"우리가 다시\" — 함께하**던** 시간으로 돌아갈 수 있을까?\n걷**던** 길을 다시 걸어요. 예전에 같이 걷**던** 그 길.\n\"추억\"은 과거의 좋은 기억이에요. 추억 속에서 우리는 행복했어요.\n사랑하**던** 사람과 걷**던** 길 — \"-던\"은 과거의 따뜻한 기억이에요.",
+      "dictionary": [
+        {
+          "word": "함께하다",
+          "romanization": "ham-kke-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to be together"
+        },
+        {
+          "word": "돌아가다",
+          "romanization": "dol-a-ga-da",
+          "partOfSpeech": "verb",
+          "definition": "to go back, to return"
+        },
+        {
+          "word": "추억",
+          "romanization": "chu-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory, nostalgia",
+          "example": {
+            "korean": "좋은 추억이에요.",
+            "english": "It's a good memory."
+          }
+        },
+        {
+          "word": "행복하다",
+          "romanization": "haeng-bok-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "happy"
+        },
+        {
+          "word": "길",
+          "romanization": "gil",
+          "partOfSpeech": "noun",
+          "definition": "road, path",
+          "example": {
+            "korean": "이 길을 걸어요.",
+            "english": "I walk this road."
+          }
+        },
+        {
+          "word": "걷다",
+          "romanization": "geot-da",
+          "partOfSpeech": "verb",
+          "definition": "to walk"
+        },
+        {
+          "word": "따뜻하다",
+          "romanization": "tta-tteu-ta-da",
+          "partOfSpeech": "adjective",
+          "definition": "warm"
+        },
+        {
+          "word": "속",
+          "romanization": "sok",
+          "partOfSpeech": "noun",
+          "definition": "inside"
+        }
+      ]
     },
     {
       "id": "s16-teach",
@@ -511,6 +641,71 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시작하자는 건 아냐",
+      "breakdown": "\"시작하자는 건 아냐\" — 다시 시작하자는 게 아니에요.\n사랑하**던** 사람과 다시 시작할 수 없어요. 시간이 지났어요.\n하지만 기억은 남아요. 예전에 사랑하**던** 기억, 함께 걷**던** 기억.\n향기가 남아 있어요. 예전에 맡**던** 향기 — \"-던\"이 기억을 불러와요.",
+      "dictionary": [
+        {
+          "word": "시작하다",
+          "romanization": "si-jak-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to start"
+        },
+        {
+          "word": "지나다",
+          "romanization": "ji-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to pass"
+        },
+        {
+          "word": "남다",
+          "romanization": "nam-da",
+          "partOfSpeech": "verb",
+          "definition": "to remain"
+        },
+        {
+          "word": "향기",
+          "romanization": "hyang-gi",
+          "partOfSpeech": "noun",
+          "definition": "scent, fragrance",
+          "example": {
+            "korean": "꽃의 향기예요.",
+            "english": "It's the scent of flowers."
+          }
+        },
+        {
+          "word": "맡다",
+          "romanization": "mat-da",
+          "partOfSpeech": "verb",
+          "definition": "to smell",
+          "example": {
+            "korean": "좋은 향기를 맡아요.",
+            "english": "I smell a good fragrance."
+          }
+        },
+        {
+          "word": "불러오다",
+          "romanization": "bul-leo-o-da",
+          "partOfSpeech": "verb",
+          "definition": "to bring, to summon"
+        },
+        {
+          "word": "하지만",
+          "romanization": "ha-ji-man",
+          "partOfSpeech": "conjunction",
+          "definition": "but, however"
+        },
+        {
+          "word": "함께",
+          "romanization": "ham-kke",
+          "partOfSpeech": "adverb",
+          "definition": "together"
+        }
+      ]
+    },
+    {
       "id": "s23-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -634,6 +829,71 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그저 너의",
+      "breakdown": "\"그저 너의\" — 마지막 가사예요. 그저 너의 기억이...\n사랑하**던** 사람의 기억이에요. 걷**던** 길의 기억이에요.\n향기가 남아 있어요. 예전에 맡**던** 그 향기.\n\"-던\"은 과거의 기억, 추억을 말해요. 이 레슨이 마지막이에요. 20개 레슨을 다 배웠어요! 축하해요!",
+      "dictionary": [
+        {
+          "word": "마지막",
+          "romanization": "ma-ji-mak",
+          "partOfSpeech": "noun",
+          "definition": "last, final"
+        },
+        {
+          "word": "사랑하던",
+          "romanization": "sa-rang-ha-deon",
+          "partOfSpeech": "adjective",
+          "definition": "that one used to love"
+        },
+        {
+          "word": "걷던",
+          "romanization": "geot-deon",
+          "partOfSpeech": "adjective",
+          "definition": "that one used to walk"
+        },
+        {
+          "word": "향기",
+          "romanization": "hyang-gi",
+          "partOfSpeech": "noun",
+          "definition": "scent"
+        },
+        {
+          "word": "추억",
+          "romanization": "chu-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory, nostalgia"
+        },
+        {
+          "word": "배우다",
+          "romanization": "bae-u-da",
+          "partOfSpeech": "verb",
+          "definition": "to learn"
+        },
+        {
+          "word": "축하하다",
+          "romanization": "chuk-ha-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to congratulate",
+          "example": {
+            "korean": "축하해요!",
+            "english": "Congratulations!"
+          }
+        },
+        {
+          "word": "다",
+          "romanization": "da",
+          "partOfSpeech": "adverb",
+          "definition": "all, everything",
+          "example": {
+            "korean": "다 했어요.",
+            "english": "I did everything."
+          }
+        }
+      ]
     },
     {
       "id": "s28-quiz",

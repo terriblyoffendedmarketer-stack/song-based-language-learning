@@ -62,10 +62,10 @@
       "type": "lyrics-korean",
       "label": "들어 보세요",
       "lines": [
-        "지금 이 말이jigeum i mari",
-        "우리가 다시uriga dasi",
-        "시작하자는 건 아냐sijakajaneun geon anya",
-        "그저 너의geujeo neoui"
+        "지금 이 말이",
+        "우리가 다시",
+        "시작하자는 건 아냐",
+        "그저 너의"
       ],
       "musicPlaying": true
     },
@@ -75,22 +75,22 @@
       "label": "번역",
       "lines": [
         {
-          "korean": "지금 이 말이jigeum i mari",
+          "korean": "지금 이 말이",
           "english": "What I'm saying right now",
           "highlights": []
         },
         {
-          "korean": "우리가 다시uriga dasi",
+          "korean": "우리가 다시",
           "english": "isn't that we should start over again",
           "highlights": []
         },
         {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "korean": "시작하자는 건 아냐",
           "english": "it's just that",
           "highlights": []
         },
         {
-          "korean": "그저 너의geujeo neoui",
+          "korean": "그저 너의",
           "english": "some memory of you that had been staying inside me",
           "highlights": []
         }
@@ -209,6 +209,67 @@
         },
         "audioKey": "웃다가도 울다"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "지금 이 말이",
+      "breakdown": "DAY6의 \"예뻤어\"를 또 만나요! 이번에는 \"-다가도\" 문법이에요.\n\"-다가도\"는 하던 일 중간에 갑자기 바뀌는 거예요.\n\"지금 이 말이\" — 지금 말하**다가도** 갑자기 울 수 있어요.\n생각하**다가도** 웃어요. 웃**다가도** 울어요. 감정이 계속 변해요.",
+      "dictionary": [
+        {
+          "word": "또",
+          "romanization": "tto",
+          "partOfSpeech": "adverb",
+          "definition": "again, also"
+        },
+        {
+          "word": "만나다",
+          "romanization": "man-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to meet"
+        },
+        {
+          "word": "갑자기",
+          "romanization": "gap-ja-gi",
+          "partOfSpeech": "adverb",
+          "definition": "suddenly",
+          "example": {
+            "korean": "갑자기 비가 왔어요.",
+            "english": "It suddenly rained."
+          }
+        },
+        {
+          "word": "바뀌다",
+          "romanization": "ba-kkwi-da",
+          "partOfSpeech": "verb",
+          "definition": "to be changed, to switch"
+        },
+        {
+          "word": "중간",
+          "romanization": "jung-gan",
+          "partOfSpeech": "noun",
+          "definition": "middle"
+        },
+        {
+          "word": "울다",
+          "romanization": "ul-da",
+          "partOfSpeech": "verb",
+          "definition": "to cry"
+        },
+        {
+          "word": "웃다",
+          "romanization": "ut-da",
+          "partOfSpeech": "verb",
+          "definition": "to smile, to laugh"
+        },
+        {
+          "word": "변하다",
+          "romanization": "byeon-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to change"
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -333,6 +394,63 @@
         },
         "audioKey": "혼자"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "우리가 다시",
+      "breakdown": "\"우리가 다시\" — 우리가 다시 만날 수 있을까요?\n평소에 괜찮**다가도** 이 생각을 하면 슬퍼져요.\n\"다시\"는 \"again\"이에요. 한 번 끝났지만 다시 할 수 있을까?\n생각하**다가도** 멈춰요. 말하**다가도** 멈춰요. 대답을 모르니까.",
+      "dictionary": [
+        {
+          "word": "만날 수 있다",
+          "romanization": "man-nal su it-da",
+          "partOfSpeech": "phrase",
+          "definition": "to be able to meet"
+        },
+        {
+          "word": "평소",
+          "romanization": "pyeong-so",
+          "partOfSpeech": "noun",
+          "definition": "usually, normally"
+        },
+        {
+          "word": "괜찮다",
+          "romanization": "gwaen-chan-ta",
+          "partOfSpeech": "adjective",
+          "definition": "to be fine, to be okay"
+        },
+        {
+          "word": "생각",
+          "romanization": "saeng-gak",
+          "partOfSpeech": "noun",
+          "definition": "thought"
+        },
+        {
+          "word": "슬퍼지다",
+          "romanization": "seul-peo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to become sad"
+        },
+        {
+          "word": "멈추다",
+          "romanization": "meom-chu-da",
+          "partOfSpeech": "verb",
+          "definition": "to stop"
+        },
+        {
+          "word": "대답",
+          "romanization": "dae-dap",
+          "partOfSpeech": "noun",
+          "definition": "answer, reply"
+        },
+        {
+          "word": "모르다",
+          "romanization": "mo-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to not know"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +598,67 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시작하자는 건 아냐",
+      "breakdown": "\"시작하자는 건 아냐\" — 다시 시작하자는 게 아니에요.\n가수가 혼자 걷**다가도** 이 생각을 해요. 우리의 이야기를.\n\"건 아냐\" = 것은 아니야. 부정이에요. 다시 사귀자는 거 아니에요.\n웃**다가도** 이 생각을 하면 울어요. 그래서 이 가사가 슬퍼요.",
+      "dictionary": [
+        {
+          "word": "혼자",
+          "romanization": "hon-ja",
+          "partOfSpeech": "adverb",
+          "definition": "alone",
+          "example": {
+            "korean": "혼자 걸어요.",
+            "english": "I walk alone."
+          }
+        },
+        {
+          "word": "이야기",
+          "romanization": "i-ya-gi",
+          "partOfSpeech": "noun",
+          "definition": "story"
+        },
+        {
+          "word": "부정",
+          "romanization": "bu-jeong",
+          "partOfSpeech": "noun",
+          "definition": "negation"
+        },
+        {
+          "word": "사귀다",
+          "romanization": "sa-gwi-da",
+          "partOfSpeech": "verb",
+          "definition": "to date"
+        },
+        {
+          "word": "걷다",
+          "romanization": "geot-da",
+          "partOfSpeech": "verb",
+          "definition": "to walk"
+        },
+        {
+          "word": "그래서",
+          "romanization": "geu-rae-seo",
+          "partOfSpeech": "conjunction",
+          "definition": "so, therefore"
+        },
+        {
+          "word": "슬프다",
+          "romanization": "seul-peu-da",
+          "partOfSpeech": "adjective",
+          "definition": "sad"
+        },
+        {
+          "word": "가사",
+          "romanization": "ga-sa",
+          "partOfSpeech": "noun",
+          "definition": "lyrics"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +782,67 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그저 너의",
+      "breakdown": "\"그저 너의\" — 그저 너의 기억이 남아 있을 뿐이에요.\n혼자 있**다가도** 네 기억이 떠올라요.\n잘 지내**다가도** 갑자기 보고 싶어져요.\n\"-다가도\"는 이렇게 써요: 하던 일 중간에 감정이 바뀌어요. 웃**다가도** 울고, 걷**다가도** 멈춰요.",
+      "dictionary": [
+        {
+          "word": "남아 있다",
+          "romanization": "nam-a it-da",
+          "partOfSpeech": "phrase",
+          "definition": "to remain"
+        },
+        {
+          "word": "뿐",
+          "romanization": "ppun",
+          "partOfSpeech": "particle",
+          "definition": "only, just"
+        },
+        {
+          "word": "떠오르다",
+          "romanization": "tteo-o-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to come to mind"
+        },
+        {
+          "word": "잘 지내다",
+          "romanization": "jal ji-nae-da",
+          "partOfSpeech": "phrase",
+          "definition": "to be doing well",
+          "example": {
+            "korean": "잘 지내요?",
+            "english": "How are you?"
+          }
+        },
+        {
+          "word": "보고 싶어지다",
+          "romanization": "bo-go si-peo-ji-da",
+          "partOfSpeech": "verb",
+          "definition": "to start to miss someone"
+        },
+        {
+          "word": "하던",
+          "romanization": "ha-deon",
+          "partOfSpeech": "adjective",
+          "definition": "that one was doing"
+        },
+        {
+          "word": "바뀌다",
+          "romanization": "ba-kkwi-da",
+          "partOfSpeech": "verb",
+          "definition": "to be changed"
+        },
+        {
+          "word": "걷다",
+          "romanization": "geot-da",
+          "partOfSpeech": "verb",
+          "definition": "to walk"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

@@ -62,10 +62,10 @@
       "type": "lyrics-korean",
       "label": "들어 보세요",
       "lines": [
-        "이 밤 그날의 반딧불을i bam geunarui banditbureul",
-        "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
-        "사랑한다는 말이에요saranghandaneun marieyo",
-        "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+        "이 밤 그날의 반딧불을",
+        "당신의 창 가까이 보낼게요",
+        "사랑한다는 말이에요",
+        "나 우리의 첫 입맞춤을 떠올려"
       ],
       "musicPlaying": true
     },
@@ -75,22 +75,22 @@
       "label": "번역",
       "lines": [
         {
-          "korean": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+          "korean": "이 밤 그날의 반딧불을",
           "english": "Tonight, I'll send that day's firefly",
           "highlights": []
         },
         {
-          "korean": "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
+          "korean": "당신의 창 가까이 보낼게요",
           "english": "close to your window",
           "highlights": []
         },
         {
-          "korean": "사랑한다는 말이에요saranghandaneun marieyo",
+          "korean": "사랑한다는 말이에요",
           "english": "it means 'I love you'",
           "highlights": []
         },
         {
-          "korean": "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo",
+          "korean": "나 우리의 첫 입맞춤을 떠올려",
           "english": "I recall our first kiss",
           "highlights": []
         }
@@ -209,6 +209,79 @@
         },
         "audioKey": "울 것 같다"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "이 밤 그날의 반딧불을",
+      "breakdown": "\"이 밤\"은 \"tonight\" 또는 \"이 밤에\"예요.\n\"그날\"은 특별했던 어떤 날이에요. \"그\" + \"날\" = 그 날.\n\"반딧불\"은 밤에 빛나는 작은 벌레예요. 영어로 \"firefly\"예요.\n가수는 밤에 반딧불을 보내**ㄹ 것 같아**요. 아름다운 이미지예요!",
+      "dictionary": [
+        {
+          "word": "밤",
+          "romanization": "bam",
+          "partOfSpeech": "noun",
+          "definition": "night",
+          "example": {
+            "korean": "밤에 별이 보여요.",
+            "english": "I see stars at night."
+          }
+        },
+        {
+          "word": "그날",
+          "romanization": "geu-nal",
+          "partOfSpeech": "noun",
+          "definition": "that day"
+        },
+        {
+          "word": "반딧불",
+          "romanization": "ban-dit-bul",
+          "partOfSpeech": "noun",
+          "definition": "firefly"
+        },
+        {
+          "word": "빛나다",
+          "romanization": "bin-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to shine, to glow",
+          "example": {
+            "korean": "별이 빛나요.",
+            "english": "The stars are shining."
+          }
+        },
+        {
+          "word": "작다",
+          "romanization": "jak-da",
+          "partOfSpeech": "adjective",
+          "definition": "small, little",
+          "example": {
+            "korean": "작은 꽃이에요.",
+            "english": "It's a small flower."
+          }
+        },
+        {
+          "word": "벌레",
+          "romanization": "beol-le",
+          "partOfSpeech": "noun",
+          "definition": "bug, insect"
+        },
+        {
+          "word": "아름답다",
+          "romanization": "a-reum-dap-da",
+          "partOfSpeech": "adjective",
+          "definition": "beautiful"
+        },
+        {
+          "word": "보내다",
+          "romanization": "bo-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to send",
+          "example": {
+            "korean": "편지를 보내요.",
+            "english": "I send a letter."
+          }
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -333,6 +406,83 @@
         },
         "audioKey": "울다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "당신의 창 가까이 보낼게요",
+      "breakdown": "\"당신\"은 \"you\"의 존댓말이에요. 아주 사랑하는 사람에게 써요.\n\"창\"은 \"window\"예요. \"가까이\"는 \"close, near\"예요.\n\"보낼게요\"는 \"보내다\" + \"-ㄹ게요\" — \"I will send\"이에요. 약속이에요.\n반딧불을 당신의 창 가까이 보낼게요 — 사랑의 빛을 보내줄 것 같아요.",
+      "dictionary": [
+        {
+          "word": "당신",
+          "romanization": "dang-sin",
+          "partOfSpeech": "pronoun",
+          "definition": "you (formal/poetic)"
+        },
+        {
+          "word": "창",
+          "romanization": "chang",
+          "partOfSpeech": "noun",
+          "definition": "window",
+          "example": {
+            "korean": "창을 열어요.",
+            "english": "I open the window."
+          }
+        },
+        {
+          "word": "가까이",
+          "romanization": "ga-kka-i",
+          "partOfSpeech": "adverb",
+          "definition": "close, near",
+          "example": {
+            "korean": "가까이 오세요.",
+            "english": "Come closer."
+          }
+        },
+        {
+          "word": "보내다",
+          "romanization": "bo-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to send"
+        },
+        {
+          "word": "약속",
+          "romanization": "yak-sok",
+          "partOfSpeech": "noun",
+          "definition": "promise",
+          "example": {
+            "korean": "약속할게요.",
+            "english": "I promise."
+          }
+        },
+        {
+          "word": "존댓말",
+          "romanization": "jon-daen-mal",
+          "partOfSpeech": "noun",
+          "definition": "formal/polite language"
+        },
+        {
+          "word": "사랑",
+          "romanization": "sa-rang",
+          "partOfSpeech": "noun",
+          "definition": "love",
+          "example": {
+            "korean": "사랑해요.",
+            "english": "I love you."
+          }
+        },
+        {
+          "word": "빛",
+          "romanization": "bit",
+          "partOfSpeech": "noun",
+          "definition": "light",
+          "example": {
+            "korean": "빛이 예뻐요.",
+            "english": "The light is beautiful."
+          }
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +630,79 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "사랑한다는 말이에요",
+      "breakdown": "\"사랑한다\"는 \"I love you\"예요. 가장 중요한 한국어 표현이에요!\n\"말이에요\"는 \"it means\" 또는 \"it's saying\"이에요.\n\"사랑한다는 말이에요\" = 이것은 사랑한다는 뜻이에요.\n반딧불을 보내는 것 = 사랑한다는 말. 울 **것 같**아요 — 너무 아름다워서!",
+      "dictionary": [
+        {
+          "word": "사랑하다",
+          "romanization": "sa-rang-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to love",
+          "example": {
+            "korean": "너를 사랑해요.",
+            "english": "I love you."
+          }
+        },
+        {
+          "word": "뜻",
+          "romanization": "tteut",
+          "partOfSpeech": "noun",
+          "definition": "meaning",
+          "example": {
+            "korean": "무슨 뜻이에요?",
+            "english": "What does it mean?"
+          }
+        },
+        {
+          "word": "가장",
+          "romanization": "ga-jang",
+          "partOfSpeech": "adverb",
+          "definition": "most, the most",
+          "example": {
+            "korean": "가장 좋아해요.",
+            "english": "I like it the most."
+          }
+        },
+        {
+          "word": "중요한",
+          "romanization": "jung-yo-han",
+          "partOfSpeech": "adjective",
+          "definition": "important"
+        },
+        {
+          "word": "울다",
+          "romanization": "ul-da",
+          "partOfSpeech": "verb",
+          "definition": "to cry",
+          "example": {
+            "korean": "너무 슬퍼서 울었어요.",
+            "english": "I cried because I was so sad."
+          }
+        },
+        {
+          "word": "것 같다",
+          "romanization": "geot gat-da",
+          "partOfSpeech": "phrase",
+          "definition": "it seems like, I think"
+        },
+        {
+          "word": "보내는",
+          "romanization": "bo-nae-neun",
+          "partOfSpeech": "adjective",
+          "definition": "sending (modifier form)"
+        },
+        {
+          "word": "아름다운",
+          "romanization": "a-reum-da-un",
+          "partOfSpeech": "adjective",
+          "definition": "beautiful"
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +826,83 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나 우리의 첫 입맞춤을 떠올려",
+      "breakdown": "\"첫\"은 \"first\"예요. \"첫 번째\"와 같은 뜻이에요.\n\"입맞춤\"은 키스예요. \"입\" + \"맞추다\" → 입맞춤. 한국어의 예쁜 표현이에요.\n\"떠올리다\"는 기억을 생각하는 거예요.\n가수가 우리의 첫 입맞춤을 떠올려요. 좋아**할 것 같**아요 — 이 기억을 영원히.",
+      "dictionary": [
+        {
+          "word": "첫",
+          "romanization": "cheot",
+          "partOfSpeech": "determiner",
+          "definition": "first",
+          "example": {
+            "korean": "첫 만남이에요.",
+            "english": "It's our first meeting."
+          }
+        },
+        {
+          "word": "입맞춤",
+          "romanization": "im-mat-chum",
+          "partOfSpeech": "noun",
+          "definition": "kiss"
+        },
+        {
+          "word": "입",
+          "romanization": "ip",
+          "partOfSpeech": "noun",
+          "definition": "mouth",
+          "example": {
+            "korean": "입이 작아요.",
+            "english": "The mouth is small."
+          }
+        },
+        {
+          "word": "떠올리다",
+          "romanization": "tteo-ol-li-da",
+          "partOfSpeech": "verb",
+          "definition": "to recall, to reminisce"
+        },
+        {
+          "word": "기억하다",
+          "romanization": "gi-eok-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to remember",
+          "example": {
+            "korean": "잘 기억해요.",
+            "english": "I remember well."
+          }
+        },
+        {
+          "word": "영원히",
+          "romanization": "yeong-won-hi",
+          "partOfSpeech": "adverb",
+          "definition": "forever",
+          "example": {
+            "korean": "영원히 사랑해요.",
+            "english": "I love you forever."
+          }
+        },
+        {
+          "word": "맞추다",
+          "romanization": "mat-chu-da",
+          "partOfSpeech": "verb",
+          "definition": "to match, to put together"
+        },
+        {
+          "word": "예쁜",
+          "romanization": "ye-ppeun",
+          "partOfSpeech": "adjective",
+          "definition": "pretty",
+          "example": {
+            "korean": "예쁜 꽃이에요.",
+            "english": "It's a pretty flower."
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",

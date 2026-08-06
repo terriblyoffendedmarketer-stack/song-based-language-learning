@@ -62,8 +62,8 @@
       "type": "lyrics-korean",
       "label": "들어 보세요",
       "lines": [
-        "설렌다, me likey",
-        "두근두근두근 (Heart, heart)",
+        "설렌다,",
+        "두근두근두근 (, )",
         "두근두근두근",
         "자꾸 드러내고 싶지 자꾸만"
       ],
@@ -75,12 +75,12 @@
       "label": "번역",
       "lines": [
         {
-          "korean": "설렌다, me likey",
+          "korean": "설렌다,",
           "english": "I keep wanting to show it off, again and again",
           "highlights": []
         },
         {
-          "korean": "두근두근두근 (Heart, heart)",
+          "korean": "두근두근두근 (, )",
           "english": "every little thing, all of it",
           "highlights": []
         },
@@ -211,6 +211,79 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "설렌다, me likey",
+      "breakdown": "\"설렌다\"는 \"설레다\"의 다른 형태예요. 마음이 두근두근해요!\n\"me likey\"는 영어가 아니에요 — 귀여운 표현이에요. 좋아한다는 뜻이에요.\n한국 노래에서 영어를 섞어 쓰는 게 자주 있어요. 이걸 \"콩글리시\"라고 해요.\n이 마음은 변하**지 않아**요! \"-지 않다\"는 이 레슨의 문법이에요.",
+      "dictionary": [
+        {
+          "word": "설렌다",
+          "romanization": "seol-len-da",
+          "partOfSpeech": "verb",
+          "definition": "to be excited, heart-fluttering"
+        },
+        {
+          "word": "설레다",
+          "romanization": "seol-le-da",
+          "partOfSpeech": "verb",
+          "definition": "to feel excited, to flutter",
+          "example": {
+            "korean": "마음이 설레요.",
+            "english": "My heart is fluttering."
+          }
+        },
+        {
+          "word": "귀엽다",
+          "romanization": "gwi-yeop-da",
+          "partOfSpeech": "adjective",
+          "definition": "cute",
+          "example": {
+            "korean": "너무 귀여워요!",
+            "english": "So cute!"
+          }
+        },
+        {
+          "word": "표현",
+          "romanization": "pyo-hyeon",
+          "partOfSpeech": "noun",
+          "definition": "expression"
+        },
+        {
+          "word": "섞다",
+          "romanization": "seok-da",
+          "partOfSpeech": "verb",
+          "definition": "to mix"
+        },
+        {
+          "word": "자주",
+          "romanization": "ja-ju",
+          "partOfSpeech": "adverb",
+          "definition": "often, frequently",
+          "example": {
+            "korean": "자주 만나요.",
+            "english": "We meet often."
+          }
+        },
+        {
+          "word": "마음",
+          "romanization": "ma-eum",
+          "partOfSpeech": "noun",
+          "definition": "heart, mind",
+          "example": {
+            "korean": "마음이 따뜻해요.",
+            "english": "My heart is warm."
+          }
+        },
+        {
+          "word": "형태",
+          "romanization": "hyeong-tae",
+          "partOfSpeech": "noun",
+          "definition": "form, shape"
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +406,87 @@
         },
         "audioKey": "끝"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "두근두근두근",
+      "breakdown": "\"두근두근\"은 심장이 뛰는 소리예요! 한국어의 의성어예요.\n영어의 \"thump-thump\" 또는 \"ba-dump ba-dump\"와 비슷해요.\n한국어에는 이런 소리 말이 아주 많아요. \"두근두근\" \"콩닥콩닥\" \"쿵쿵\" — 다 심장 소리예요.\n이 마음은 끝나**지 않아**요. 두근두근이 멈추**지 않아**요!",
+      "dictionary": [
+        {
+          "word": "두근두근",
+          "romanization": "du-geun-du-geun",
+          "partOfSpeech": "adverb",
+          "definition": "thump-thump (heartbeat)"
+        },
+        {
+          "word": "심장",
+          "romanization": "sim-jang",
+          "partOfSpeech": "noun",
+          "definition": "heart (organ)",
+          "example": {
+            "korean": "심장이 빨리 뛰어요.",
+            "english": "My heart is beating fast."
+          }
+        },
+        {
+          "word": "뛰다",
+          "romanization": "ttwi-da",
+          "partOfSpeech": "verb",
+          "definition": "to beat (heart), to run, to jump",
+          "example": {
+            "korean": "심장이 뛰어요.",
+            "english": "My heart is beating."
+          }
+        },
+        {
+          "word": "소리",
+          "romanization": "so-ri",
+          "partOfSpeech": "noun",
+          "definition": "sound, noise",
+          "example": {
+            "korean": "무슨 소리예요?",
+            "english": "What's that sound?"
+          }
+        },
+        {
+          "word": "의성어",
+          "romanization": "ui-seong-eo",
+          "partOfSpeech": "noun",
+          "definition": "onomatopoeia"
+        },
+        {
+          "word": "비슷하다",
+          "romanization": "bi-seut-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "similar",
+          "example": {
+            "korean": "비슷해요.",
+            "english": "It's similar."
+          }
+        },
+        {
+          "word": "멈추다",
+          "romanization": "meom-chu-da",
+          "partOfSpeech": "verb",
+          "definition": "to stop",
+          "example": {
+            "korean": "멈추세요!",
+            "english": "Stop!"
+          }
+        },
+        {
+          "word": "많다",
+          "romanization": "man-ta",
+          "partOfSpeech": "adjective",
+          "definition": "many, a lot",
+          "example": {
+            "korean": "사람이 많아요.",
+            "english": "There are many people."
+          }
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +634,83 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "자꾸 드러내고 싶지 자꾸만",
+      "breakdown": "\"자꾸\"는 \"계속\" 또는 \"반복해서\"예요. \"자꾸만\"은 \"자꾸\"를 더 강조한 거예요.\n\"드러내다\"는 숨긴 것을 보여주는 거예요. 감정을 드러내다 = 감정을 보여주다.\n가수는 좋아하는 마음을 자꾸 드러내고 싶어요! 숨기**지 않고** 보여주고 싶어요.\n\"드러내고 싶지\" — \"드러내고 싶지 않아?\"라고 물어보는 거예요. 너도 그렇지 않아?",
+      "dictionary": [
+        {
+          "word": "자꾸",
+          "romanization": "ja-kku",
+          "partOfSpeech": "adverb",
+          "definition": "repeatedly, keep doing"
+        },
+        {
+          "word": "자꾸만",
+          "romanization": "ja-kku-man",
+          "partOfSpeech": "adverb",
+          "definition": "again and again (emphatic)"
+        },
+        {
+          "word": "드러내다",
+          "romanization": "deu-reo-nae-da",
+          "partOfSpeech": "verb",
+          "definition": "to reveal, to show",
+          "example": {
+            "korean": "감정을 드러내요.",
+            "english": "I show my feelings."
+          }
+        },
+        {
+          "word": "숨기다",
+          "romanization": "sum-gi-da",
+          "partOfSpeech": "verb",
+          "definition": "to hide (something)",
+          "example": {
+            "korean": "비밀을 숨겨요.",
+            "english": "I hide a secret."
+          }
+        },
+        {
+          "word": "감정",
+          "romanization": "gam-jeong",
+          "partOfSpeech": "noun",
+          "definition": "emotion, feeling",
+          "example": {
+            "korean": "감정이 복잡해요.",
+            "english": "My feelings are complicated."
+          }
+        },
+        {
+          "word": "강조",
+          "romanization": "gang-jo",
+          "partOfSpeech": "noun",
+          "definition": "emphasis"
+        },
+        {
+          "word": "보여주다",
+          "romanization": "bo-yeo-ju-da",
+          "partOfSpeech": "verb",
+          "definition": "to show",
+          "example": {
+            "korean": "사진을 보여줘요.",
+            "english": "Show me the photo."
+          }
+        },
+        {
+          "word": "비밀",
+          "romanization": "bi-mil",
+          "partOfSpeech": "noun",
+          "definition": "secret",
+          "example": {
+            "korean": "비밀이에요.",
+            "english": "It's a secret."
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +834,79 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "자꾸 드러내고 싶지 자꾸만",
+      "breakdown": "이 가사를 다시 한번 보면, \"-지 않다\" 문법이 숨어 있어요.\n가수는 마음을 숨기**지 않고** 드러내고 싶어요. \"숨기지 않다\" = not hide.\n\"변하**지 않다**\" — 이 마음은 변하지 않아요. 항상 좋아해요.\n\"끝나**지 않다**\" — 이 감정은 끝나지 않아요. 자꾸만 두근두근해요!",
+      "dictionary": [
+        {
+          "word": "다시 한번",
+          "romanization": "da-si han-beon",
+          "partOfSpeech": "phrase",
+          "definition": "one more time, once again"
+        },
+        {
+          "word": "숨다",
+          "romanization": "sum-da",
+          "partOfSpeech": "verb",
+          "definition": "to hide (oneself)",
+          "example": {
+            "korean": "어디에 숨었어요?",
+            "english": "Where did you hide?"
+          }
+        },
+        {
+          "word": "변하다",
+          "romanization": "byeon-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to change",
+          "example": {
+            "korean": "많이 변했어요.",
+            "english": "A lot has changed."
+          }
+        },
+        {
+          "word": "끝나다",
+          "romanization": "kkeut-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to end, to finish",
+          "example": {
+            "korean": "수업이 끝났어요.",
+            "english": "Class ended."
+          }
+        },
+        {
+          "word": "항상",
+          "romanization": "hang-sang",
+          "partOfSpeech": "adverb",
+          "definition": "always"
+        },
+        {
+          "word": "좋아하다",
+          "romanization": "jo-a-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to like",
+          "example": {
+            "korean": "이 노래 좋아해요.",
+            "english": "I like this song."
+          }
+        },
+        {
+          "word": "숨어 있다",
+          "romanization": "sum-eo it-da",
+          "partOfSpeech": "phrase",
+          "definition": "to be hiding"
+        },
+        {
+          "word": "문법",
+          "romanization": "mun-beop",
+          "partOfSpeech": "noun",
+          "definition": "grammar"
+        }
+      ]
     },
     {
       "id": "s27-quiz",

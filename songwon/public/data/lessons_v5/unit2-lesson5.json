@@ -62,10 +62,10 @@
       "type": "lyrics-korean",
       "label": "들어 보세요",
       "lines": [
-        "지금 이 말이jigeum i mari",
-        "우리가 다시uriga dasi",
-        "시작하자는 건 아냐sijakajaneun geon anya",
-        "그저 너의geujeo neoui"
+        "지금 이 말이",
+        "우리가 다시",
+        "시작하자는 건 아냐",
+        "그저 너의"
       ],
       "musicPlaying": true
     },
@@ -75,22 +75,22 @@
       "label": "번역",
       "lines": [
         {
-          "korean": "지금 이 말이jigeum i mari",
+          "korean": "지금 이 말이",
           "english": "What I'm saying right now",
           "highlights": []
         },
         {
-          "korean": "우리가 다시uriga dasi",
+          "korean": "우리가 다시",
           "english": "isn't that we should start over again",
           "highlights": []
         },
         {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
+          "korean": "시작하자는 건 아냐",
           "english": "it's just that",
           "highlights": []
         },
         {
-          "korean": "그저 너의geujeo neoui",
+          "korean": "그저 너의",
           "english": "some memory of you that had been staying inside me",
           "highlights": []
         }
@@ -209,6 +209,87 @@
         },
         "audioKey": "아프지만 괜찮다"
       }
+    },
+    {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "지금 이 말이",
+      "breakdown": "\"지금\"은 \"now\"예요. 바로 이 순간이에요.\n\"이\"는 \"this\"예요. \"이 말\" = 이 이야기, 이 단어들.\n가수가 지금 하는 말은 뭘까요? 다음 가사에서 나와요.\n짧은 가사이**지만** 중요해요. \"-지만\"은 \"but\"이에요 — 이 레슨의 문법이에요!",
+      "dictionary": [
+        {
+          "word": "지금",
+          "romanization": "ji-geum",
+          "partOfSpeech": "adverb",
+          "definition": "now, right now",
+          "example": {
+            "korean": "지금 뭐 해요?",
+            "english": "What are you doing now?"
+          }
+        },
+        {
+          "word": "말",
+          "romanization": "mal",
+          "partOfSpeech": "noun",
+          "definition": "words, speech",
+          "example": {
+            "korean": "좋은 말이에요.",
+            "english": "Those are kind words."
+          }
+        },
+        {
+          "word": "이",
+          "romanization": "i",
+          "partOfSpeech": "determiner",
+          "definition": "this"
+        },
+        {
+          "word": "순간",
+          "romanization": "sun-gan",
+          "partOfSpeech": "noun",
+          "definition": "moment, instant",
+          "example": {
+            "korean": "이 순간을 기억해요.",
+            "english": "I remember this moment."
+          }
+        },
+        {
+          "word": "이야기",
+          "romanization": "i-ya-gi",
+          "partOfSpeech": "noun",
+          "definition": "story, conversation",
+          "example": {
+            "korean": "재미있는 이야기예요.",
+            "english": "It's an interesting story."
+          }
+        },
+        {
+          "word": "단어",
+          "romanization": "dan-eo",
+          "partOfSpeech": "noun",
+          "definition": "word, vocabulary"
+        },
+        {
+          "word": "짧다",
+          "romanization": "jjal-da",
+          "partOfSpeech": "adjective",
+          "definition": "short, brief",
+          "example": {
+            "korean": "이 노래는 짧아요.",
+            "english": "This song is short."
+          }
+        },
+        {
+          "word": "중요하다",
+          "romanization": "jung-yo-ha-da",
+          "partOfSpeech": "adjective",
+          "definition": "important",
+          "example": {
+            "korean": "이건 중요해요.",
+            "english": "This is important."
+          }
+        }
+      ]
     },
     {
       "id": "s11-quiz",
@@ -334,6 +415,87 @@
         },
         "audioKey": "마음"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "우리가 다시",
+      "breakdown": "\"우리\"는 \"we\"예요. 한국어에서 \"우리\"는 아주 많이 써요.\n\"다시\"는 \"again\"이에요. 한 번 더 하는 거예요.\n\"우리가 다시\" — 우리가 다시 뭘 할까요? 다음 줄에 답이 있어요.\n아프**지만** 다시 시작할 수 있을까? 슬프**지만** 다시 만날 수 있을까? 가수는 고민해요.",
+      "dictionary": [
+        {
+          "word": "우리",
+          "romanization": "u-ri",
+          "partOfSpeech": "pronoun",
+          "definition": "we, us, our",
+          "example": {
+            "korean": "우리 같이 가요.",
+            "english": "Let's go together."
+          }
+        },
+        {
+          "word": "다시",
+          "romanization": "da-si",
+          "partOfSpeech": "adverb",
+          "definition": "again",
+          "example": {
+            "korean": "다시 한번요.",
+            "english": "One more time."
+          }
+        },
+        {
+          "word": "한 번 더",
+          "romanization": "han beon deo",
+          "partOfSpeech": "phrase",
+          "definition": "one more time"
+        },
+        {
+          "word": "답",
+          "romanization": "dap",
+          "partOfSpeech": "noun",
+          "definition": "answer, reply",
+          "example": {
+            "korean": "답을 알아요.",
+            "english": "I know the answer."
+          }
+        },
+        {
+          "word": "만나다",
+          "romanization": "man-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to meet",
+          "example": {
+            "korean": "내일 만나요.",
+            "english": "Let's meet tomorrow."
+          }
+        },
+        {
+          "word": "고민",
+          "romanization": "go-min",
+          "partOfSpeech": "noun",
+          "definition": "worry, concern",
+          "example": {
+            "korean": "고민이 있어요.",
+            "english": "I have a worry."
+          }
+        },
+        {
+          "word": "같이",
+          "romanization": "ga-chi",
+          "partOfSpeech": "adverb",
+          "definition": "together",
+          "example": {
+            "korean": "같이 먹어요.",
+            "english": "Let's eat together."
+          }
+        },
+        {
+          "word": "줄",
+          "romanization": "jul",
+          "partOfSpeech": "noun",
+          "definition": "line (of text)"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -481,6 +643,79 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "시작하자는 건 아냐",
+      "breakdown": "\"시작하자\"는 \"let's start\"예요. \"-자\"는 \"let's\"라는 뜻이에요.\n\"건\"은 \"것은\"의 줄임말이에요. \"시작하자는 건\" = \"시작하자는 것은\".\n\"아냐\"는 \"아니야\"의 줄임말이에요. \"no\" 또는 \"it's not that\"이에요.\n가수가 말해요: 다시 시작하자는 건 아냐 — 다시 사귀자는 게 아니에요. 슬프**지만** 현실적이에요.",
+      "dictionary": [
+        {
+          "word": "시작하다",
+          "romanization": "si-jak-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to start, to begin",
+          "example": {
+            "korean": "시작해요!",
+            "english": "Let's start!"
+          }
+        },
+        {
+          "word": "아니다",
+          "romanization": "a-ni-da",
+          "partOfSpeech": "adjective",
+          "definition": "to not be",
+          "example": {
+            "korean": "아니에요.",
+            "english": "No, it's not."
+          }
+        },
+        {
+          "word": "줄임말",
+          "romanization": "jul-im-mal",
+          "partOfSpeech": "noun",
+          "definition": "abbreviation, contraction"
+        },
+        {
+          "word": "사귀다",
+          "romanization": "sa-gwi-da",
+          "partOfSpeech": "verb",
+          "definition": "to date, to go out with",
+          "example": {
+            "korean": "오래 사귀었어요.",
+            "english": "We dated for a long time."
+          }
+        },
+        {
+          "word": "현실",
+          "romanization": "hyeon-sil",
+          "partOfSpeech": "noun",
+          "definition": "reality"
+        },
+        {
+          "word": "현실적",
+          "romanization": "hyeon-sil-jeok",
+          "partOfSpeech": "adjective",
+          "definition": "realistic"
+        },
+        {
+          "word": "또는",
+          "romanization": "tto-neun",
+          "partOfSpeech": "conjunction",
+          "definition": "or"
+        },
+        {
+          "word": "뜻",
+          "romanization": "tteut",
+          "partOfSpeech": "noun",
+          "definition": "meaning",
+          "example": {
+            "korean": "이 뜻이 뭐예요?",
+            "english": "What does this mean?"
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -605,6 +840,91 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "그저 너의",
+      "breakdown": "\"그저\"는 \"just\" 또는 \"merely\"예요. 크지 않은 거예요.\n\"너의\"는 \"너\" + \"의\" — \"your\"이에요.\n이 가사 뒤에는 \"기억\"이 와요. \"그저 너의 기억\" — just your memory.\n가수는 말해요: 다시 시작하자는 건 아냐. 그저 너의 기억이 생각나요. 아프**지만** 괜찮아요.",
+      "dictionary": [
+        {
+          "word": "그저",
+          "romanization": "geu-jeo",
+          "partOfSpeech": "adverb",
+          "definition": "just, merely, simply"
+        },
+        {
+          "word": "너의",
+          "romanization": "neo-ui",
+          "partOfSpeech": "pronoun",
+          "definition": "your (informal)",
+          "example": {
+            "korean": "너의 목소리가 좋아.",
+            "english": "I like your voice."
+          }
+        },
+        {
+          "word": "기억",
+          "romanization": "gi-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory",
+          "example": {
+            "korean": "좋은 기억이에요.",
+            "english": "It's a good memory."
+          }
+        },
+        {
+          "word": "생각나다",
+          "romanization": "saeng-gak-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to come to mind, to think of",
+          "example": {
+            "korean": "자꾸 생각나요.",
+            "english": "I keep thinking of it."
+          }
+        },
+        {
+          "word": "크다",
+          "romanization": "keu-da",
+          "partOfSpeech": "adjective",
+          "definition": "big, large",
+          "example": {
+            "korean": "큰 집이에요.",
+            "english": "It's a big house."
+          }
+        },
+        {
+          "word": "말하다",
+          "romanization": "mal-ha-da",
+          "partOfSpeech": "verb",
+          "definition": "to say, to speak",
+          "example": {
+            "korean": "천천히 말해요.",
+            "english": "Speak slowly."
+          }
+        },
+        {
+          "word": "목소리",
+          "romanization": "mok-so-ri",
+          "partOfSpeech": "noun",
+          "definition": "voice",
+          "example": {
+            "korean": "목소리가 예뻐요.",
+            "english": "Your voice is pretty."
+          }
+        },
+        {
+          "word": "뒤",
+          "romanization": "dwi",
+          "partOfSpeech": "noun",
+          "definition": "behind, after",
+          "example": {
+            "korean": "뒤에 있어요.",
+            "english": "It's behind."
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",

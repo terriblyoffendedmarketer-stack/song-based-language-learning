@@ -211,6 +211,95 @@
       }
     },
     {
+      "id": "rc1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나의 두 눈을 감으면",
+      "breakdown": "\"나의\"는 \"나\" + \"의\"예요. \"내 것\"이라는 뜻이에요.\n\"두 눈\"은 왼쪽 눈과 오른쪽 눈이에요. 사람은 눈이 두 개 있어요.\n\"감다\"는 눈을 닫는 거예요. 눈을 감으면 아무것도 안 보여요.\n이 가사에서 가수가 눈을 감으면 무슨 일이 생길까요? 다음 가사에서 알 수 있어요!",
+      "dictionary": [
+        {
+          "word": "나의",
+          "romanization": "na-ui",
+          "partOfSpeech": "pronoun",
+          "definition": "my",
+          "example": {
+            "korean": "나의 가방이에요.",
+            "english": "It's my bag."
+          }
+        },
+        {
+          "word": "두",
+          "romanization": "du",
+          "partOfSpeech": "number",
+          "definition": "two",
+          "example": {
+            "korean": "사과 두 개 주세요.",
+            "english": "Give me two apples."
+          }
+        },
+        {
+          "word": "눈",
+          "romanization": "nun",
+          "partOfSpeech": "noun",
+          "definition": "eye",
+          "example": {
+            "korean": "눈이 예뻐요.",
+            "english": "Your eyes are pretty."
+          }
+        },
+        {
+          "word": "감다",
+          "romanization": "gam-da",
+          "partOfSpeech": "verb",
+          "definition": "to close (eyes)",
+          "example": {
+            "korean": "눈을 감으세요.",
+            "english": "Close your eyes."
+          }
+        },
+        {
+          "word": "닫다",
+          "romanization": "dat-da",
+          "partOfSpeech": "verb",
+          "definition": "to close, to shut",
+          "example": {
+            "korean": "문을 닫아요.",
+            "english": "I close the door."
+          }
+        },
+        {
+          "word": "보이다",
+          "romanization": "bo-i-da",
+          "partOfSpeech": "verb",
+          "definition": "to be visible, to be seen",
+          "example": {
+            "korean": "산이 보여요.",
+            "english": "I can see the mountain."
+          }
+        },
+        {
+          "word": "아무것도",
+          "romanization": "a-mu-geot-do",
+          "partOfSpeech": "pronoun",
+          "definition": "nothing (with negative)",
+          "example": {
+            "korean": "아무것도 없어요.",
+            "english": "There's nothing."
+          }
+        },
+        {
+          "word": "생기다",
+          "romanization": "saeng-gi-da",
+          "partOfSpeech": "verb",
+          "definition": "to happen, to occur",
+          "example": {
+            "korean": "좋은 일이 생겼어요.",
+            "english": "Something good happened."
+          }
+        }
+      ]
+    },
+    {
       "id": "s11-quiz",
       "type": "quiz",
       "label": "퀴즈",
@@ -333,6 +422,87 @@
         },
         "audioKey": "떠나다"
       }
+    },
+    {
+      "id": "rc2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "떠오르는 그 눈동자",
+      "breakdown": "\"떠오르다\"는 머릿속에 무언가가 나타나는 거예요. 기억이 떠올라요.\n\"눈동자\"는 눈의 가운데 부분이에요. 검은색 동그라미예요.\n\"그\"는 \"그 사람\" 또는 \"그것\"이에요. 여기서는 특별한 사람의 눈동자예요.\n가수가 눈을 감으면, 사랑하는 사람의 눈동자가 떠올라요. 기다리**고 있다**는 거예요!",
+      "dictionary": [
+        {
+          "word": "떠오르다",
+          "romanization": "tteo-o-reu-da",
+          "partOfSpeech": "verb",
+          "definition": "to come to mind, to rise",
+          "example": {
+            "korean": "기억이 떠올라요.",
+            "english": "A memory comes to mind."
+          }
+        },
+        {
+          "word": "눈동자",
+          "romanization": "nun-dong-ja",
+          "partOfSpeech": "noun",
+          "definition": "pupil, eyes (poetic)"
+        },
+        {
+          "word": "기억",
+          "romanization": "gi-eok",
+          "partOfSpeech": "noun",
+          "definition": "memory",
+          "example": {
+            "korean": "좋은 기억이에요.",
+            "english": "It's a good memory."
+          }
+        },
+        {
+          "word": "나타나다",
+          "romanization": "na-ta-na-da",
+          "partOfSpeech": "verb",
+          "definition": "to appear",
+          "example": {
+            "korean": "갑자기 나타났어요.",
+            "english": "They appeared suddenly."
+          }
+        },
+        {
+          "word": "가운데",
+          "romanization": "ga-un-de",
+          "partOfSpeech": "noun",
+          "definition": "center, middle",
+          "example": {
+            "korean": "가운데에 앉으세요.",
+            "english": "Sit in the center."
+          }
+        },
+        {
+          "word": "특별한",
+          "romanization": "teuk-byeol-han",
+          "partOfSpeech": "adjective",
+          "definition": "special",
+          "example": {
+            "korean": "특별한 날이에요.",
+            "english": "It's a special day."
+          }
+        },
+        {
+          "word": "사랑하는",
+          "romanization": "sa-rang-ha-neun",
+          "partOfSpeech": "adjective",
+          "definition": "beloved, loved",
+          "example": {
+            "korean": "사랑하는 가족이에요.",
+            "english": "They're my beloved family."
+          }
+        },
+        {
+          "word": "머릿속",
+          "romanization": "meo-rit-sok",
+          "partOfSpeech": "noun",
+          "definition": "inside one's head, mind"
+        }
+      ]
     },
     {
       "id": "s16-quiz",
@@ -480,6 +650,91 @@
       }
     },
     {
+      "id": "rc3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "자꾸 가슴이 시려서",
+      "breakdown": "\"자꾸\"는 \"계속\" 또는 \"반복해서\"라는 뜻이에요. 멈출 수 없어요.\n\"가슴\"은 몸의 앞쪽 위 부분이에요. 한국어에서 \"가슴\"은 마음을 뜻하기도 해요.\n\"시리다\"는 차갑고 아프다는 느낌이에요. 겨울에 손이 시려요.\n가수의 가슴이 자꾸 시려요 — 마음이 아프다는 뜻이에요. 지금도 아프**고 있어**요.",
+      "dictionary": [
+        {
+          "word": "자꾸",
+          "romanization": "ja-kku",
+          "partOfSpeech": "adverb",
+          "definition": "repeatedly, keep ~ing",
+          "example": {
+            "korean": "자꾸 생각나요.",
+            "english": "I keep thinking about it."
+          }
+        },
+        {
+          "word": "가슴",
+          "romanization": "ga-seum",
+          "partOfSpeech": "noun",
+          "definition": "chest, heart (emotional)",
+          "example": {
+            "korean": "가슴이 아파요.",
+            "english": "My heart aches."
+          }
+        },
+        {
+          "word": "시리다",
+          "romanization": "si-ri-da",
+          "partOfSpeech": "adjective",
+          "definition": "to ache from cold, to sting",
+          "example": {
+            "korean": "손이 시려요.",
+            "english": "My hands are freezing."
+          }
+        },
+        {
+          "word": "계속",
+          "romanization": "gye-sok",
+          "partOfSpeech": "adverb",
+          "definition": "continuously, keep on",
+          "example": {
+            "korean": "계속 하세요.",
+            "english": "Keep going."
+          }
+        },
+        {
+          "word": "반복",
+          "romanization": "ban-bok",
+          "partOfSpeech": "noun",
+          "definition": "repetition"
+        },
+        {
+          "word": "멈추다",
+          "romanization": "meom-chu-da",
+          "partOfSpeech": "verb",
+          "definition": "to stop",
+          "example": {
+            "korean": "잠깐 멈추세요.",
+            "english": "Stop for a moment."
+          }
+        },
+        {
+          "word": "차갑다",
+          "romanization": "cha-gap-da",
+          "partOfSpeech": "adjective",
+          "definition": "cold",
+          "example": {
+            "korean": "물이 차가워요.",
+            "english": "The water is cold."
+          }
+        },
+        {
+          "word": "겨울",
+          "romanization": "gyeo-ul",
+          "partOfSpeech": "noun",
+          "definition": "winter",
+          "example": {
+            "korean": "겨울이 왔어요.",
+            "english": "Winter has come."
+          }
+        }
+      ]
+    },
+    {
       "id": "s22-teach",
       "type": "phrase-card",
       "label": "새 표현",
@@ -603,6 +858,87 @@
       },
       "scored": true,
       "itemIndex": 3
+    },
+    {
+      "id": "rc4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "잊혀지길 바랬어",
+      "breakdown": "\"잊다\"는 기억하지 못하는 거예요. \"잊혀지다\"는 자연스럽게 잊어지는 거예요.\n\"바라다\"는 무언가를 원하는 거예요. \"바랬어\"는 과거형이에요 — 예전에 원했어요.\n가수는 사랑하는 사람을 잊고 싶었어요. 하지만 기다리**고 있어**요 — 아직도.\n\"-고 있다\"는 지금 하**고 있는** 일을 말해요. 기다리**고 있다**, 지키**고 있다** — 모두 지금 진행 중이에요!",
+      "dictionary": [
+        {
+          "word": "잊다",
+          "romanization": "it-da",
+          "partOfSpeech": "verb",
+          "definition": "to forget",
+          "example": {
+            "korean": "이름을 잊었어요.",
+            "english": "I forgot the name."
+          }
+        },
+        {
+          "word": "바라다",
+          "romanization": "ba-ra-da",
+          "partOfSpeech": "verb",
+          "definition": "to wish, to hope",
+          "example": {
+            "korean": "행복을 바라요.",
+            "english": "I wish for happiness."
+          }
+        },
+        {
+          "word": "자연스럽게",
+          "romanization": "ja-yeon-seu-reop-ge",
+          "partOfSpeech": "adverb",
+          "definition": "naturally"
+        },
+        {
+          "word": "과거",
+          "romanization": "gwa-geo",
+          "partOfSpeech": "noun",
+          "definition": "past",
+          "example": {
+            "korean": "과거는 과거예요.",
+            "english": "The past is the past."
+          }
+        },
+        {
+          "word": "예전",
+          "romanization": "ye-jeon",
+          "partOfSpeech": "noun",
+          "definition": "before, in the past",
+          "example": {
+            "korean": "예전에 만났어요.",
+            "english": "We met before."
+          }
+        },
+        {
+          "word": "아직도",
+          "romanization": "a-jik-do",
+          "partOfSpeech": "adverb",
+          "definition": "still, even now",
+          "example": {
+            "korean": "아직도 좋아해요.",
+            "english": "I still like them."
+          }
+        },
+        {
+          "word": "진행",
+          "romanization": "jin-haeng",
+          "partOfSpeech": "noun",
+          "definition": "progress, ongoing"
+        },
+        {
+          "word": "지금",
+          "romanization": "ji-geum",
+          "partOfSpeech": "adverb",
+          "definition": "now, right now",
+          "example": {
+            "korean": "지금 뭐 해요?",
+            "english": "What are you doing now?"
+          }
+        }
+      ]
     },
     {
       "id": "s27-quiz",
