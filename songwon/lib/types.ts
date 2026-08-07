@@ -270,6 +270,7 @@ export type V5ScreenType =
   | "intro"
   | "lyrics-korean"
   | "lyrics-english"
+  | "lyrics-fullsong"
   | "word-card"
   | "phrase-card"
   | "quiz"
@@ -311,6 +312,13 @@ export interface V5LyricsEnglishScreen extends V5ScreenBase {
   type: "lyrics-english";
   lines: V5SongLine[];
   musicPlaying: false;
+}
+
+export interface V5LyricsFullSongScreen extends V5ScreenBase {
+  type: "lyrics-fullsong";
+  allLines: string[];
+  targetLineIndices: number[];
+  musicPlaying: true;
 }
 
 export interface V5WordCardScreen extends V5ScreenBase {
@@ -373,6 +381,7 @@ export type V5Screen =
   | V5IntroScreen
   | V5LyricsKoreanScreen
   | V5LyricsEnglishScreen
+  | V5LyricsFullSongScreen
   | V5WordCardScreen
   | V5PhraseCardScreen
   | V5QuizScreen

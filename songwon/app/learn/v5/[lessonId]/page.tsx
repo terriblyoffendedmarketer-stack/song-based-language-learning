@@ -15,6 +15,7 @@ import type {
   V5SongLine,
   V5PatternSpotlight,
   V5DictionaryEntry,
+  V5LyricsFullSongScreen,
   LessonAttempt,
 } from "@/lib/types";
 import { recordLessonAttempt, saveInProgress, loadInProgress, clearInProgress } from "@/lib/v5-progress";
@@ -262,6 +263,8 @@ function ScreenRenderer({
       return <LyricsKoreanScreen screen={screen} speak={speak} />;
     case "lyrics-english":
       return <LyricsEnglishScreen screen={screen} speak={speak} />;
+    case "lyrics-fullsong":
+      return <LyricsFullSongScreen screen={screen} speak={speak} />;
     case "word-card":
       return <WordCardScreen item={screen.item} speak={speak} />;
     case "phrase-card":
@@ -525,6 +528,57 @@ function LyricsKoreanScreen({
       </div>
       <p className="text-xs text-faint text-center kr">
         <KrTip en="By the end you'll understand these lyrics">끝까지 하면 이 가사를 이해할 수 있어요</KrTip>
+      </p>
+    </div>
+  );
+}
+
+function LyricsFullSongScreen({
+  screen,
+  speak,
+}: {
+  screen: V5LyricsFullSongScreen;
+  speak: (t: string) => Promise<void>;
+}) {
+  const scrollRef = useRef<HTMLDivElement>(null);
+
+  return (
+    <div className="space-y-4">
+      <div className="flex items-center gap-2 mb-3">
+        <span className="text-2xl">🎵</span>
+        <div>
+          <p className="kr font-bold"><KrTip en="Sing along with the lyrics">가사를 따라 읽어 보세요</KrTip></p>
+          <p className="text-[10px] uppercase tracking-wider text-accent font-semibold">
+            <KrTip en="Highlighted lines = what we'll learn today">하이라이트 = 오늘 배울 가사</KrTip>
+          </p>
+        </div>
+      </div>
+      <div
+        ref={scrollRef}
+        className="bg-card border border-border rounded-xl p-5 max-h-[55vh] overflow-y-auto space-y-1.5"
+      >
+        {screen.allLines.map((line, i) => {
+          const isTarget = screen.targetLineIndices.includes(i);
+          const isEmpty = line.trim() === "";
+          if (isEmpty) return <div key={i} className="h-3" />;
+          return (
+            <button
+              key={i}
+              onClick={() => speak(line)}
+              className={`kr text-base leading-relaxed block w-full text-left transition-colors rounded px-2 py-0.5 ${
+                isTarget
+                  ? "font-bold text-accent bg-accent-light border-l-2 border-accent"
+                  : "text-muted hover:text-foreground"
+              }`}
+            >
+              {line}
+              {isTarget && <span className="text-faint text-[10px] ml-1">🔊</span>}
+            </button>
+          );
+        })}
+      </div>
+      <p className="text-xs text-faint text-center">
+        <KrTip en="Tap any line to hear it">아무 줄이나 탭하면 들을 수 있어요</KrTip>
       </p>
     </div>
   );

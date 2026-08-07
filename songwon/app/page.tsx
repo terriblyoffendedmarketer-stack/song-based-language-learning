@@ -26,6 +26,7 @@ export default function Home() {
     return !sessionStorage.getItem("songwon-question-shown");
   });
   const [resumeLessonId, setResumeLessonId] = useState<string | null>(null);
+  const [pendingNavigate, setPendingNavigate] = useState(false);
 
   useEffect(() => {
     initTesterMode();
@@ -42,8 +43,21 @@ export default function Home() {
     setShowQuestion(false);
     if (resumeLessonId) {
       router.replace(`/learn/v5/${resumeLessonId}`);
+    } else if (index) {
+      const next = findNextLesson(progress, index);
+      if (next) router.replace(`/learn/v5/${next.id}`);
+    } else {
+      setPendingNavigate(true);
     }
   };
+
+  useEffect(() => {
+    if (pendingNavigate && index) {
+      setPendingNavigate(false);
+      const next = findNextLesson(progress, index);
+      if (next) router.replace(`/learn/v5/${next.id}`);
+    }
+  }, [pendingNavigate, index, progress, router]);
 
   if (showQuestion) {
     return <StartupQuestion onDismiss={handleQuestionDismiss} />;
