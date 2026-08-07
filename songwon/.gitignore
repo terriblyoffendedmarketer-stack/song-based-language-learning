@@ -42,3 +42,9 @@ next-env.d.ts
 pipeline/.cache
 pipeline/__pycache__/
 pipeline/audio/
+
+# android build outputs
+/android/.gradle
+/android/app/build
+/android/build
+/android/local.properties
