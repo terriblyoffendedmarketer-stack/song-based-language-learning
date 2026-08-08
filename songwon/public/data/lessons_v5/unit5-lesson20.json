@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "DAY6 — You Were Beautiful",
-      "content": "이번 레슨에서는 **-던**을 배워요.\n\n-던은 과거의 기억이나 추억을 떠올릴 때 사용해요.\n\nDAY6의 'You Were Beautiful'로 연습해 봐요!",
-      "contentEnglish": "In this lesson, we'll learn **-던** (past retrospective modifier).\n\n-던 is used when recalling memories or past events.\n\nLet's practice with DAY6's 'You Were Beautiful'!",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -106,6 +97,15 @@
         21,
         60
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "DAY6 — You Were Beautiful",
+      "content": "이번 레슨에서는 **-던**을 배워요.\n\n-던은 과거의 기억이나 추억을 떠올릴 때 사용해요.\n\nDAY6의 'You Were Beautiful'로 연습해 봐요!",
+      "contentEnglish": "In this lesson, we'll learn **-던** (past retrospective modifier).\n\n-던 is used when recalling memories or past events.\n\nLet's practice with DAY6's 'You Were Beautiful'!",
       "musicPlaying": true
     },
     {

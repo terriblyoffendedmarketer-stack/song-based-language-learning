@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "BTS — FAKE LOVE",
-      "content": "이번 레슨에서는 **-아/어 버리다**를 배워요.\n\n이 패턴은 행동이 완전히 끝나거나 돌이킬 수 없다는 걸 강조해요.\n\nBTS의 \"FAKE LOVE\"를 통해 배워 볼게요!",
-      "contentEnglish": "In this lesson, we'll learn **-아/어 버리다**.\n\nThis pattern emphasizes that an action is completed completely or irreversibly.\n\nWe'll learn through BTS's \"FAKE LOVE\"!",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -66,6 +57,15 @@
         30,
         32
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "BTS — FAKE LOVE",
+      "content": "이번 레슨에서는 **-아/어 버리다**를 배워요.\n\n이 패턴은 행동이 완전히 끝나거나 돌이킬 수 없다는 걸 강조해요.\n\nBTS의 \"FAKE LOVE\"를 통해 배워 볼게요!",
+      "contentEnglish": "In this lesson, we'll learn **-아/어 버리다**.\n\nThis pattern emphasizes that an action is completed completely or irreversibly.\n\nWe'll learn through BTS's \"FAKE LOVE\"!",
       "musicPlaying": true
     },
     {

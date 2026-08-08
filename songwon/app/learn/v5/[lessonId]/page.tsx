@@ -1188,6 +1188,15 @@ function PatternSpotlightScreen({
    Line Breakdown (Reading Checkpoint)
    ================================================================ */
 
+const UNDERLINE_COLORS = [
+  "decoration-indigo-400/60",
+  "decoration-emerald-400/60",
+  "decoration-amber-400/60",
+  "decoration-rose-400/60",
+  "decoration-cyan-400/60",
+  "decoration-purple-400/60",
+];
+
 function LineBreakdownScreen({
   lyricLine,
   breakdown,
@@ -1202,6 +1211,10 @@ function LineBreakdownScreen({
   const [selectedWord, setSelectedWord] = useState<V5DictionaryEntry | null>(null);
 
   const dictMap = new Map(dictionary.map((d) => [d.word, d]));
+  const wordColorIndex = (word: string) => {
+    const idx = dictionary.findIndex((d) => d.word === word);
+    return (idx >= 0 ? idx : 0) % UNDERLINE_COLORS.length;
+  };
 
   function tokenize(text: string): { text: string; entry?: V5DictionaryEntry }[] {
     const tokens: { text: string; entry?: V5DictionaryEntry }[] = [];
@@ -1247,7 +1260,15 @@ function LineBreakdownScreen({
           onClick={() => speak(lyricLine)}
           className="kr text-lg font-black text-accent leading-relaxed block w-full text-left hover:opacity-80 transition-opacity"
         >
-          &ldquo;{lyricLine}&rdquo; <span className="text-faint text-xs">🔊</span>
+          &ldquo;{tokenize(lyricLine).map((token, j) =>
+            token.entry ? (
+              <span key={j} className={`underline underline-offset-4 decoration-2 ${UNDERLINE_COLORS[wordColorIndex(token.entry.word)]}`}>
+                {token.text}
+              </span>
+            ) : (
+              <span key={j}>{token.text}</span>
+            )
+          )}&rdquo; <span className="text-faint text-xs">🔊</span>
         </button>
       </div>
 

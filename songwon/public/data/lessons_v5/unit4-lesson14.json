@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "DAY6 — You Were Beautiful",
-      "content": "이번 레슨에서는 **-아/어지다**를 배워요.\n상태가 변할 때 쓰는 패턴이에요.\n\nDAY6의 **You Were Beautiful**은 지나간 사랑을 떠올리는 노래예요.\n아름다웠던 순간들을 기억해요.",
-      "contentEnglish": "In this lesson, you'll learn **-아/어지다** — a pattern used when a state changes or becomes something.\n\nDAY6's **You Were Beautiful** recalls a past love, remembering the beautiful moments that once were.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -93,6 +84,15 @@
         39,
         53
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "DAY6 — You Were Beautiful",
+      "content": "이번 레슨에서는 **-아/어지다**를 배워요.\n상태가 변할 때 쓰는 패턴이에요.\n\nDAY6의 **You Were Beautiful**은 지나간 사랑을 떠올리는 노래예요.\n아름다웠던 순간들을 기억해요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어지다** — a pattern used when a state changes or becomes something.\n\nDAY6's **You Were Beautiful** recalls a past love, remembering the beautiful moments that once were.",
       "musicPlaying": true
     },
     {

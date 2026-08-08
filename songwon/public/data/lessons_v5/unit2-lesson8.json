@@ -13,15 +13,6 @@
   "generatedAt": "2025-06-15T09:00:00Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "Punch — Stay With Me",
-      "content": "이번 레슨에서는 **-아/어서**를 배워요.\n이유를 설명하거나 순서를 연결할 때 써요.\n\nPunch의 **Stay With Me**는 운명적인 만남과 깊은 감정을 노래해요.\n드라마 '도깨비' OST로 유명한 곡이에요.",
-      "contentEnglish": "In this lesson, you'll learn **-아/어서** — used to give reasons (because) or connect sequential actions (and then).\n\nPunch's **Stay With Me** sings about a fateful encounter and deep emotions. It's famous as the OST for the drama 'Goblin'.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -85,6 +76,15 @@
         34,
         45
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "Punch — Stay With Me",
+      "content": "이번 레슨에서는 **-아/어서**를 배워요.\n이유를 설명하거나 순서를 연결할 때 써요.\n\nPunch의 **Stay With Me**는 운명적인 만남과 깊은 감정을 노래해요.\n드라마 '도깨비' OST로 유명한 곡이에요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어서** — used to give reasons (because) or connect sequential actions (and then).\n\nPunch's **Stay With Me** sings about a fateful encounter and deep emotions. It's famous as the OST for the drama 'Goblin'.",
       "musicPlaying": true
     },
     {

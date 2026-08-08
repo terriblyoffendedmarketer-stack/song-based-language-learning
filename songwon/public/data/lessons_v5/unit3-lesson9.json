@@ -13,15 +13,6 @@
   "generatedAt": "2025-06-15T12:00:00Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "SHAUN — Way Back Home",
-      "content": "이번 레슨에서는 **-아/어 줘**를 배워요.\n누군가에게 부탁할 때 쓰는 가장 자연스러운 표현이에요.\n\nSHAUN의 **Way Back Home**은 사랑하는 사람에게 돌아가고 싶은 마음을 노래해요.",
-      "contentEnglish": "In this lesson, you'll learn **-아/어 줘** — the most natural way to ask someone to do something for you.\n\nSHAUN's **Way Back Home** expresses the longing to return to a loved one.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -89,6 +80,15 @@
         37,
         39
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "SHAUN — Way Back Home",
+      "content": "이번 레슨에서는 **-아/어 줘**를 배워요.\n누군가에게 부탁할 때 쓰는 가장 자연스러운 표현이에요.\n\nSHAUN의 **Way Back Home**은 사랑하는 사람에게 돌아가고 싶은 마음을 노래해요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어 줘** — the most natural way to ask someone to do something for you.\n\nSHAUN's **Way Back Home** expresses the longing to return to a loved one.",
       "musicPlaying": true
     },
     {

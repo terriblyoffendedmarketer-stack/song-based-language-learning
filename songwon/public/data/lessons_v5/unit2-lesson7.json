@@ -13,15 +13,6 @@
   "generatedAt": "2025-06-15T09:00:00.000Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "TWICE — Likey",
-      "content": "이번 레슨에서는 **-지 않다**를 배워요.\n'~하지 않다'는 부정을 나타내요.\n\nTWICE의 **Likey**는 SNS에 설레는 마음을 담은 노래예요.\n'좋아요'를 누르고 싶은 설렘을 표현해요.",
-      "contentEnglish": "In this lesson, you'll learn **-지 않다** — the way to say 'not' or negate actions.\n\nTWICE's **Likey** captures the excitement of social media. It expresses the flutter of wanting to get likes.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -79,6 +70,15 @@
         27,
         45
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "TWICE — Likey",
+      "content": "이번 레슨에서는 **-지 않다**를 배워요.\n'~하지 않다'는 부정을 나타내요.\n\nTWICE의 **Likey**는 SNS에 설레는 마음을 담은 노래예요.\n'좋아요'를 누르고 싶은 설렘을 표현해요.",
+      "contentEnglish": "In this lesson, you'll learn **-지 않다** — the way to say 'not' or negate actions.\n\nTWICE's **Likey** captures the excitement of social media. It expresses the flutter of wanting to get likes.",
       "musicPlaying": true
     },
     {

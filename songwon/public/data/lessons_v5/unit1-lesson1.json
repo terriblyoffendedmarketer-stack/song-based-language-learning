@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "10cm — 폰서트",
-      "content": "이번 레슨에서는 **-고**를 배워요.\n두 가지를 연결하는 가장 간단한 방법이에요.\n\n10cm의 **폰서트**는 '폰'과 '콘서트'를 합친 말이에요.\n전화로 노래를 불러주는 이야기예요.",
-      "contentEnglish": "In this lesson, you'll learn **-고** — the simplest way to connect two ideas.\n\n10cm's Phonecert combines 'phone' and 'concert.' The narrator performs a private concert over a phone call.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -72,6 +63,15 @@
         4,
         14
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "10cm — 폰서트",
+      "content": "이번 레슨에서는 **-고**를 배워요.\n두 가지를 연결하는 가장 간단한 방법이에요.\n\n10cm의 **폰서트**는 '폰'과 '콘서트'를 합친 말이에요.\n전화로 노래를 불러주는 이야기예요.",
+      "contentEnglish": "In this lesson, you'll learn **-고** — the simplest way to connect two ideas.\n\n10cm's Phonecert combines 'phone' and 'concert.' The narrator performs a private concert over a phone call.",
       "musicPlaying": true
     },
     {

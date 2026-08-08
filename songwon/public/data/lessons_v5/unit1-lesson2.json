@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "Gaho — 시작",
-      "content": "이번 레슨에서는 **-고 싶다**를 배워요.\n하고 싶은 것을 말하는 방법이에요.\n\nGaho의 **시작**은 새로운 시작에 대한 노래예요.\n꿈을 향해 달려가는 이야기예요.",
-      "contentEnglish": "In this lesson, you'll learn **-고 싶다** — how to say what you want to do.\n\nGaho's Start is about new beginnings.\nIt's the story of running toward your dreams.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -79,6 +70,15 @@
         20,
         36
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "Gaho — 시작",
+      "content": "이번 레슨에서는 **-고 싶다**를 배워요.\n하고 싶은 것을 말하는 방법이에요.\n\nGaho의 **시작**은 새로운 시작에 대한 노래예요.\n꿈을 향해 달려가는 이야기예요.",
+      "contentEnglish": "In this lesson, you'll learn **-고 싶다** — how to say what you want to do.\n\nGaho's Start is about new beginnings.\nIt's the story of running toward your dreams.",
       "musicPlaying": true
     },
     {

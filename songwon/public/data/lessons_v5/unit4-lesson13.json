@@ -13,15 +13,6 @@
   "generatedAt": "2025-06-15T09:00:00.000Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "BTS — FAKE LOVE",
-      "content": "이번 레슨에서는 **-아/어도**를 배워요.\n'~해도' 또는 '~이어도'처럼 양보를 나타내요.\n\nBTS의 **FAKE LOVE**는 자신을 잃어버린 사랑에 대한 이야기예요.\n슬프고 아파도 강한 척했던 감정을 노래해요.",
-      "contentEnglish": "In this lesson, you'll learn **-아/어도** — a pattern that means 'even if' or 'even though.'\n\nBTS's FAKE LOVE tells the story of a love where you lose yourself. It sings about pretending to be strong even when sad and hurt.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -115,6 +106,15 @@
         19,
         29
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "BTS — FAKE LOVE",
+      "content": "이번 레슨에서는 **-아/어도**를 배워요.\n'~해도' 또는 '~이어도'처럼 양보를 나타내요.\n\nBTS의 **FAKE LOVE**는 자신을 잃어버린 사랑에 대한 이야기예요.\n슬프고 아파도 강한 척했던 감정을 노래해요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어도** — a pattern that means 'even if' or 'even though.'\n\nBTS's FAKE LOVE tells the story of a love where you lose yourself. It sings about pretending to be strong even when sad and hurt.",
       "musicPlaying": true
     },
     {

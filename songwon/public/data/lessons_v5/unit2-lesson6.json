@@ -13,15 +13,6 @@
   "generatedAt": "2025-01-08T12:00:00.000Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "IU — Good Day",
-      "content": "이번 레슨에서는 **-지 못하다**를 배워요.\n무언가를 할 수 없을 때 쓰는 표현이에요.\n\nIU의 **Good Day**는 사랑하는 사람에게 고백하는 노래예요.\n감정을 멈추지 못하는 순간을 담았어요.",
-      "contentEnglish": "In this lesson, you'll learn **-지 못하다** — how to express that you cannot do something.\n\nIU's **Good Day** is a confession of love. It captures the moment when you cannot stop your feelings.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -85,6 +76,15 @@
         21,
         37
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "IU — Good Day",
+      "content": "이번 레슨에서는 **-지 못하다**를 배워요.\n무언가를 할 수 없을 때 쓰는 표현이에요.\n\nIU의 **Good Day**는 사랑하는 사람에게 고백하는 노래예요.\n감정을 멈추지 못하는 순간을 담았어요.",
+      "contentEnglish": "In this lesson, you'll learn **-지 못하다** — how to express that you cannot do something.\n\nIU's **Good Day** is a confession of love. It captures the moment when you cannot stop your feelings.",
       "musicPlaying": true
     },
     {

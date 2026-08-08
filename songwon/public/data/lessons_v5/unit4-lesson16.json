@@ -13,15 +13,6 @@
   "generatedAt": "2025-06-15T09:00:00.000Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "10cm — My Eyes",
-      "content": "이번 레슨에서는 **-게 되다**를 배워요.\n\n이 패턴은 \"자연스럽게 ~하게 되었다\"는 뜻이에요.\n\n10cm의 \"My Eyes\"를 통해 배워봐요!",
-      "contentEnglish": "In this lesson, we'll learn **-게 되다**.\n\nThis pattern means \"to end up ~ing\" or \"to come to ~\".\n\nLet's learn through 10cm's \"My Eyes\"!",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -75,6 +66,15 @@
         14,
         23
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "10cm — My Eyes",
+      "content": "이번 레슨에서는 **-게 되다**를 배워요.\n\n이 패턴은 \"자연스럽게 ~하게 되었다\"는 뜻이에요.\n\n10cm의 \"My Eyes\"를 통해 배워봐요!",
+      "contentEnglish": "In this lesson, we'll learn **-게 되다**.\n\nThis pattern means \"to end up ~ing\" or \"to come to ~\".\n\nLet's learn through 10cm's \"My Eyes\"!",
       "musicPlaying": true
     },
     {

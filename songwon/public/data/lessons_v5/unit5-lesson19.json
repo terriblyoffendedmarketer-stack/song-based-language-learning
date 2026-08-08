@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "DAY6 — You Were Beautiful",
-      "content": "이번 레슨에서는 **-다가도**를 배워요.\n\n-다가도는 '어떤 행동을 하는 중에도'라는 뜻이에요.\n\nDAY6의 \"You Were Beautiful\"을 통해 배워 봐요!",
-      "contentEnglish": "In this lesson, we'll learn **-다가도**.\n\n-다가도 means 'even while in the middle of (doing something)'.\n\nLet's learn through DAY6's \"You Were Beautiful\"!",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -75,6 +66,15 @@
         28,
         37
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "DAY6 — You Were Beautiful",
+      "content": "이번 레슨에서는 **-다가도**를 배워요.\n\n-다가도는 '어떤 행동을 하는 중에도'라는 뜻이에요.\n\nDAY6의 \"You Were Beautiful\"을 통해 배워 봐요!",
+      "contentEnglish": "In this lesson, we'll learn **-다가도**.\n\n-다가도 means 'even while in the middle of (doing something)'.\n\nLet's learn through DAY6's \"You Were Beautiful\"!",
       "musicPlaying": true
     },
     {

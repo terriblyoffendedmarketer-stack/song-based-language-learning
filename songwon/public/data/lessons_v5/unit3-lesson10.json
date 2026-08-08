@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "IU — 밤편지",
-      "content": "이번 레슨에서는 **-(으)ㄹ 것 같다**를 배워요.\n예측이나 추측을 표현할 때 사용해요.\n\nIU의 **밤편지**는 사랑하는 사람에게 보내는 밤의 편지예요.\n그리움과 사랑을 담은 따뜻한 노래예요.",
-      "contentEnglish": "In this lesson, you'll learn **-(으)ㄹ 것 같다** — used to express predictions or assumptions.\n\nIU's **Through the Night** is a nighttime letter to a loved one. A warm song filled with longing and love.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -65,6 +56,15 @@
         22,
         30
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "IU — 밤편지",
+      "content": "이번 레슨에서는 **-(으)ㄹ 것 같다**를 배워요.\n예측이나 추측을 표현할 때 사용해요.\n\nIU의 **밤편지**는 사랑하는 사람에게 보내는 밤의 편지예요.\n그리움과 사랑을 담은 따뜻한 노래예요.",
+      "contentEnglish": "In this lesson, you'll learn **-(으)ㄹ 것 같다** — used to express predictions or assumptions.\n\nIU's **Through the Night** is a nighttime letter to a loved one. A warm song filled with longing and love.",
       "musicPlaying": true
     },
     {

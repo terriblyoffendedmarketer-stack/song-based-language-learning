@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "BOL4 — Love story",
-      "content": "이번 레슨에서는 **-잖아**를 배워요.\n상대방도 알고 있는 것을 상기시킬 때 쓰는 표현이에요.\n\nBOL4의 **Love story**는 사랑에 빠진 순간들을 그린 노래예요.\n꿈같은 로맨스 이야기를 들어봐요.",
-      "contentEnglish": "In this lesson, you'll learn **-잖아** — used to remind someone of something they already know.\n\nBOL4's **Love story** paints moments of falling in love. Listen to this dreamlike romance.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -72,6 +63,15 @@
         30,
         35
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "BOL4 — Love story",
+      "content": "이번 레슨에서는 **-잖아**를 배워요.\n상대방도 알고 있는 것을 상기시킬 때 쓰는 표현이에요.\n\nBOL4의 **Love story**는 사랑에 빠진 순간들을 그린 노래예요.\n꿈같은 로맨스 이야기를 들어봐요.",
+      "contentEnglish": "In this lesson, you'll learn **-잖아** — used to remind someone of something they already know.\n\nBOL4's **Love story** paints moments of falling in love. Listen to this dreamlike romance.",
       "musicPlaying": true
     },
     {

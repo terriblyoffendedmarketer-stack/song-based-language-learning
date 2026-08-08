@@ -12,15 +12,6 @@
   },
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "Punch — Stay With Me",
-      "content": "이번 레슨에서는 **-고 있다**를 배워요.\n지금 진행 중인 일이나 상태를 말할 때 써요.\n\nPunch의 **Stay With Me**는 드라마 '도깨비' OST예요.\n누군가를 기다리는 마음을 담은 노래예요.",
-      "contentEnglish": "In this lesson, you'll learn **-고 있다** — used to express ongoing actions or states.\n\nPunch's **Stay With Me** is from the drama 'Goblin.' It's about waiting for someone special.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -84,6 +75,15 @@
         33,
         15
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "Punch — Stay With Me",
+      "content": "이번 레슨에서는 **-고 있다**를 배워요.\n지금 진행 중인 일이나 상태를 말할 때 써요.\n\nPunch의 **Stay With Me**는 드라마 '도깨비' OST예요.\n누군가를 기다리는 마음을 담은 노래예요.",
+      "contentEnglish": "In this lesson, you'll learn **-고 있다** — used to express ongoing actions or states.\n\nPunch's **Stay With Me** is from the drama 'Goblin.' It's about waiting for someone special.",
       "musicPlaying": true
     },
     {

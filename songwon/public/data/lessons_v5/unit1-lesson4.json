@@ -13,15 +13,6 @@
   "generatedAt": "2025-06-20T10:30:00.000Z",
   "screens": [
     {
-      "id": "s1-intro",
-      "type": "intro",
-      "label": null,
-      "title": "Punch — Stay With Me",
-      "content": "이번 레슨에서는 **-(으)면**을 배워요.\n조건이나 가정을 표현할 때 사용해요.\n\nPunch의 **Stay With Me**는 운명적인 사랑에 대한 노래예요.\n드라마 '도깨비' OST로 유명해요.",
-      "contentEnglish": "In this lesson, you'll learn **-(으)면** — used to express conditions or hypothetical situations ('if' or 'when').\n\nPunch's **Stay With Me** is about fated love, famous as the OST from the drama 'Goblin'.",
-      "musicPlaying": true
-    },
-    {
       "id": "s2-fullsong",
       "type": "lyrics-fullsong",
       "label": "가사를 따라 읽어 보세요",
@@ -85,6 +76,15 @@
         18,
         47
       ],
+      "musicPlaying": true
+    },
+    {
+      "id": "s1-intro",
+      "type": "intro",
+      "label": null,
+      "title": "Punch — Stay With Me",
+      "content": "이번 레슨에서는 **-(으)면**을 배워요.\n조건이나 가정을 표현할 때 사용해요.\n\nPunch의 **Stay With Me**는 운명적인 사랑에 대한 노래예요.\n드라마 '도깨비' OST로 유명해요.",
+      "contentEnglish": "In this lesson, you'll learn **-(으)면** — used to express conditions or hypothetical situations ('if' or 'when').\n\nPunch's **Stay With Me** is about fated love, famous as the OST from the drama 'Goblin'.",
       "musicPlaying": true
     },
     {
