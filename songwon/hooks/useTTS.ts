@@ -17,42 +17,32 @@ async function fetchTTSBlob(
   cleaned: string,
   speed?: number
 ): Promise<Blob | null> {
-  // Try pre-generated Edge TTS cache
+  const rate = speed && speed !== 1 ? `${speed >= 1 ? "+" : ""}${Math.round((speed - 1) * 100)}%` : undefined;
+
+  // Edge TTS — serves from cache or generates on-demand
   try {
-    const cached = await fetch("/api/tts-cached", {
+    const res = await fetch("/api/tts-cached", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text: cleaned }),
-    });
-    if (cached.ok) return await cached.blob();
-  } catch {
-    // continue
-  }
-
-  // Try original text in cache if different
-  if (cleaned !== text) {
-    try {
-      const cachedOrig = await fetch("/api/tts-cached", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ text }),
-      });
-      if (cachedOrig.ok) return await cachedOrig.blob();
-    } catch {
-      // continue
-    }
-  }
-
-  // Try Google Cloud TTS API
-  try {
-    const res = await fetch("/api/tts", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text: cleaned, speed }),
+      body: JSON.stringify({ text: cleaned, rate }),
     });
     if (res.ok) return await res.blob();
   } catch {
     // continue
+  }
+
+  // Try original text if cleaning changed it
+  if (cleaned !== text) {
+    try {
+      const res = await fetch("/api/tts-cached", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text, rate }),
+      });
+      if (res.ok) return await res.blob();
+    } catch {
+      // continue
+    }
   }
 
   return null;
