@@ -7,6 +7,8 @@ import { loadV5Progress, defaultProgress, loadInProgress, isLessonUnlocked, getL
 import { loadV5LessonIndex, type V5LessonIndex } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
 import { StartupQuestion } from "@/components/StartupQuestion";
+import { ReminderSettings } from "@/components/ReminderSettings";
+import { checkAndShowWebNotification } from "@/lib/notifications";
 import type { V5UserProgress } from "@/lib/types";
 
 const UNIT_LABELS: Record<number, string> = {
@@ -36,6 +38,7 @@ export default function Home() {
     }
     setProgress(loadV5Progress());
     loadV5LessonIndex().then(setIndex);
+    checkAndShowWebNotification();
   }, []);
 
   const handleQuestionDismiss = () => {
@@ -253,7 +256,9 @@ export default function Home() {
             </Link>
           </div>
 
-          {/* Android app download */}
+          {/* Reminder + Android download */}
+          <ReminderSettings />
+
           <a
             href="/downloads/songwon.apk"
             download="Songwon-Korean.apk"
