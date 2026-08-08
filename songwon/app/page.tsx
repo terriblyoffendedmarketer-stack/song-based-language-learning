@@ -252,6 +252,20 @@ export default function Home() {
               <KrTip en="Grammar Glossary">문법 사전</KrTip> →
             </Link>
           </div>
+
+          {/* Android app download */}
+          <a
+            href="/downloads/songwon.apk"
+            download="Songwon-Korean.apk"
+            className="flex items-center gap-3 bg-card border border-border rounded-xl p-4 hover:border-accent/40 transition-colors active:scale-[0.98]"
+          >
+            <span className="text-2xl">📱</span>
+            <div className="flex-1 min-w-0">
+              <p className="text-sm font-bold">Android App</p>
+              <p className="text-xs text-muted">Download APK (3.9 MB)</p>
+            </div>
+            <span className="text-accent text-sm font-semibold">↓</span>
+          </a>
         </div>
       </main>
 
