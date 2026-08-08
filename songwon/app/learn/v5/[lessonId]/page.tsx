@@ -38,6 +38,11 @@ export default function V5LearnPage({
   const { speak, retry, usedFallback } = useTTS();
 
   useEffect(() => {
+    const saved = loadInProgress();
+    if (saved && saved.lessonId === lessonId) {
+      setCurrentIndex(saved.currentIndex);
+      setAnswers(saved.answers);
+    }
     loadV5LessonById(lessonId).then((l) => {
       if (l) {
         setLesson(l);
@@ -82,12 +87,12 @@ export default function V5LearnPage({
   const totalQuizzes = scoredQuizzes.length;
   const correctCount = scoredQuizzes.filter((s) => answers[s.id] === true).length;
 
-  // Mark this lesson as in-progress for resume
+  // Save progress on every screen change
   useEffect(() => {
     if (!lesson) return;
     if (screen?.type === "recap") return;
-    saveInProgress({ lessonId, currentIndex: 0, answers: {} });
-  }, [lesson, lessonId, screen?.type]);
+    saveInProgress({ lessonId, currentIndex, answers });
+  }, [lesson, lessonId, currentIndex, answers, screen?.type]);
 
   // Save progress when reaching the recap screen
   useEffect(() => {
