@@ -1,104 +1,129 @@
 {
   "id": "v5-unit3-lesson9",
   "meta": {
-    "songId": "shaun-way-back-home",
+    "songId": "shaun-waybackhome",
     "songTitle": "Way Back Home",
     "artist": "SHAUN",
     "unit": 3,
     "lessonNumber": 9,
     "grammarFocus": "-아/어 줘",
     "grammarMeaning": "please do ~ for me",
-    "koreanRatio": 0.75
+    "koreanRatio": 0.6
   },
+  "generatedAt": "2025-06-15T12:00:00Z",
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "보다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "heart",
-            "correct": false
-          },
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "to see",
-            "correct": true
-          },
-          {
-            "text": "sky",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "보다 = to see."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "SHAUN — Way Back Home",
-      "content": "Making requests. Essential for real conversation.\n\nWay Back Home is a promise song — the English verses set up a vow made 'right from the start' that no matter how far apart the two people get, the narrator will always find their way back. The Korean second half shifts into the present moment of that promise being tested: memories pulled out of a quiet, sleeping room, walking a long-familiar path alone, finally turning back toward home after what the song frames as a long journey.\n\nIn this lesson, you'll learn the grammar pattern **-아/어 줘**, which means \"please do ~ for me.\" We'll see how SHAUN uses it in \"Way Back Home.\"",
+      "content": "이번 레슨에서는 **-아/어 줘**를 배워요.\n누군가에게 부탁할 때 쓰는 가장 자연스러운 표현이에요.\n\nSHAUN의 **Way Back Home**은 사랑하는 사람에게 돌아가고 싶은 마음을 노래해요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어 줘** — the most natural way to ask someone to do something for you.\n\nSHAUN's **Way Back Home** expresses the longing to return to a loved one.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **잡다** — to hold / to grab\n- **안다** — to hug\n- **잡아 줘** — hold me (please)\n- **안아 줘** — hug me (please)\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
+        "Remember when I told you",
+        "\"No matter where I go",
+        "I'll never leave your side",
+        "You will never be alone\"",
+        "Even when we go through changes",
+        "Even when we're old",
+        "Remember that I told you",
+        "I'll find my way back home",
+        "",
+        "I could never let you go",
+        "Couldn't run away if I tried",
+        "'Cause even when I'm all alone",
+        "You still got a hold on my mind",
+        "And I'll always let you know",
+        "That I'm always gonna hold on",
+        "",
+        "And I told you right from the start",
+        "You just say the word and I'll go",
+        "No, it doesn't matter how far",
+        "'Cause your love is all that I know",
+        "Baby you just stay where you are",
+        "And you know I won't be too long",
+        "Hold on",
+        "Hold on",
+        "",
+        "Remember when I told you",
+        "\"No matter where I go",
+        "I'll never leave your side",
+        "You will never be alone\"",
+        "Even when we go through changes",
+        "Even when we're old",
+        "Remember that I told you",
+        "I'll find my way back home",
+        "",
         "조용히 잠든 방을 열어 기억을 꺼내 들어",
         "부서진 시간 위에서 선명히 너는 떠올라",
         "길 잃은 마음속에 널 가둔 채 살아",
-        "그만 그만"
+        "그만 그만",
+        "",
+        "멈춘 시간 속 잠든 너를 찾아가",
+        "아무리 막아도 결국 너의 곁인 걸",
+        "길고 긴 여행을 끝내 이젠 돌아가",
+        "너라는 집으로 지금 다시 way back home",
+        "",
+        "세상을 뒤집어 찾으려 해",
+        "오직 너로 완결된 이야기를",
+        "No, I won't ever lose",
+        "As long as you're there",
+        "빛이 다 꺼진 여기 나를 안아줘",
+        "",
+        "눈을 감으면 소리 없이 밀려와",
+        "이 마음 그 위로 넌 또 한 겹 쌓여가",
+        "Even when we go through changes",
+        "Even when we're old",
+        "Remember that I told you",
+        "I'll find my way back home"
+      ],
+      "targetLineIndices": [
+        22,
+        46,
+        37,
+        39
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "Hold on",
+      "breakdown": "Hold on = 잡아 줘\n\nThis English line connects to the Korean expression **잡아 줘**.\n잡다 = to hold / to grab\n-아 줘 = please do (for me)\n\n\"Hold on\" — asking someone to hold onto you.",
+      "dictionary": [
         {
-          "korean": "조용히 잠든 방을 열어 기억을 꺼내 들어",
-          "english": "(direct English)",
-          "highlights": []
+          "word": "잡다",
+          "reading": "잡다",
+          "meaning": "to hold / to grab"
         },
         {
-          "korean": "부서진 시간 위에서 선명히 너는 떠올라",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "길 잃은 마음속에 널 가둔 채 살아",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "그만 그만",
-          "english": "",
-          "highlights": []
+          "word": "-아 줘",
+          "reading": "-아 줘",
+          "meaning": "please do (for me)"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-hold",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "손을 잡아요.",
+        "english": "I hold your hand.",
+        "highlights": [
+          "잡"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-hold",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +132,15 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "잡다"
-          ]
+          "korean": "Hold on",
+          "english": "Hold on (잡아 줘)",
+          "highlights": []
         },
         "audioKey": "잡다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-hold",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -130,15 +153,15 @@
             "correct": true
           },
           {
-            "text": "night",
+            "text": "to protect / to keep",
             "correct": false
           },
           {
-            "text": "hug me (please)",
+            "text": "to wait",
             "correct": false
           },
           {
-            "text": "to hug",
+            "text": "to change",
             "correct": false
           }
         ],
@@ -148,155 +171,145 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "손을 잡아요.",
-        "english": "I hold your hand.",
-        "highlights": [
-          "잡아요"
+      "id": "s7-line2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "빛이 다 꺼진 여기 나를 안아줘",
+      "breakdown": "빛이 = light (subject)\n다 꺼진 = all turned off\n여기 = here\n나를 = me (object)\n안아줘 = 안다 + -아 줘 = please hug me\n\n\"Here where all the light has gone out, please hug me.\"\nThis is our grammar pattern -아/어 줘!",
+      "dictionary": [
+        {
+          "word": "빛",
+          "reading": "빛",
+          "meaning": "light"
+        },
+        {
+          "word": "꺼지다",
+          "reading": "꺼지다",
+          "meaning": "to go out / to turn off"
+        },
+        {
+          "word": "안다",
+          "reading": "안다",
+          "meaning": "to hug / to hold"
+        },
+        {
+          "word": "-아 줘",
+          "reading": "-아 줘",
+          "meaning": "please do (for me)"
+        }
+      ]
+    },
+    {
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-아/어 줘",
+        "meaning": "please do ~ for me",
+        "explanation": "누군가에게 부탁할 때 써요. 친한 사람에게 쓰는 자연스러운 표현이에요.\nUsed to ask someone to do something for you. A natural, casual request to someone close.",
+        "songExample": {
+          "korean": "나를 안아줘",
+          "english": "Please hug me",
+          "highlights": [
+            "안아줘"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "문 좀 열어 줘.",
+            "english": "Please open the door (for me).",
+            "highlights": [
+              "열어 줘"
+            ]
+          },
+          {
+            "korean": "기다려 줘.",
+            "english": "Please wait (for me).",
+            "highlights": [
+              "기다려 줘"
+            ]
+          },
+          {
+            "korean": "Hold on (잡아 줘)",
+            "english": "Hold on / Please hold (me)",
+            "highlights": [
+              "줘"
+            ]
+          }
         ]
       }
     },
     {
-      "id": "s9-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "손을 ___.",
-        "promptTranslation": "I hold your hand.",
+        "prompt": "기다려 ___.",
+        "promptTranslation": "Please wait (for me).",
         "options": [
           {
-            "text": "잡아 줘",
-            "correct": false
-          },
-          {
-            "text": "안다",
-            "correct": false
-          },
-          {
-            "text": "잡아요",
+            "text": "줘",
             "correct": true
           },
           {
-            "text": "행복",
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "서",
             "correct": false
           }
         ],
-        "wrongExplanation": "손을 잡아요. = I hold your hand."
+        "wrongExplanation": "-아/어 줘 makes a request: 기다려 줘 = please wait for me"
       },
-      "scored": true,
-      "itemIndex": 0
+      "scored": true
     },
     {
-      "id": "s10-teach",
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-아/어 줘**가 어떻게 쓰이는지 봤어요.\n이제 노래에 나오는 표현들을 배워 볼까요?",
+      "contentEnglish": "You've seen how -아/어 줘 works.\nNow let's learn the expressions from the song.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-holdme",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "내 손을 잡아 줘.",
+        "english": "Please hold my hand.",
+        "highlights": [
+          "잡아 줘"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-holdme",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
         "korean": "잡아 줘",
-        "english": "hold me (please)",
+        "english": "hold onto (me) please",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
+        "partOfSpeech": "",
+        "phraseNote": "잡다 (to hold) + -아 줘 (please do for me)",
         "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "잡아 줘"
-          ]
+          "korean": "Hold on",
+          "english": "Hold on",
+          "highlights": []
         },
         "audioKey": "잡아 줘"
       }
     },
     {
-      "id": "rc1",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "조용히 잠든 방을 열어 기억을 꺼내 들어",
-      "breakdown": "\"조용히\"는 소리가 없는 거예요. \"잠든\"은 \"잠들다\"에서 왔어요 — 잠이 든 상태예요.\n\"방을 열다\"는 문을 여는 거예요. 여기서는 기억의 방이에요.\n\"꺼내다\"는 안에서 밖으로 가져오는 거예요. 기억을 꺼내요.\n가수가 조용한 밤에 기억의 방을 열어요. 잡아 **줘**, 안아 **줘** — 가수의 부탁이에요.",
-      "dictionary": [
-        {
-          "word": "조용히",
-          "romanization": "jo-yong-hi",
-          "partOfSpeech": "adverb",
-          "definition": "quietly, silently",
-          "example": {
-            "korean": "조용히 하세요.",
-            "english": "Please be quiet."
-          }
-        },
-        {
-          "word": "잠들다",
-          "romanization": "jam-deul-da",
-          "partOfSpeech": "verb",
-          "definition": "to fall asleep",
-          "example": {
-            "korean": "빨리 잠들었어요.",
-            "english": "I fell asleep quickly."
-          }
-        },
-        {
-          "word": "방",
-          "romanization": "bang",
-          "partOfSpeech": "noun",
-          "definition": "room",
-          "example": {
-            "korean": "방이 넓어요.",
-            "english": "The room is spacious."
-          }
-        },
-        {
-          "word": "열다",
-          "romanization": "yeol-da",
-          "partOfSpeech": "verb",
-          "definition": "to open",
-          "example": {
-            "korean": "문을 열어요.",
-            "english": "I open the door."
-          }
-        },
-        {
-          "word": "꺼내다",
-          "romanization": "kkeo-nae-da",
-          "partOfSpeech": "verb",
-          "definition": "to take out",
-          "example": {
-            "korean": "가방에서 꺼내요.",
-            "english": "Take it out of the bag."
-          }
-        },
-        {
-          "word": "기억",
-          "romanization": "gi-eok",
-          "partOfSpeech": "noun",
-          "definition": "memory"
-        },
-        {
-          "word": "밤",
-          "romanization": "bam",
-          "partOfSpeech": "noun",
-          "definition": "night",
-          "example": {
-            "korean": "밤에 별을 봐요.",
-            "english": "I see stars at night."
-          }
-        },
-        {
-          "word": "부탁",
-          "romanization": "bu-tak",
-          "partOfSpeech": "noun",
-          "definition": "request, favor",
-          "example": {
-            "korean": "부탁이 있어요.",
-            "english": "I have a favor to ask."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s11-quiz",
+      "id": "s13-quiz-holdme",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -305,187 +318,119 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "hug me (please)",
-            "correct": false
-          },
-          {
-            "text": "hold me (please)",
+            "text": "hold onto (me) please",
             "correct": true
           },
           {
-            "text": "to hug",
+            "text": "wait for me please",
             "correct": false
           },
           {
-            "text": "to hold / to grab",
+            "text": "protect me please",
+            "correct": false
+          },
+          {
+            "text": "find me please",
             "correct": false
           }
         ],
-        "wrongExplanation": "잡아 줘 = hold me (please)"
+        "wrongExplanation": "잡아 줘 = hold onto (me) please. 잡다 (to hold) + -아 줘"
       },
       "scored": true,
-      "itemIndex": 1
+      "itemIndex": 2
     },
     {
-      "id": "s12-context",
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "멈춘 시간 속 잠든 너를 찾아가",
+      "breakdown": "멈춘 = stopped\n시간 속 = in time\n잠든 = sleeping\n너를 = you (object)\n찾아가 = go to find\n\n\"I go to find you sleeping in stopped time.\"\n찾다 (to find) — we learned this in Lesson 2!",
+      "dictionary": [
+        {
+          "word": "멈춘",
+          "reading": "멈추다",
+          "meaning": "stopped"
+        },
+        {
+          "word": "시간",
+          "reading": "시간",
+          "meaning": "time"
+        },
+        {
+          "word": "잠든",
+          "reading": "자다",
+          "meaning": "sleeping"
+        },
+        {
+          "word": "찾아가다",
+          "reading": "찾아가다",
+          "meaning": "to go to find"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "나를 안아줘",
+        "promptTranslation": "이 가사의 뜻은?",
+        "options": [
+          {
+            "text": "Please hug me",
+            "correct": true
+          },
+          {
+            "text": "Please hold me",
+            "correct": false
+          },
+          {
+            "text": "Please wait for me",
+            "correct": false
+          },
+          {
+            "text": "Please find me",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "안아줘 = please hug me. 안다 (to hug) + -아 줘"
+      },
+      "scored": true
+    },
+    {
+      "id": "s16-context-hug",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "손 잡아 줘.",
-        "english": "Hold my hand (please).",
+        "korean": "친구를 안았어요.",
+        "english": "I hugged my friend.",
         "highlights": [
-          "잡아 줘"
+          "안"
         ]
       }
     },
     {
-      "id": "s13-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "손 ___.",
-        "promptTranslation": "Hold my hand (please).",
-        "options": [
-          {
-            "text": "잡다",
-            "correct": false
-          },
-          {
-            "text": "잡아 줘",
-            "correct": true
-          },
-          {
-            "text": "안아 줘",
-            "correct": false
-          },
-          {
-            "text": "안다",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "손 잡아 줘. = Hold my hand (please)."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "조용히 잠든 방을 열어 기억을 꺼내 들어",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "(direct English)",
-            "correct": true
-          },
-          {
-            "text": "I can hear other things too",
-            "correct": false
-          },
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "조용히 잠든 방을 열어 기억을 꺼내 들어 = (direct English)"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s15-teach",
+      "id": "s17-teach-hug",
       "type": "word-card",
       "label": "새 단어",
       "item": {
         "korean": "안다",
-        "english": "to hug",
+        "english": "to hug / to hold",
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "나를 안아줘",
+          "english": "Please hug me",
           "highlights": [
-            "안다"
+            "안아줘"
           ]
         },
         "audioKey": "안다"
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "부서진 시간 위에서 선명히 너는 떠올라",
-      "breakdown": "\"부서지다\"는 깨지는 거예요. \"부서진 시간\" — 시간이 깨졌어요.\n\"위에서\"는 \"~위에 서서\"예요. 부서진 시간 위에 서 있어요.\n\"선명히\"는 아주 잘 보이는 거예요. 흐릿하지 않고 선명해요.\n\"너는 떠올라\" — 부서진 시간 속에서도 너는 선명히 떠올라요.",
-      "dictionary": [
-        {
-          "word": "부서지다",
-          "romanization": "bu-seo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to break, to shatter"
-        },
-        {
-          "word": "위",
-          "romanization": "wi",
-          "partOfSpeech": "noun",
-          "definition": "top, above",
-          "example": {
-            "korean": "책상 위에 있어요.",
-            "english": "It's on the desk."
-          }
-        },
-        {
-          "word": "선명히",
-          "romanization": "seon-myeong-hi",
-          "partOfSpeech": "adverb",
-          "definition": "clearly, vividly"
-        },
-        {
-          "word": "선명하다",
-          "romanization": "seon-myeong-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "clear, vivid"
-        },
-        {
-          "word": "떠오르다",
-          "romanization": "tteo-o-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to come to mind, to rise"
-        },
-        {
-          "word": "흐릿하다",
-          "romanization": "heu-rit-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "blurry, hazy"
-        },
-        {
-          "word": "깨지다",
-          "romanization": "kkae-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to break, to crack",
-          "example": {
-            "korean": "유리가 깨졌어요.",
-            "english": "The glass broke."
-          }
-        },
-        {
-          "word": "속",
-          "romanization": "sok",
-          "partOfSpeech": "noun",
-          "definition": "inside",
-          "example": {
-            "korean": "마음속에 있어요.",
-            "english": "It's in my heart."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz-hug",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -494,605 +439,323 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to hide",
-            "correct": false
-          },
-          {
-            "text": "hug me (please)",
-            "correct": false
-          },
-          {
-            "text": "to hug",
+            "text": "to hug / to hold",
             "correct": true
           },
           {
-            "text": "hold me (please)",
+            "text": "to grab / to catch",
+            "correct": false
+          },
+          {
+            "text": "to protect / to keep",
+            "correct": false
+          },
+          {
+            "text": "to stop",
             "correct": false
           }
         ],
-        "wrongExplanation": "안다 = to hug"
+        "wrongExplanation": "안다 = to hug / to hold"
       },
       "scored": true,
-      "itemIndex": 2
+      "itemIndex": 1
     },
     {
-      "id": "s17-context",
+      "id": "s19-context-hugme",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "아이를 안아요.",
-        "english": "I hug the child.",
-        "highlights": [
-          "안아요"
-        ]
-      }
-    },
-    {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "아이를 ___.",
-        "promptTranslation": "I hug the child.",
-        "options": [
-          {
-            "text": "사람",
-            "correct": false
-          },
-          {
-            "text": "안아요",
-            "correct": true
-          },
-          {
-            "text": "잡아요",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "아이를 안아요. = I hug the child."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "손을 잡아요.",
-          "english": "I hold your hand.",
-          "highlights": [
-            "잡아요"
-          ]
-        },
-        {
-          "korean": "아이를 안아요.",
-          "english": "I hug the child.",
-          "highlights": [
-            "안아요"
-          ]
-        }
-      ],
-      "note": "잡다 + 안다 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "(direct English)",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "길 잃은 마음속에 널 가둔 채 살아",
-            "correct": false
-          },
-          {
-            "text": "부서진 시간 위에서 선명히 너는 떠올라",
-            "correct": false
-          },
-          {
-            "text": "조용히 잠든 방을 열어 기억을 꺼내 들어",
-            "correct": true
-          },
-          {
-            "text": "그만 그만",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "조용히 잠든 방을 열어 기억을 꺼내 들어"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-아/어 줘",
-        "meaning": "please do ~ for me",
-        "explanation": "Making requests. Essential for real conversation.",
-        "songExample": {
-          "korean": "길 잃은 마음속에 널 가둔 채 살아",
-          "english": "",
-          "highlights": [
-            "아/어 줘"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "길 잃은 마음속에 널 가둔 채 살아",
-      "breakdown": "\"길 잃은\"은 길을 잃어버린 거예요. 어디로 가야 할지 몰라요.\n\"마음속\"은 마음 안이에요. \"속\"은 \"inside\"예요.\n\"가두다\"는 나가지 못하게 하는 거예요. 감옥에 가두는 것처럼.\n가수는 마음속에 \"너\"를 가둔 채 살아요. 잡아 **줘** — 제발, 나를 잡아 줘!",
-      "dictionary": [
-        {
-          "word": "길",
-          "romanization": "gil",
-          "partOfSpeech": "noun",
-          "definition": "road, path",
-          "example": {
-            "korean": "길이 좁아요.",
-            "english": "The road is narrow."
-          }
-        },
-        {
-          "word": "잃다",
-          "romanization": "il-ta",
-          "partOfSpeech": "verb",
-          "definition": "to lose",
-          "example": {
-            "korean": "지갑을 잃었어요.",
-            "english": "I lost my wallet."
-          }
-        },
-        {
-          "word": "마음속",
-          "romanization": "ma-eum-sok",
-          "partOfSpeech": "noun",
-          "definition": "inside one's heart/mind"
-        },
-        {
-          "word": "가두다",
-          "romanization": "ga-du-da",
-          "partOfSpeech": "verb",
-          "definition": "to confine, to trap"
-        },
-        {
-          "word": "채",
-          "romanization": "chae",
-          "partOfSpeech": "noun",
-          "definition": "state, as it is (while remaining)"
-        },
-        {
-          "word": "살다",
-          "romanization": "sal-da",
-          "partOfSpeech": "verb",
-          "definition": "to live",
-          "example": {
-            "korean": "서울에 살아요.",
-            "english": "I live in Seoul."
-          }
-        },
-        {
-          "word": "제발",
-          "romanization": "je-bal",
-          "partOfSpeech": "adverb",
-          "definition": "please (desperately)",
-          "example": {
-            "korean": "제발 도와줘요.",
-            "english": "Please help me."
-          }
-        },
-        {
-          "word": "나가다",
-          "romanization": "na-ga-da",
-          "partOfSpeech": "verb",
-          "definition": "to go out",
-          "example": {
-            "korean": "밖에 나가요.",
-            "english": "I go outside."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "안아 줘",
-        "english": "hug me (please)",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-아/어 줘 = please do ~ for me",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "안아 줘"
-          ]
-        },
-        "audioKey": "안아 줘"
-      }
-    },
-    {
-      "id": "s23-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "안아 줘",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "hold me (please)",
-            "correct": false
-          },
-          {
-            "text": "hug me (please)",
-            "correct": true
-          },
-          {
-            "text": "to hug",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "안아 줘 = hug me (please)"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "안아 줘.",
-        "english": "Hug me (please).",
+        "korean": "슬플 때 나를 안아 줘.",
+        "english": "When I'm sad, please hug me.",
         "highlights": [
           "안아 줘"
         ]
       }
     },
     {
-      "id": "s25-quiz",
+      "id": "s20-teach-hugme",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "안아 줘",
+        "english": "hug (me) please",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "phraseNote": "안다 (to hug) + -아 줘 (please do for me)",
+        "songLine": {
+          "korean": "빛이 다 꺼진 여기 나를 안아줘",
+          "english": "Here where all the light has gone out, please hug me",
+          "highlights": [
+            "안아줘"
+          ]
+        },
+        "audioKey": "안아 줘"
+      }
+    },
+    {
+      "id": "s21-quiz-hugme",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "안아 줘",
-        "promptTranslation": "hug me (please)",
+        "type": "fill-blank",
+        "prompt": "나를 안___ ___.",
+        "promptTranslation": "Please hug me.",
         "options": [
           {
-            "text": "아/어 줘",
+            "text": "아 줘",
             "correct": true
           },
           {
-            "text": "처럼",
+            "text": "고 싶어",
             "correct": false
           },
           {
-            "text": "게",
+            "text": "지만",
             "correct": false
           },
           {
-            "text": "고",
+            "text": "으면",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -아/어 줘예요."
+        "wrongExplanation": "안다 + -아 줘 = 안아 줘 (please hug me)"
       },
       "scored": true,
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "안아 줘",
-        "promptTranslation": "여기서 -아/어 줘는 무슨 느낌일까요?",
-        "options": [
-          {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
-            "correct": true
-          },
-          {
-            "text": "갑자기 일어났다가 멈췄어요",
-            "correct": false
-          },
-          {
-            "text": "일부러 그렇게 했어요",
-            "correct": false
-          },
-          {
-            "text": "더 이상 그렇지 않아요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "-아/어 줘 = please do ~ for me — 선택이 아니라 저절로 된 거예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
+      "id": "s22-line4",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "그만 그만",
-      "breakdown": "\"그만\"은 \"stop\" 또는 \"enough\"예요. 두 번 반복해서 강하게 말해요.\n\"그만하다\"는 하던 것을 멈추는 거예요.\n가수는 이제 그만하고 싶어요. 아픈 기억을, 외로운 마음을.\n잡아 **줘**, 안아 **줘** — \"-아/어 줘\"는 누군가에게 부탁할 때 써요. 간절한 부탁이에요.",
+      "lyricLine": "길고 긴 여행을 끝내 이젠 돌아가",
+      "breakdown": "길고 긴 = long and long\n여행을 = journey (object)\n끝내 = finish / end\n이젠 = 이제는 = now\n돌아가 = go back / return\n\n\"I finish the long journey and now return.\"\nThe journey back home — way back home.",
       "dictionary": [
         {
-          "word": "그만",
-          "romanization": "geu-man",
-          "partOfSpeech": "adverb",
-          "definition": "stop, enough",
-          "example": {
-            "korean": "그만해요.",
-            "english": "Stop it."
-          }
+          "word": "길다",
+          "reading": "길다",
+          "meaning": "long"
         },
         {
-          "word": "반복하다",
-          "romanization": "ban-bok-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to repeat"
+          "word": "여행",
+          "reading": "여행",
+          "meaning": "journey / trip"
         },
         {
-          "word": "강하다",
-          "romanization": "gang-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "strong"
+          "word": "끝내다",
+          "reading": "끝내다",
+          "meaning": "to finish / to end"
         },
         {
-          "word": "멈추다",
-          "romanization": "meom-chu-da",
-          "partOfSpeech": "verb",
-          "definition": "to stop"
-        },
-        {
-          "word": "아픈",
-          "romanization": "a-peun",
-          "partOfSpeech": "adjective",
-          "definition": "painful, sick"
-        },
-        {
-          "word": "외롭다",
-          "romanization": "oe-rop-da",
-          "partOfSpeech": "adjective",
-          "definition": "lonely",
-          "example": {
-            "korean": "혼자서 외로워요.",
-            "english": "I'm lonely being alone."
-          }
-        },
-        {
-          "word": "간절하다",
-          "romanization": "gan-jeol-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "earnest, desperate"
-        },
-        {
-          "word": "이제",
-          "romanization": "i-je",
-          "partOfSpeech": "adverb",
-          "definition": "now, from now on",
-          "example": {
-            "korean": "이제 가요.",
-            "english": "Let's go now."
-          }
+          "word": "돌아가다",
+          "reading": "돌아가다",
+          "meaning": "to go back / to return"
         }
       ]
     },
     {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "안다",
-            "correct": false
-          },
-          {
-            "text": "잡다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "잡다 = to hold / to grab"
-      },
-      "scored": true,
-      "itemIndex": null
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "손을 잡아 줘.",
+          "english": "Please hold my hand.",
+          "highlights": [
+            "잡아 줘"
+          ]
+        },
+        {
+          "korean": "나를 안아 줘.",
+          "english": "Please hug me.",
+          "highlights": [
+            "안아 줘"
+          ]
+        }
+      ],
+      "note": "Both use -아 줘 to make a gentle request to someone close."
     },
     {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (to hug)",
-        "options": [
-          {
-            "text": "잡다",
-            "correct": false
-          },
-          {
-            "text": "안다",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "안다 = to hug"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s29-quiz",
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "hold me (please)",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "What does -아/어 줘 mean?",
+        "promptTranslation": null,
         "options": [
+          {
+            "text": "please do ~ for me",
+            "correct": true
+          },
+          {
+            "text": "I want to do ~",
+            "correct": false
+          },
+          {
+            "text": "if you do ~",
+            "correct": false
+          },
+          {
+            "text": "because I did ~",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-아/어 줘 is used to ask someone to do something for you"
+      },
+      "scored": true
+    },
+    {
+      "id": "s25-quiz-mix2",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "hug me please",
+        "promptTranslation": "한국어로?",
+        "options": [
+          {
+            "text": "안아 줘",
+            "correct": true
+          },
           {
             "text": "잡아 줘",
-            "correct": true
-          },
-          {
-            "text": "사랑",
             "correct": false
           },
           {
-            "text": "잡다",
+            "text": "기다려 줘",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "찾아 줘",
             "correct": false
           }
         ],
-        "wrongExplanation": "hold me (please) = 잡아 줘"
+        "wrongExplanation": "안다 (to hug) + -아 줘 = 안아 줘"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "도와___.",
-        "promptTranslation": "Help me (please).",
+        "type": "fill-blank",
+        "prompt": "손을 잡___ ___.",
+        "promptTranslation": "Please hold my hand.",
         "options": [
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "아/어 줘",
+            "text": "아 줘",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "고 싶어",
+            "correct": false
+          },
+          {
+            "text": "지 못해",
+            "correct": false
+          },
+          {
+            "text": "으면",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -아/어 줘!"
+        "wrongExplanation": "잡다 + -아 줘 = 잡아 줘 (please hold)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"잡다\", \"줘\", \"해\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "빛이 다 꺼진 여기 나를 안아줘",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "잡다 해 줘",
+            "text": "Here where all the light has gone out, please hug me",
             "correct": true
+          },
+          {
+            "text": "Please hold my hand in the dark",
+            "correct": false
+          },
+          {
+            "text": "I'm waiting for you in the light",
+            "correct": false
+          },
+          {
+            "text": "Please don't forget me in the darkness",
+            "correct": false
           }
         ],
-        "wrongExplanation": "잡다 해 줘"
+        "wrongExplanation": "빛이 다 꺼진 = all the light has gone out, 안아줘 = please hug me"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "잡다",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "to hold / to grab",
+            "correct": true
+          },
+          {
+            "text": "to hug / to embrace",
+            "correct": false
+          },
+          {
+            "text": "to find / to look for",
+            "correct": false
+          },
+          {
+            "text": "to wait",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잡다 = to hold / to grab"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "조용히 잠든 방을 열어 기억을 꺼내 들어",
-          "english": "",
+          "korean": "Hold on",
+          "english": "Hold on (잡아 줘)",
           "highlights": []
         },
         {
-          "korean": "부서진 시간 위에서 선명히 너는 떠올라",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "길 잃은 마음속에 널 가둔 채 살아",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "그만 그만",
-          "english": "",
-          "highlights": []
+          "korean": "빛이 다 꺼진 여기 나를 안아줘",
+          "english": "Here where all the light has gone out, please hug me",
+          "highlights": [
+            "안아줘"
+          ]
         },
         {
           "korean": "멈춘 시간 속 잠든 너를 찾아가",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "아무리 막아도 결국 너의 곁인 걸",
-          "english": "",
+          "english": "I go to find you sleeping in stopped time",
           "highlights": []
         },
         {
           "korean": "길고 긴 여행을 끝내 이젠 돌아가",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "너라는 집으로 지금 다시 way back home",
-          "english": "",
+          "english": "I finish the long journey and now return",
           "highlights": []
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1109,7 +772,7 @@
         },
         {
           "korean": "안다",
-          "english": "to hug",
+          "english": "to hug / to hold",
           "kind": "word",
           "partOfSpeech": "verb",
           "songLine": {
@@ -1120,7 +783,7 @@
         },
         {
           "korean": "잡아 줘",
-          "english": "hold me (please)",
+          "english": "hold onto (me) please",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1131,7 +794,7 @@
         },
         {
           "korean": "안아 줘",
-          "english": "hug me (please)",
+          "english": "hug (me) please",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1146,9 +809,8 @@
         "meaning": "please do ~ for me"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
-  ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  ]
 }

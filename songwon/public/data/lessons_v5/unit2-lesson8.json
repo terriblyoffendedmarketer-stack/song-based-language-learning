@@ -1,123 +1,154 @@
 {
   "id": "v5-unit2-lesson8",
   "meta": {
-    "songId": "punch-stay-with-me",
+    "songId": "punch-staywithme3",
     "songTitle": "Stay With Me",
     "artist": "Punch",
     "unit": 2,
     "lessonNumber": 8,
     "grammarFocus": "-아/어서",
     "grammarMeaning": "because / and then",
-    "koreanRatio": 0.65
+    "koreanRatio": 0.6
   },
+  "generatedAt": "2025-06-15T09:00:00Z",
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "변하다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "heart",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          },
-          {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "to change",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "변하다 = to change."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "Punch — Stay With Me",
-      "content": "Giving reasons. \"Because I love you, I'll stay.\"\n\nStay With Me is the central theme from the 2016-2017 drama Goblin (도깨비, also known as Guardian: The Lonely and Great God), performed by Punch with Chanyeol of EXO. The drama follows an immortal goblin cursed to live for centuries until he finds his human bride, and the song plays during the show's most fated, aching romantic moments — the pull between two people who feel connected across lifetimes, and the sorrow of a love that's shadowed by eventual, inevitable separation.\n\nIn this lesson, you'll learn the grammar pattern **-아/어서**, which means \"because / and then.\" We'll see how Punch uses it in \"Stay With Me.\"",
+      "content": "이번 레슨에서는 **-아/어서**를 배워요.\n이유를 설명하거나 순서를 연결할 때 써요.\n\nPunch의 **Stay With Me**는 운명적인 만남과 깊은 감정을 노래해요.\n드라마 '도깨비' OST로 유명한 곡이에요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어서** — used to give reasons (because) or connect sequential actions (and then).\n\nPunch's **Stay With Me** sings about a fateful encounter and deep emotions. It's famous as the OST for the drama 'Goblin'.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **보다** — to see\n- **듣다** — to hear\n- **좋아해서** — because I like (you)\n- **보고 싶어서** — because I miss (you)\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "나의 두 눈을 감으면",
         "떠오르는 그 눈동자",
         "자꾸 가슴이 시려서",
-        "잊혀지길 바랬어"
+        "잊혀지길 바랬어",
+        "꿈이라면 이제",
+        "깨어났으면 (으면) 제발 (제발)",
+        "정말 네가 나의 운명인 걸까? (걸까?)",
+        "넌 falling you",
+        "",
+        "운명처럼 너를 falling",
+        "또 나를 부르네 calling",
+        "헤어 나올 수 없어 제발 hold me",
+        "내 인연의 끈이 넌지",
+        "기다린 네가 맞는지",
+        "가슴이 먼저 왜 내려앉는지 (Stay with me)",
+        "내 마음속 깊은 곳에 네가 사는지 (Stay with me)",
+        "내 안에 숨겨왔던 진실",
+        "",
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어",
+        "꿈이라면 이제",
+        "깨어났으면 (으면) 제발 (제발)",
+        "정말 네가 나의 운명인 걸까? (걸까?)",
+        "",
+        "Ooh",
+        "넌 falling you",
+        "Ooh",
+        "넌 falling you",
+        "",
+        "가슴은 뛰고 있어, 여전히 널 보고 있어",
+        "자꾸만 숨이 막혀서",
+        "아직은 멀리에서 너를 지켜보고 싶어",
+        "내가 또 왜 이러는지",
+        "처음 너를 봤을 때부터 다르게",
+        "운명의 시간은 또 더디게 갔지",
+        "내 가슴은 널 향했고",
+        "내 심장은 다시 또 뛰었고",
+        "꺼져버리던 희미한 불빛",
+        "너로 인해 다시 타오르는 눈빛",
+        "마치 오래전부터 널 사랑한 것 같아",
+        "무언가에 이끌리듯 끌려온 것 같아",
+        "",
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어",
+        "(꿈이라면) 꿈이라면 이제",
+        "깨어났으면 (꿈이 아니길) 제발",
+        "(혹시 네가) 정말 네가 나의 운명인걸까?",
+        "(운명이라면) 넌 falling you"
+      ],
+      "targetLineIndices": [
+        2,
+        31,
+        34,
+        45
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "자꾸 가슴이 시려서",
+      "breakdown": "자꾸 = repeatedly / keeps\n가슴이 = my heart (subject)\n시려서 = 시리다 + **-아/어서** = is cold / aches **because**\n\n\"Because my heart keeps aching...\"\n\n-아/어서 explains WHY something happens. This is our grammar pattern!",
+      "dictionary": [
         {
-          "korean": "나의 두 눈을 감으면",
-          "english": "When I close my eyes",
-          "highlights": []
+          "word": "자꾸",
+          "reading": "자꾸",
+          "meaning": "repeatedly / keeps"
         },
         {
-          "korean": "떠오르는 그 눈동자",
-          "english": "those eyes come to mind",
-          "highlights": []
+          "word": "가슴",
+          "reading": "가슴",
+          "meaning": "heart / chest"
         },
         {
-          "korean": "자꾸 가슴이 시려서",
-          "english": "because my heart keeps aching",
-          "highlights": []
+          "word": "시리다",
+          "reading": "시리다",
+          "meaning": "to be cold / to ache"
         },
         {
-          "korean": "잊혀지길 바랬어",
-          "english": "I hoped I could be forgotten",
-          "highlights": []
+          "word": "-아/어서",
+          "reading": "-아/어서",
+          "meaning": "because / so / and then"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-watch",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "나는 영화를 봐요.",
+        "english": "I watch a movie.",
+        "highlights": [
+          "봐"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-watch",
       "type": "word-card",
       "label": "새 단어",
       "item": {
         "korean": "보다",
-        "english": "to see",
+        "english": "to see / to watch",
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "여전히 널 보고 있어",
+          "english": "I'm still looking at you",
           "highlights": [
-            "보다"
+            "보고"
           ]
         },
         "audioKey": "보다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-watch",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -126,362 +157,285 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "dream",
-            "correct": false
-          },
-          {
-            "text": "to see",
+            "text": "to see / to watch",
             "correct": true
           },
           {
-            "text": "to hear",
+            "text": "to hear / to listen",
             "correct": false
           },
           {
-            "text": "because I miss (you)",
+            "text": "to wait",
+            "correct": false
+          },
+          {
+            "text": "to protect",
             "correct": false
           }
         ],
-        "wrongExplanation": "보다 = to see"
+        "wrongExplanation": "보다 = to see / to watch"
       },
       "scored": true,
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "영화를 봐요.",
-        "english": "I watch a movie.",
-        "highlights": [
-          "봐요"
-        ]
-      }
-    },
-    {
-      "id": "s9-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "영화를 ___.",
-        "promptTranslation": "I watch a movie.",
-        "options": [
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "듣다",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "봐요",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "영화를 봐요. = I watch a movie."
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "좋아해서",
-        "english": "because I like (you)",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "좋아해서"
-          ]
-        },
-        "audioKey": "좋아해서"
-      }
-    },
-    {
-      "id": "rc1",
+      "id": "s7-line2",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "나의 두 눈을 감으면",
-      "breakdown": "이 노래를 다시 만나요! Punch의 Stay With Me예요.\n\"나의 두 눈을 감으면\" — 눈을 감으면 사랑하는 사람이 보여요.\n\"눈을 감다\"는 눈을 닫는 거예요. 잠을 잘 때 눈을 감아요.\n왜 눈을 감을까요? 보고 싶어**서**. \"-아/어서\"는 이유를 말해요!",
+      "lyricLine": "자꾸만 숨이 막혀서",
+      "breakdown": "자꾸만 = keeps / repeatedly (emphasis)\n숨이 = breath (subject)\n막혀서 = 막히다 + **-아/어서** = is blocked **because/so**\n\n\"Because my breath keeps getting caught...\"\n\nAgain, -아/어서 shows the reason for what comes next.",
       "dictionary": [
         {
-          "word": "다시",
-          "romanization": "da-si",
-          "partOfSpeech": "adverb",
-          "definition": "again",
-          "example": {
-            "korean": "다시 만나요.",
-            "english": "Let's meet again."
-          }
+          "word": "숨",
+          "reading": "숨",
+          "meaning": "breath"
         },
         {
-          "word": "만나다",
-          "romanization": "man-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to meet",
-          "example": {
-            "korean": "반가워요, 만나서.",
-            "english": "Nice to meet you."
-          }
+          "word": "막히다",
+          "reading": "막히다",
+          "meaning": "to be blocked / to be suffocated"
         },
         {
-          "word": "감다",
-          "romanization": "gam-da",
-          "partOfSpeech": "verb",
-          "definition": "to close (eyes)"
-        },
-        {
-          "word": "닫다",
-          "romanization": "dat-da",
-          "partOfSpeech": "verb",
-          "definition": "to close, to shut"
-        },
-        {
-          "word": "잠",
-          "romanization": "jam",
-          "partOfSpeech": "noun",
-          "definition": "sleep",
-          "example": {
-            "korean": "잠이 와요.",
-            "english": "I'm getting sleepy."
-          }
-        },
-        {
-          "word": "잠을 자다",
-          "romanization": "jam-eul ja-da",
-          "partOfSpeech": "phrase",
-          "definition": "to sleep"
-        },
-        {
-          "word": "이유",
-          "romanization": "i-yu",
-          "partOfSpeech": "noun",
-          "definition": "reason",
-          "example": {
-            "korean": "이유가 뭐예요?",
-            "english": "What's the reason?"
-          }
-        },
-        {
-          "word": "보고 싶다",
-          "romanization": "bo-go sip-da",
-          "partOfSpeech": "phrase",
-          "definition": "to miss someone",
-          "example": {
-            "korean": "너무 보고 싶어요.",
-            "english": "I miss you so much."
-          }
+          "word": "-아/어서",
+          "reading": "-아/어서",
+          "meaning": "because / so"
         }
       ]
     },
     {
-      "id": "s11-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "좋아해서",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-아/어서",
+        "meaning": "because / and then",
+        "explanation": "이유나 원인을 설명해요. '~해서' 또는 '~했기 때문에'라는 뜻이에요.\nExplains the reason or cause for something. It can mean 'because' or 'so', connecting cause and effect.",
+        "songExample": {
+          "korean": "자꾸 가슴이 시려서",
+          "english": "Because my heart keeps aching",
+          "highlights": [
+            "시려서"
+          ]
+        },
+        "examples": [
           {
-            "text": "to see",
-            "correct": false
+            "korean": "피곤해서 쉬고 싶어요.",
+            "english": "Because I'm tired, I want to rest.",
+            "highlights": [
+              "해서"
+            ]
           },
           {
-            "text": "because I miss (you)",
-            "correct": false
+            "korean": "비가 와서 집에 있어요.",
+            "english": "Because it's raining, I'm staying home.",
+            "highlights": [
+              "와서"
+            ]
           },
           {
-            "text": "to be loud",
-            "correct": false
-          },
-          {
-            "text": "because I like (you)",
-            "correct": true
+            "korean": "자꾸만 숨이 막혀서",
+            "english": "Because my breath keeps getting caught",
+            "highlights": [
+              "막혀서"
+            ]
           }
-        ],
-        "wrongExplanation": "좋아해서 = because I like (you)"
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s12-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "좋아해서 말 못 해요.",
-        "english": "Because I like you, I can't say it.",
-        "highlights": [
-          "좋아해서"
         ]
       }
     },
     {
-      "id": "s13-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "___ 말 못 해요.",
-        "promptTranslation": "Because I like you, I can't say it.",
+        "prompt": "피곤h___ 쉬고 싶어요.",
+        "promptTranslation": "Because I'm tired, I want to rest.",
         "options": [
           {
-            "text": "듣다",
-            "correct": false
-          },
-          {
-            "text": "좋아해서",
+            "text": "해서",
             "correct": true
           },
           {
-            "text": "보고 싶어서",
+            "text": "하고",
             "correct": false
           },
           {
-            "text": "마음",
+            "text": "하지만",
+            "correct": false
+          },
+          {
+            "text": "하면",
             "correct": false
           }
         ],
-        "wrongExplanation": "좋아해서 말 못 해요. = Because I like you, I can't say it."
+        "wrongExplanation": "피곤하다 + -아/어서 = 피곤해서 (because I'm tired)"
+      },
+      "scored": true
+    },
+    {
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-아/어서**가 어떻게 쓰이는지 봤어요.\n이제 이 패턴이 들어간 표현을 더 배워 볼까요?",
+      "contentEnglish": "You've seen how -아/어서 works to show reasons.\nNow let's learn more phrases that use this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-havingseen",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "너를 봐서 행복해요.",
+        "english": "Because I saw you, I'm happy.",
+        "highlights": [
+          "봐서"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-havingseen",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "봐서",
+        "english": "because I saw / having seen",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "처음 너를 봤을 때부터 다르게",
+          "english": "From the first time I saw you, it was different",
+          "highlights": [
+            "봤을"
+          ]
+        },
+        "audioKey": "봐서",
+        "phraseNote": "보다 (to see) + -아/어서 = 봐서 (because I saw / having seen)"
+      }
+    },
+    {
+      "id": "s13-quiz-havingseen",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "봐서",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "because I saw / having seen",
+            "correct": true
+          },
+          {
+            "text": "because I heard / having heard",
+            "correct": false
+          },
+          {
+            "text": "because I forgot",
+            "correct": false
+          },
+          {
+            "text": "because I changed",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "보다 + -아/어서 = 봐서 (because I saw / having seen)"
       },
       "scored": true,
       "itemIndex": 1
     },
     {
-      "id": "s14-quiz",
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "처음 너를 봤을 때부터 다르게",
+      "breakdown": "처음 = first time\n너를 = you (object)\n봤을 때 = when I saw (보다 past + 을 때)\n부터 = from / since\n다르게 = differently\n\n\"From the first time I saw you, it was different.\"\n\n봤을 is the past form of 보다 (to see) — you just learned 봐서!",
+      "dictionary": [
+        {
+          "word": "처음",
+          "reading": "처음",
+          "meaning": "first time / beginning"
+        },
+        {
+          "word": "봤을 때",
+          "reading": "보다 + 을 때",
+          "meaning": "when I saw"
+        },
+        {
+          "word": "부터",
+          "reading": "부터",
+          "meaning": "from / since"
+        },
+        {
+          "word": "다르다",
+          "reading": "다르다",
+          "meaning": "to be different"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
       "type": "quiz",
       "label": "가사 퀴즈",
       "quiz": {
-        "type": "song-comprehension",
-        "prompt": "나의 두 눈을 감으면",
-        "promptTranslation": "무슨 뜻일까요?",
+        "type": "tap-meaning",
+        "prompt": "자꾸 가슴이 시려서",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "When I close my eyes",
+            "text": "Because my heart keeps aching",
             "correct": true
           },
           {
-            "text": "those eyes come to mind",
+            "text": "When I close my two eyes",
             "correct": false
           },
           {
-            "text": "because my heart keeps aching",
+            "text": "I'm still looking at you",
+            "correct": false
+          },
+          {
+            "text": "From the first time I saw you",
             "correct": false
           }
         ],
-        "wrongExplanation": "나의 두 눈을 감으면 = When I close my eyes"
+        "wrongExplanation": "자꾸 = keeps, 가슴이 시려서 = because my heart aches. -아/어서 shows the reason."
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s15-teach",
+      "id": "s16-context-listen",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "음악을 들어요.",
+        "english": "I listen to music.",
+        "highlights": [
+          "들어"
+        ]
+      }
+    },
+    {
+      "id": "s17-teach-listen",
       "type": "word-card",
       "label": "새 단어",
       "item": {
         "korean": "듣다",
-        "english": "to hear",
+        "english": "to hear / to listen",
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "또 나를 부르네 calling",
+          "english": "You're calling me again",
           "highlights": [
-            "듣다"
+            "부르네"
           ]
         },
         "audioKey": "듣다"
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "떠오르는 그 눈동자",
-      "breakdown": "눈을 감으면 — 떠오르는 그 눈동자. 사랑하는 사람의 눈이에요.\n\"떠오르다\"는 생각이 나는 거예요. 좋아해**서** 자꾸 떠올라요.\n\"그\"는 특정한 사람을 가리켜요. \"그 사람\" \"그 눈동자\" — 바로 그 사람!\n\"보고 싶어서\" 눈을 감아요. \"좋아해서\" 잊을 수 없어요.",
-      "dictionary": [
-        {
-          "word": "떠오르다",
-          "romanization": "tteo-o-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to come to mind"
-        },
-        {
-          "word": "눈동자",
-          "romanization": "nun-dong-ja",
-          "partOfSpeech": "noun",
-          "definition": "pupil, eyes"
-        },
-        {
-          "word": "특정한",
-          "romanization": "teuk-jeong-han",
-          "partOfSpeech": "adjective",
-          "definition": "specific, particular"
-        },
-        {
-          "word": "가리키다",
-          "romanization": "ga-ri-ki-da",
-          "partOfSpeech": "verb",
-          "definition": "to point to, to indicate"
-        },
-        {
-          "word": "바로",
-          "romanization": "ba-ro",
-          "partOfSpeech": "adverb",
-          "definition": "exactly, right",
-          "example": {
-            "korean": "바로 그거예요!",
-            "english": "That's exactly it!"
-          }
-        },
-        {
-          "word": "잊다",
-          "romanization": "it-da",
-          "partOfSpeech": "verb",
-          "definition": "to forget"
-        },
-        {
-          "word": "생각",
-          "romanization": "saeng-gak",
-          "partOfSpeech": "noun",
-          "definition": "thought, idea",
-          "example": {
-            "korean": "좋은 생각이에요.",
-            "english": "That's a good idea."
-          }
-        },
-        {
-          "word": "좋아하다",
-          "romanization": "jo-a-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to like",
-          "example": {
-            "korean": "많이 좋아해요.",
-            "english": "I like it a lot."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz-listen",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -490,587 +444,328 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to hide",
-            "correct": false
-          },
-          {
-            "text": "because I like (you)",
-            "correct": false
-          },
-          {
-            "text": "because I miss (you)",
-            "correct": false
-          },
-          {
-            "text": "to hear",
+            "text": "to hear / to listen",
             "correct": true
+          },
+          {
+            "text": "to see / to watch",
+            "correct": false
+          },
+          {
+            "text": "to find",
+            "correct": false
+          },
+          {
+            "text": "to stop",
+            "correct": false
           }
         ],
-        "wrongExplanation": "듣다 = to hear"
+        "wrongExplanation": "듣다 = to hear / to listen"
       },
       "scored": true,
       "itemIndex": 2
     },
     {
-      "id": "s17-context",
+      "id": "s19-context-havingheard",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "노래를 들어요.",
-        "english": "I listen to a song.",
+        "korean": "노래를 들어서 기억이 났어요.",
+        "english": "Because I heard the song, I remembered.",
         "highlights": [
-          "들어요"
+          "들어서"
         ]
       }
     },
     {
-      "id": "s18-quiz",
+      "id": "s20-teach-havingheard",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "들어서",
+        "english": "because I heard / having heard",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": []
+        },
+        "audioKey": "들어서",
+        "phraseNote": "듣다 (to hear) + -아/어서 = 들어서 (because I heard / having heard)"
+      }
+    },
+    {
+      "id": "s21-quiz-havingheard",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "distinguish",
-        "prompt": "노래를 ___.",
-        "promptTranslation": "I listen to a song.",
+        "type": "fill-blank",
+        "prompt": "노래를 들___ 기억이 났어요.",
+        "promptTranslation": "Because I heard the song, I remembered.",
         "options": [
           {
-            "text": "들어요",
+            "text": "어서",
             "correct": true
           },
           {
-            "text": "마음",
+            "text": "고",
             "correct": false
           },
           {
-            "text": "행복",
+            "text": "지만",
             "correct": false
           },
           {
-            "text": "봐요",
+            "text": "으면",
             "correct": false
           }
         ],
-        "wrongExplanation": "노래를 들어요. = I listen to a song."
+        "wrongExplanation": "듣다 + -아/어서 = 들어서 (because I heard). -아/어서 shows the reason."
       },
       "scored": true,
-      "itemIndex": 2
+      "itemIndex": 3
     },
     {
-      "id": "s19-pair",
+      "id": "s22-line4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "잊혀지길 바랬어",
+      "breakdown": "잊혀지다 = to be forgotten (passive)\n-길 = that it would...\n바라다 = to wish / to hope\n-었어 = past tense\n\n\"I hoped it would be forgotten.\"\n\nThis connects to the earlier line with -아/어서 — the singer's heart aches, **so** they hoped to forget.",
+      "dictionary": [
+        {
+          "word": "잊혀지다",
+          "reading": "잊다 (passive)",
+          "meaning": "to be forgotten"
+        },
+        {
+          "word": "바라다",
+          "reading": "바라다",
+          "meaning": "to wish / to hope"
+        },
+        {
+          "word": "-었어",
+          "reading": "past tense",
+          "meaning": "did (informal past)"
+        }
+      ]
+    },
+    {
+      "id": "s23-pair",
       "type": "pair-context",
       "label": "비교해 보세요",
       "sentences": [
         {
-          "korean": "영화를 봐요.",
-          "english": "I watch a movie.",
+          "korean": "너를 봐서 기쁘고, 목소리를 들어서 행복해요.",
+          "english": "Because I see you, I'm happy, and because I hear your voice, I'm joyful.",
           "highlights": [
-            "봐요"
+            "봐서",
+            "들어서"
           ]
         },
         {
-          "korean": "노래를 들어요.",
-          "english": "I listen to a song.",
+          "korean": "아파서 쉬고, 괜찮아서 다시 시작해요.",
+          "english": "Because it hurts, I rest, and because it's okay, I start again.",
           "highlights": [
-            "들어요"
+            "아파서",
+            "괜찮아서"
           ]
         }
       ],
-      "note": "보다 + 듣다 — 둘 다 이번 레슨에서 배운 단어예요."
+      "note": "-아/어서 connects many reasons and results. It's everywhere in Korean!"
     },
     {
-      "id": "s20-quiz",
+      "id": "s24-quiz-mix1",
       "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "When I close my eyes",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "자꾸 가슴이 시려서",
-            "correct": false
-          },
-          {
-            "text": "떠오르는 그 눈동자",
-            "correct": false
-          },
-          {
-            "text": "나의 두 눈을 감으면",
-            "correct": true
-          },
-          {
-            "text": "잊혀지길 바랬어",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "나의 두 눈을 감으면"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-아/어서",
-        "meaning": "because / and then",
-        "explanation": "Giving reasons. \"Because I love you, I'll stay.\"",
-        "songExample": {
-          "korean": "아직은 멀리에서 너를 지켜보고 싶어",
-          "english": "",
-          "highlights": [
-            "아/어서"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "자꾸 가슴이 시려서",
-      "breakdown": "\"가슴이 시리다\" — 마음이 차갑고 아파요.\n여기서 \"-아/어서\"가 나와요! \"시려**서**\" = 시리기 때문에. 이유예요.\n가슴이 시려**서** 어떻게 해요? 잊혀지길 바랐어요. 시리니까 잊고 싶었어요.\n\"-아/어서\"는 이유를 말할 때 아주 많이 써요. \"좋아해**서**\", \"보고 싶어**서**\", \"시려**서**\".",
-      "dictionary": [
-        {
-          "word": "시리다",
-          "romanization": "si-ri-da",
-          "partOfSpeech": "adjective",
-          "definition": "to ache from cold"
-        },
-        {
-          "word": "때문에",
-          "romanization": "ttae-mun-e",
-          "partOfSpeech": "postposition",
-          "definition": "because of"
-        },
-        {
-          "word": "차갑다",
-          "romanization": "cha-gap-da",
-          "partOfSpeech": "adjective",
-          "definition": "cold"
-        },
-        {
-          "word": "아프다",
-          "romanization": "a-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "to hurt, painful"
-        },
-        {
-          "word": "바라다",
-          "romanization": "ba-ra-da",
-          "partOfSpeech": "verb",
-          "definition": "to wish, to hope"
-        },
-        {
-          "word": "잊다",
-          "romanization": "it-da",
-          "partOfSpeech": "verb",
-          "definition": "to forget"
-        },
-        {
-          "word": "많이",
-          "romanization": "man-i",
-          "partOfSpeech": "adverb",
-          "definition": "a lot, much",
-          "example": {
-            "korean": "많이 먹었어요.",
-            "english": "I ate a lot."
-          }
-        },
-        {
-          "word": "어떻게",
-          "romanization": "eo-tteo-ke",
-          "partOfSpeech": "adverb",
-          "definition": "how"
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "보고 싶어서",
-        "english": "because I miss (you)",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-아/어서 = because / and then",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "보고 싶어서"
-          ]
-        },
-        "audioKey": "보고 싶어서"
-      }
-    },
-    {
-      "id": "s23-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
+      "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "보고 싶어서",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "because I miss (you)",
-            "correct": true
-          },
-          {
-            "text": "because I like (you)",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "to hear",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "보고 싶어서 = because I miss (you)"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "보고 싶어서 전화했어요.",
-        "english": "I called because I missed you.",
-        "highlights": [
-          "보고 싶어서"
-        ]
-      }
-    },
-    {
-      "id": "s25-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "보고 싶어서",
-        "promptTranslation": "because I miss (you)",
-        "options": [
-          {
-            "text": "아/어서",
-            "correct": true
-          },
-          {
-            "text": "는데",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "아서",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "패턴은 항상 -아/어서예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
         "prompt": "What does -아/어서 express?",
         "promptTranslation": null,
         "options": [
           {
-            "text": "but / however",
-            "correct": false
-          },
-          {
-            "text": "not at all",
-            "correct": false
-          },
-          {
-            "text": "always / every time",
-            "correct": false
-          },
-          {
-            "text": "because / and then",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "-아/어서 = because / and then"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "잊혀지길 바랬어",
-      "breakdown": "\"잊혀지다\"는 자연스럽게 잊어지는 거예요.\n\"바라다\"의 과거형은 \"바랬어\"예요. \"원했어요\"라는 뜻이에요.\n가수는 왜 잊고 싶었을까요? 가슴이 시려**서**. 아파**서**.\n보고 싶어**서** 괴로워요. 좋아해**서** 잊지 못해요. \"-아/어서\"로 이유를 말할 수 있어요!",
-      "dictionary": [
-        {
-          "word": "잊혀지다",
-          "romanization": "i-tyeo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to be forgotten"
-        },
-        {
-          "word": "자연스럽다",
-          "romanization": "ja-yeon-seu-reop-da",
-          "partOfSpeech": "adjective",
-          "definition": "natural"
-        },
-        {
-          "word": "원하다",
-          "romanization": "won-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to want",
-          "example": {
-            "korean": "뭘 원해요?",
-            "english": "What do you want?"
-          }
-        },
-        {
-          "word": "과거형",
-          "romanization": "gwa-geo-hyeong",
-          "partOfSpeech": "noun",
-          "definition": "past tense form"
-        },
-        {
-          "word": "괴롭다",
-          "romanization": "goe-rop-da",
-          "partOfSpeech": "adjective",
-          "definition": "painful, tormenting"
-        },
-        {
-          "word": "가슴",
-          "romanization": "ga-seum",
-          "partOfSpeech": "noun",
-          "definition": "chest, heart"
-        },
-        {
-          "word": "잊지 못하다",
-          "romanization": "it-ji mo-ta-da",
-          "partOfSpeech": "phrase",
-          "definition": "to be unable to forget"
-        },
-        {
-          "word": "이유",
-          "romanization": "i-yu",
-          "partOfSpeech": "noun",
-          "definition": "reason"
-        }
-      ]
-    },
-    {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "보고 싶어서",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "듣다",
-            "correct": false
-          },
-          {
-            "text": "보다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "보다 = to see"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (to hear)",
-        "options": [
-          {
-            "text": "보다",
-            "correct": false
-          },
-          {
-            "text": "듣다",
+            "text": "reason or cause (because)",
             "correct": true
           },
           {
-            "text": "마음",
+            "text": "contrast (but)",
             "correct": false
           },
           {
-            "text": "사랑",
+            "text": "condition (if)",
+            "correct": false
+          },
+          {
+            "text": "simple connection (and)",
             "correct": false
           }
         ],
-        "wrongExplanation": "듣다 = to hear"
+        "wrongExplanation": "-아/어서 shows reason or cause: 'because' or 'so'"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s29-quiz",
+      "id": "s25-quiz-mix2",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "because I like (you)",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "because I saw / having seen",
+        "promptTranslation": "한국어로?",
         "options": [
           {
-            "text": "좋아해서",
+            "text": "봐서",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "들어서",
             "correct": false
           },
           {
-            "text": "보다",
+            "text": "아파서",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "시려서",
             "correct": false
           }
         ],
-        "wrongExplanation": "because I like (you) = 좋아해서"
+        "wrongExplanation": "보다 + -아/어서 = 봐서 (because I saw)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "피곤해___ 쉬었어요.",
-        "promptTranslation": "I rested because I was tired.",
+        "type": "fill-blank",
+        "prompt": "비가 와___ 집에 있어요.",
+        "promptTranslation": "Because it's raining, I'm staying home.",
         "options": [
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "아/어서",
+            "text": "서",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "고",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -아/어서!"
+        "wrongExplanation": "오다 + -아/어서 = 와서 (because it comes/rains). -아/어서 shows reason."
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"좋아서\", \"보다\", \"듣다\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "처음 너를 봤을 때부터 다르게",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "보다 좋아서 듣다",
+            "text": "From the first time I saw you, it was different",
             "correct": true
+          },
+          {
+            "text": "Because my heart keeps aching",
+            "correct": false
+          },
+          {
+            "text": "I hoped it would be forgotten",
+            "correct": false
+          },
+          {
+            "text": "Because my breath keeps getting caught",
+            "correct": false
           }
         ],
-        "wrongExplanation": "보다 좋아서 듣다"
+        "wrongExplanation": "처음 너를 봤을 때부터 = from the first time I saw you, 다르게 = differently"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "듣다",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "to hear / to listen",
+            "correct": true
+          },
+          {
+            "text": "to see / to watch",
+            "correct": false
+          },
+          {
+            "text": "to wait",
+            "correct": false
+          },
+          {
+            "text": "to forget",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "듣다 = to hear / to listen"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
           "korean": "나의 두 눈을 감으면",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "떠오르는 그 눈동자",
-          "english": "",
+          "english": "When I close my two eyes",
           "highlights": []
         },
         {
           "korean": "자꾸 가슴이 시려서",
-          "english": "",
-          "highlights": []
+          "english": "Because my heart keeps aching",
+          "highlights": [
+            "시려서"
+          ]
         },
         {
-          "korean": "잊혀지길 바랬어",
-          "english": "",
-          "highlights": []
+          "korean": "처음 너를 봤을 때부터 다르게",
+          "english": "From the first time I saw you, it was different",
+          "highlights": [
+            "봤을"
+          ]
         },
         {
-          "korean": "꿈이라면 이제",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "깨어났으면 (으면) 제발 (제발)",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "정말 네가 나의 운명인 걸까? (걸까?)",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "넌 falling you",
-          "english": "",
-          "highlights": []
+          "korean": "자꾸만 숨이 막혀서",
+          "english": "Because my breath keeps getting caught",
+          "highlights": [
+            "막혀서"
+          ]
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
         {
           "korean": "보다",
-          "english": "to see",
+          "english": "to see / to watch",
           "kind": "word",
           "partOfSpeech": "verb",
           "songLine": {
@@ -1081,7 +776,7 @@
         },
         {
           "korean": "듣다",
-          "english": "to hear",
+          "english": "to hear / to listen",
           "kind": "word",
           "partOfSpeech": "verb",
           "songLine": {
@@ -1091,8 +786,8 @@
           }
         },
         {
-          "korean": "좋아해서",
-          "english": "because I like (you)",
+          "korean": "봐서",
+          "english": "because I saw / having seen",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1102,8 +797,8 @@
           }
         },
         {
-          "korean": "보고 싶어서",
-          "english": "because I miss (you)",
+          "korean": "들어서",
+          "english": "because I heard / having heard",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1118,9 +813,8 @@
         "meaning": "because / and then"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
-  ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  ]
 }

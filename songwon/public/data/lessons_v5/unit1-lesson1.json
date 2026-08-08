@@ -66,7 +66,12 @@
         "오직 너를 웃게 하기 위한 코너",
         "네가 너무 설레 잠 못 들게 만들 거야"
       ],
-      "targetLineIndices": [0, 1, 4, 14],
+      "targetLineIndices": [
+        0,
+        1,
+        4,
+        14
+      ],
       "musicPlaying": true
     },
     {
@@ -76,11 +81,31 @@
       "lyricLine": "이건 세상에서 제일 비싼 단독 공연",
       "breakdown": "이건 = 이것은 (this)\n세상에서 = in the world\n제일 = the most\n비싼 = expensive\n단독 공연 = solo concert\n\n\"This is the most expensive solo concert in the world.\"",
       "dictionary": [
-        { "word": "이건", "reading": "이것은", "meaning": "this (contracted)" },
-        { "word": "세상", "reading": "세상", "meaning": "world" },
-        { "word": "제일", "reading": "제일", "meaning": "the most / number one" },
-        { "word": "비싼", "reading": "비싸다", "meaning": "expensive" },
-        { "word": "공연", "reading": "공연", "meaning": "concert / performance" }
+        {
+          "word": "이건",
+          "reading": "이것은",
+          "meaning": "this (contracted)"
+        },
+        {
+          "word": "세상",
+          "reading": "세상",
+          "meaning": "world"
+        },
+        {
+          "word": "제일",
+          "reading": "제일",
+          "meaning": "the most / number one"
+        },
+        {
+          "word": "비싼",
+          "reading": "비싸다",
+          "meaning": "expensive"
+        },
+        {
+          "word": "공연",
+          "reading": "공연",
+          "meaning": "concert / performance"
+        }
       ]
     },
     {
@@ -90,7 +115,9 @@
       "sentence": {
         "korean": "나는 좋은 꿈을 꿨어요.",
         "english": "I had a nice dream.",
-        "highlights": ["꿈"]
+        "highlights": [
+          "꿈"
+        ]
       }
     },
     {
@@ -102,7 +129,13 @@
         "english": "dream",
         "kind": "word",
         "partOfSpeech": "noun",
-        "songLine": { "korean": "꿈을 꾸듯이 너를 만났어", "english": "I met you as if in a dream", "highlights": ["꿈"] },
+        "songLine": {
+          "korean": "꿈을 꾸듯이 너를 만났어",
+          "english": "I met you as if in a dream",
+          "highlights": [
+            "꿈"
+          ]
+        },
         "audioKey": "꿈"
       }
     },
@@ -115,10 +148,22 @@
         "prompt": "꿈",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          { "text": "concert", "correct": false },
-          { "text": "dream", "correct": true },
-          { "text": "world", "correct": false },
-          { "text": "phone", "correct": false }
+          {
+            "text": "concert",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": true
+          },
+          {
+            "text": "world",
+            "correct": false
+          },
+          {
+            "text": "phone",
+            "correct": false
+          }
         ],
         "wrongExplanation": "꿈 = dream"
       },
@@ -132,10 +177,26 @@
       "lyricLine": "가수는 나고 관객은 너 하나",
       "breakdown": "가수는 = the singer (topic)\n나고 = 나이**고** = is me **and**\n관객은 = the audience (topic)\n너 하나 = just you, one person\n\n\"-고\" connects two facts: the singer is me **and** the audience is you.\nThis is the grammar pattern for this lesson!",
       "dictionary": [
-        { "word": "가수", "reading": "가수", "meaning": "singer" },
-        { "word": "-고", "reading": "-고", "meaning": "and / and then (connector)" },
-        { "word": "관객", "reading": "관객", "meaning": "audience" },
-        { "word": "하나", "reading": "하나", "meaning": "one" }
+        {
+          "word": "가수",
+          "reading": "가수",
+          "meaning": "singer"
+        },
+        {
+          "word": "-고",
+          "reading": "-고",
+          "meaning": "and / and then (connector)"
+        },
+        {
+          "word": "관객",
+          "reading": "관객",
+          "meaning": "audience"
+        },
+        {
+          "word": "하나",
+          "reading": "하나",
+          "meaning": "one"
+        }
       ]
     },
     {
@@ -149,12 +210,32 @@
         "songExample": {
           "korean": "가수는 나고 관객은 너 하나",
           "english": "The singer is me and the audience is you",
-          "highlights": ["고"]
+          "highlights": [
+            "고"
+          ]
         },
         "examples": [
-          { "korean": "나는 먹고 너는 마셔요.", "english": "I eat and you drink.", "highlights": ["고"] },
-          { "korean": "웃고 울었어요.", "english": "I laughed and cried.", "highlights": ["고"] },
-          { "korean": "세상에서 제일 편한 옷을 갈아 입고", "english": "Change into the most comfortable clothes and...", "highlights": ["고"] }
+          {
+            "korean": "나는 먹고 너는 마셔요.",
+            "english": "I eat and you drink.",
+            "highlights": [
+              "고"
+            ]
+          },
+          {
+            "korean": "웃고 울었어요.",
+            "english": "I laughed and cried.",
+            "highlights": [
+              "고"
+            ]
+          },
+          {
+            "korean": "세상에서 제일 편한 옷을 갈아 입고",
+            "english": "Change into the most comfortable clothes and...",
+            "highlights": [
+              "고"
+            ]
+          }
         ]
       }
     },
@@ -167,10 +248,22 @@
         "prompt": "나는 먹___ 너는 마셔요.",
         "promptTranslation": "I eat ___ you drink.",
         "options": [
-          { "text": "고", "correct": true },
-          { "text": "지만", "correct": false },
-          { "text": "면", "correct": false },
-          { "text": "게", "correct": false }
+          {
+            "text": "고",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
         ],
         "wrongExplanation": "-고 connects two actions: eat AND drink"
       },
@@ -192,7 +285,9 @@
       "sentence": {
         "korean": "영화를 보고 웃고 울었어요.",
         "english": "I watched a movie and laughed and cried.",
-        "highlights": ["웃고 울"]
+        "highlights": [
+          "웃고 울"
+        ]
       }
     },
     {
@@ -204,7 +299,13 @@
         "english": "to laugh and cry",
         "kind": "phrase",
         "partOfSpeech": "",
-        "songLine": { "korean": "오직 너를 웃게 하기 위한 코너", "english": "A segment just to make you laugh", "highlights": ["웃"] },
+        "songLine": {
+          "korean": "오직 너를 웃게 하기 위한 코너",
+          "english": "A segment just to make you laugh",
+          "highlights": [
+            "웃"
+          ]
+        },
         "audioKey": "웃고 울다"
       }
     },
@@ -217,10 +318,22 @@
         "prompt": "웃고 울다",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          { "text": "to run and hide", "correct": false },
-          { "text": "to laugh and cry", "correct": true },
-          { "text": "to sing and dance", "correct": false },
-          { "text": "to come and go", "correct": false }
+          {
+            "text": "to run and hide",
+            "correct": false
+          },
+          {
+            "text": "to laugh and cry",
+            "correct": true
+          },
+          {
+            "text": "to sing and dance",
+            "correct": false
+          },
+          {
+            "text": "to come and go",
+            "correct": false
+          }
         ],
         "wrongExplanation": "웃다 = to laugh, 울다 = to cry. 웃고 울다 = to laugh and cry"
       },
@@ -234,9 +347,21 @@
       "lyricLine": "세상에서 제일 편한 옷을 갈아 입고",
       "breakdown": "세상에서 제일 = the most in the world (같은 패턴!)\n편한 = comfortable\n옷을 = clothes (object)\n갈아 입고 = change into **and**...\n\nHere -고 means \"and then\" — do this, then the next thing.\n\"Change into the most comfortable clothes and...\"",
       "dictionary": [
-        { "word": "편한", "reading": "편하다", "meaning": "comfortable" },
-        { "word": "옷", "reading": "옷", "meaning": "clothes" },
-        { "word": "갈아 입다", "reading": "갈아 입다", "meaning": "to change clothes" }
+        {
+          "word": "편한",
+          "reading": "편하다",
+          "meaning": "comfortable"
+        },
+        {
+          "word": "옷",
+          "reading": "옷",
+          "meaning": "clothes"
+        },
+        {
+          "word": "갈아 입다",
+          "reading": "갈아 입다",
+          "meaning": "to change clothes"
+        }
       ]
     },
     {
@@ -248,10 +373,22 @@
         "prompt": "이건 세상에서 제일 비싼 단독 공연",
         "promptTranslation": "이 가사의 뜻은?",
         "options": [
-          { "text": "This is the most expensive solo concert in the world", "correct": true },
-          { "text": "The singer is me and the audience is you", "correct": false },
-          { "text": "Change into the most comfortable clothes", "correct": false },
-          { "text": "Just pay attention to a few things", "correct": false }
+          {
+            "text": "This is the most expensive solo concert in the world",
+            "correct": true
+          },
+          {
+            "text": "The singer is me and the audience is you",
+            "correct": false
+          },
+          {
+            "text": "Change into the most comfortable clothes",
+            "correct": false
+          },
+          {
+            "text": "Just pay attention to a few things",
+            "correct": false
+          }
         ],
         "wrongExplanation": "이건 = this, 세상에서 제일 비싼 = the most expensive in the world, 단독 공연 = solo concert"
       },
@@ -264,7 +401,9 @@
       "sentence": {
         "korean": "나는 사랑을 믿어요.",
         "english": "I believe in love.",
-        "highlights": ["사랑"]
+        "highlights": [
+          "사랑"
+        ]
       }
     },
     {
@@ -276,7 +415,13 @@
         "english": "love",
         "kind": "word",
         "partOfSpeech": "noun",
-        "songLine": { "korean": "사랑하고 싶다", "english": "I want to love", "highlights": ["사랑"] },
+        "songLine": {
+          "korean": "사랑하고 싶다",
+          "english": "I want to love",
+          "highlights": [
+            "사랑"
+          ]
+        },
         "audioKey": "사랑"
       }
     },
@@ -289,10 +434,22 @@
         "prompt": "사랑",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          { "text": "love", "correct": true },
-          { "text": "dream", "correct": false },
-          { "text": "audience", "correct": false },
-          { "text": "concert", "correct": false }
+          {
+            "text": "love",
+            "correct": true
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "audience",
+            "correct": false
+          },
+          {
+            "text": "concert",
+            "correct": false
+          }
         ],
         "wrongExplanation": "사랑 = love"
       },
@@ -306,7 +463,9 @@
       "sentence": {
         "korean": "너를 사랑하고 싶어요.",
         "english": "I want to love you.",
-        "highlights": ["사랑하고 싶"]
+        "highlights": [
+          "사랑하고 싶"
+        ]
       }
     },
     {
@@ -318,7 +477,11 @@
         "english": "to want to love",
         "kind": "phrase",
         "partOfSpeech": "",
-        "songLine": { "korean": "", "english": "", "highlights": [] },
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": []
+        },
         "audioKey": "사랑하고 싶다"
       }
     },
@@ -331,10 +494,22 @@
         "prompt": "사랑하___ 싶어요.",
         "promptTranslation": "I want to love.",
         "options": [
-          { "text": "고", "correct": true },
-          { "text": "지만", "correct": false },
-          { "text": "면", "correct": false },
-          { "text": "아서", "correct": false }
+          {
+            "text": "고",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
         ],
         "wrongExplanation": "사랑하 + 고 싶다 = want to love. -고 싶다 is a key pattern meaning 'want to do.'"
       },
@@ -348,10 +523,26 @@
       "lyricLine": "오직 너를 웃게 하기 위한 코너",
       "breakdown": "오직 = only\n너를 = you (object)\n웃게 하다 = to make (someone) laugh\n위한 = for the purpose of\n코너 = segment / corner\n\n\"A segment just to make you laugh.\"\n웃다 (to laugh) from 웃고 울다!",
       "dictionary": [
-        { "word": "오직", "reading": "오직", "meaning": "only" },
-        { "word": "너", "reading": "너", "meaning": "you" },
-        { "word": "웃게 하다", "reading": "웃게 하다", "meaning": "to make someone laugh" },
-        { "word": "코너", "reading": "코너", "meaning": "segment / corner" }
+        {
+          "word": "오직",
+          "reading": "오직",
+          "meaning": "only"
+        },
+        {
+          "word": "너",
+          "reading": "너",
+          "meaning": "you"
+        },
+        {
+          "word": "웃게 하다",
+          "reading": "웃게 하다",
+          "meaning": "to make someone laugh"
+        },
+        {
+          "word": "코너",
+          "reading": "코너",
+          "meaning": "segment / corner"
+        }
       ]
     },
     {
@@ -362,12 +553,16 @@
         {
           "korean": "꿈을 꾸고 사랑을 해요.",
           "english": "I dream and I love.",
-          "highlights": ["고"]
+          "highlights": [
+            "고"
+          ]
         },
         {
           "korean": "노래하고 춤춰요.",
           "english": "I sing and dance.",
-          "highlights": ["고"]
+          "highlights": [
+            "고"
+          ]
         }
       ],
       "note": "-고 is everywhere! It connects any two actions."
@@ -381,10 +576,22 @@
         "prompt": "What does -고 do?",
         "promptTranslation": null,
         "options": [
-          { "text": "connects two actions (and / and then)", "correct": true },
-          { "text": "makes a question", "correct": false },
-          { "text": "means 'but' or 'however'", "correct": false },
-          { "text": "shows past tense", "correct": false }
+          {
+            "text": "connects two actions (and / and then)",
+            "correct": true
+          },
+          {
+            "text": "makes a question",
+            "correct": false
+          },
+          {
+            "text": "means 'but' or 'however'",
+            "correct": false
+          },
+          {
+            "text": "shows past tense",
+            "correct": false
+          }
         ],
         "wrongExplanation": "-고 connects two actions or states: A-고 B = A and B"
       },
@@ -399,10 +606,22 @@
         "prompt": "to laugh and cry",
         "promptTranslation": "한국어로?",
         "options": [
-          { "text": "사랑하고 싶다", "correct": false },
-          { "text": "웃고 울다", "correct": true },
-          { "text": "갈아 입고", "correct": false },
-          { "text": "꿈을 꾸다", "correct": false }
+          {
+            "text": "사랑하고 싶다",
+            "correct": false
+          },
+          {
+            "text": "웃고 울다",
+            "correct": true
+          },
+          {
+            "text": "갈아 입고",
+            "correct": false
+          },
+          {
+            "text": "꿈을 꾸다",
+            "correct": false
+          }
         ],
         "wrongExplanation": "웃다 (laugh) + 고 + 울다 (cry) = 웃고 울다"
       },
@@ -417,10 +636,22 @@
         "prompt": "노래하___ 춤춰요.",
         "promptTranslation": "I sing ___ dance.",
         "options": [
-          { "text": "고", "correct": true },
-          { "text": "면", "correct": false },
-          { "text": "지만", "correct": false },
-          { "text": "게", "correct": false }
+          {
+            "text": "고",
+            "correct": true
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
         ],
         "wrongExplanation": "노래하고 춤춰요 = I sing and dance. -고 connects the two."
       },
@@ -435,10 +666,22 @@
         "prompt": "가수는 나고 관객은 너 하나",
         "promptTranslation": "이 가사의 뜻은?",
         "options": [
-          { "text": "The singer is me and the audience is just you", "correct": true },
-          { "text": "This is the most expensive concert", "correct": false },
-          { "text": "I want to love and be loved", "correct": false },
-          { "text": "Change into comfortable clothes and lie down", "correct": false }
+          {
+            "text": "The singer is me and the audience is just you",
+            "correct": true
+          },
+          {
+            "text": "This is the most expensive concert",
+            "correct": false
+          },
+          {
+            "text": "I want to love and be loved",
+            "correct": false
+          },
+          {
+            "text": "Change into comfortable clothes and lie down",
+            "correct": false
+          }
         ],
         "wrongExplanation": "가수는 나(이)고 = the singer is me and, 관객은 너 하나 = the audience is just you"
       },
@@ -453,10 +696,22 @@
         "prompt": "꿈",
         "promptTranslation": null,
         "options": [
-          { "text": "dream", "correct": true },
-          { "text": "singer", "correct": false },
-          { "text": "audience", "correct": false },
-          { "text": "clothes", "correct": false }
+          {
+            "text": "dream",
+            "correct": true
+          },
+          {
+            "text": "singer",
+            "correct": false
+          },
+          {
+            "text": "audience",
+            "correct": false
+          },
+          {
+            "text": "clothes",
+            "correct": false
+          }
         ],
         "wrongExplanation": "꿈 = dream"
       },
@@ -467,10 +722,28 @@
       "type": "sing-along",
       "label": "노래",
       "lines": [
-        { "korean": "이건 세상에서 제일 비싼 단독 공연", "english": "This is the most expensive solo concert in the world", "highlights": [] },
-        { "korean": "가수는 나고 관객은 너 하나", "english": "The singer is me and the audience is just you", "highlights": ["고"] },
-        { "korean": "화려한 막이 이제 곧 올라가기 전에", "english": "Before the glamorous curtain rises soon", "highlights": [] },
-        { "korean": "그저 몇 가지만 주의해줘요", "english": "Just pay attention to a few things", "highlights": [] }
+        {
+          "korean": "이건 세상에서 제일 비싼 단독 공연",
+          "english": "This is the most expensive solo concert in the world",
+          "highlights": []
+        },
+        {
+          "korean": "가수는 나고 관객은 너 하나",
+          "english": "The singer is me and the audience is just you",
+          "highlights": [
+            "고"
+          ]
+        },
+        {
+          "korean": "화려한 막이 이제 곧 올라가기 전에",
+          "english": "Before the glamorous curtain rises soon",
+          "highlights": []
+        },
+        {
+          "korean": "그저 몇 가지만 주의해줘요",
+          "english": "Just pay attention to a few things",
+          "highlights": []
+        }
       ],
       "musicPlaying": true
     },
@@ -484,28 +757,44 @@
           "english": "dream",
           "kind": "word",
           "partOfSpeech": "noun",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         },
         {
           "korean": "사랑",
           "english": "love",
           "kind": "word",
           "partOfSpeech": "noun",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         },
         {
           "korean": "웃고 울다",
           "english": "to laugh and cry",
           "kind": "phrase",
           "partOfSpeech": "",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         },
         {
           "korean": "사랑하고 싶다",
           "english": "to want to love",
           "kind": "phrase",
           "partOfSpeech": "",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         }
       ],
       "pattern": {

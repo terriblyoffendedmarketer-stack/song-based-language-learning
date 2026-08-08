@@ -1,104 +1,110 @@
 {
   "id": "v5-unit4-lesson15",
   "meta": {
-    "songId": "ben-just-like-a-dream",
+    "songId": "ben-justlikeadream",
     "songTitle": "Just Like a Dream",
     "artist": "BEN",
     "unit": 4,
     "lessonNumber": 15,
     "grammarFocus": "-처럼",
     "grammarMeaning": "like, as",
-    "koreanRatio": 0.8
+    "koreanRatio": 0.6
   },
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "멀어지다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "to grow distant",
-            "correct": true
-          },
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "sky",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "멀어지다 = to grow distant."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "BEN — Just Like a Dream",
-      "content": "Comparisons. \"Like a dream.\" \"Like a star.\"\n\nThis is a quiet, aching song about a love the singer can't tell was ever real. BEN spends the whole track circling one question: did I imagine how good that felt, or did you feel it too? He's caught between two people he's willing to accept — the one who loved him and the one who was only ever a dream — and he can't get either version to hold still.\n\nIn this lesson, you'll learn the grammar pattern **-처럼**, which means \"like, as.\" We'll see how BEN uses it in \"Just Like a Dream.\"",
+      "content": "이번 레슨에서는 **-처럼**을 배워요.\n비교할 때 쓰는 표현이에요. '~같이', '~처럼'이라는 뜻이에요.\n\nBEN의 **Just Like a Dream**은\n꿈처럼 사라질까 봐 두려운 사랑 이야기예요.",
+      "contentEnglish": "In this lesson, you'll learn **-처럼** — used for comparisons meaning 'like' or 'as.'\n\nBEN's Just Like a Dream is about a love that feels so fragile, it might disappear like a dream.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **별** — star\n- **꽃** — flower\n- **꿈처럼** — like a dream\n- **별처럼 빛나다** — to shine like a star\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "나만 홀로 느낀 황홀함일까",
         "그저 바라보는 시선이 무거워",
         "맴도는 발걸음 여전히 네가 보고 싶어",
-        "차가웠던 그 날"
+        "I need your mind",
+        "",
+        "I remember 차가웠던 그 날",
+        "자꾸 떨리는 내 가슴이 혼자 울까 봐",
+        "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+        "그게 아니면 곁에 있어 줘",
+        "",
+        "무거워진 어깰 내게 보이며",
+        "미워하지도 못하게 막아선 너",
+        "따갑게 스치는 새벽에 네가 보고 싶어",
+        "I need your mind",
+        "",
+        "I remember 차가웠던 그 날",
+        "자꾸 떨리는 내 가슴이 혼자 울까 봐",
+        "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+        "그게 아니면 곁에 있어 줘",
+        "",
+        "울어서 좋을 게 없는데",
+        "깊게 새긴 흔적이 서러워",
+        "혹시 몰라 그대가 올까 봐",
+        "",
+        "I remember 슬퍼 보였던 날",
+        "자꾸 떨리는 내 어깨를 네가 볼까 봐",
+        "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+        "그게 아니면 곁에 있어 줘 지금"
+      ],
+      "targetLineIndices": [
+        7,
+        16,
+        2,
+        24
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+      "breakdown": "눈을 뜨면 = when I open my eyes\n희미해져 버릴 = will become faint / fade away\n꿈처럼 = like a dream (**-처럼**!)\n놔줘 = let go / leave it\n\n\"Let it go like a dream that will fade when I open my eyes.\"\n\n**-처럼** attaches to nouns to mean 'like' or 'as.'",
+      "dictionary": [
         {
-          "korean": "나만 홀로 느낀 황홀함일까",
-          "english": "Was I the only one who felt that ecstasy?",
-          "highlights": []
+          "word": "눈을 뜨다",
+          "reading": "눈을 뜨다",
+          "meaning": "to open one's eyes"
         },
         {
-          "korean": "그저 바라보는 시선이 무거워",
-          "english": "The gaze I'm just watching from feels heavy",
-          "highlights": []
+          "word": "희미하다",
+          "reading": "희미하다",
+          "meaning": "to be faint / dim"
         },
         {
-          "korean": "맴도는 발걸음 여전히 네가 보고 싶어",
-          "english": "My steps keep circling back, I still miss you",
-          "highlights": []
+          "word": "꿈",
+          "reading": "꿈",
+          "meaning": "dream"
         },
         {
-          "korean": "차가웠던 그 날",
-          "english": "I need your mind",
-          "highlights": []
+          "word": "-처럼",
+          "reading": "-처럼",
+          "meaning": "like, as"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-star",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "밤하늘에 별이 빛나요.",
+        "english": "Stars shine in the night sky.",
+        "highlights": [
+          "별"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-star",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,8 +113,8 @@
         "kind": "word",
         "partOfSpeech": "noun",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "별처럼 빛나는 너",
+          "english": "You who shine like a star",
           "highlights": [
             "별"
           ]
@@ -117,7 +123,7 @@
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-star",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -126,19 +132,19 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "like a dream",
-            "correct": false
-          },
-          {
             "text": "star",
             "correct": true
           },
           {
-            "text": "dream",
+            "text": "moon",
             "correct": false
           },
           {
-            "text": "flower",
+            "text": "sky",
+            "correct": false
+          },
+          {
+            "text": "light",
             "correct": false
           }
         ],
@@ -148,61 +154,132 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "별이 많아요.",
-        "english": "There are many stars.",
-        "highlights": [
-          "별"
+      "id": "s7-line2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+      "breakdown": "This line shows **-처럼** beautifully.\n\n꿈 (dream) + -처럼 = 꿈처럼 (like a dream)\n\nThe singer wants to be let go like a dream that fades.\nThis is our grammar pattern for this lesson!",
+      "dictionary": [
+        {
+          "word": "꿈",
+          "reading": "꿈",
+          "meaning": "dream"
+        },
+        {
+          "word": "-처럼",
+          "reading": "-처럼",
+          "meaning": "like, as"
+        },
+        {
+          "word": "놔주다",
+          "reading": "놔주다",
+          "meaning": "to let go / to release"
+        }
+      ]
+    },
+    {
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-처럼",
+        "meaning": "like, as",
+        "explanation": "명사 뒤에 붙여서 비교할 때 써요. '~같이'라는 뜻이에요.\nAttach to a noun to make comparisons — means 'like' or 'as that thing.'",
+        "songExample": {
+          "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+          "english": "Let it go like a dream that will fade when I open my eyes",
+          "highlights": [
+            "꿈처럼"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "별처럼 빛나요.",
+            "english": "It shines like a star.",
+            "highlights": [
+              "별처럼"
+            ]
+          },
+          {
+            "korean": "꽃처럼 예쁘네요.",
+            "english": "You're pretty like a flower.",
+            "highlights": [
+              "꽃처럼"
+            ]
+          },
+          {
+            "korean": "너처럼 되고 싶어요.",
+            "english": "I want to be like you.",
+            "highlights": [
+              "처럼"
+            ]
+          }
         ]
       }
     },
     {
-      "id": "s9-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "___이 많아요.",
-        "promptTranslation": "There are many stars.",
+        "prompt": "별___ 빛나요.",
+        "promptTranslation": "It shines ___ a star.",
         "options": [
           {
-            "text": "꿈처럼",
-            "correct": false
-          },
-          {
-            "text": "별",
+            "text": "처럼",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "같다",
             "correct": false
           },
           {
-            "text": "꽃",
+            "text": "에서",
+            "correct": false
+          },
+          {
+            "text": "으로",
             "correct": false
           }
         ],
-        "wrongExplanation": "별이 많아요. = There are many stars."
+        "wrongExplanation": "별처럼 = like a star. -처럼 attaches to nouns for comparison."
       },
-      "scored": true,
-      "itemIndex": 0
+      "scored": true
     },
     {
-      "id": "s10-teach",
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-처럼**이 어떻게 쓰이는지 봤어요.\n이제 이 패턴이 들어간 표현을 더 배워 볼까요?",
+      "contentEnglish": "You've seen how -처럼 works.\nNow let's learn more phrases using this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-likedream",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "꿈처럼 행복한 시간이었어요.",
+        "english": "It was a happy time like a dream.",
+        "highlights": [
+          "꿈처럼"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-likedream",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
         "korean": "꿈처럼",
         "english": "like a dream",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
+        "partOfSpeech": "",
         "songLine": {
           "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
-          "english": "",
+          "english": "Let it go like a dream that will fade when I open my eyes",
           "highlights": [
             "꿈처럼"
           ]
@@ -211,72 +288,7 @@
       }
     },
     {
-      "id": "rc1",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "나만 홀로 느낀 황홀함일까",
-      "breakdown": "\"나만\"은 \"오직 나\"예요. 다른 사람은 아니에요.\n\"홀로\"는 \"혼자\"라는 뜻이에요. 혼자서 느꼈어요.\n\"황홀하다\"는 너무 아름다워서 정신이 없는 거예요. 꿈**처럼** 아름다워요.\n\"일까\" = \"인가\" — \"일까?\"는 자기 자신에게 물어보는 거예요. 나만 느낀 걸까?",
-      "dictionary": [
-        {
-          "word": "나만",
-          "romanization": "na-man",
-          "partOfSpeech": "phrase",
-          "definition": "only me"
-        },
-        {
-          "word": "홀로",
-          "romanization": "hol-lo",
-          "partOfSpeech": "adverb",
-          "definition": "alone, by oneself"
-        },
-        {
-          "word": "느끼다",
-          "romanization": "neu-kki-da",
-          "partOfSpeech": "verb",
-          "definition": "to feel",
-          "example": {
-            "korean": "행복을 느꼈어요.",
-            "english": "I felt happiness."
-          }
-        },
-        {
-          "word": "황홀하다",
-          "romanization": "hwang-hol-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "ecstatic, enchanting"
-        },
-        {
-          "word": "정신",
-          "romanization": "jeong-sin",
-          "partOfSpeech": "noun",
-          "definition": "mind, consciousness"
-        },
-        {
-          "word": "혼자",
-          "romanization": "hon-ja",
-          "partOfSpeech": "adverb",
-          "definition": "alone, by oneself",
-          "example": {
-            "korean": "혼자 가요.",
-            "english": "I go alone."
-          }
-        },
-        {
-          "word": "자기 자신",
-          "romanization": "ja-gi ja-sin",
-          "partOfSpeech": "phrase",
-          "definition": "oneself"
-        },
-        {
-          "word": "오직",
-          "romanization": "o-jik",
-          "partOfSpeech": "adverb",
-          "definition": "only"
-        }
-      ]
-    },
-    {
-      "id": "s11-quiz",
+      "id": "s13-quiz-likedream",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -285,103 +297,100 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to disappear",
-            "correct": false
-          },
-          {
-            "text": "to shine like a star",
-            "correct": false
-          },
-          {
             "text": "like a dream",
             "correct": true
           },
           {
-            "text": "star",
+            "text": "like a star",
+            "correct": false
+          },
+          {
+            "text": "like a flower",
+            "correct": false
+          },
+          {
+            "text": "like the rain",
             "correct": false
           }
         ],
-        "wrongExplanation": "꿈처럼 = like a dream"
+        "wrongExplanation": "꿈 (dream) + -처럼 (like) = 꿈처럼 (like a dream)"
       },
       "scored": true,
       "itemIndex": 1
     },
     {
-      "id": "s12-context",
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "맴도는 발걸음 여전히 네가 보고 싶어",
+      "breakdown": "맴도는 = circling / wandering\n발걸음 = footsteps\n여전히 = still\n네가 = you (subject)\n보고 싶어 = I miss / want to see\n\n\"With wandering footsteps, I still miss you.\"\n\n보고 싶다 means 'to miss someone' or 'to want to see.'",
+      "dictionary": [
+        {
+          "word": "맴돌다",
+          "reading": "맴돌다",
+          "meaning": "to circle / to wander"
+        },
+        {
+          "word": "발걸음",
+          "reading": "발걸음",
+          "meaning": "footsteps"
+        },
+        {
+          "word": "여전히",
+          "reading": "여전히",
+          "meaning": "still / as before"
+        },
+        {
+          "word": "보고 싶다",
+          "reading": "보고 싶다",
+          "meaning": "to miss / want to see"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+        "promptTranslation": "이 가사의 뜻은?",
+        "options": [
+          {
+            "text": "Let it go like a dream that will fade when I open my eyes",
+            "correct": true
+          },
+          {
+            "text": "I remember that cold day",
+            "correct": false
+          },
+          {
+            "text": "You shine like a star in the sky",
+            "correct": false
+          },
+          {
+            "text": "With wandering footsteps I still miss you",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "꿈처럼 = like a dream, 놔줘 = let go. The singer asks to be released like a fading dream."
+      },
+      "scored": true
+    },
+    {
+      "id": "s16-context-flower",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "꿈처럼 느껴져요.",
-        "english": "It feels like a dream.",
+        "korean": "봄에는 꽃이 많이 피어요.",
+        "english": "In spring, many flowers bloom.",
         "highlights": [
-          "꿈처럼"
+          "꽃"
         ]
       }
     },
     {
-      "id": "s13-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 느껴져요.",
-        "promptTranslation": "It feels like a dream.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "꿈처럼",
-            "correct": true
-          },
-          {
-            "text": "별",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "꿈처럼 느껴져요. = It feels like a dream."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "나만 홀로 느낀 황홀함일까",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "Was I the only one who felt that ecstasy?",
-            "correct": true
-          },
-          {
-            "text": "The gaze I'm just watching from feels heavy",
-            "correct": false
-          },
-          {
-            "text": "My steps keep circling back, I still miss you",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "나만 홀로 느낀 황홀함일까 = Was I the only one who felt that ecstasy?"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s15-teach",
+      "id": "s17-teach-flower",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -390,8 +399,8 @@
         "kind": "word",
         "partOfSpeech": "noun",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "꽃처럼 예쁜 사람",
+          "english": "A person as pretty as a flower",
           "highlights": [
             "꽃"
           ]
@@ -400,80 +409,7 @@
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "그저 바라보는 시선이 무거워",
-      "breakdown": "\"바라보다\"는 멀리서 오래 보는 거예요. 한국어의 예쁜 표현이에요.\n\"시선\"은 눈이 보는 방향이에요. \"무겁다\"는 heavy예요.\n\"시선이 무거워\" — 바라보는 눈이 무거워요. 슬프고 답답해요.\n별**처럼** 빛나는 사람을 바라봐요. 꿈**처럼** 아름다운 사람을.",
-      "dictionary": [
-        {
-          "word": "바라보다",
-          "romanization": "ba-ra-bo-da",
-          "partOfSpeech": "verb",
-          "definition": "to gaze at, to look at",
-          "example": {
-            "korean": "별을 바라봐요.",
-            "english": "I gaze at the stars."
-          }
-        },
-        {
-          "word": "시선",
-          "romanization": "si-seon",
-          "partOfSpeech": "noun",
-          "definition": "gaze, line of sight"
-        },
-        {
-          "word": "무겁다",
-          "romanization": "mu-geop-da",
-          "partOfSpeech": "adjective",
-          "definition": "heavy",
-          "example": {
-            "korean": "가방이 무거워요.",
-            "english": "The bag is heavy."
-          }
-        },
-        {
-          "word": "멀리",
-          "romanization": "meol-li",
-          "partOfSpeech": "adverb",
-          "definition": "far away",
-          "example": {
-            "korean": "멀리서 봤어요.",
-            "english": "I saw from far away."
-          }
-        },
-        {
-          "word": "방향",
-          "romanization": "bang-hyang",
-          "partOfSpeech": "noun",
-          "definition": "direction"
-        },
-        {
-          "word": "슬프다",
-          "romanization": "seul-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "sad"
-        },
-        {
-          "word": "답답하다",
-          "romanization": "dap-dap-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "frustrating, stuffy"
-        },
-        {
-          "word": "오래",
-          "romanization": "o-rae",
-          "partOfSpeech": "adverb",
-          "definition": "for a long time",
-          "example": {
-            "korean": "오래 기다렸어요.",
-            "english": "I waited a long time."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz-flower",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -482,20 +418,20 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to hide",
-            "correct": false
-          },
-          {
-            "text": "to shine like a star",
-            "correct": false
-          },
-          {
-            "text": "like a dream",
-            "correct": false
-          },
-          {
             "text": "flower",
             "correct": true
+          },
+          {
+            "text": "tree",
+            "correct": false
+          },
+          {
+            "text": "leaf",
+            "correct": false
+          },
+          {
+            "text": "garden",
+            "correct": false
           }
         ],
         "wrongExplanation": "꽃 = flower"
@@ -504,577 +440,288 @@
       "itemIndex": 2
     },
     {
-      "id": "s17-context",
+      "id": "s19-context-likestar",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "꽃이 예뻐요.",
-        "english": "The flowers are pretty.",
+        "korean": "그 사람은 별처럼 빛나요.",
+        "english": "That person shines like a star.",
         "highlights": [
-          "꽃"
+          "별처럼"
         ]
       }
     },
     {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이 예뻐요.",
-        "promptTranslation": "The flowers are pretty.",
-        "options": [
-          {
-            "text": "꽃",
-            "correct": true
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "별",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "꽃이 예뻐요. = The flowers are pretty."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "별이 많아요.",
-          "english": "There are many stars.",
-          "highlights": [
-            "별"
-          ]
-        },
-        {
-          "korean": "꽃이 예뻐요.",
-          "english": "The flowers are pretty.",
-          "highlights": [
-            "꽃"
-          ]
-        }
-      ],
-      "note": "별 + 꽃 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "Was I the only one who felt that ecstasy?",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "맴도는 발걸음 여전히 네가 보고 싶어",
-            "correct": false
-          },
-          {
-            "text": "그저 바라보는 시선이 무거워",
-            "correct": false
-          },
-          {
-            "text": "나만 홀로 느낀 황홀함일까",
-            "correct": true
-          },
-          {
-            "text": "I remember 차가웠던 그 날",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "나만 홀로 느낀 황홀함일까"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-처럼",
-        "meaning": "like, as",
-        "explanation": "Comparisons. \"Like a dream.\" \"Like a star.\"",
-        "songExample": {
-          "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
-          "english": "",
-          "highlights": [
-            "처럼"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "맴도는 발걸음 여전히 네가 보고 싶어",
-      "breakdown": "\"맴돌다\"는 같은 곳을 계속 도는 거예요. 가수의 발걸음이 맴돌아요.\n\"발걸음\"은 걷는 발이에요. 어디로 갈지 모르고 맴돌아요.\n\"여전히\"는 \"still\"이에요. 변하지 않았어요.\n꿈**처럼** 사라진 사람 — 여전히 보고 싶어요. 꽃**처럼** 예뻤던 기억이 남아 있어요.",
-      "dictionary": [
-        {
-          "word": "맴돌다",
-          "romanization": "maem-dol-da",
-          "partOfSpeech": "verb",
-          "definition": "to circle, to wander around"
-        },
-        {
-          "word": "발걸음",
-          "romanization": "bal-geol-eum",
-          "partOfSpeech": "noun",
-          "definition": "footstep"
-        },
-        {
-          "word": "여전히",
-          "romanization": "yeo-jeon-hi",
-          "partOfSpeech": "adverb",
-          "definition": "still, as before",
-          "example": {
-            "korean": "여전히 좋아해요.",
-            "english": "I still like it."
-          }
-        },
-        {
-          "word": "사라지다",
-          "romanization": "sa-ra-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to disappear"
-        },
-        {
-          "word": "보고 싶다",
-          "romanization": "bo-go sip-da",
-          "partOfSpeech": "phrase",
-          "definition": "to miss someone"
-        },
-        {
-          "word": "걷다",
-          "romanization": "geot-da",
-          "partOfSpeech": "verb",
-          "definition": "to walk"
-        },
-        {
-          "word": "남아 있다",
-          "romanization": "nam-a it-da",
-          "partOfSpeech": "phrase",
-          "definition": "to remain"
-        },
-        {
-          "word": "꿈",
-          "romanization": "kkum",
-          "partOfSpeech": "noun",
-          "definition": "dream",
-          "example": {
-            "korean": "좋은 꿈 꿔요.",
-            "english": "Have good dreams."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
+      "id": "s20-teach-likestar",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
-        "korean": "별처럼 빛나다",
-        "english": "to shine like a star",
+        "korean": "별처럼",
+        "english": "like a star",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-처럼 = like, as",
+        "partOfSpeech": "",
         "songLine": {
           "korean": "",
           "english": "",
-          "highlights": [
-            "별처럼 빛나다"
-          ]
+          "highlights": []
         },
-        "audioKey": "별처럼 빛나다"
+        "audioKey": "별처럼"
       }
     },
     {
-      "id": "s23-quiz",
+      "id": "s21-quiz-likestar",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "tap-meaning",
-        "prompt": "별처럼 빛나다",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "like a dream",
-            "correct": false
-          },
-          {
-            "text": "flower",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "to shine like a star",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "별처럼 빛나다 = to shine like a star"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "별처럼 빛나요.",
-        "english": "You shine like a star.",
-        "highlights": [
-          "별처럼 빛나"
-        ]
-      }
-    },
-    {
-      "id": "s25-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "별___ 빛나다",
-        "promptTranslation": "to shine like a star",
+        "type": "fill-blank",
+        "prompt": "별___ 빛나는 너",
+        "promptTranslation": "You who shine ___ a star",
         "options": [
           {
             "text": "처럼",
             "correct": true
           },
           {
-            "text": "고",
+            "text": "에서",
             "correct": false
           },
           {
-            "text": "게",
+            "text": "만큼",
             "correct": false
           },
           {
-            "text": "아서",
+            "text": "보다",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -처럼예요."
+        "wrongExplanation": "별처럼 = like a star. -처럼 makes the comparison."
       },
       "scored": true,
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "별처럼 빛나다",
-        "promptTranslation": "여기서 -처럼는 무슨 느낌일까요?",
-        "options": [
-          {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
-            "correct": true
-          },
-          {
-            "text": "갑자기 일어났다가 멈췄어요",
-            "correct": false
-          },
-          {
-            "text": "일부러 그렇게 했어요",
-            "correct": false
-          },
-          {
-            "text": "더 이상 그렇지 않아요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "-처럼 = like, as — 선택이 아니라 저절로 된 거예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
+      "id": "s22-line4",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "차가웠던 그 날",
-      "breakdown": "\"차갑다\"의 과거형은 \"차가웠다\"예요. 그 날은 추웠어요.\n\"그 날\"은 특정한 날이에요. 기억 속의 날이에요.\n\"I remember\" — 이 노래에서도 영어를 섞어 써요.\n그 차가웠던 날이 꿈**처럼** 느껴져요. 별**처럼** 빛나던 시간이 지나갔어요.",
+      "lyricLine": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+      "breakdown": "This beautiful line appears twice in the song.\n\n꿈처럼 (like a dream) is the core of the emotion.\n\nThe relationship feels unreal, fragile — like it might vanish.\n**-처럼** creates this poetic comparison.",
       "dictionary": [
         {
-          "word": "차갑다",
-          "romanization": "cha-gap-da",
-          "partOfSpeech": "adjective",
-          "definition": "cold",
-          "example": {
-            "korean": "날씨가 차가워요.",
-            "english": "The weather is cold."
-          }
+          "word": "버리다",
+          "reading": "버리다",
+          "meaning": "to throw away / to end up (auxiliary)"
         },
         {
-          "word": "차가웠던",
-          "romanization": "cha-ga-wot-deon",
-          "partOfSpeech": "adjective",
-          "definition": "that was cold"
-        },
-        {
-          "word": "날",
-          "romanization": "nal",
-          "partOfSpeech": "noun",
-          "definition": "day",
-          "example": {
-            "korean": "좋은 날이에요.",
-            "english": "It's a good day."
-          }
-        },
-        {
-          "word": "추웠다",
-          "romanization": "chu-wot-da",
-          "partOfSpeech": "adjective",
-          "definition": "was cold (past)"
-        },
-        {
-          "word": "기억 속",
-          "romanization": "gi-eok sok",
-          "partOfSpeech": "phrase",
-          "definition": "in one's memory"
-        },
-        {
-          "word": "느껴지다",
-          "romanization": "neu-kkyeo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to be felt",
-          "example": {
-            "korean": "따뜻하게 느껴져요.",
-            "english": "It feels warm."
-          }
-        },
-        {
-          "word": "지나가다",
-          "romanization": "ji-na-ga-da",
-          "partOfSpeech": "verb",
-          "definition": "to pass by",
-          "example": {
-            "korean": "시간이 지나갔어요.",
-            "english": "Time has passed."
-          }
-        },
-        {
-          "word": "빛나다",
-          "romanization": "bin-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to shine"
+          "word": "놔주다",
+          "reading": "놔주다",
+          "meaning": "to let go / to release"
         }
       ]
     },
     {
-      "id": "s27-quiz",
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "꿈처럼 아름다워요.",
+          "english": "It's beautiful like a dream.",
+          "highlights": [
+            "꿈처럼"
+          ]
+        },
+        {
+          "korean": "별처럼 빛나고 있어요.",
+          "english": "It's shining like a star.",
+          "highlights": [
+            "별처럼"
+          ]
+        }
+      ],
+      "note": "Both use -처럼 to compare to something beautiful and precious."
+    },
+    {
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
+        "type": "tap-meaning",
+        "prompt": "What does -처럼 mean?",
+        "promptTranslation": null,
         "options": [
           {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "꽃",
-            "correct": false
-          },
-          {
-            "text": "별",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "별 = star"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (flower)",
-        "options": [
-          {
-            "text": "별",
-            "correct": false
-          },
-          {
-            "text": "꽃",
+            "text": "like, as (comparison)",
             "correct": true
           },
           {
-            "text": "마음",
+            "text": "and, and then",
             "correct": false
           },
           {
-            "text": "사랑",
+            "text": "but, however",
+            "correct": false
+          },
+          {
+            "text": "because, so",
             "correct": false
           }
         ],
-        "wrongExplanation": "꽃 = flower"
+        "wrongExplanation": "-처럼 attaches to nouns to mean 'like' or 'as' — used for comparisons"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s29-quiz",
+      "id": "s25-quiz-mix2",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
         "prompt": "like a dream",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "promptTranslation": "한국어로?",
         "options": [
           {
             "text": "꿈처럼",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "별처럼",
             "correct": false
           },
           {
-            "text": "별",
+            "text": "꽃처럼",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "사랑처럼",
             "correct": false
           }
         ],
-        "wrongExplanation": "like a dream = 꿈처럼"
+        "wrongExplanation": "꿈 (dream) + -처럼 (like) = 꿈처럼 (like a dream)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "꿈___ 느껴져요.",
-        "promptTranslation": "It feels like a dream.",
+        "type": "fill-blank",
+        "prompt": "꽃___ 예쁘네요.",
+        "promptTranslation": "You're pretty ___ a flower.",
         "options": [
-          {
-            "text": "게",
-            "correct": false
-          },
-          {
-            "text": "면",
-            "correct": false
-          },
           {
             "text": "처럼",
             "correct": true
           },
           {
-            "text": "아서",
+            "text": "이다",
+            "correct": false
+          },
+          {
+            "text": "에서",
+            "correct": false
+          },
+          {
+            "text": "같다",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -처럼!"
+        "wrongExplanation": "꽃처럼 = like a flower. -처럼 makes the comparison."
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"처럼\", \"별\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "맴도는 발걸음 여전히 네가 보고 싶어",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "별 처럼",
+            "text": "With wandering footsteps, I still miss you",
             "correct": true
+          },
+          {
+            "text": "Let it go like a dream that will fade",
+            "correct": false
+          },
+          {
+            "text": "You shine like a star in the night",
+            "correct": false
+          },
+          {
+            "text": "I remember that cold day",
+            "correct": false
           }
         ],
-        "wrongExplanation": "별 처럼"
+        "wrongExplanation": "맴도는 발걸음 = wandering footsteps, 보고 싶어 = I miss (you)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "별",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "star",
+            "correct": true
+          },
+          {
+            "text": "moon",
+            "correct": false
+          },
+          {
+            "text": "flower",
+            "correct": false
+          },
+          {
+            "text": "sky",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "별 = star"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "나만 홀로 느낀 황홀함일까",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "그저 바라보는 시선이 무거워",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "맴도는 발걸음 여전히 네가 보고 싶어",
-          "english": "",
-          "highlights": []
-        },
-        {
           "korean": "I remember 차가웠던 그 날",
-          "english": "",
+          "english": "I remember that cold day",
           "highlights": []
         },
         {
           "korean": "자꾸 떨리는 내 가슴이 혼자 울까 봐",
-          "english": "",
+          "english": "Afraid my trembling heart will cry alone",
           "highlights": []
         },
         {
           "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
-          "english": "",
+          "english": "Let it go like a dream that will fade when I open my eyes",
           "highlights": [
             "꿈처럼"
           ]
         },
         {
           "korean": "그게 아니면 곁에 있어 줘",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "무거워진 어깰 내게 보이며",
-          "english": "",
+          "english": "If not, then stay by my side",
           "highlights": []
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1112,8 +759,8 @@
           }
         },
         {
-          "korean": "별처럼 빛나다",
-          "english": "to shine like a star",
+          "korean": "별처럼",
+          "english": "like a star",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1128,9 +775,9 @@
         "meaning": "like, as"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
   ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  "generatedAt": "2025-06-15T09:30:00.000Z"
 }

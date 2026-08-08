@@ -1,104 +1,165 @@
 {
   "id": "v5-unit4-lesson13",
   "meta": {
-    "songId": "bts-fake-love",
+    "songId": "bts-fakelove",
     "songTitle": "FAKE LOVE",
     "artist": "BTS",
     "unit": 4,
     "lessonNumber": 13,
     "grammarFocus": "-아/어도",
     "grammarMeaning": "even though, even if",
-    "koreanRatio": 0.8
+    "koreanRatio": 0.6
   },
+  "generatedAt": "2025-06-15T09:00:00.000Z",
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "걷다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "to walk",
-            "correct": true
-          },
-          {
-            "text": "rain",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "걷다 = to walk."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "BTS — FAKE LOVE",
-      "content": "Concession. \"Even if you leave, I'll be okay.\"\n\nThe title track from Love Yourself: Tear (2018), the album that pushed BTS's 'Love Yourself' series toward its darkest point. The whole Love Yourself arc is about learning to love yourself before you can love anyone else — and FAKE LOVE is the moment that lesson gets learned the hard way.\n\nIn this lesson, you'll learn the grammar pattern **-아/어도**, which means \"even though, even if.\" We'll see how BTS uses it in \"FAKE LOVE.\"",
+      "content": "이번 레슨에서는 **-아/어도**를 배워요.\n'~해도' 또는 '~이어도'처럼 양보를 나타내요.\n\nBTS의 **FAKE LOVE**는 자신을 잃어버린 사랑에 대한 이야기예요.\n슬프고 아파도 강한 척했던 감정을 노래해요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어도** — a pattern that means 'even if' or 'even though.'\n\nBTS's FAKE LOVE tells the story of a love where you lose yourself. It sings about pretending to be strong even when sad and hurt.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **사라지다** — to disappear\n- **곁** — side (of a person)\n- **사라져도** — even if (you) disappear\n- **아파도 괜찮다** — even if it hurts, it's okay\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "널 위해서라면 난",
         "슬퍼도 기쁜 척 할 수가 있었어",
         "널 위해서라면 난",
-        "아파도 강한 척 할 수가 있었어"
+        "아파도 강한 척 할 수가 있었어",
+        "사랑이 사랑만으로 완벽하길",
+        "내 모든 약점들은 다 숨겨지길",
+        "이뤄지지 않는 꿈속에서",
+        "피울 수 없는 꽃을 키웠어",
+        "",
+        "I'm so sick of this fake love",
+        "Fake love, fake love",
+        "I'm so sorry, but it's fake love",
+        "Fake love, fake love",
+        "",
+        "I wanna be a good man just for you",
+        "세상을 줬네 just for you",
+        "전부 바꿨어 just for you",
+        "Now I don't know me, who are you?",
+        "Hey, 우리만의 숲 너는 없었어",
+        "내가 왔던 route 잊어버렸어",
+        "나도 내가 누구였는지도 잘 모르게 됐어",
+        "거울에다 지껄여봐, 너는 대체 누구니?",
+        "",
+        "널 위해서라면 난",
+        "슬퍼도 기쁜 척 할 수가 있었어",
+        "널 위해서라면 난",
+        "아파도 강한 척 할 수가 있었어",
+        "사랑이 사랑만으로 완벽하길",
+        "내 모든 약점들은 다 숨겨지길",
+        "이뤄지지 않는 꿈속에서",
+        "피울 수 없는 꽃을 키웠어",
+        "",
+        "Love you so bad, love you so bad",
+        "널 위해 예쁜 거짓을 빚어내",
+        "Love, it's so mad, love, it's so mad",
+        "날 지워 너의 인형이 되려 해",
+        "Love you so bad, love you so bad",
+        "널 위해 예쁜 거짓을 빚어내",
+        "Love, it's so mad, love, it's so mad",
+        "날 지워 너의 인형이 되려 해",
+        "",
+        "I'm so sick of this fake love",
+        "Fake love, fake love",
+        "I'm so sorry, but it's fake love",
+        "Fake love, fake love",
+        "",
+        "Why you sad? I don't know, 난 몰라",
+        "웃어봐, 사랑해 말해봐",
+        "나를 봐, 나조차도 버린 나 (Oh, no)",
+        "너조차 이해할 수 없는 나",
+        "낯설다 하네, 네가 좋아하던 나로 변한 내가",
+        "아니라 하네, 예전에 네가 잘 알고 있던 내가",
+        "아니긴 뭐가 아냐, 난 눈 멀었어",
+        "사랑은 뭐가 사랑? It's all fake love",
+        "",
+        "Ooh, I don't know, I don't know, I don't know why",
+        "Ooh, 나도 날, 나도 날 모르겠어",
+        "Ooh, I just know, I just know, I just know why",
+        "'Cause it's all fake love, fake love, fake love",
+        "",
+        "Love you so bad, love you so bad",
+        "널 위해 예쁜 거짓을 빚어내",
+        "Love, it's so mad, love, it's so mad",
+        "날 지워 너의 인형이 되려 해",
+        "Love you so bad, love you so bad",
+        "널 위해 예쁜 거짓을 빚어내",
+        "Love, it's so mad, love, it's so mad",
+        "날 지워 너의 인형이 되려 해",
+        "",
+        "I'm so sick of this fake love",
+        "Fake love, fake love",
+        "I'm so sorry, but it's fake love",
+        "Fake love, fake love",
+        "",
+        "널 위해서라면 난",
+        "슬퍼도 기쁜 척 할 수가 있었어",
+        "널 위해서라면 난",
+        "아파도 강한 척 할 수가 있었어",
+        "사랑이 사랑만으로 완벽하길",
+        "내 모든 약점들은 다 숨겨지길",
+        "이뤄지지 않는 꿈속에서",
+        "피울 수 없는 꽃을 키웠어"
+      ],
+      "targetLineIndices": [
+        1,
+        3,
+        19,
+        29
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "슬퍼도 기쁜 척 할 수가 있었어",
+      "breakdown": "슬퍼도 = 슬프**어도** = even if/though sad\n기쁜 척 = pretending to be happy\n할 수가 있었어 = could do / was able to\n\n\"Even though I was sad, I could pretend to be happy.\"\n\n**-아/어도** shows contrast: despite being sad, I still pretended.",
+      "dictionary": [
         {
-          "korean": "널 위해서라면 난",
-          "english": "If it was for you, I could",
-          "highlights": []
+          "word": "슬프다",
+          "reading": "슬프다",
+          "meaning": "to be sad"
         },
         {
-          "korean": "슬퍼도 기쁜 척 할 수가 있었어",
-          "english": "pretend to be happy even when sad",
-          "highlights": []
+          "word": "-어도",
+          "reading": "-어도",
+          "meaning": "even if, even though"
         },
         {
-          "korean": "널 위해서라면 난",
-          "english": "if it was for you, I could",
-          "highlights": []
+          "word": "기쁘다",
+          "reading": "기쁘다",
+          "meaning": "to be happy"
         },
         {
-          "korean": "아파도 강한 척 할 수가 있었어",
-          "english": "pretend to be strong even in pain",
-          "highlights": []
+          "word": "척",
+          "reading": "척",
+          "meaning": "pretense, pretending"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-disappear",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "기억이 사라지면 슬플 거예요.",
+        "english": "If the memory disappears, I'll be sad.",
+        "highlights": [
+          "사라지"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-disappear",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +168,15 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "사라지다"
-          ]
+          "korean": "내가 왔던 route 잊어버렸어",
+          "english": "I forgot the route I came from",
+          "highlights": []
         },
         "audioKey": "사라지다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-disappear",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -126,20 +185,20 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "night",
-            "correct": false
-          },
-          {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": false
-          },
-          {
             "text": "to disappear",
             "correct": true
+          },
+          {
+            "text": "to appear",
+            "correct": false
+          },
+          {
+            "text": "to change",
+            "correct": false
+          },
+          {
+            "text": "to shine",
+            "correct": false
           }
         ],
         "wrongExplanation": "사라지다 = to disappear"
@@ -148,131 +207,140 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "소리가 사라졌어요.",
-        "english": "The sound disappeared.",
-        "highlights": [
-          "사라졌어요"
-        ]
-      }
-    },
-    {
-      "id": "s9-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "소리가 ___.",
-        "promptTranslation": "The sound disappeared.",
-        "options": [
-          {
-            "text": "사라졌어요",
-            "correct": true
-          },
-          {
-            "text": "사라져도",
-            "correct": false
-          },
-          {
-            "text": "아파도 괜찮다",
-            "correct": false
-          },
-          {
-            "text": "사라지다",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "소리가 사라졌어요. = The sound disappeared."
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "사라져도",
-        "english": "even if (you) disappear",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "사라져도"
-          ]
-        },
-        "audioKey": "사라져도"
-      }
-    },
-    {
-      "id": "rc1",
+      "id": "s7-line2",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "널 위해서라면 난",
-      "breakdown": "\"널\"은 \"너를\"의 줄임말이에요. \"위해서\"는 \"for (someone)\"예요.\n\"라면\"은 \"if\"예요. \"위해서라면\" = if it's for you.\n\"난\"은 \"나는\"이에요.\n\"널 위해서라면 난\" — 너를 위해서라면 나는... 뭘 할 수 있을까요? 아파**도** 강한 척!",
+      "lyricLine": "아파도 강한 척 할 수가 있었어",
+      "breakdown": "아파도 = 아프**아도** = even if/though it hurts\n강한 = strong\n척 = pretending\n할 수가 있었어 = could do\n\n\"Even though it hurt, I could pretend to be strong.\"\n\n아프다 (to hurt) + -아도 = 아파도. This is our grammar pattern!",
       "dictionary": [
         {
-          "word": "널",
-          "romanization": "neol",
-          "partOfSpeech": "pronoun",
-          "definition": "you (contraction of 너를)"
+          "word": "아프다",
+          "reading": "아프다",
+          "meaning": "to hurt, to be painful"
         },
         {
-          "word": "위해서",
-          "romanization": "wi-hae-seo",
-          "partOfSpeech": "postposition",
-          "definition": "for (someone's sake)"
-        },
-        {
-          "word": "라면",
-          "romanization": "ra-myeon",
-          "partOfSpeech": "particle",
-          "definition": "if (it is)"
-        },
-        {
-          "word": "나는",
-          "romanization": "na-neun",
-          "partOfSpeech": "pronoun",
-          "definition": "I (topic marker)"
+          "word": "-아도",
+          "reading": "-아도",
+          "meaning": "even if, even though"
         },
         {
           "word": "강하다",
-          "romanization": "gang-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "strong",
-          "example": {
-            "korean": "마음이 강해요.",
-            "english": "They have a strong heart."
-          }
-        },
-        {
-          "word": "척",
-          "romanization": "cheok",
-          "partOfSpeech": "noun",
-          "definition": "pretense, pretending"
-        },
-        {
-          "word": "할 수 있다",
-          "romanization": "hal su it-da",
-          "partOfSpeech": "phrase",
-          "definition": "to be able to do"
-        },
-        {
-          "word": "위하다",
-          "romanization": "wi-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to be for, to do for"
+          "reading": "강하다",
+          "meaning": "to be strong"
         }
       ]
     },
     {
-      "id": "s11-quiz",
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-아/어도",
+        "meaning": "even though, even if",
+        "explanation": "양보를 나타내요. '그래도' 또는 '하지만'의 느낌이에요.\nShows concession — 'even if' or 'even though.' Despite A, B still happens.",
+        "songExample": {
+          "korean": "아파도 강한 척 할 수가 있었어",
+          "english": "Even though it hurt, I could pretend to be strong",
+          "highlights": [
+            "아파도"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "비가 와도 걸을 거예요.",
+            "english": "Even if it rains, I'll walk.",
+            "highlights": [
+              "와도"
+            ]
+          },
+          {
+            "korean": "시간이 없어도 기다릴게요.",
+            "english": "Even if there's no time, I'll wait.",
+            "highlights": [
+              "없어도"
+            ]
+          },
+          {
+            "korean": "슬퍼도 기쁜 척 할 수가 있었어",
+            "english": "Even though I was sad, I could pretend to be happy",
+            "highlights": [
+              "슬퍼도"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz-pattern",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "비가 와___ 걸을 거예요.",
+        "promptTranslation": "Even if it rains, I'll walk.",
+        "options": [
+          {
+            "text": "도",
+            "correct": true
+          },
+          {
+            "text": "서",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "오다 (to come/rain) + -아도 = 와도 (even if it rains)"
+      },
+      "scored": true
+    },
+    {
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-아/어도**가 어떻게 쓰이는지 봤어요.\n'~해도' 패턴은 일상에서 자주 쓰여요.\n이제 이 패턴이 들어간 표현을 배워 볼까요?",
+      "contentEnglish": "You've seen how -아/어도 works.\nThis pattern is very common in daily Korean.\nNow let's learn phrases that use this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-disappeareven",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "사랑이 사라져도 기억은 남아요.",
+        "english": "Even if love disappears, memories remain.",
+        "highlights": [
+          "사라져도"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-disappeareven",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "사라져도",
+        "english": "even if (it) disappears",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "이뤄지지 않는 꿈속에서",
+          "english": "In a dream that doesn't come true",
+          "highlights": []
+        },
+        "audioKey": "사라져도",
+        "phraseNote": "사라지다 (to disappear) + -어도 = 사라져도"
+      }
+    },
+    {
+      "id": "s13-quiz-disappeareven",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -281,799 +349,436 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "even if (you) disappear",
+            "text": "even if (it) disappears",
             "correct": true
           },
           {
-            "text": "to disappear",
+            "text": "because (it) disappeared",
             "correct": false
           },
           {
-            "text": "to be beautiful",
+            "text": "when (it) disappears",
             "correct": false
           },
           {
-            "text": "even if it hurts, it's okay",
+            "text": "after (it) disappeared",
             "correct": false
           }
         ],
-        "wrongExplanation": "사라져도 = even if (you) disappear"
+        "wrongExplanation": "사라지다 + -어도 = 사라져도 (even if it disappears)"
       },
       "scored": true,
       "itemIndex": 1
     },
     {
-      "id": "s12-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "사라져도 기억할 거예요.",
-        "english": "Even if you disappear, I'll remember.",
-        "highlights": [
-          "사라져도"
-        ]
-      }
-    },
-    {
-      "id": "s13-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 기억할 거예요.",
-        "promptTranslation": "Even if you disappear, I'll remember.",
-        "options": [
-          {
-            "text": "아파도 괜찮다",
-            "correct": false
-          },
-          {
-            "text": "사라져도",
-            "correct": true
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "사라져도 기억할 거예요. = Even if you disappear, I'll remember."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "널 위해서라면 난",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "If it was for you, I could",
-            "correct": true
-          },
-          {
-            "text": "pretend to be happy even when sad",
-            "correct": false
-          },
-          {
-            "text": "if it was for you, I could",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "널 위해서라면 난 = If it was for you, I could"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s15-teach",
-      "type": "word-card",
-      "label": "새 단어",
-      "item": {
-        "korean": "곁",
-        "english": "side (of a person)",
-        "kind": "word",
-        "partOfSpeech": "noun",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "곁"
-          ]
-        },
-        "audioKey": "곁"
-      }
-    },
-    {
-      "id": "rc2",
+      "id": "s14-line3",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "슬퍼도 기쁜 척 할 수가 있었어",
-      "breakdown": "여기서 \"-아/어도\"가 나와요! \"슬퍼**도**\" = even though sad.\n\"기쁜 척\"은 기쁜 것처럼 하는 거예요. 진짜는 기쁘지 않아요.\n\"할 수가 있었어\"는 과거에 할 수 있었다는 뜻이에요.\n슬퍼**도** 기쁜 척 — 이것이 Fake Love예요. 진짜 사랑이 아니라 가짜 사랑.",
+      "lyricLine": "내가 왔던 route 잊어버렸어",
+      "breakdown": "내가 = I (subject)\n왔던 = came (past modifier)\nroute = route, path\n잊어버렸어 = forgot\n\n\"I forgot the route I came from.\"\n\n잊다 means 'to forget' — an important verb for this lesson.",
       "dictionary": [
         {
-          "word": "슬프다",
-          "romanization": "seul-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "sad",
-          "example": {
-            "korean": "너무 슬퍼요.",
-            "english": "I'm so sad."
-          }
+          "word": "내",
+          "reading": "나",
+          "meaning": "I, me"
         },
         {
-          "word": "기쁘다",
-          "romanization": "gi-ppeu-da",
-          "partOfSpeech": "adjective",
-          "definition": "happy, glad",
-          "example": {
-            "korean": "기뻐요!",
-            "english": "I'm happy!"
-          }
+          "word": "오다",
+          "reading": "오다",
+          "meaning": "to come"
         },
         {
-          "word": "척",
-          "romanization": "cheok",
-          "partOfSpeech": "noun",
-          "definition": "pretense, pretending"
-        },
-        {
-          "word": "진짜",
-          "romanization": "jin-jja",
-          "partOfSpeech": "noun/adverb",
-          "definition": "real, really",
-          "example": {
-            "korean": "진짜예요?",
-            "english": "Is it real?"
-          }
-        },
-        {
-          "word": "가짜",
-          "romanization": "ga-jja",
-          "partOfSpeech": "noun",
-          "definition": "fake",
-          "example": {
-            "korean": "가짜예요.",
-            "english": "It's fake."
-          }
-        },
-        {
-          "word": "사랑",
-          "romanization": "sa-rang",
-          "partOfSpeech": "noun",
-          "definition": "love"
-        },
-        {
-          "word": "과거",
-          "romanization": "gwa-geo",
-          "partOfSpeech": "noun",
-          "definition": "past"
-        },
-        {
-          "word": "있었어",
-          "romanization": "is-seoss-eo",
-          "partOfSpeech": "verb",
-          "definition": "was, existed (past)"
+          "word": "잊어버리다",
+          "reading": "잊어버리다",
+          "meaning": "to forget (completed)"
         }
       ]
     },
     {
-      "id": "s16-quiz",
+      "id": "s15-quiz-lyrics",
       "type": "quiz",
-      "label": "퀴즈",
+      "label": "가사 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "곁",
-        "promptTranslation": "무슨 뜻일까요?",
+        "prompt": "슬퍼도 기쁜 척 할 수가 있었어",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "even if (you) disappear",
-            "correct": false
-          },
-          {
-            "text": "side (of a person)",
+            "text": "Even though I was sad, I could pretend to be happy",
             "correct": true
           },
           {
-            "text": "even if it hurts, it's okay",
+            "text": "Even though it hurt, I could pretend to be strong",
             "correct": false
           },
           {
-            "text": "to hide",
+            "text": "I forgot the route I came from",
+            "correct": false
+          },
+          {
+            "text": "I want love to be perfect with just love",
             "correct": false
           }
         ],
-        "wrongExplanation": "곁 = side (of a person)"
+        "wrongExplanation": "슬퍼도 = even though sad, 기쁜 척 = pretend to be happy, 할 수가 있었어 = could do"
       },
-      "scored": true,
-      "itemIndex": 2
+      "scored": true
     },
     {
-      "id": "s17-context",
+      "id": "s16-context-forget",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "내 곁에 있어요.",
-        "english": "You're by my side.",
+        "korean": "그 사람을 잊고 싶어요.",
+        "english": "I want to forget that person.",
         "highlights": [
-          "곁"
+          "잊"
         ]
       }
     },
     {
-      "id": "s18-quiz",
+      "id": "s17-teach-forget",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "잊다",
+        "english": "to forget",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "내가 왔던 route 잊어버렸어",
+          "english": "I forgot the route I came from",
+          "highlights": [
+            "잊어버렸어"
+          ]
+        },
+        "audioKey": "잊다"
+      }
+    },
+    {
+      "id": "s18-quiz-forget",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "distinguish",
-        "prompt": "내 ___에 있어요.",
-        "promptTranslation": "You're by my side.",
+        "type": "tap-meaning",
+        "prompt": "잊다",
+        "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "곁",
+            "text": "to forget",
             "correct": true
           },
           {
-            "text": "사라졌어요",
+            "text": "to remember",
             "correct": false
           },
           {
-            "text": "마음",
+            "text": "to protect",
             "correct": false
           },
           {
-            "text": "사람",
+            "text": "to stop",
             "correct": false
           }
         ],
-        "wrongExplanation": "내 곁에 있어요. = You're by my side."
+        "wrongExplanation": "잊다 = to forget"
       },
       "scored": true,
       "itemIndex": 2
     },
     {
-      "id": "s19-pair",
+      "id": "s19-context-forgeteven",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "잊어도 다시 생각날 거예요.",
+        "english": "Even if I forget, I'll remember again.",
+        "highlights": [
+          "잊어도"
+        ]
+      }
+    },
+    {
+      "id": "s20-teach-forgeteven",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "잊어도",
+        "english": "even if I forget",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "내가 왔던 route 잊어버렸어",
+          "english": "I forgot the route I came from",
+          "highlights": [
+            "잊어버렸어"
+          ]
+        },
+        "audioKey": "잊어도",
+        "phraseNote": "잊다 (to forget) + -어도 = 잊어도"
+      }
+    },
+    {
+      "id": "s21-quiz-forgeteven",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "잊___ 다시 생각날 거예요.",
+        "promptTranslation": "Even if I forget, I'll remember again.",
+        "options": [
+          {
+            "text": "어도",
+            "correct": true
+          },
+          {
+            "text": "어서",
+            "correct": false
+          },
+          {
+            "text": "으면",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "잊다 + -어도 = 잊어도 (even if I forget). -어도 shows concession."
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s22-line4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "이뤄지지 않는 꿈속에서",
+      "breakdown": "이뤄지다 = to come true, to be fulfilled\n않는 = not (modifier)\n꿈속에서 = in a dream\n\n\"In a dream that doesn't come true.\"\n\nThis connects to the theme: even though dreams don't come true, feelings remain.",
+      "dictionary": [
+        {
+          "word": "이뤄지다",
+          "reading": "이루어지다",
+          "meaning": "to come true, to be realized"
+        },
+        {
+          "word": "않다",
+          "reading": "않다",
+          "meaning": "to not (do)"
+        },
+        {
+          "word": "꿈",
+          "reading": "꿈",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "id": "s23-pair",
       "type": "pair-context",
       "label": "비교해 보세요",
       "sentences": [
         {
-          "korean": "소리가 사라졌어요.",
-          "english": "The sound disappeared.",
+          "korean": "사라져도 기억해요.",
+          "english": "Even if it disappears, I remember.",
           "highlights": [
-            "사라졌어요"
+            "사라져도"
           ]
         },
         {
-          "korean": "내 곁에 있어요.",
-          "english": "You're by my side.",
+          "korean": "잊어도 사랑은 남아요.",
+          "english": "Even if I forget, love remains.",
           "highlights": [
-            "곁"
+            "잊어도"
           ]
         }
       ],
-      "note": "사라지다 + 곁 — 둘 다 이번 레슨에서 배운 단어예요."
+      "note": "-아/어도 shows that despite the first action, the second still happens."
     },
     {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "If it was for you, I could",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "아파도 강한 척 할 수가 있었어",
-            "correct": false
-          },
-          {
-            "text": "슬퍼도 기쁜 척 할 수가 있었어",
-            "correct": false
-          },
-          {
-            "text": "널 위해서라면 난",
-            "correct": true
-          },
-          {
-            "text": "...",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "널 위해서라면 난"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-아/어도",
-        "meaning": "even though, even if",
-        "explanation": "Concession. \"Even if you leave, I'll be okay.\"",
-        "songExample": {
-          "korean": "아파도 강한 척 할 수가 있었어",
-          "english": "",
-          "highlights": [
-            "아/어도"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "널 위해서라면 난",
-      "breakdown": "같은 가사가 또 나와요. 반복이에요. 왜 반복할까요?\n음악에서 반복은 강조예요. 이 마음을 강하게 말하고 싶어요.\n\"널 위해서라면\" — 너를 위해서라면 뭐든 할 수 있어. 아파**도**, 슬퍼**도**.\n사라져**도** 괜찮아요. 네 곁에 있을 수 있다면.",
-      "dictionary": [
-        {
-          "word": "같다",
-          "romanization": "gat-da",
-          "partOfSpeech": "adjective",
-          "definition": "same, similar",
-          "example": {
-            "korean": "같은 노래예요.",
-            "english": "It's the same song."
-          }
-        },
-        {
-          "word": "또",
-          "romanization": "tto",
-          "partOfSpeech": "adverb",
-          "definition": "again, also",
-          "example": {
-            "korean": "또 만나요.",
-            "english": "Let's meet again."
-          }
-        },
-        {
-          "word": "반복",
-          "romanization": "ban-bok",
-          "partOfSpeech": "noun",
-          "definition": "repetition"
-        },
-        {
-          "word": "강조",
-          "romanization": "gang-jo",
-          "partOfSpeech": "noun",
-          "definition": "emphasis"
-        },
-        {
-          "word": "뭐든",
-          "romanization": "mwo-deun",
-          "partOfSpeech": "pronoun",
-          "definition": "anything, whatever"
-        },
-        {
-          "word": "곁",
-          "romanization": "gyeot",
-          "partOfSpeech": "noun",
-          "definition": "side (of a person)",
-          "example": {
-            "korean": "네 곁에 있을게.",
-            "english": "I'll be by your side."
-          }
-        },
-        {
-          "word": "사라지다",
-          "romanization": "sa-ra-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to disappear",
-          "example": {
-            "korean": "꿈처럼 사라졌어요.",
-            "english": "It disappeared like a dream."
-          }
-        },
-        {
-          "word": "음악",
-          "romanization": "eum-ak",
-          "partOfSpeech": "noun",
-          "definition": "music",
-          "example": {
-            "korean": "음악 들어요.",
-            "english": "I listen to music."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "아파도 괜찮다",
-        "english": "even if it hurts, it's okay",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-아/어도 = even though, even if",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "아파도 괜찮다"
-          ]
-        },
-        "audioKey": "아파도 괜찮다"
-      }
-    },
-    {
-      "id": "s23-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "아파도 괜찮다",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "even if it hurts, it's okay",
-            "correct": true
-          },
-          {
-            "text": "even if (you) disappear",
-            "correct": false
-          },
-          {
-            "text": "side (of a person)",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "아파도 괜찮다 = even if it hurts, it's okay"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "아파도 괜찮아요.",
-        "english": "Even if it hurts, it's okay.",
-        "highlights": [
-          "아파도",
-          "괜찮"
-        ]
-      }
-    },
-    {
-      "id": "s25-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "아파도 괜찮다",
-        "promptTranslation": "even if it hurts, it's okay",
-        "options": [
-          {
-            "text": "아/어도",
-            "correct": true
-          },
-          {
-            "text": "고",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "게",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "패턴은 항상 -아/어도예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "아파도 괜찮다",
-        "promptTranslation": "여기서 -아/어도는 무슨 느낌일까요?",
-        "options": [
-          {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
-            "correct": true
-          },
-          {
-            "text": "갑자기 일어났다가 멈췄어요",
-            "correct": false
-          },
-          {
-            "text": "일부러 그렇게 했어요",
-            "correct": false
-          },
-          {
-            "text": "더 이상 그렇지 않아요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "-아/어도 = even though, even if — 선택이 아니라 저절로 된 거예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "아파도 강한 척 할 수가 있었어",
-      "breakdown": "\"아프다\" + \"-아/어도\" = \"아파**도**\" — even if it hurts.\n\"강한 척\" — 강한 것처럼 행동해요. 사실은 약해요.\n이 노래에서 \"-아/어도\"가 두 번 나와요: 슬퍼**도**, 아파**도**.\n아파**도** 괜찮다 — 이것이 이 레슨의 핵심이에요. 어떤 일이 있어**도** 참을 수 있어요.",
-      "dictionary": [
-        {
-          "word": "아프다",
-          "romanization": "a-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "to hurt, painful"
-        },
-        {
-          "word": "강한",
-          "romanization": "gang-han",
-          "partOfSpeech": "adjective",
-          "definition": "strong"
-        },
-        {
-          "word": "약하다",
-          "romanization": "ya-ka-da",
-          "partOfSpeech": "adjective",
-          "definition": "weak",
-          "example": {
-            "korean": "몸이 약해요.",
-            "english": "My body is weak."
-          }
-        },
-        {
-          "word": "사실",
-          "romanization": "sa-sil",
-          "partOfSpeech": "adverb",
-          "definition": "actually, in fact"
-        },
-        {
-          "word": "핵심",
-          "romanization": "haek-sim",
-          "partOfSpeech": "noun",
-          "definition": "core, key point"
-        },
-        {
-          "word": "참다",
-          "romanization": "cham-da",
-          "partOfSpeech": "verb",
-          "definition": "to endure, to bear",
-          "example": {
-            "korean": "조금만 참아요.",
-            "english": "Just bear with it a little."
-          }
-        },
-        {
-          "word": "어떤",
-          "romanization": "eo-tteon",
-          "partOfSpeech": "determiner",
-          "definition": "some, any, what kind of"
-        },
-        {
-          "word": "두 번",
-          "romanization": "du beon",
-          "partOfSpeech": "phrase",
-          "definition": "two times, twice"
-        }
-      ]
-    },
-    {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "곁",
-            "correct": false
-          },
-          {
-            "text": "사라지다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "사라지다 = to disappear"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (side (of a person))",
-        "options": [
-          {
-            "text": "사라지다",
-            "correct": false
-          },
-          {
-            "text": "곁",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "곁 = side (of a person)"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s29-quiz",
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "even if (you) disappear",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "What does -아/어도 mean?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "even though, even if",
+            "correct": true
+          },
+          {
+            "text": "and, and then",
+            "correct": false
+          },
+          {
+            "text": "because, so",
+            "correct": false
+          },
+          {
+            "text": "if, when",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-아/어도 = even though, even if. It shows concession or contrast."
+      },
+      "scored": true
+    },
+    {
+      "id": "s25-quiz-mix2",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "even if (it) disappears",
+        "promptTranslation": "한국어로?",
         "options": [
           {
             "text": "사라져도",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "잊어도",
             "correct": false
           },
           {
-            "text": "사라지다",
+            "text": "변해도",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "아파도",
             "correct": false
           }
         ],
-        "wrongExplanation": "even if (you) disappear = 사라져도"
+        "wrongExplanation": "사라지다 (to disappear) + -어도 = 사라져도"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "힘들___ 괜찮아요.",
-        "promptTranslation": "Even if it's hard, it's okay.",
+        "type": "fill-blank",
+        "prompt": "시간이 없___ 기다릴게요.",
+        "promptTranslation": "Even if there's no time, I'll wait.",
         "options": [
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "아/어도",
+            "text": "어도",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "어서",
+            "correct": false
+          },
+          {
+            "text": "으면",
+            "correct": false
+          },
+          {
+            "text": "는데",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -아/어도!"
+        "wrongExplanation": "없다 + -어도 = 없어도 (even if there isn't)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"괜찮아\", \"해도\", \"사라지다\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "아파도 강한 척 할 수가 있었어",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "사라지다 해도 괜찮아",
+            "text": "Even though it hurt, I could pretend to be strong",
             "correct": true
+          },
+          {
+            "text": "Even though I was sad, I could pretend to be happy",
+            "correct": false
+          },
+          {
+            "text": "Even if I forget, I remember",
+            "correct": false
+          },
+          {
+            "text": "I forgot the route I came from",
+            "correct": false
           }
         ],
-        "wrongExplanation": "사라지다 해도 괜찮아"
+        "wrongExplanation": "아파도 = even though it hurt, 강한 척 = pretend to be strong, 할 수가 있었어 = could do"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "사라지다",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "to disappear",
+            "correct": true
+          },
+          {
+            "text": "to forget",
+            "correct": false
+          },
+          {
+            "text": "to change",
+            "correct": false
+          },
+          {
+            "text": "to remain",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "사라지다 = to disappear"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
           "korean": "널 위해서라면 난",
-          "english": "",
+          "english": "If it's for you",
           "highlights": []
         },
         {
           "korean": "슬퍼도 기쁜 척 할 수가 있었어",
-          "english": "",
-          "highlights": []
+          "english": "Even though I was sad, I could pretend to be happy",
+          "highlights": [
+            "슬퍼도"
+          ]
         },
         {
           "korean": "널 위해서라면 난",
-          "english": "",
+          "english": "If it's for you",
           "highlights": []
         },
         {
           "korean": "아파도 강한 척 할 수가 있었어",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "사랑이 사랑만으로 완벽하길",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "내 모든 약점들은 다 숨겨지길",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "이뤄지지 않는 꿈속에서",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "피울 수 없는 꽃을 키웠어",
-          "english": "",
-          "highlights": []
+          "english": "Even though it hurt, I could pretend to be strong",
+          "highlights": [
+            "아파도"
+          ]
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1089,10 +794,10 @@
           }
         },
         {
-          "korean": "곁",
-          "english": "side (of a person)",
+          "korean": "잊다",
+          "english": "to forget",
           "kind": "word",
-          "partOfSpeech": "noun",
+          "partOfSpeech": "verb",
           "songLine": {
             "korean": "",
             "english": "",
@@ -1101,7 +806,7 @@
         },
         {
           "korean": "사라져도",
-          "english": "even if (you) disappear",
+          "english": "even if (it) disappears",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1111,8 +816,8 @@
           }
         },
         {
-          "korean": "아파도 괜찮다",
-          "english": "even if it hurts, it's okay",
+          "korean": "잊어도",
+          "english": "even if I forget",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1127,9 +832,8 @@
         "meaning": "even though, even if"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
-  ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  ]
 }

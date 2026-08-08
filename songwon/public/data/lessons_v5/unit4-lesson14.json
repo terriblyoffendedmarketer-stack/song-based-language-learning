@@ -1,104 +1,138 @@
 {
   "id": "v5-unit4-lesson14",
   "meta": {
-    "songId": "day6-you-were-beautiful",
+    "songId": "day6-youwerebeautiful2",
     "songTitle": "You Were Beautiful",
     "artist": "DAY6",
     "unit": 4,
     "lessonNumber": 14,
     "grammarFocus": "-아/어지다",
     "grammarMeaning": "to become a state",
-    "koreanRatio": 0.8
+    "koreanRatio": 0.6
   },
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "사라지다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "love",
-            "correct": false
-          },
-          {
-            "text": "to disappear",
-            "correct": true
-          },
-          {
-            "text": "heart",
-            "correct": false
-          },
-          {
-            "text": "sky",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "사라지다 = to disappear."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "DAY6 — You Were Beautiful",
-      "content": "Describing changes of state. \"It's getting colder.\" \"I'm becoming lonely.\"\n\nOne of DAY6's signature songs, built almost entirely around a single repeated word: 예뻤어 — 'you were beautiful,' past tense. The singer is clear upfront that he's not trying to get back together — he's just been hit by a memory and wants to say it out loud once.\n\nIn this lesson, you'll learn the grammar pattern **-아/어지다**, which means \"to become a state.\" We'll see how DAY6 uses it in \"You Were Beautiful.\"",
+      "content": "이번 레슨에서는 **-아/어지다**를 배워요.\n상태가 변할 때 쓰는 패턴이에요.\n\nDAY6의 **You Were Beautiful**은 지나간 사랑을 떠올리는 노래예요.\n아름다웠던 순간들을 기억해요.",
+      "contentEnglish": "In this lesson, you'll learn **-아/어지다** — a pattern used when a state changes or becomes something.\n\nDAY6's **You Were Beautiful** recalls a past love, remembering the beautiful moments that once were.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **멀어지다** — to grow distant\n- **슬프다** — to be sad\n- **멀어지고 있다** — to be growing distant\n- **슬퍼지다** — to become sad\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "지금 이 말이",
         "우리가 다시",
         "시작하자는 건 아냐",
-        "그저 너의"
+        "그저 너의",
+        "남아있던 기억들이",
+        "떠올랐을 뿐이야",
+        "",
+        "정말 하루도 빠짐없이 (너는)",
+        "사랑한다 말해줬었지",
+        "잠들기 전에 또 눈 뜨자마자",
+        "말해주던 너",
+        "생각이 나 말해보는 거야",
+        "",
+        "예뻤어",
+        "날 바라봐 주던 그 눈빛",
+        "날 불러주던 그 목소리",
+        "다 다",
+        "그 모든 게 내겐",
+        "",
+        "예뻤어",
+        "더 바랄게 없는듯한 느낌",
+        "오직 너만이 주던 순간들",
+        "다 다",
+        "지났지만",
+        "넌 너무 예뻤어",
+        "",
+        "너도 이제는 (이제)",
+        "나와의 기억이",
+        "추억이 되었을 거야",
+        "너에게는",
+        "어떤 말을 해도 다",
+        "지나간 일일 거야",
+        "",
+        "정말 한번도 빠짐없이 (너는)",
+        "나를 먼저 생각해줬어",
+        "아무 일 아니어도 미안해 고마워",
+        "해주던 너",
+        "생각이 나 말해보는 거야",
+        "",
+        "아직도 가끔 네 생각이 나",
+        "어렵게 전화를 걸어볼까",
+        "생각이 들 때도 많지만",
+        "Baby, I know it's already over",
+        "",
+        "아무리 원해도 너는 이제",
+        "이미 끝나버린 지난날의",
+        "한편의 영화였었단 걸",
+        "난 알아",
+        "",
+        "마지막",
+        "날 바라봐 주던 그 눈빛",
+        "잘 지내라던 그 목소리",
+        "다 다",
+        "그마저도 내겐",
+        "",
+        "예뻤어",
+        "내게 보여준 눈물까지",
+        "너와 가졌던 순간들은",
+        "다 다",
+        "지났지만",
+        "넌 너무 예뻤어"
+      ],
+      "targetLineIndices": [
+        4,
+        27,
+        39,
+        53
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "남아있던 기억들이",
+      "breakdown": "남아있던 = that remained\n기억들이 = memories (subject)\n\n\"The memories that remained...\"\n\n남다 (to remain) is used with -아 있다 to show a continued state.",
+      "dictionary": [
         {
-          "korean": "지금 이 말이",
-          "english": "What I'm saying right now",
-          "highlights": []
+          "word": "남다",
+          "reading": "남다",
+          "meaning": "to remain / to be left"
         },
         {
-          "korean": "우리가 다시",
-          "english": "isn't that we should start over again",
-          "highlights": []
+          "word": "있던",
+          "reading": "있다",
+          "meaning": "was/were (past descriptive)"
         },
         {
-          "korean": "시작하자는 건 아냐",
-          "english": "it's just that",
-          "highlights": []
-        },
-        {
-          "korean": "그저 너의",
-          "english": "some memory of you that had been staying inside me",
-          "highlights": []
+          "word": "기억",
+          "reading": "기억",
+          "meaning": "memory"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-distant",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "친구와 멀어지고 싶지 않아요.",
+        "english": "I don't want to grow distant from my friend.",
+        "highlights": [
+          "멀어지"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-distant",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +141,17 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "우리는 점점 멀어져 갔어",
+          "english": "We gradually grew more distant",
           "highlights": [
-            "멀어지다"
+            "멀어져"
           ]
         },
         "audioKey": "멀어지다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-distant",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -130,258 +164,261 @@
             "correct": true
           },
           {
-            "text": "to be sad",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "멀어지다 = to grow distant"
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "점점 멀어져요.",
-        "english": "It's gradually getting farther.",
-        "highlights": [
-          "멀어져요"
-        ]
-      }
-    },
-    {
-      "id": "s9-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "점점 ___.",
-        "promptTranslation": "It's gradually getting farther.",
-        "options": [
-          {
-            "text": "멀어지다",
-            "correct": false
-          },
-          {
-            "text": "슬퍼지다",
-            "correct": false
-          },
-          {
-            "text": "멀어지고 있다",
-            "correct": false
-          },
-          {
-            "text": "멀어져요",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "점점 멀어져요. = It's gradually getting farther."
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "멀어지고 있다",
-        "english": "to be growing distant",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "멀어지고 있다"
-          ]
-        },
-        "audioKey": "멀어지고 있다"
-      }
-    },
-    {
-      "id": "rc1",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "지금 이 말이",
-      "breakdown": "다시 DAY6의 \"예뻤어\"를 만나요! 이번에는 \"-아/어지다\" 문법이에요.\n\"지금\"은 \"now\"예요. \"이 말\" = 이 이야기, 지금 하는 말.\n이전 레슨에서 \"-지만\"을 배웠어요. 이번에는 \"변하다\"가 \"변해**지다**\"가 돼요!\n\"멀어**지다**\" — 점점 멀어져요. 상태가 변해요.",
-      "dictionary": [
-        {
-          "word": "다시",
-          "romanization": "da-si",
-          "partOfSpeech": "adverb",
-          "definition": "again"
-        },
-        {
-          "word": "만나다",
-          "romanization": "man-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to meet"
-        },
-        {
-          "word": "이번",
-          "romanization": "i-beon",
-          "partOfSpeech": "noun",
-          "definition": "this time",
-          "example": {
-            "korean": "이번에는 다를 거예요.",
-            "english": "This time will be different."
-          }
-        },
-        {
-          "word": "문법",
-          "romanization": "mun-beop",
-          "partOfSpeech": "noun",
-          "definition": "grammar"
-        },
-        {
-          "word": "이전",
-          "romanization": "i-jeon",
-          "partOfSpeech": "adjective",
-          "definition": "previous"
-        },
-        {
-          "word": "변하다",
-          "romanization": "byeon-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to change"
-        },
-        {
-          "word": "점점",
-          "romanization": "jeom-jeom",
-          "partOfSpeech": "adverb",
-          "definition": "gradually",
-          "example": {
-            "korean": "점점 좋아져요.",
-            "english": "It's gradually getting better."
-          }
-        },
-        {
-          "word": "상태",
-          "romanization": "sang-tae",
-          "partOfSpeech": "noun",
-          "definition": "state, condition"
-        }
-      ]
-    },
-    {
-      "id": "s11-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "멀어지고 있다",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
             "text": "to disappear",
             "correct": false
           },
           {
-            "text": "to be beautiful",
+            "text": "to change",
             "correct": false
           },
           {
-            "text": "to be growing distant",
-            "correct": true
-          },
-          {
-            "text": "to be sad",
+            "text": "to stop",
             "correct": false
           }
         ],
-        "wrongExplanation": "멀어지고 있다 = to be growing distant"
+        "wrongExplanation": "멀어지다 = to grow distant (멀다 = far + -어지다 = to become)"
       },
       "scored": true,
-      "itemIndex": 1
+      "itemIndex": 0
     },
     {
-      "id": "s12-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "점점 멀어지고 있어요.",
-        "english": "We're gradually growing apart.",
-        "highlights": [
-          "멀어지고 있"
+      "id": "s7-line2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "추억이 되었을 거야",
+      "breakdown": "추억이 = memories (subject)\n되었을 거야 = probably became\n\n\"It probably became a memory.\"\n\n되다 (to become) is the base verb. **-어지다** attaches to adjectives to create the same meaning.",
+      "dictionary": [
+        {
+          "word": "추억",
+          "reading": "추억",
+          "meaning": "memory / reminiscence"
+        },
+        {
+          "word": "되다",
+          "reading": "되다",
+          "meaning": "to become"
+        },
+        {
+          "word": "-을 거야",
+          "reading": "-을 거야",
+          "meaning": "probably / will"
+        }
+      ]
+    },
+    {
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-아/어지다",
+        "meaning": "to become (a state)",
+        "explanation": "형용사에 붙여서 상태 변화를 만들어요.\nadjective + -아/어지다 = to become that state\n\n예: 슬프다 (sad) → 슬퍼지다 (to become sad)\n멀다 (far) → 멀어지다 (to become distant)",
+        "songExample": {
+          "korean": "추억이 되었을 거야",
+          "english": "It probably became a memory",
+          "highlights": [
+            "되"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "날씨가 추워졌어요.",
+            "english": "The weather became cold.",
+            "highlights": [
+              "추워졌"
+            ]
+          },
+          {
+            "korean": "시간이 지나면 괜찮아질 거예요.",
+            "english": "If time passes, it will become okay.",
+            "highlights": [
+              "괜찮아질"
+            ]
+          },
+          {
+            "korean": "우리는 점점 멀어져 갔어",
+            "english": "We gradually grew more distant",
+            "highlights": [
+              "멀어져"
+            ]
+          }
         ]
       }
     },
     {
-      "id": "s13-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "점점 ___어요.",
-        "promptTranslation": "We're gradually growing apart.",
+        "prompt": "날씨가 추워___어요.",
+        "promptTranslation": "The weather became cold.",
         "options": [
           {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "멀어지고 있",
+            "text": "졌",
             "correct": true
           },
           {
-            "text": "멀어지고 있다",
+            "text": "도",
             "correct": false
           },
           {
-            "text": "슬프다",
+            "text": "서",
+            "correct": false
+          },
+          {
+            "text": "지만",
             "correct": false
           }
         ],
-        "wrongExplanation": "점점 멀어지고 있어요. = We're gradually growing apart."
+        "wrongExplanation": "추워지다 (to become cold) = 추운 + -어지다. Past tense: 추워졌어요"
+      },
+      "scored": true
+    },
+    {
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-아/어지다**로 상태가 어떻게 변하는지 표현해요.\n이제 이 패턴이 들어간 표현을 더 배워 볼까요?",
+      "contentEnglish": "You use **-아/어지다** to express how states change.\nLet's learn more expressions with this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-phrase-distant",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "우리는 시간이 지나면서 멀어졌어요.",
+        "english": "We drifted apart as time passed.",
+        "highlights": [
+          "멀어졌"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-phrase-distant",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "멀어지다",
+        "english": "to grow distant / drift apart",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "우리는 점점 멀어져 갔어",
+          "english": "We gradually grew more distant",
+          "highlights": [
+            "멀어져"
+          ]
+        },
+        "audioKey": "멀어지다"
+      }
+    },
+    {
+      "id": "s13-quiz-phrase-distant",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "멀어지다",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "to grow distant / drift apart",
+            "correct": true
+          },
+          {
+            "text": "to become sad",
+            "correct": false
+          },
+          {
+            "text": "to not end",
+            "correct": false
+          },
+          {
+            "text": "to disappear",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멀어지다 = to grow distant. 멀다 (far) + -어지다 (to become)"
       },
       "scored": true,
       "itemIndex": 1
     },
     {
-      "id": "s14-quiz",
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "어렵게 전화를 걸어볼까",
+      "breakdown": "어렵게 = with difficulty\n전화를 = phone call (object)\n걸어볼까 = should I try calling?\n\n\"Should I try to call with difficulty?\"\n\n-아/어 보다 = to try doing something",
+      "dictionary": [
+        {
+          "word": "어렵게",
+          "reading": "어렵다",
+          "meaning": "with difficulty / difficultly"
+        },
+        {
+          "word": "전화",
+          "reading": "전화",
+          "meaning": "phone call"
+        },
+        {
+          "word": "걸다",
+          "reading": "걸다",
+          "meaning": "to call / to hang"
+        },
+        {
+          "word": "-볼까",
+          "reading": "-볼까",
+          "meaning": "should I try...?"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
       "type": "quiz",
       "label": "가사 퀴즈",
       "quiz": {
-        "type": "song-comprehension",
-        "prompt": "지금 이 말이jigeum i mari",
-        "promptTranslation": "무슨 뜻일까요?",
+        "type": "tap-meaning",
+        "prompt": "추억이 되었을 거야",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "What I'm saying right now",
+            "text": "It probably became a memory",
             "correct": true
           },
           {
-            "text": "isn't that we should start over again",
+            "text": "The weather became cold",
             "correct": false
           },
           {
-            "text": "it's just that",
+            "text": "We grew distant",
+            "correct": false
+          },
+          {
+            "text": "I became sad",
             "correct": false
           }
         ],
-        "wrongExplanation": "지금 이 말이jigeum i mari = What I'm saying right now"
+        "wrongExplanation": "추억이 되었을 거야 = It probably became a memory. 되다 = to become"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s15-teach",
+      "id": "s16-context-sad",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "그 영화는 너무 슬퍼요.",
+        "english": "That movie is so sad.",
+        "highlights": [
+          "슬퍼"
+        ]
+      }
+    },
+    {
+      "id": "s17-teach-sad",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -390,90 +427,17 @@
         "kind": "word",
         "partOfSpeech": "adjective",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "슬픈 노래를 들으면 생각나",
+          "english": "When I hear sad songs, I think of you",
           "highlights": [
-            "슬프다"
+            "슬픈"
           ]
         },
         "audioKey": "슬프다"
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "우리가 다시",
-      "breakdown": "\"우리\" — 가수와 그 사람, 둘이에요.\n\"다시\" = again. \"우리가 다시\" — 우리가 다시 무엇을 할까요?\n여기서 중요한 건, 이미 끝났다는 거예요. 관계가 끝났어요.\n멀어**지다** — 두 사람이 점점 멀어**졌어**요. 가까웠는데 멀어**졌어**요.",
-      "dictionary": [
-        {
-          "word": "우리",
-          "romanization": "u-ri",
-          "partOfSpeech": "pronoun",
-          "definition": "we, us"
-        },
-        {
-          "word": "다시",
-          "romanization": "da-si",
-          "partOfSpeech": "adverb",
-          "definition": "again"
-        },
-        {
-          "word": "이미",
-          "romanization": "i-mi",
-          "partOfSpeech": "adverb",
-          "definition": "already",
-          "example": {
-            "korean": "이미 했어요.",
-            "english": "I already did it."
-          }
-        },
-        {
-          "word": "끝나다",
-          "romanization": "kkeut-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to end"
-        },
-        {
-          "word": "관계",
-          "romanization": "gwan-gye",
-          "partOfSpeech": "noun",
-          "definition": "relationship",
-          "example": {
-            "korean": "좋은 관계예요.",
-            "english": "It's a good relationship."
-          }
-        },
-        {
-          "word": "가깝다",
-          "romanization": "ga-kkap-da",
-          "partOfSpeech": "adjective",
-          "definition": "close, near",
-          "example": {
-            "korean": "집이 가까워요.",
-            "english": "The house is close."
-          }
-        },
-        {
-          "word": "멀다",
-          "romanization": "meol-da",
-          "partOfSpeech": "adjective",
-          "definition": "far",
-          "example": {
-            "korean": "학교가 멀어요.",
-            "english": "School is far."
-          }
-        },
-        {
-          "word": "둘",
-          "romanization": "dul",
-          "partOfSpeech": "number",
-          "definition": "two (counting people)"
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz-sad",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -482,19 +446,19 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to be growing distant",
-            "correct": false
-          },
-          {
             "text": "to be sad",
             "correct": true
           },
           {
-            "text": "to hide",
+            "text": "to be painful",
             "correct": false
           },
           {
-            "text": "to become sad",
+            "text": "to be okay",
+            "correct": false
+          },
+          {
+            "text": "to be beautiful",
             "correct": false
           }
         ],
@@ -504,262 +468,55 @@
       "itemIndex": 2
     },
     {
-      "id": "s17-context",
+      "id": "s19-context-phrase-sad",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "영화가 슬퍼요.",
-        "english": "The movie is sad.",
+        "korean": "비가 오면 마음이 슬퍼져요.",
+        "english": "When it rains, my heart becomes sad.",
         "highlights": [
-          "슬퍼요"
+          "슬퍼져"
         ]
       }
     },
     {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "영화가 ___.",
-        "promptTranslation": "The movie is sad.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "사람",
-            "correct": false
-          },
-          {
-            "text": "멀어져요",
-            "correct": false
-          },
-          {
-            "text": "슬퍼요",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "영화가 슬퍼요. = The movie is sad."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "점점 멀어져요.",
-          "english": "It's gradually getting farther.",
-          "highlights": [
-            "멀어져요"
-          ]
-        },
-        {
-          "korean": "영화가 슬퍼요.",
-          "english": "The movie is sad.",
-          "highlights": [
-            "슬퍼요"
-          ]
-        }
-      ],
-      "note": "멀어지다 + 슬프다 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "What I'm saying right now",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "시작하자는 건 아냐sijakajaneun geon anya",
-            "correct": false
-          },
-          {
-            "text": "우리가 다시uriga dasi",
-            "correct": false
-          },
-          {
-            "text": "지금 이 말이jigeum i mari",
-            "correct": true
-          },
-          {
-            "text": "그저 너의geujeo neoui",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "지금 이 말이jigeum i mari"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-아/어지다",
-        "meaning": "to become a state",
-        "explanation": "Describing changes of state. \"It's getting colder.\" \"I'm becoming lonely.\"",
-        "songExample": {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
-          "english": "",
-          "highlights": [
-            "아/어지다"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "시작하자는 건 아냐",
-      "breakdown": "\"시작하자\"는 \"let's start\"예요. \"건\"은 \"것은\"의 줄임말이에요.\n\"아냐\" = \"아니야\" — \"it's not that.\"이에요.\n가수가 말해요: 다시 시작하자는 건 아냐. 돌아가자는 게 아니에요.\n관계가 멀어**졌어**요. 슬퍼**졌어**요. 하지만 다시 시작하자는 건 아니에요.",
-      "dictionary": [
-        {
-          "word": "시작하다",
-          "romanization": "si-jak-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to start"
-        },
-        {
-          "word": "아니다",
-          "romanization": "a-ni-da",
-          "partOfSpeech": "adjective",
-          "definition": "to not be"
-        },
-        {
-          "word": "돌아가다",
-          "romanization": "dol-a-ga-da",
-          "partOfSpeech": "verb",
-          "definition": "to go back, to return",
-          "example": {
-            "korean": "집에 돌아가요.",
-            "english": "I go back home."
-          }
-        },
-        {
-          "word": "줄임말",
-          "romanization": "jul-im-mal",
-          "partOfSpeech": "noun",
-          "definition": "contraction"
-        },
-        {
-          "word": "관계",
-          "romanization": "gwan-gye",
-          "partOfSpeech": "noun",
-          "definition": "relationship"
-        },
-        {
-          "word": "슬프다",
-          "romanization": "seul-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "sad"
-        },
-        {
-          "word": "슬퍼지다",
-          "romanization": "seul-peo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to become sad"
-        },
-        {
-          "word": "말하다",
-          "romanization": "mal-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to say, to speak"
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
+      "id": "s20-teach-phrase-sad",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
         "korean": "슬퍼지다",
         "english": "to become sad",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-아/어지다 = to become a state",
+        "partOfSpeech": "",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "생각하면 슬퍼져",
+          "english": "When I think about it, I become sad",
           "highlights": [
-            "슬퍼지다"
+            "슬퍼져"
           ]
         },
         "audioKey": "슬퍼지다"
       }
     },
     {
-      "id": "s23-quiz",
+      "id": "s21-quiz-phrase-sad",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "tap-meaning",
-        "prompt": "슬퍼지다",
-        "promptTranslation": "무슨 뜻일까요?",
+        "type": "fill-blank",
+        "prompt": "생각하면 슬퍼___.",
+        "promptTranslation": "When I think about it, I become sad.",
         "options": [
           {
-            "text": "to be growing distant",
-            "correct": false
-          },
-          {
-            "text": "to become sad",
+            "text": "져",
             "correct": true
           },
           {
-            "text": "to be sad",
+            "text": "도",
             "correct": false
           },
           {
-            "text": "to stop liking",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "슬퍼지다 = to become sad"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "갑자기 슬퍼졌어요.",
-        "english": "I suddenly became sad.",
-        "highlights": [
-          "슬퍼졌"
-        ]
-      }
-    },
-    {
-      "id": "s25-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "슬퍼지다",
-        "promptTranslation": "to become sad",
-        "options": [
-          {
-            "text": "아/어지다",
-            "correct": true
-          },
-          {
-            "text": "고",
-            "correct": false
-          },
-          {
-            "text": "는데",
+            "text": "서",
             "correct": false
           },
           {
@@ -767,292 +524,232 @@
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -아/어지다예요."
+        "wrongExplanation": "슬퍼지다 = to become sad. 슬프다 + -어지다. Present tense: 슬퍼져요/슬퍼져"
       },
       "scored": true,
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "슬퍼지다",
-        "promptTranslation": "여기서 -아/어지다는 무슨 느낌일까요?",
-        "options": [
-          {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
-            "correct": true
-          },
-          {
-            "text": "갑자기 일어났다가 멈췄어요",
-            "correct": false
-          },
-          {
-            "text": "일부러 그렇게 했어요",
-            "correct": false
-          },
-          {
-            "text": "더 이상 그렇지 않아요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "-아/어지다 = to become a state — 선택이 아니라 저절로 된 거예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
+      "id": "s22-line4",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "그저 너의",
-      "breakdown": "\"그저 너의\" — 그저 너의 기억이...\n\"그저\"는 \"just, merely\"예요. 큰 것을 원하는 게 아니에요.\n가수는 그저 기억만 남겨두고 싶어요. 기억이 아름다워**졌어**요.\n멀어**지다**, 슬퍼**지다**, 아름다워**지다** — \"-아/어지다\"는 상태의 변화예요!",
+      "lyricLine": "지났지만",
+      "breakdown": "지났지만 = it passed, but...\n\n\"It passed, but...\"\n\"Although it's in the past...\"\n\nThe beautiful moments 지났지만 (passed, but) they're still remembered. -지만 = but/although",
       "dictionary": [
         {
-          "word": "그저",
-          "romanization": "geu-jeo",
-          "partOfSpeech": "adverb",
-          "definition": "just, merely"
+          "word": "지나다",
+          "reading": "지나다",
+          "meaning": "to pass / to go by"
         },
         {
-          "word": "원하다",
-          "romanization": "won-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to want"
-        },
-        {
-          "word": "남기다",
-          "romanization": "nam-gi-da",
-          "partOfSpeech": "verb",
-          "definition": "to leave behind"
-        },
-        {
-          "word": "남겨두다",
-          "romanization": "nam-gyeo-du-da",
-          "partOfSpeech": "verb",
-          "definition": "to keep, to leave as is"
-        },
-        {
-          "word": "아름답다",
-          "romanization": "a-reum-dap-da",
-          "partOfSpeech": "adjective",
-          "definition": "beautiful"
-        },
-        {
-          "word": "아름다워지다",
-          "romanization": "a-reum-da-wo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to become beautiful"
-        },
-        {
-          "word": "변화",
-          "romanization": "byeon-hwa",
-          "partOfSpeech": "noun",
-          "definition": "change"
-        },
-        {
-          "word": "멀어지다",
-          "romanization": "meol-eo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to grow distant, to become far"
+          "word": "-지만",
+          "reading": "-지만",
+          "meaning": "but / although"
         }
       ]
     },
     {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "슬프다",
-            "correct": false
-          },
-          {
-            "text": "멀어지다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "멀어지다 = to grow distant"
-      },
-      "scored": true,
-      "itemIndex": null
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "날씨가 따뜻해졌어요.",
+          "english": "The weather became warm.",
+          "highlights": [
+            "따뜻해졌"
+          ]
+        },
+        {
+          "korean": "우리는 가까워졌어요.",
+          "english": "We became close.",
+          "highlights": [
+            "가까워졌"
+          ]
+        }
+      ],
+      "note": "-아/어지다 shows any state change: weather, relationships, feelings!"
     },
     {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (to be sad)",
-        "options": [
-          {
-            "text": "멀어지다",
-            "correct": false
-          },
-          {
-            "text": "슬프다",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "슬프다 = to be sad"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s29-quiz",
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "to be growing distant",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "What does -아/어지다 do?",
+        "promptTranslation": null,
         "options": [
           {
-            "text": "멀어지고 있다",
+            "text": "shows a change to a new state (to become)",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "connects two actions (and)",
             "correct": false
+          },
+          {
+            "text": "shows contrast (but)",
+            "correct": false
+          },
+          {
+            "text": "shows condition (if)",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-아/어지다 attaches to adjectives to show becoming that state: 슬프다 → 슬퍼지다 (to become sad)"
+      },
+      "scored": true
+    },
+    {
+      "id": "s25-quiz-mix2",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "to become sad",
+        "promptTranslation": "한국어로?",
+        "options": [
+          {
+            "text": "슬퍼지다",
+            "correct": true
           },
           {
             "text": "멀어지다",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "사라지다",
+            "correct": false
+          },
+          {
+            "text": "변하다",
             "correct": false
           }
         ],
-        "wrongExplanation": "to be growing distant = 멀어지고 있다"
+        "wrongExplanation": "슬프다 (sad) + -어지다 (to become) = 슬퍼지다 (to become sad)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "날씨가 추워___.",
-        "promptTranslation": "The weather is getting cold.",
+        "type": "fill-blank",
+        "prompt": "시간이 지나면 괜찮아___거예요.",
+        "promptTranslation": "If time passes, it will become okay.",
         "options": [
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "아/어지다",
+            "text": "질",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "도",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "지만",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -아/어지다!"
+        "wrongExplanation": "괜찮아지다 (to become okay) = 괜찮다 + -아지다. Future: 괜찮아질 거예요"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"좋아지다\", \"멀어지다\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "날씨가 추워졌어요",
+        "promptTranslation": "이 문장의 뜻은?",
         "options": [
           {
-            "text": "멀어지다 좋아지다",
+            "text": "The weather became cold",
             "correct": true
+          },
+          {
+            "text": "The weather is cold",
+            "correct": false
+          },
+          {
+            "text": "The weather will be cold",
+            "correct": false
+          },
+          {
+            "text": "The weather was cold, but",
+            "correct": false
           }
         ],
-        "wrongExplanation": "멀어지다 좋아지다"
+        "wrongExplanation": "추워지다 = to become cold. 추워졌어요 = became cold (past tense)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "멀어지다",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "to grow distant",
+            "correct": true
+          },
+          {
+            "text": "to become sad",
+            "correct": false
+          },
+          {
+            "text": "to stop",
+            "correct": false
+          },
+          {
+            "text": "to change",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "멀어지다 = to grow distant (멀다 = far + -어지다 = to become)"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "지금 이 말이jigeum i mari",
-          "english": "",
+          "korean": "예뻤어",
+          "english": "You were beautiful",
           "highlights": []
         },
         {
-          "korean": "우리가 다시uriga dasi",
-          "english": "",
+          "korean": "날 바라봐 주던 그 눈빛",
+          "english": "Those eyes that looked at me",
           "highlights": []
         },
         {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
-          "english": "",
+          "korean": "지났지만",
+          "english": "Although it passed",
           "highlights": []
         },
         {
-          "korean": "그저 너의geujeo neoui",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "남아있던 기억들이namaitdeon gieokdeuri",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "떠올랐을 뿐이야tteoollasseul ppuniya",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "정말 하루도 빠짐없이 (너는)jeongmal harudo ppajimeopsi (neoneun)",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "사랑한다 말해줬었지saranghanda malhaejwosseotji",
-          "english": "",
+          "korean": "넌 너무 예뻤어",
+          "english": "You were so beautiful",
           "highlights": []
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1079,8 +776,8 @@
           }
         },
         {
-          "korean": "멀어지고 있다",
-          "english": "to be growing distant",
+          "korean": "멀어지다",
+          "english": "to grow distant / drift apart",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1103,12 +800,12 @@
       ],
       "pattern": {
         "pattern": "-아/어지다",
-        "meaning": "to become a state"
+        "meaning": "to become (a state)"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
   ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  "generatedAt": "2025-06-10T12:00:00Z"
 }

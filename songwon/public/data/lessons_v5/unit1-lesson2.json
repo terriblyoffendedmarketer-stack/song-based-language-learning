@@ -73,7 +73,12 @@
         "",
         "다시 시작해"
       ],
-      "targetLineIndices": [3, 17, 20, 36],
+      "targetLineIndices": [
+        3,
+        17,
+        20,
+        36
+      ],
       "musicPlaying": true
     },
     {
@@ -83,9 +88,21 @@
       "lyricLine": "앞질러 가고 싶어 하지",
       "breakdown": "앞질러 = to overtake / get ahead\n가고 싶어 하지 = want to go, right?\n\n가다 (to go) + -고 싶다 (want to) = 가고 싶다 (want to go)\nThis is the grammar pattern for this lesson!",
       "dictionary": [
-        { "word": "앞질러", "reading": "앞지르다", "meaning": "to overtake / get ahead" },
-        { "word": "가고 싶다", "reading": "가고 싶다", "meaning": "want to go" },
-        { "word": "-고 싶다", "reading": "-고 싶다", "meaning": "want to do (grammar)" }
+        {
+          "word": "앞질러",
+          "reading": "앞지르다",
+          "meaning": "to overtake / get ahead"
+        },
+        {
+          "word": "가고 싶다",
+          "reading": "가고 싶다",
+          "meaning": "want to go"
+        },
+        {
+          "word": "-고 싶다",
+          "reading": "-고 싶다",
+          "meaning": "want to do (grammar)"
+        }
       ]
     },
     {
@@ -95,7 +112,9 @@
       "sentence": {
         "korean": "열쇠를 찾고 싶어요.",
         "english": "I want to find my keys.",
-        "highlights": ["찾고 싶"]
+        "highlights": [
+          "찾고 싶"
+        ]
       }
     },
     {
@@ -107,7 +126,13 @@
         "english": "to find / to look for",
         "kind": "word",
         "partOfSpeech": "verb",
-        "songLine": { "korean": "앞질러 가고 싶어 하지", "english": "They want to get ahead", "highlights": ["싶"] },
+        "songLine": {
+          "korean": "앞질러 가고 싶어 하지",
+          "english": "They want to get ahead",
+          "highlights": [
+            "싶"
+          ]
+        },
         "audioKey": "찾다"
       }
     },
@@ -120,10 +145,22 @@
         "prompt": "찾다",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          { "text": "to find", "correct": true },
-          { "text": "to run", "correct": false },
-          { "text": "to sleep", "correct": false },
-          { "text": "to eat", "correct": false }
+          {
+            "text": "to find",
+            "correct": true
+          },
+          {
+            "text": "to run",
+            "correct": false
+          },
+          {
+            "text": "to sleep",
+            "correct": false
+          },
+          {
+            "text": "to eat",
+            "correct": false
+          }
         ],
         "wrongExplanation": "찾다 = to find / to look for"
       },
@@ -137,9 +174,21 @@
       "lyricLine": "빛나지 않아도 내 꿈을 응원해",
       "breakdown": "빛나지 않아도 = even if it doesn't shine\n내 = my\n꿈을 = dream (object) — 지난 레슨에서 배웠어요!\n응원해 = I cheer for / I support\n\n\"Even if it doesn't shine, I cheer for my dream.\"",
       "dictionary": [
-        { "word": "빛나다", "reading": "빛나다", "meaning": "to shine" },
-        { "word": "꿈", "reading": "꿈", "meaning": "dream (Lesson 1)" },
-        { "word": "응원하다", "reading": "응원하다", "meaning": "to cheer for / support" }
+        {
+          "word": "빛나다",
+          "reading": "빛나다",
+          "meaning": "to shine"
+        },
+        {
+          "word": "꿈",
+          "reading": "꿈",
+          "meaning": "dream (Lesson 1)"
+        },
+        {
+          "word": "응원하다",
+          "reading": "응원하다",
+          "meaning": "to cheer for / support"
+        }
       ]
     },
     {
@@ -153,12 +202,32 @@
         "songExample": {
           "korean": "앞질러 가고 싶어 하지",
           "english": "They want to get ahead",
-          "highlights": ["고 싶"]
+          "highlights": [
+            "고 싶"
+          ]
         },
         "examples": [
-          { "korean": "먹고 싶어요.", "english": "I want to eat.", "highlights": ["고 싶"] },
-          { "korean": "자고 싶어요.", "english": "I want to sleep.", "highlights": ["고 싶"] },
-          { "korean": "다시는 나를 잃고 싶지 않아", "english": "I don't want to lose myself again", "highlights": ["고 싶"] }
+          {
+            "korean": "먹고 싶어요.",
+            "english": "I want to eat.",
+            "highlights": [
+              "고 싶"
+            ]
+          },
+          {
+            "korean": "자고 싶어요.",
+            "english": "I want to sleep.",
+            "highlights": [
+              "고 싶"
+            ]
+          },
+          {
+            "korean": "다시는 나를 잃고 싶지 않아",
+            "english": "I don't want to lose myself again",
+            "highlights": [
+              "고 싶"
+            ]
+          }
         ]
       }
     },
@@ -171,10 +240,22 @@
         "prompt": "먹___ 싶어요.",
         "promptTranslation": "I want to eat.",
         "options": [
-          { "text": "고", "correct": true },
-          { "text": "지만", "correct": false },
-          { "text": "면", "correct": false },
-          { "text": "아서", "correct": false }
+          {
+            "text": "고",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
         ],
         "wrongExplanation": "먹 + 고 싶다 = want to eat. -고 싶다 attaches to verb stems."
       },
@@ -196,7 +277,9 @@
       "sentence": {
         "korean": "행복을 찾고 싶어요.",
         "english": "I want to find happiness.",
-        "highlights": ["찾고 싶"]
+        "highlights": [
+          "찾고 싶"
+        ]
       }
     },
     {
@@ -209,7 +292,13 @@
         "kind": "phrase",
         "phraseNote": "찾다 + -고 싶다",
         "partOfSpeech": "",
-        "songLine": { "korean": "앞질러 가고 싶어 하지", "english": "They want to get ahead", "highlights": ["고 싶"] },
+        "songLine": {
+          "korean": "앞질러 가고 싶어 하지",
+          "english": "They want to get ahead",
+          "highlights": [
+            "고 싶"
+          ]
+        },
         "audioKey": "찾고 싶다"
       }
     },
@@ -222,10 +311,22 @@
         "prompt": "찾고 싶다",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          { "text": "to want to find", "correct": true },
-          { "text": "to want to sleep", "correct": false },
-          { "text": "to want to eat", "correct": false },
-          { "text": "to want to run", "correct": false }
+          {
+            "text": "to want to find",
+            "correct": true
+          },
+          {
+            "text": "to want to sleep",
+            "correct": false
+          },
+          {
+            "text": "to want to eat",
+            "correct": false
+          },
+          {
+            "text": "to want to run",
+            "correct": false
+          }
         ],
         "wrongExplanation": "찾다 (to find) + -고 싶다 (want to) = 찾고 싶다 (want to find)"
       },
@@ -239,9 +340,21 @@
       "lyricLine": "난 나의 길을 갈 테니까",
       "breakdown": "난 = 나는 (I, topic)\n나의 = my\n길을 = road/path (object)\n갈 테니까 = because I will go\n\n\"Because I'll go my own path.\"",
       "dictionary": [
-        { "word": "나", "reading": "나", "meaning": "I / me" },
-        { "word": "길", "reading": "길", "meaning": "road / path / way" },
-        { "word": "갈", "reading": "가다", "meaning": "to go" }
+        {
+          "word": "나",
+          "reading": "나",
+          "meaning": "I / me"
+        },
+        {
+          "word": "길",
+          "reading": "길",
+          "meaning": "road / path / way"
+        },
+        {
+          "word": "갈",
+          "reading": "가다",
+          "meaning": "to go"
+        }
       ]
     },
     {
@@ -253,10 +366,22 @@
         "prompt": "앞질러 가고 싶어 하지",
         "promptTranslation": "이 가사의 뜻은?",
         "options": [
-          { "text": "They want to get ahead", "correct": true },
-          { "text": "Even if it doesn't shine", "correct": false },
-          { "text": "A new beginning is exciting", "correct": false },
-          { "text": "I'll go my own path", "correct": false }
+          {
+            "text": "They want to get ahead",
+            "correct": true
+          },
+          {
+            "text": "Even if it doesn't shine",
+            "correct": false
+          },
+          {
+            "text": "A new beginning is exciting",
+            "correct": false
+          },
+          {
+            "text": "I'll go my own path",
+            "correct": false
+          }
         ],
         "wrongExplanation": "앞질러 = to overtake, 가고 싶어 하지 = they want to go"
       },
@@ -269,7 +394,9 @@
       "sentence": {
         "korean": "좋은 사람을 만나고 싶어요.",
         "english": "I want to meet a good person.",
-        "highlights": ["사람"]
+        "highlights": [
+          "사람"
+        ]
       }
     },
     {
@@ -281,7 +408,11 @@
         "english": "person",
         "kind": "word",
         "partOfSpeech": "noun",
-        "songLine": { "korean": "저마다 삶을 향해", "english": "Each person toward their life", "highlights": [] },
+        "songLine": {
+          "korean": "저마다 삶을 향해",
+          "english": "Each person toward their life",
+          "highlights": []
+        },
         "audioKey": "사람"
       }
     },
@@ -294,10 +425,22 @@
         "prompt": "사람",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
-          { "text": "person", "correct": true },
-          { "text": "road", "correct": false },
-          { "text": "dream", "correct": false },
-          { "text": "time", "correct": false }
+          {
+            "text": "person",
+            "correct": true
+          },
+          {
+            "text": "road",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "time",
+            "correct": false
+          }
         ],
         "wrongExplanation": "사람 = person"
       },
@@ -311,7 +454,9 @@
       "sentence": {
         "korean": "너한테 말하고 싶은 게 있어요.",
         "english": "There's something I want to say to you.",
-        "highlights": ["말하고 싶"]
+        "highlights": [
+          "말하고 싶"
+        ]
       }
     },
     {
@@ -324,7 +469,11 @@
         "kind": "phrase",
         "phraseNote": "말하다 + -고 싶다",
         "partOfSpeech": "",
-        "songLine": { "korean": "멈추지 않겠다고", "english": "That I won't stop", "highlights": [] },
+        "songLine": {
+          "korean": "멈추지 않겠다고",
+          "english": "That I won't stop",
+          "highlights": []
+        },
         "audioKey": "말하고 싶다"
       }
     },
@@ -337,10 +486,22 @@
         "prompt": "말하___ 싶어요.",
         "promptTranslation": "I want to say.",
         "options": [
-          { "text": "고", "correct": true },
-          { "text": "지만", "correct": false },
-          { "text": "면", "correct": false },
-          { "text": "게", "correct": false }
+          {
+            "text": "고",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "게",
+            "correct": false
+          }
         ],
         "wrongExplanation": "말하 + 고 싶다 = want to say. -고 싶다 attaches to verb stems."
       },
@@ -354,9 +515,21 @@
       "lyricLine": "다시는 나를 잃고 싶지 않아",
       "breakdown": "다시는 = (n)ever again\n나를 = me (object)\n잃고 싶지 않아 = don't want to lose\n\n잃다 (to lose) + -고 싶지 않다 (don't want to)\n-고 싶지 않다 is the negative of -고 싶다!\n\"I don't want to lose myself again.\"",
       "dictionary": [
-        { "word": "다시", "reading": "다시", "meaning": "again" },
-        { "word": "잃다", "reading": "잃다", "meaning": "to lose" },
-        { "word": "-고 싶지 않다", "reading": "", "meaning": "don't want to (negative)" }
+        {
+          "word": "다시",
+          "reading": "다시",
+          "meaning": "again"
+        },
+        {
+          "word": "잃다",
+          "reading": "잃다",
+          "meaning": "to lose"
+        },
+        {
+          "word": "-고 싶지 않다",
+          "reading": "",
+          "meaning": "don't want to (negative)"
+        }
       ]
     },
     {
@@ -367,12 +540,16 @@
         {
           "korean": "가고 싶어요.",
           "english": "I want to go.",
-          "highlights": ["고 싶"]
+          "highlights": [
+            "고 싶"
+          ]
         },
         {
           "korean": "가고 싶지 않아요.",
           "english": "I don't want to go.",
-          "highlights": ["고 싶지 않"]
+          "highlights": [
+            "고 싶지 않"
+          ]
         }
       ],
       "note": "-고 싶다 (want to) vs -고 싶지 않다 (don't want to)"
@@ -386,10 +563,22 @@
         "prompt": "What does -고 싶다 express?",
         "promptTranslation": null,
         "options": [
-          { "text": "wanting to do something", "correct": true },
-          { "text": "connecting two actions (and)", "correct": false },
-          { "text": "making a negative statement", "correct": false },
-          { "text": "expressing a condition (if)", "correct": false }
+          {
+            "text": "wanting to do something",
+            "correct": true
+          },
+          {
+            "text": "connecting two actions (and)",
+            "correct": false
+          },
+          {
+            "text": "making a negative statement",
+            "correct": false
+          },
+          {
+            "text": "expressing a condition (if)",
+            "correct": false
+          }
         ],
         "wrongExplanation": "-고 싶다 = want to do. Verb stem + -고 싶다."
       },
@@ -404,10 +593,22 @@
         "prompt": "to want to find",
         "promptTranslation": "한국어로?",
         "options": [
-          { "text": "찾고 싶다", "correct": true },
-          { "text": "말하고 싶다", "correct": false },
-          { "text": "가고 싶다", "correct": false },
-          { "text": "먹고 싶다", "correct": false }
+          {
+            "text": "찾고 싶다",
+            "correct": true
+          },
+          {
+            "text": "말하고 싶다",
+            "correct": false
+          },
+          {
+            "text": "가고 싶다",
+            "correct": false
+          },
+          {
+            "text": "먹고 싶다",
+            "correct": false
+          }
         ],
         "wrongExplanation": "찾다 (to find) + -고 싶다 = 찾고 싶다 (want to find)"
       },
@@ -422,10 +623,22 @@
         "prompt": "자___ 싶어요.",
         "promptTranslation": "I want to sleep.",
         "options": [
-          { "text": "고", "correct": true },
-          { "text": "지만", "correct": false },
-          { "text": "아서", "correct": false },
-          { "text": "면", "correct": false }
+          {
+            "text": "고",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          }
         ],
         "wrongExplanation": "자다 (to sleep) + -고 싶다 = 자고 싶다 (want to sleep)"
       },
@@ -440,10 +653,22 @@
         "prompt": "다시는 나를 잃고 싶지 않아",
         "promptTranslation": "이 가사의 뜻은?",
         "options": [
-          { "text": "I don't want to lose myself again", "correct": true },
-          { "text": "I want to get ahead of everyone", "correct": false },
-          { "text": "Even if it doesn't shine", "correct": false },
-          { "text": "I'll go my own path", "correct": false }
+          {
+            "text": "I don't want to lose myself again",
+            "correct": true
+          },
+          {
+            "text": "I want to get ahead of everyone",
+            "correct": false
+          },
+          {
+            "text": "Even if it doesn't shine",
+            "correct": false
+          },
+          {
+            "text": "I'll go my own path",
+            "correct": false
+          }
         ],
         "wrongExplanation": "다시는 = (n)ever again, 잃고 싶지 않아 = don't want to lose"
       },
@@ -458,10 +683,22 @@
         "prompt": "사람",
         "promptTranslation": null,
         "options": [
-          { "text": "person", "correct": true },
-          { "text": "singer", "correct": false },
-          { "text": "path", "correct": false },
-          { "text": "beginning", "correct": false }
+          {
+            "text": "person",
+            "correct": true
+          },
+          {
+            "text": "singer",
+            "correct": false
+          },
+          {
+            "text": "path",
+            "correct": false
+          },
+          {
+            "text": "beginning",
+            "correct": false
+          }
         ],
         "wrongExplanation": "사람 = person"
       },
@@ -472,10 +709,28 @@
       "type": "sing-along",
       "label": "노래",
       "lines": [
-        { "korean": "새로운 시작은 늘 설레게 하지", "english": "A new beginning always makes your heart race", "highlights": [] },
-        { "korean": "모든 걸 이겨낼 것처럼", "english": "As if you could overcome everything", "highlights": [] },
-        { "korean": "시간을 뒤쫓는 시계바늘처럼", "english": "Like clock hands chasing time", "highlights": [] },
-        { "korean": "앞질러 가고 싶어 하지", "english": "They want to get ahead", "highlights": ["고 싶"] }
+        {
+          "korean": "새로운 시작은 늘 설레게 하지",
+          "english": "A new beginning always makes your heart race",
+          "highlights": []
+        },
+        {
+          "korean": "모든 걸 이겨낼 것처럼",
+          "english": "As if you could overcome everything",
+          "highlights": []
+        },
+        {
+          "korean": "시간을 뒤쫓는 시계바늘처럼",
+          "english": "Like clock hands chasing time",
+          "highlights": []
+        },
+        {
+          "korean": "앞질러 가고 싶어 하지",
+          "english": "They want to get ahead",
+          "highlights": [
+            "고 싶"
+          ]
+        }
       ],
       "musicPlaying": true
     },
@@ -489,28 +744,44 @@
           "english": "to find",
           "kind": "word",
           "partOfSpeech": "verb",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         },
         {
           "korean": "사람",
           "english": "person",
           "kind": "word",
           "partOfSpeech": "noun",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         },
         {
           "korean": "찾고 싶다",
           "english": "to want to find",
           "kind": "phrase",
           "partOfSpeech": "",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         },
         {
           "korean": "말하고 싶다",
           "english": "to want to say",
           "kind": "phrase",
           "partOfSpeech": "",
-          "songLine": { "korean": "", "english": "", "highlights": [] }
+          "songLine": {
+            "korean": "",
+            "english": "",
+            "highlights": []
+          }
         }
       ],
       "pattern": {

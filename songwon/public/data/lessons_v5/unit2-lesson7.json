@@ -8,97 +8,117 @@
     "lessonNumber": 7,
     "grammarFocus": "-지 않다",
     "grammarMeaning": "not, negation",
-    "koreanRatio": 0.65
+    "koreanRatio": 0.6
   },
+  "generatedAt": "2025-06-15T09:00:00.000Z",
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "멈추다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "to stop",
-            "correct": true
-          },
-          {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "sky",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "멈추다 = to stop."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "TWICE — Likey",
-      "content": "Standard negation. \"It doesn't change.\"\n\nLikey is TWICE's 2017 title track, and it's about the very specific, very modern anxiety of curating yourself for social media while waiting for one particular person's reaction. She's not posting for the world — she's posting for a like from someone whose opinion actually matters, and admitting that a heart-shaped button can't really carry what she's trying to say.\n\nIn this lesson, you'll learn the grammar pattern **-지 않다**, which means \"not, negation.\" We'll see how TWICE uses it in \"Likey.\"",
+      "content": "이번 레슨에서는 **-지 않다**를 배워요.\n'~하지 않다'는 부정을 나타내요.\n\nTWICE의 **Likey**는 SNS에 설레는 마음을 담은 노래예요.\n'좋아요'를 누르고 싶은 설렘을 표현해요.",
+      "contentEnglish": "In this lesson, you'll learn **-지 않다** — the way to say 'not' or negate actions.\n\nTWICE's **Likey** captures the excitement of social media. It expresses the flutter of wanting to get likes.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **변하다** — to change\n- **끝** — end\n- **변하지 않다** — to not change\n- **끝나지 않다** — to not end\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
-        "설렌다,",
-        "두근두근두근 (, )",
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
+        "Hey",
+        "TWICE (Yay)",
+        "Hey",
+        "",
+        "설렌다, me likey",
+        "Me likey, likey, likey",
+        "Me likey, likey, likey",
+        "두근두근두근 (Heart, heart)",
+        "Me likey",
+        "Me likey, likey, likey",
+        "Me likey, likey, likey",
         "두근두근두근",
-        "자꾸 드러내고 싶지 자꾸만"
+        "",
+        "자꾸 드러내고 싶지 자꾸만",
+        "사소한 것 하나까지 전부다",
+        "작은 화면 속에 내가 제일 예뻐 보이고파",
+        "아직은 감춰 이런 내 마음 꾹꾹",
+        "멋 부린다는 건 정말 귀찮은 거",
+        "그렇다고 절대 대충할 수가 없는걸 (Oh)",
+        "매일 가슴 뛰게 해, 이건 네가 몰라야만 돼",
+        "그러면서 뻔뻔하게",
+        "",
+        "BB cream, 파파파, 립스틱을, 맘맘마",
+        "카메라에 담아볼까 예쁘게? (쁘게)",
+        "이거 보면 웃어줘 그리고 꼭 눌러줘",
+        "저 밑에 앙증맞고 새빨간 (Heart, heart)",
+        "",
+        "근데 좋아요란 말은 뻔해",
+        "내 맘 표현하기엔 부족한데",
+        "근데 좋아요 잠도 못 자도",
+        "지각하게 돼도 좋은걸",
+        "",
+        "설렌다, me likey",
+        "Me likey, likey, likey",
+        "Me likey, likey, likey",
+        "두근두근두근",
+        "(Heart, heart)",
+        "Me likey",
+        "Me likey, likey, likey",
+        "Me likey, likey, likey",
+        "두근두근두근 (Heart, heart)",
+        "",
+        "그저 바라보고 있지",
+        "아무 말도 할 수 없지, oh",
+        "조금만 더 다가와요 내 맘 알아줘요",
+        "더 이상 감추고만 싶지 않아"
+      ],
+      "targetLineIndices": [
+        19,
+        25,
+        27,
+        45
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "더 이상 감추고만 싶지 않아",
+      "breakdown": "더 이상 = anymore\n감추다 = to hide\n~고만 싶다 = to only want to...\n싶지 않아 = don't want (negation)\n\n\"I don't want to hide (my feelings) anymore.\"\n-지 않다 is the negation pattern we're learning today!",
+      "dictionary": [
         {
-          "korean": "설렌다,",
-          "english": "I keep wanting to show it off, again and again",
-          "highlights": []
+          "word": "더 이상",
+          "reading": "더 이상",
+          "meaning": "anymore / any longer"
         },
         {
-          "korean": "두근두근두근 (, )",
-          "english": "every little thing, all of it",
-          "highlights": []
+          "word": "감추다",
+          "reading": "감추다",
+          "meaning": "to hide / to conceal"
         },
         {
-          "korean": "두근두근두근",
-          "english": "I want to look the prettiest inside that small screen",
-          "highlights": []
-        },
-        {
-          "korean": "자꾸 드러내고 싶지 자꾸만",
-          "english": "but for now I press down and hide this feeling of mine",
-          "highlights": []
+          "word": "-지 않다",
+          "reading": "-지 않다",
+          "meaning": "not (negation)"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-change",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "내 마음은 변하지 않아요.",
+        "english": "My heart does not change.",
+        "highlights": [
+          "변하"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-change",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +127,17 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "내 마음은 변하지 않아요",
+          "english": "My heart does not change",
           "highlights": [
-            "변하다"
+            "변하"
           ]
         },
         "audioKey": "변하다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-change",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -126,20 +146,20 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "end",
-            "correct": false
-          },
-          {
-            "text": "to not end",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          },
-          {
             "text": "to change",
             "correct": true
+          },
+          {
+            "text": "to stop",
+            "correct": false
+          },
+          {
+            "text": "to protect",
+            "correct": false
+          },
+          {
+            "text": "to hide",
+            "correct": false
           }
         ],
         "wrongExplanation": "변하다 = to change"
@@ -148,143 +168,146 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "계절이 변해요.",
-        "english": "The seasons change.",
-        "highlights": [
-          "변해요"
+      "id": "s7-line2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "근데 좋아요 잠도 못 자도",
+      "breakdown": "근데 = but / however\n좋아요 = (I) like it\n잠도 못 자도 = even if I can't sleep\n\n\"But I like it, even if I can't sleep.\"\nHere we see 못 (cannot), another negation form. But we're learning -지 않다 today!",
+      "dictionary": [
+        {
+          "word": "근데",
+          "reading": "그런데",
+          "meaning": "but / however"
+        },
+        {
+          "word": "좋아요",
+          "reading": "좋다",
+          "meaning": "to like / to be good"
+        },
+        {
+          "word": "잠",
+          "reading": "잠",
+          "meaning": "sleep"
+        },
+        {
+          "word": "못",
+          "reading": "못",
+          "meaning": "cannot (negation)"
+        }
+      ]
+    },
+    {
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-지 않다",
+        "meaning": "not / negation",
+        "explanation": "동사나 형용사 뒤에 붙여서 부정을 만들어요.\nAttach to verbs or adjectives to negate them — 'not do,' 'not be.'",
+        "songExample": {
+          "korean": "더 이상 감추고만 싶지 않아",
+          "english": "I don't want to hide anymore",
+          "highlights": [
+            "지 않"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "나는 먹지 않아요.",
+            "english": "I do not eat.",
+            "highlights": [
+              "지 않"
+            ]
+          },
+          {
+            "korean": "사랑은 변하지 않아요.",
+            "english": "Love does not change.",
+            "highlights": [
+              "지 않"
+            ]
+          },
+          {
+            "korean": "아무 말도 할 수 없지",
+            "english": "I can't say anything (from the lyrics)",
+            "highlights": [
+              "없지"
+            ]
+          }
         ]
       }
     },
     {
-      "id": "s9-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "계절이 ___.",
-        "promptTranslation": "The seasons change.",
+        "prompt": "나는 먹___ 않아요.",
+        "promptTranslation": "I do not eat.",
         "options": [
           {
-            "text": "변해요",
+            "text": "지",
             "correct": true
           },
           {
-            "text": "마음",
+            "text": "고",
             "correct": false
           },
           {
-            "text": "변하지 않다",
+            "text": "면",
             "correct": false
           },
           {
-            "text": "끝나지 않다",
+            "text": "지만",
             "correct": false
           }
         ],
-        "wrongExplanation": "계절이 변해요. = The seasons change."
+        "wrongExplanation": "먹지 않다 = to not eat. -지 않다 negates the verb."
       },
-      "scored": true,
-      "itemIndex": 0
+      "scored": true
     },
     {
-      "id": "s10-teach",
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-지 않다**로 부정을 만드는 법을 배웠어요.\n이제 이 패턴이 들어간 표현을 더 배워 볼까요?",
+      "contentEnglish": "You've learned how to negate with -지 않다.\nNow let's learn more phrases using this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-notchange",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "내 사랑은 변하지 않아요.",
+        "english": "My love does not change.",
+        "highlights": [
+          "변하지 않"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-notchange",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
         "korean": "변하지 않다",
         "english": "to not change",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
+        "partOfSpeech": "",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "내 마음은 변하지 않아요",
+          "english": "My heart does not change",
           "highlights": [
-            "변하지 않다"
+            "변하지 않"
           ]
         },
         "audioKey": "변하지 않다"
       }
     },
     {
-      "id": "rc1",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "설렌다, me likey",
-      "breakdown": "\"설렌다\"는 \"설레다\"의 다른 형태예요. 마음이 두근두근해요!\n\"me likey\"는 영어가 아니에요 — 귀여운 표현이에요. 좋아한다는 뜻이에요.\n한국 노래에서 영어를 섞어 쓰는 게 자주 있어요. 이걸 \"콩글리시\"라고 해요.\n이 마음은 변하**지 않아**요! \"-지 않다\"는 이 레슨의 문법이에요.",
-      "dictionary": [
-        {
-          "word": "설렌다",
-          "romanization": "seol-len-da",
-          "partOfSpeech": "verb",
-          "definition": "to be excited, heart-fluttering"
-        },
-        {
-          "word": "설레다",
-          "romanization": "seol-le-da",
-          "partOfSpeech": "verb",
-          "definition": "to feel excited, to flutter",
-          "example": {
-            "korean": "마음이 설레요.",
-            "english": "My heart is fluttering."
-          }
-        },
-        {
-          "word": "귀엽다",
-          "romanization": "gwi-yeop-da",
-          "partOfSpeech": "adjective",
-          "definition": "cute",
-          "example": {
-            "korean": "너무 귀여워요!",
-            "english": "So cute!"
-          }
-        },
-        {
-          "word": "표현",
-          "romanization": "pyo-hyeon",
-          "partOfSpeech": "noun",
-          "definition": "expression"
-        },
-        {
-          "word": "섞다",
-          "romanization": "seok-da",
-          "partOfSpeech": "verb",
-          "definition": "to mix"
-        },
-        {
-          "word": "자주",
-          "romanization": "ja-ju",
-          "partOfSpeech": "adverb",
-          "definition": "often, frequently",
-          "example": {
-            "korean": "자주 만나요.",
-            "english": "We meet often."
-          }
-        },
-        {
-          "word": "마음",
-          "romanization": "ma-eum",
-          "partOfSpeech": "noun",
-          "definition": "heart, mind",
-          "example": {
-            "korean": "마음이 따뜻해요.",
-            "english": "My heart is warm."
-          }
-        },
-        {
-          "word": "형태",
-          "romanization": "hyeong-tae",
-          "partOfSpeech": "noun",
-          "definition": "form, shape"
-        }
-      ]
-    },
-    {
-      "id": "s11-quiz",
+      "id": "s13-quiz-notchange",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -293,103 +316,100 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "end",
-            "correct": false
-          },
-          {
-            "text": "to be loud",
-            "correct": false
-          },
-          {
             "text": "to not change",
             "correct": true
           },
           {
-            "text": "to disappear",
+            "text": "to not stop",
+            "correct": false
+          },
+          {
+            "text": "to not forget",
+            "correct": false
+          },
+          {
+            "text": "to not wait",
             "correct": false
           }
         ],
-        "wrongExplanation": "변하지 않다 = to not change"
+        "wrongExplanation": "변하다 (to change) + -지 않다 = 변하지 않다 (to not change)"
       },
       "scored": true,
-      "itemIndex": 1
+      "itemIndex": 2
     },
     {
-      "id": "s12-context",
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "매일 가슴 뛰게 해, 이건 네가 몰라야만 돼",
+      "breakdown": "매일 = every day\n가슴 뛰게 하다 = to make (my) heart beat\n이건 = this (thing)\n네가 = you (subject)\n몰라야만 돼 = must not know\n\n\"You make my heart beat every day, but you must not know this.\"",
+      "dictionary": [
+        {
+          "word": "매일",
+          "reading": "매일",
+          "meaning": "every day"
+        },
+        {
+          "word": "가슴",
+          "reading": "가슴",
+          "meaning": "heart / chest"
+        },
+        {
+          "word": "뛰다",
+          "reading": "뛰다",
+          "meaning": "to beat / to run"
+        },
+        {
+          "word": "모르다",
+          "reading": "모르다",
+          "meaning": "to not know"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "더 이상 감추고만 싶지 않아",
+        "promptTranslation": "이 가사의 뜻은?",
+        "options": [
+          {
+            "text": "I don't want to hide anymore",
+            "correct": true
+          },
+          {
+            "text": "I can't sleep anymore",
+            "correct": false
+          },
+          {
+            "text": "My heart does not change",
+            "correct": false
+          },
+          {
+            "text": "The dream does not end",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "더 이상 = anymore, 감추다 = to hide, 싶지 않다 = don't want to"
+      },
+      "scored": true
+    },
+    {
+      "id": "s16-context-end",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "마음은 변하지 않아요.",
-        "english": "My feelings don't change.",
+        "korean": "이 노래는 끝이 없어요.",
+        "english": "This song has no end.",
         "highlights": [
-          "변하지 않"
+          "끝"
         ]
       }
     },
     {
-      "id": "s13-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "마음은 ___아요.",
-        "promptTranslation": "My feelings don't change.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "변하지 않",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "마음은 변하지 않아요. = My feelings don't change."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "설렌다, me likey",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "I keep wanting to show it off, again and again",
-            "correct": true
-          },
-          {
-            "text": "every little thing, all of it",
-            "correct": false
-          },
-          {
-            "text": "I want to look the prettiest inside that small screen",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "설렌다, me likey = I keep wanting to show it off, again and again"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s15-teach",
+      "id": "s17-teach-end",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -398,8 +418,8 @@
         "kind": "word",
         "partOfSpeech": "noun",
         "songLine": {
-          "korean": "Choiza) 아주 나쁜 소식이 많아 세상은 끝을 향해 간다",
-          "english": "",
+          "korean": "이 꿈은 끝나지 않아",
+          "english": "This dream does not end",
           "highlights": [
             "끝"
           ]
@@ -408,88 +428,7 @@
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "두근두근두근",
-      "breakdown": "\"두근두근\"은 심장이 뛰는 소리예요! 한국어의 의성어예요.\n영어의 \"thump-thump\" 또는 \"ba-dump ba-dump\"와 비슷해요.\n한국어에는 이런 소리 말이 아주 많아요. \"두근두근\" \"콩닥콩닥\" \"쿵쿵\" — 다 심장 소리예요.\n이 마음은 끝나**지 않아**요. 두근두근이 멈추**지 않아**요!",
-      "dictionary": [
-        {
-          "word": "두근두근",
-          "romanization": "du-geun-du-geun",
-          "partOfSpeech": "adverb",
-          "definition": "thump-thump (heartbeat)"
-        },
-        {
-          "word": "심장",
-          "romanization": "sim-jang",
-          "partOfSpeech": "noun",
-          "definition": "heart (organ)",
-          "example": {
-            "korean": "심장이 빨리 뛰어요.",
-            "english": "My heart is beating fast."
-          }
-        },
-        {
-          "word": "뛰다",
-          "romanization": "ttwi-da",
-          "partOfSpeech": "verb",
-          "definition": "to beat (heart), to run, to jump",
-          "example": {
-            "korean": "심장이 뛰어요.",
-            "english": "My heart is beating."
-          }
-        },
-        {
-          "word": "소리",
-          "romanization": "so-ri",
-          "partOfSpeech": "noun",
-          "definition": "sound, noise",
-          "example": {
-            "korean": "무슨 소리예요?",
-            "english": "What's that sound?"
-          }
-        },
-        {
-          "word": "의성어",
-          "romanization": "ui-seong-eo",
-          "partOfSpeech": "noun",
-          "definition": "onomatopoeia"
-        },
-        {
-          "word": "비슷하다",
-          "romanization": "bi-seut-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "similar",
-          "example": {
-            "korean": "비슷해요.",
-            "english": "It's similar."
-          }
-        },
-        {
-          "word": "멈추다",
-          "romanization": "meom-chu-da",
-          "partOfSpeech": "verb",
-          "definition": "to stop",
-          "example": {
-            "korean": "멈추세요!",
-            "english": "Stop!"
-          }
-        },
-        {
-          "word": "많다",
-          "romanization": "man-ta",
-          "partOfSpeech": "adjective",
-          "definition": "many, a lot",
-          "example": {
-            "korean": "사람이 많아요.",
-            "english": "There are many people."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz-end",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -498,292 +437,69 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to not change",
-            "correct": false
-          },
-          {
             "text": "end",
             "correct": true
           },
           {
-            "text": "to hide",
+            "text": "time",
             "correct": false
           },
           {
-            "text": "to not end",
+            "text": "memory",
+            "correct": false
+          },
+          {
+            "text": "beginning",
             "correct": false
           }
         ],
         "wrongExplanation": "끝 = end"
       },
       "scored": true,
-      "itemIndex": 2
+      "itemIndex": 1
     },
     {
-      "id": "s17-context",
+      "id": "s19-context-notend",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "끝까지 가요.",
-        "english": "Let's go to the end.",
-        "highlights": [
-          "끝"
-        ]
-      }
-    },
-    {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___까지 가요.",
-        "promptTranslation": "Let's go to the end.",
-        "options": [
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "변해요",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "끝",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "끝까지 가요. = Let's go to the end."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "계절이 변해요.",
-          "english": "The seasons change.",
-          "highlights": [
-            "변해요"
-          ]
-        },
-        {
-          "korean": "끝까지 가요.",
-          "english": "Let's go to the end.",
-          "highlights": [
-            "끝"
-          ]
-        }
-      ],
-      "note": "변하다 + 끝 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "I keep wanting to show it off, again and again",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "두근두근두근",
-            "correct": false
-          },
-          {
-            "text": "두근두근두근 (Heart, heart)",
-            "correct": false
-          },
-          {
-            "text": "설렌다, me likey",
-            "correct": true
-          },
-          {
-            "text": "자꾸 드러내고 싶지 자꾸만",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "설렌다, me likey"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-지 않다",
-        "meaning": "not, negation",
-        "explanation": "Standard negation. \"It doesn't change.\"",
-        "songExample": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "지 않다"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "자꾸 드러내고 싶지 자꾸만",
-      "breakdown": "\"자꾸\"는 \"계속\" 또는 \"반복해서\"예요. \"자꾸만\"은 \"자꾸\"를 더 강조한 거예요.\n\"드러내다\"는 숨긴 것을 보여주는 거예요. 감정을 드러내다 = 감정을 보여주다.\n가수는 좋아하는 마음을 자꾸 드러내고 싶어요! 숨기**지 않고** 보여주고 싶어요.\n\"드러내고 싶지\" — \"드러내고 싶지 않아?\"라고 물어보는 거예요. 너도 그렇지 않아?",
-      "dictionary": [
-        {
-          "word": "자꾸",
-          "romanization": "ja-kku",
-          "partOfSpeech": "adverb",
-          "definition": "repeatedly, keep doing"
-        },
-        {
-          "word": "자꾸만",
-          "romanization": "ja-kku-man",
-          "partOfSpeech": "adverb",
-          "definition": "again and again (emphatic)"
-        },
-        {
-          "word": "드러내다",
-          "romanization": "deu-reo-nae-da",
-          "partOfSpeech": "verb",
-          "definition": "to reveal, to show",
-          "example": {
-            "korean": "감정을 드러내요.",
-            "english": "I show my feelings."
-          }
-        },
-        {
-          "word": "숨기다",
-          "romanization": "sum-gi-da",
-          "partOfSpeech": "verb",
-          "definition": "to hide (something)",
-          "example": {
-            "korean": "비밀을 숨겨요.",
-            "english": "I hide a secret."
-          }
-        },
-        {
-          "word": "감정",
-          "romanization": "gam-jeong",
-          "partOfSpeech": "noun",
-          "definition": "emotion, feeling",
-          "example": {
-            "korean": "감정이 복잡해요.",
-            "english": "My feelings are complicated."
-          }
-        },
-        {
-          "word": "강조",
-          "romanization": "gang-jo",
-          "partOfSpeech": "noun",
-          "definition": "emphasis"
-        },
-        {
-          "word": "보여주다",
-          "romanization": "bo-yeo-ju-da",
-          "partOfSpeech": "verb",
-          "definition": "to show",
-          "example": {
-            "korean": "사진을 보여줘요.",
-            "english": "Show me the photo."
-          }
-        },
-        {
-          "word": "비밀",
-          "romanization": "bi-mil",
-          "partOfSpeech": "noun",
-          "definition": "secret",
-          "example": {
-            "korean": "비밀이에요.",
-            "english": "It's a secret."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "끝나지 않다",
-        "english": "to not end",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-지 않다 = not, negation",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "끝나지 않다"
-          ]
-        },
-        "audioKey": "끝나지 않다"
-      }
-    },
-    {
-      "id": "s23-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "끝나지 않다",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "end",
-            "correct": false
-          },
-          {
-            "text": "to not change",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "to not end",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "끝나지 않다 = to not end"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "이야기가 끝나지 않아요.",
-        "english": "The story doesn't end.",
+        "korean": "우리 사랑은 끝나지 않아요.",
+        "english": "Our love does not end.",
         "highlights": [
           "끝나지 않"
         ]
       }
     },
     {
-      "id": "s25-quiz",
+      "id": "s20-teach-notend",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "끝나지 않다",
+        "english": "to not end",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "이 꿈은 끝나지 않아",
+          "english": "This dream does not end",
+          "highlights": [
+            "끝나지 않"
+          ]
+        },
+        "audioKey": "끝나지 않다"
+      }
+    },
+    {
+      "id": "s21-quiz-notend",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "끝나___",
-        "promptTranslation": "to not end",
+        "type": "fill-blank",
+        "prompt": "꿈은 끝나___ 않아요.",
+        "promptTranslation": "The dream does not end.",
         "options": [
           {
-            "text": "지 않다",
+            "text": "지",
             "correct": true
           },
           {
@@ -791,316 +507,242 @@
             "correct": false
           },
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
             "text": "면",
             "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -지 않다예요."
+        "wrongExplanation": "끝나다 (to end) + -지 않다 = 끝나지 않다 (to not end)"
       },
       "scored": true,
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "What does -지 않다 express?",
-        "promptTranslation": null,
-        "options": [
-          {
-            "text": "but / however",
-            "correct": false
-          },
-          {
-            "text": "not at all",
-            "correct": false
-          },
-          {
-            "text": "always / every time",
-            "correct": false
-          },
-          {
-            "text": "not, negation",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "-지 않다 = not, negation"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
+      "id": "s22-line4",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "자꾸 드러내고 싶지 자꾸만",
-      "breakdown": "이 가사를 다시 한번 보면, \"-지 않다\" 문법이 숨어 있어요.\n가수는 마음을 숨기**지 않고** 드러내고 싶어요. \"숨기지 않다\" = not hide.\n\"변하**지 않다**\" — 이 마음은 변하지 않아요. 항상 좋아해요.\n\"끝나**지 않다**\" — 이 감정은 끝나지 않아요. 자꾸만 두근두근해요!",
+      "lyricLine": "근데 좋아요란 말은 뻔해",
+      "breakdown": "근데 = but\n좋아요란 말 = the word 'like'\n은 = (topic marker)\n뻔해 = obvious / clichéd\n\n\"But the word 'like' is too obvious.\"\nThe singer wants more than just 'likes' — she wants real feelings!",
       "dictionary": [
         {
-          "word": "다시 한번",
-          "romanization": "da-si han-beon",
-          "partOfSpeech": "phrase",
-          "definition": "one more time, once again"
+          "word": "말",
+          "reading": "말",
+          "meaning": "word / speech"
         },
         {
-          "word": "숨다",
-          "romanization": "sum-da",
-          "partOfSpeech": "verb",
-          "definition": "to hide (oneself)",
-          "example": {
-            "korean": "어디에 숨었어요?",
-            "english": "Where did you hide?"
-          }
-        },
-        {
-          "word": "변하다",
-          "romanization": "byeon-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to change",
-          "example": {
-            "korean": "많이 변했어요.",
-            "english": "A lot has changed."
-          }
-        },
-        {
-          "word": "끝나다",
-          "romanization": "kkeut-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to end, to finish",
-          "example": {
-            "korean": "수업이 끝났어요.",
-            "english": "Class ended."
-          }
-        },
-        {
-          "word": "항상",
-          "romanization": "hang-sang",
-          "partOfSpeech": "adverb",
-          "definition": "always"
-        },
-        {
-          "word": "좋아하다",
-          "romanization": "jo-a-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to like",
-          "example": {
-            "korean": "이 노래 좋아해요.",
-            "english": "I like this song."
-          }
-        },
-        {
-          "word": "숨어 있다",
-          "romanization": "sum-eo it-da",
-          "partOfSpeech": "phrase",
-          "definition": "to be hiding"
-        },
-        {
-          "word": "문법",
-          "romanization": "mun-beop",
-          "partOfSpeech": "noun",
-          "definition": "grammar"
+          "word": "뻔하다",
+          "reading": "뻔하다",
+          "meaning": "to be obvious / predictable"
         }
       ]
     },
     {
-      "id": "s27-quiz",
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "시간은 멈추지 않아요.",
+          "english": "Time does not stop.",
+          "highlights": [
+            "지 않"
+          ]
+        },
+        {
+          "korean": "기억은 변하지 않아요.",
+          "english": "Memories do not change.",
+          "highlights": [
+            "지 않"
+          ]
+        }
+      ],
+      "note": "-지 않다 works with any verb or adjective to negate it!"
+    },
+    {
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
+        "type": "tap-meaning",
+        "prompt": "What does -지 않다 do?",
+        "promptTranslation": null,
         "options": [
           {
-            "text": "끝나지 않다",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "끝",
-            "correct": false
-          },
-          {
-            "text": "변하다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "변하다 = to change"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (end)",
-        "options": [
-          {
-            "text": "변하다",
-            "correct": false
-          },
-          {
-            "text": "끝",
+            "text": "negates verbs and adjectives (not)",
             "correct": true
           },
           {
-            "text": "마음",
+            "text": "connects two actions (and)",
             "correct": false
           },
           {
-            "text": "사랑",
+            "text": "shows ability (can)",
+            "correct": false
+          },
+          {
+            "text": "makes a question",
             "correct": false
           }
         ],
-        "wrongExplanation": "끝 = end"
+        "wrongExplanation": "-지 않다 negates: 하다 (to do) → 하지 않다 (to not do)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s29-quiz",
+      "id": "s25-quiz-mix2",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
         "prompt": "to not change",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "promptTranslation": "한국어로?",
         "options": [
           {
             "text": "변하지 않다",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "끝나지 않다",
             "correct": false
           },
           {
-            "text": "변하다",
+            "text": "멈추지 않다",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "잊지 않다",
             "correct": false
           }
         ],
-        "wrongExplanation": "to not change = 변하지 않다"
+        "wrongExplanation": "변하다 (to change) + -지 않다 = 변하지 않다 (to not change)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "걱정하___ 않아요.",
-        "promptTranslation": "I don't worry.",
+        "type": "fill-blank",
+        "prompt": "나는 기다리___ 않아요.",
+        "promptTranslation": "I do not wait.",
         "options": [
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "지 않다",
+            "text": "지",
             "correct": true
+          },
+          {
+            "text": "고",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
           },
           {
             "text": "게",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -지 않다!"
+        "wrongExplanation": "기다리다 + -지 않다 = 기다리지 않다 (to not wait)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"않다\", \"변하다\", \"하지\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "아무 말도 할 수 없지",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "변하다 하지 않다",
+            "text": "I can't say anything",
             "correct": true
+          },
+          {
+            "text": "I don't want to hide",
+            "correct": false
+          },
+          {
+            "text": "The dream does not end",
+            "correct": false
+          },
+          {
+            "text": "Love does not change",
+            "correct": false
           }
         ],
-        "wrongExplanation": "변하다 하지 않다"
+        "wrongExplanation": "아무 말도 = any words, 할 수 없다 = cannot do, -지 = casual ending"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "끝",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "end",
+            "correct": true
+          },
+          {
+            "text": "beginning",
+            "correct": false
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "heart",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "끝 = end"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "설렌다, me likey",
-          "english": "",
+          "korean": "더 이상 감추고만 싶지 않아",
+          "english": "I don't want to hide anymore",
+          "highlights": [
+            "지 않"
+          ]
+        },
+        {
+          "korean": "근데 좋아요 잠도 못 자도",
+          "english": "But I like it, even if I can't sleep",
           "highlights": []
         },
         {
-          "korean": "두근두근두근 (Heart, heart)",
-          "english": "",
+          "korean": "매일 가슴 뛰게 해, 이건 네가 몰라야만 돼",
+          "english": "You make my heart beat every day, but you must not know this",
           "highlights": []
         },
         {
-          "korean": "두근두근두근",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "자꾸 드러내고 싶지 자꾸만",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "사소한 것 하나까지 전부다",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "작은 화면 속에 내가 제일 예뻐 보이고파",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "아직은 감춰 이런 내 마음 꾹꾹",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "멋 부린다는 건 정말 귀찮은 거",
-          "english": "",
+          "korean": "근데 좋아요란 말은 뻔해",
+          "english": "But the word 'like' is too obvious",
           "highlights": []
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1151,12 +793,11 @@
       ],
       "pattern": {
         "pattern": "-지 않다",
-        "meaning": "not, negation"
+        "meaning": "not / negation"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
-  ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  ]
 }

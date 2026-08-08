@@ -1,104 +1,117 @@
 {
   "id": "v5-unit3-lesson11",
   "meta": {
-    "songId": "bol4-love-story",
+    "songId": "bol4-lovestory",
     "songTitle": "Love story",
     "artist": "BOL4",
     "unit": 3,
     "lessonNumber": 11,
     "grammarFocus": "-잖아",
     "grammarMeaning": "you know / isn't it / reminding",
-    "koreanRatio": 0.75
+    "koreanRatio": 0.6
   },
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "빛나다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "to shine",
-            "correct": true
-          },
-          {
-            "text": "sky",
-            "correct": false
-          },
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "heart",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "빛나다 = to shine."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "BOL4 — Love story",
-      "content": "Reminding someone of something they already know. Very casual and intimate.\n\nA sugar-rush of a love song, told almost entirely in flashback: the day he handed her a flower, the birthday they snuck out at night, the walk home he kissed her goodbye on, the trip where they traced constellations. It's less a story with a plot than a scrapbook — quick, bright memories stacked on top of each other, held together by the repeated fear that it's all too good to be true.\n\nIn this lesson, you'll learn the grammar pattern **-잖아**, which means \"you know / isn't it / reminding.\" We'll see how BOL4 uses it in \"Love story.\"",
+      "content": "이번 레슨에서는 **-잖아**를 배워요.\n상대방도 알고 있는 것을 상기시킬 때 쓰는 표현이에요.\n\nBOL4의 **Love story**는 사랑에 빠진 순간들을 그린 노래예요.\n꿈같은 로맨스 이야기를 들어봐요.",
+      "contentEnglish": "In this lesson, you'll learn **-잖아** — used to remind someone of something they already know.\n\nBOL4's **Love story** paints moments of falling in love. Listen to this dreamlike romance.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **알다** — to know\n- **보이다** — to be seen\n- **알잖아** — you know, right?\n- **보이잖아** — you can see it, can't you?\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
+        "Thought that I was princess",
         "날 좋아하던 그때",
         "수줍게 꽃을 건네던 너에게",
         "웃으며 손을 내밀었지",
-        "시간 지나"
+        "시간 지나 my birthday",
+        "우린 몰래 run away",
+        "온통 둘뿐인 밤거릴 걷다가",
+        "너와 눈이 마주친 그날",
+        "",
+        "Oh, babe, 너의 눈동자에 cheers",
+        "달빛에 비춰진 우리의 흩어진 잔상",
+        "너의 이야기에 취해",
+        "밤하늘의 별이 쏟아질 것만 같은 기분",
+        "Oh God, please this is not a dream",
+        "",
+        "Thought that it was romance",
+        "날 바래다준 그때",
+        "수줍게 인사를 건네던 너에게",
+        "살며시 입을 맞추었지",
+        "시간 지나 go on trip",
+        "한 손엔 진한 커피",
+        "우리가 새긴 별자릴 찾다가",
+        "너와 눈이 마주친 그날",
+        "",
+        "Oh, babe, 너의 눈동자에 cheers",
+        "달빛에 비춰진 우리의 흩어진 잔상",
+        "너의 이야기에 취해",
+        "밤하늘의 별이 쏟아질 것만 같은 기분",
+        "",
+        "Oh-oh-oh, 꿈인가 봐",
+        "그래 니가 내 옆에 있는 꿈",
+        "Oh-oh, no",
+        "아니잖아 이건, yeah",
+        "I got you, boy",
+        "",
+        "Oh, babe, 너의 눈동자에 cheers",
+        "붉게 물들어진 우리의 오래된 잔상",
+        "너의 이야기에 취해",
+        "온 세상의 별이 쏟아질 것만 같은 기분",
+        "Oh God, please this is not a dream"
+      ],
+      "targetLineIndices": [
+        11,
+        29,
+        30,
+        35
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "아니잖아 이건, yeah",
+      "breakdown": "아니잖아 = 아니다 + **잖아**\n이건 = 이것은 (this)\n\n**-잖아** reminds someone of what they already know.\n\"It's not (a dream), you know\" — reminding that this is real.\n\nThis is the key grammar pattern for this lesson!",
+      "dictionary": [
         {
-          "korean": "날 좋아하던 그때",
-          "english": "Thought that I was a princess",
-          "highlights": []
+          "word": "아니다",
+          "reading": "아니다",
+          "meaning": "to not be"
         },
         {
-          "korean": "수줍게 꽃을 건네던 너에게",
-          "english": "back when you liked me",
-          "highlights": []
+          "word": "-잖아",
+          "reading": "-잖아",
+          "meaning": "you know / isn't it (reminding)"
         },
         {
-          "korean": "웃으며 손을 내밀었지",
-          "english": "shyly handing me a flower",
-          "highlights": []
-        },
-        {
-          "korean": "시간 지나",
-          "english": "I smiled and took your hand",
-          "highlights": []
+          "word": "이건",
+          "reading": "이것은",
+          "meaning": "this (contracted)"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-알다",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "나는 그 사람을 알아요.",
+        "english": "I know that person.",
+        "highlights": [
+          "알아"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-알다",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +120,17 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "아니잖아 이건",
+          "english": "It's not (a dream), you know",
           "highlights": [
-            "알다"
+            "알"
           ]
         },
         "audioKey": "알다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-알다",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -130,15 +143,15 @@
             "correct": true
           },
           {
-            "text": "you know, right?",
+            "text": "to forget",
             "correct": false
           },
           {
-            "text": "to be seen",
+            "text": "to find",
             "correct": false
           },
           {
-            "text": "dream",
+            "text": "to wait",
             "correct": false
           }
         ],
@@ -148,143 +161,147 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "잘 알아요.",
-        "english": "I know well.",
-        "highlights": [
-          "알아요"
-        ]
-      }
-    },
-    {
-      "id": "s9-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "잘 ___.",
-        "promptTranslation": "I know well.",
-        "options": [
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "알아요",
-            "correct": true
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "알잖아",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "잘 알아요. = I know well."
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "알잖아",
-        "english": "you know, right?",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "알잖아"
-          ]
-        },
-        "audioKey": "알잖아"
-      }
-    },
-    {
-      "id": "rc1",
+      "id": "s7-line2",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "날 좋아하던 그때",
-      "breakdown": "\"날\"은 \"나를\"의 줄임말이에요. 나를 좋아하던...\n\"좋아하던\"은 과거에 좋아했다는 뜻이에요. \"-던\"은 과거 기억이에요.\n\"그때\"는 \"that time\"이에요. 예전에 좋아하던 그때.\n알**잖아**, 그때 얼마나 행복했는지. 알**잖아** — 너도 기억하지?",
+      "lyricLine": "그래 니가 내 옆에 있는 꿈",
+      "breakdown": "그래 = yeah / right\n니가 = 네가 (you, subject)\n내 = my\n옆에 = beside / next to\n있는 = being / existing\n꿈 = dream\n\n\"Yeah, a dream where you're beside me.\"\nThe singer is wondering if this moment is a dream.",
       "dictionary": [
         {
-          "word": "날",
-          "romanization": "nal",
-          "partOfSpeech": "pronoun",
-          "definition": "me (contraction of 나를)"
+          "word": "그래",
+          "reading": "그래",
+          "meaning": "yeah / right"
         },
         {
-          "word": "좋아하다",
-          "romanization": "jo-a-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to like",
-          "example": {
-            "korean": "너를 좋아해요.",
-            "english": "I like you."
-          }
+          "word": "옆",
+          "reading": "옆",
+          "meaning": "side / beside"
         },
         {
-          "word": "그때",
-          "romanization": "geu-ttae",
-          "partOfSpeech": "noun",
-          "definition": "that time, back then",
-          "example": {
-            "korean": "그때가 좋았어요.",
-            "english": "Those were good times."
-          }
+          "word": "있다",
+          "reading": "있다",
+          "meaning": "to exist / to be"
         },
         {
-          "word": "과거",
-          "romanization": "gwa-geo",
-          "partOfSpeech": "noun",
-          "definition": "past"
-        },
-        {
-          "word": "기억",
-          "romanization": "gi-eok",
-          "partOfSpeech": "noun",
-          "definition": "memory"
-        },
-        {
-          "word": "예전",
-          "romanization": "ye-jeon",
-          "partOfSpeech": "noun",
-          "definition": "before, in the past"
-        },
-        {
-          "word": "얼마나",
-          "romanization": "eol-ma-na",
-          "partOfSpeech": "adverb",
-          "definition": "how much",
-          "example": {
-            "korean": "얼마나 좋아해요?",
-            "english": "How much do you like it?"
-          }
-        },
-        {
-          "word": "행복하다",
-          "romanization": "haeng-bok-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "happy",
-          "example": {
-            "korean": "행복해요.",
-            "english": "I'm happy."
-          }
+          "word": "꿈",
+          "reading": "꿈",
+          "meaning": "dream"
         }
       ]
     },
     {
-      "id": "s11-quiz",
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-잖아",
+        "meaning": "you know / isn't it / reminding",
+        "explanation": "상대방도 이미 알고 있는 사실을 상기시킬 때 써요.\n\"You already know this\" or \"as you know\" — reminds the listener of shared knowledge.",
+        "songExample": {
+          "korean": "아니잖아 이건",
+          "english": "It's not (a dream), you know",
+          "highlights": [
+            "잖아"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "너도 알잖아.",
+            "english": "You know it too, don't you?",
+            "highlights": [
+              "알잖아"
+            ]
+          },
+          {
+            "korean": "시간이 없잖아요.",
+            "english": "We don't have time, you know.",
+            "highlights": [
+              "없잖아"
+            ]
+          },
+          {
+            "korean": "사랑하잖아.",
+            "english": "I love you, you know.",
+            "highlights": [
+              "하잖아"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "s9-quiz-pattern",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "너도 알___, 내가 기다렸어.",
+        "promptTranslation": "You know ___, I've been waiting.",
+        "options": [
+          {
+            "text": "잖아",
+            "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-잖아 reminds someone of what they know: 알잖아 = you know"
+      },
+      "scored": true
+    },
+    {
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-잖아**가 어떻게 쓰이는지 봤어요.\n이제 이 패턴이 들어간 표현을 더 배워 볼까요?",
+      "contentEnglish": "You've seen how -잖아 works.\nNow let's learn more phrases using this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-알잖아",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "내 마음을 알잖아요.",
+        "english": "You know my heart, don't you?",
+        "highlights": [
+          "알잖아"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-알잖아",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "알잖아",
+        "english": "you know (reminding)",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "아니잖아 이건",
+          "english": "It's not (a dream), you know",
+          "highlights": [
+            "잖아"
+          ]
+        },
+        "audioKey": "알잖아",
+        "phraseNote": "알다 (to know) + -잖아 (you know) = 알잖아"
+      }
+    },
+    {
+      "id": "s13-quiz-알잖아",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -293,806 +310,439 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to know",
-            "correct": false
-          },
-          {
-            "text": "to be seen",
-            "correct": false
-          },
-          {
-            "text": "you know, right?",
+            "text": "you know (reminding)",
             "correct": true
           },
           {
-            "text": "to disappear",
+            "text": "if you know",
+            "correct": false
+          },
+          {
+            "text": "I want to know",
+            "correct": false
+          },
+          {
+            "text": "because I know",
             "correct": false
           }
         ],
-        "wrongExplanation": "알잖아 = you know, right?"
+        "wrongExplanation": "알잖아 = you know (reminding someone of what they already know)"
       },
       "scored": true,
       "itemIndex": 1
     },
     {
-      "id": "s12-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "너도 알잖아.",
-        "english": "You know too, right?",
-        "highlights": [
-          "알잖아"
-        ]
-      }
-    },
-    {
-      "id": "s13-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "너도 ___.",
-        "promptTranslation": "You know too, right?",
-        "options": [
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "알잖아",
-            "correct": true
-          },
-          {
-            "text": "보이잖아",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "너도 알잖아. = You know too, right?"
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "날 좋아하던 그때",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "Thought that I was a princess",
-            "correct": true
-          },
-          {
-            "text": "back when you liked me",
-            "correct": false
-          },
-          {
-            "text": "shyly handing me a flower",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "날 좋아하던 그때 = Thought that I was a princess"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s15-teach",
-      "type": "word-card",
-      "label": "새 단어",
-      "item": {
-        "korean": "보이다",
-        "english": "to be seen",
-        "kind": "word",
-        "partOfSpeech": "verb",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "보이다"
-          ]
-        },
-        "audioKey": "보이다"
-      }
-    },
-    {
-      "id": "rc2",
+      "id": "s14-line3",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "수줍게 꽃을 건네던 너에게",
-      "breakdown": "\"수줍다\"는 부끄러운 거예요. \"수줍게\"는 부끄럽게.\n\"꽃\"은 flower예요. \"건네다\"는 무언가를 주는 거예요.\n\"너에게\"는 \"너\" + \"에게\" = \"to you\"예요.\n수줍게 꽃을 건네던 너 — 알**잖아**, 그 모습이 예뻤어. 보이**잖아**, 아직도 기억에.",
+      "lyricLine": "너의 이야기에 취해",
+      "breakdown": "너의 = your\n이야기 = story\n에 = to / by (particle)\n취해 = 취하다 (to be drunk / intoxicated)\n\n\"Intoxicated by your story\" — falling deeper into the conversation and the moment.",
       "dictionary": [
         {
-          "word": "수줍다",
-          "romanization": "su-jup-da",
-          "partOfSpeech": "adjective",
-          "definition": "shy, bashful"
+          "word": "이야기",
+          "reading": "이야기",
+          "meaning": "story / talk"
         },
         {
-          "word": "수줍게",
-          "romanization": "su-jup-ge",
-          "partOfSpeech": "adverb",
-          "definition": "shyly"
-        },
-        {
-          "word": "꽃",
-          "romanization": "kkot",
-          "partOfSpeech": "noun",
-          "definition": "flower",
-          "example": {
-            "korean": "꽃이 예뻐요.",
-            "english": "The flower is pretty."
-          }
-        },
-        {
-          "word": "건네다",
-          "romanization": "geon-ne-da",
-          "partOfSpeech": "verb",
-          "definition": "to hand over, to give"
-        },
-        {
-          "word": "부끄럽다",
-          "romanization": "bu-kkeu-reop-da",
-          "partOfSpeech": "adjective",
-          "definition": "embarrassed, shy"
-        },
-        {
-          "word": "모습",
-          "romanization": "mo-seup",
-          "partOfSpeech": "noun",
-          "definition": "appearance, figure",
-          "example": {
-            "korean": "예쁜 모습이에요.",
-            "english": "It's a pretty sight."
-          }
-        },
-        {
-          "word": "예쁘다",
-          "romanization": "ye-ppeu-da",
-          "partOfSpeech": "adjective",
-          "definition": "pretty",
-          "example": {
-            "korean": "너무 예뻐요.",
-            "english": "So pretty."
-          }
-        },
-        {
-          "word": "에게",
-          "romanization": "e-ge",
-          "partOfSpeech": "particle",
-          "definition": "to (a person)"
+          "word": "취하다",
+          "reading": "취하다",
+          "meaning": "to be intoxicated / drunk"
         }
       ]
     },
     {
-      "id": "s16-quiz",
+      "id": "s15-quiz-lyrics",
       "type": "quiz",
-      "label": "퀴즈",
+      "label": "가사 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "보이다",
-        "promptTranslation": "무슨 뜻일까요?",
+        "prompt": "아니잖아 이건",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "to hide",
-            "correct": false
-          },
-          {
-            "text": "you know, right?",
-            "correct": false
-          },
-          {
-            "text": "to be seen",
+            "text": "It's not (a dream), you know",
             "correct": true
           },
           {
-            "text": "you can see it, can't you?",
+            "text": "You're beside me in a dream",
+            "correct": false
+          },
+          {
+            "text": "I'm intoxicated by your story",
+            "correct": false
+          },
+          {
+            "text": "This is not a dream, please",
             "correct": false
           }
         ],
-        "wrongExplanation": "보이다 = to be seen"
+        "wrongExplanation": "아니다 = to not be, -잖아 = you know. 아니잖아 = it's not, you know"
       },
-      "scored": true,
-      "itemIndex": 2
+      "scored": true
     },
     {
-      "id": "s17-context",
+      "id": "s16-context-남다",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "바다가 보여요.",
-        "english": "The ocean can be seen.",
+        "korean": "시간이 조금 남았어요.",
+        "english": "A little time remains.",
         "highlights": [
-          "보여요"
+          "남"
         ]
       }
     },
     {
-      "id": "s18-quiz",
+      "id": "s17-teach-남다",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "남다",
+        "english": "to remain / to be left",
+        "kind": "word",
+        "partOfSpeech": "verb",
+        "songLine": {
+          "korean": "시간이 남잖아",
+          "english": "Time remains, you know",
+          "highlights": [
+            "남"
+          ]
+        },
+        "audioKey": "남다"
+      }
+    },
+    {
+      "id": "s18-quiz-남다",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "distinguish",
-        "prompt": "바다가 ___.",
-        "promptTranslation": "The ocean can be seen.",
+        "type": "tap-meaning",
+        "prompt": "남다",
+        "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "세상",
-            "correct": false
-          },
-          {
-            "text": "보여요",
+            "text": "to remain / to be left",
             "correct": true
           },
           {
-            "text": "알아요",
+            "text": "to stop",
             "correct": false
           },
           {
-            "text": "사랑",
+            "text": "to change",
+            "correct": false
+          },
+          {
+            "text": "to protect",
             "correct": false
           }
         ],
-        "wrongExplanation": "바다가 보여요. = The ocean can be seen."
+        "wrongExplanation": "남다 = to remain / to be left"
       },
       "scored": true,
       "itemIndex": 2
     },
     {
-      "id": "s19-pair",
+      "id": "s19-context-남잖아",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "아직 기회가 남잖아요.",
+        "english": "There's still a chance remaining, you know.",
+        "highlights": [
+          "남잖아"
+        ]
+      }
+    },
+    {
+      "id": "s20-teach-남잖아",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "남잖아",
+        "english": "it remains, you know",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": []
+        },
+        "audioKey": "남잖아",
+        "phraseNote": "남다 (to remain) + -잖아 (you know) = 남잖아"
+      }
+    },
+    {
+      "id": "s21-quiz-남잖아",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "시간이 ___, 기다려 줘.",
+        "promptTranslation": "Time remains ___, please wait.",
+        "options": [
+          {
+            "text": "남잖아",
+            "correct": true
+          },
+          {
+            "text": "남지만",
+            "correct": false
+          },
+          {
+            "text": "남으면",
+            "correct": false
+          },
+          {
+            "text": "남아서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "남다 + -잖아 = 남잖아 (it remains, you know)"
+      },
+      "scored": true,
+      "itemIndex": 3
+    },
+    {
+      "id": "s22-line4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "온 세상의 별이 쏟아질 것만 같은 기분",
+      "breakdown": "온 세상의 = of the whole world\n별이 = stars (subject)\n쏟아질 = will pour down\n것만 같은 = seems like / feels like\n기분 = feeling\n\n\"A feeling like the stars of the whole world will pour down.\"\nThe overwhelming emotion of this moment.",
+      "dictionary": [
+        {
+          "word": "온",
+          "reading": "온",
+          "meaning": "whole / entire"
+        },
+        {
+          "word": "세상",
+          "reading": "세상",
+          "meaning": "world"
+        },
+        {
+          "word": "별",
+          "reading": "별",
+          "meaning": "star"
+        },
+        {
+          "word": "쏟아지다",
+          "reading": "쏟아지다",
+          "meaning": "to pour down"
+        },
+        {
+          "word": "기분",
+          "reading": "기분",
+          "meaning": "feeling / mood"
+        }
+      ]
+    },
+    {
+      "id": "s23-pair",
       "type": "pair-context",
       "label": "비교해 보세요",
       "sentences": [
         {
-          "korean": "잘 알아요.",
-          "english": "I know well.",
+          "korean": "사랑하잖아, 나를.",
+          "english": "You love me, you know.",
           "highlights": [
-            "알아요"
+            "하잖아"
           ]
         },
         {
-          "korean": "바다가 보여요.",
-          "english": "The ocean can be seen.",
+          "korean": "기억하잖아, 그 날을.",
+          "english": "You remember, you know, that day.",
           "highlights": [
-            "보여요"
+            "하잖아"
           ]
         }
       ],
-      "note": "알다 + 보이다 — 둘 다 이번 레슨에서 배운 단어예요."
+      "note": "-잖아 reminds someone of what they already know or should remember."
     },
     {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "Thought that I was a princess",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "웃으며 손을 내밀었지",
-            "correct": false
-          },
-          {
-            "text": "수줍게 꽃을 건네던 너에게",
-            "correct": false
-          },
-          {
-            "text": "날 좋아하던 그때",
-            "correct": true
-          },
-          {
-            "text": "시간 지나 my birthday",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "날 좋아하던 그때"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-잖아",
-        "meaning": "you know / isn't it / reminding",
-        "explanation": "Reminding someone of something they already know. Very casual and intimate.",
-        "songExample": {
-          "korean": "아니잖아 이건, yeah",
-          "english": "",
-          "highlights": [
-            "잖아"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "웃으며 손을 내밀었지",
-      "breakdown": "\"웃다\"는 smile 또는 laugh예요. \"웃으며\"는 웃으면서.\n\"손\"은 hand예요. \"내밀다\"는 앞으로 뻗는 거예요.\n\"웃으며 손을 내밀었지\" — 웃으면서 손을 내밀었어요.\n알**잖아**, 그때 내가 손을 내밀었**잖아**. 기억하지? \"-잖아\"는 상대방도 아는 사실을 확인해요.",
-      "dictionary": [
-        {
-          "word": "웃다",
-          "romanization": "ut-da",
-          "partOfSpeech": "verb",
-          "definition": "to smile, to laugh",
-          "example": {
-            "korean": "웃는 얼굴이 예뻐요.",
-            "english": "Your smiling face is pretty."
-          }
-        },
-        {
-          "word": "손",
-          "romanization": "son",
-          "partOfSpeech": "noun",
-          "definition": "hand",
-          "example": {
-            "korean": "손이 따뜻해요.",
-            "english": "Your hands are warm."
-          }
-        },
-        {
-          "word": "내밀다",
-          "romanization": "nae-mil-da",
-          "partOfSpeech": "verb",
-          "definition": "to extend, to hold out",
-          "example": {
-            "korean": "손을 내밀어요.",
-            "english": "I hold out my hand."
-          }
-        },
-        {
-          "word": "뻗다",
-          "romanization": "ppeot-da",
-          "partOfSpeech": "verb",
-          "definition": "to stretch, to extend"
-        },
-        {
-          "word": "앞으로",
-          "romanization": "a-peu-ro",
-          "partOfSpeech": "adverb",
-          "definition": "forward",
-          "example": {
-            "korean": "앞으로 가요.",
-            "english": "Go forward."
-          }
-        },
-        {
-          "word": "상대방",
-          "romanization": "sang-dae-bang",
-          "partOfSpeech": "noun",
-          "definition": "the other person"
-        },
-        {
-          "word": "확인하다",
-          "romanization": "hwak-in-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to confirm, to check"
-        },
-        {
-          "word": "사실",
-          "romanization": "sa-sil",
-          "partOfSpeech": "noun",
-          "definition": "fact, truth",
-          "example": {
-            "korean": "사실이에요.",
-            "english": "It's true."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "보이잖아",
-        "english": "you can see it, can't you?",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-잖아 = you know / isn't it / reminding",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "보이잖아"
-          ]
-        },
-        "audioKey": "보이잖아"
-      }
-    },
-    {
-      "id": "s23-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "보이잖아",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "to be seen",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "you can see it, can't you?",
-            "correct": true
-          },
-          {
-            "text": "you know, right?",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "보이잖아 = you can see it, can't you?"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "다 보이잖아.",
-        "english": "You can see everything, can't you?",
-        "highlights": [
-          "보이잖아"
-        ]
-      }
-    },
-    {
-      "id": "s25-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "보이___",
-        "promptTranslation": "you can see it, can't you?",
-        "options": [
-          {
-            "text": "잖아",
-            "correct": true
-          },
-          {
-            "text": "게",
-            "correct": false
-          },
-          {
-            "text": "는데",
-            "correct": false
-          },
-          {
-            "text": "아서",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "패턴은 항상 -잖아예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "보이잖아",
-        "promptTranslation": "여기서 -잖아는 무슨 느낌일까요?",
-        "options": [
-          {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
-            "correct": true
-          },
-          {
-            "text": "갑자기 일어났다가 멈췄어요",
-            "correct": false
-          },
-          {
-            "text": "일부러 그렇게 했어요",
-            "correct": false
-          },
-          {
-            "text": "더 이상 그렇지 않아요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "-잖아 = you know / isn't it / reminding — 선택이 아니라 저절로 된 거예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "시간 지나 my birthday",
-      "breakdown": "\"시간\"은 time이에요. \"지나다\"는 시간이 흘러가는 거예요.\n\"시간 지나\" = 시간이 지나서, 시간이 흐른 후에.\n이 노래에서 영어 \"my birthday\"를 섞어 써요. 시간이 지나 생일이 왔어요.\n알**잖아**, 시간이 지나도 기억은 남아요. 보이**잖아**, 아직도 그때의 감정이.",
-      "dictionary": [
-        {
-          "word": "시간",
-          "romanization": "si-gan",
-          "partOfSpeech": "noun",
-          "definition": "time",
-          "example": {
-            "korean": "시간이 없어요.",
-            "english": "There's no time."
-          }
-        },
-        {
-          "word": "지나다",
-          "romanization": "ji-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to pass (time)",
-          "example": {
-            "korean": "시간이 빨리 지나요.",
-            "english": "Time passes quickly."
-          }
-        },
-        {
-          "word": "흐르다",
-          "romanization": "heu-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to flow",
-          "example": {
-            "korean": "강물이 흘러요.",
-            "english": "The river flows."
-          }
-        },
-        {
-          "word": "생일",
-          "romanization": "saeng-il",
-          "partOfSpeech": "noun",
-          "definition": "birthday",
-          "example": {
-            "korean": "생일 축하해요!",
-            "english": "Happy birthday!"
-          }
-        },
-        {
-          "word": "남다",
-          "romanization": "nam-da",
-          "partOfSpeech": "verb",
-          "definition": "to remain, to stay",
-          "example": {
-            "korean": "기억에 남아요.",
-            "english": "It remains in my memory."
-          }
-        },
-        {
-          "word": "감정",
-          "romanization": "gam-jeong",
-          "partOfSpeech": "noun",
-          "definition": "emotion, feeling"
-        },
-        {
-          "word": "아직도",
-          "romanization": "a-jik-do",
-          "partOfSpeech": "adverb",
-          "definition": "still, even now"
-        },
-        {
-          "word": "섞다",
-          "romanization": "seok-da",
-          "partOfSpeech": "verb",
-          "definition": "to mix"
-        }
-      ]
-    },
-    {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "보이다",
-            "correct": false
-          },
-          {
-            "text": "알다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "알다 = to know"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (to be seen)",
-        "options": [
-          {
-            "text": "알다",
-            "correct": false
-          },
-          {
-            "text": "보이다",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "보이다 = to be seen"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s29-quiz",
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "you know, right?",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "What does -잖아 do?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "reminds someone of what they know (you know / isn't it)",
+            "correct": true
+          },
+          {
+            "text": "connects two actions (and / and then)",
+            "correct": false
+          },
+          {
+            "text": "shows a condition (if)",
+            "correct": false
+          },
+          {
+            "text": "expresses a wish or hope",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-잖아 reminds the listener of something they already know"
+      },
+      "scored": true
+    },
+    {
+      "id": "s25-quiz-mix2",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "you know (reminding)",
+        "promptTranslation": "한국어로?",
         "options": [
           {
             "text": "알잖아",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "알지만",
             "correct": false
           },
           {
-            "text": "알다",
+            "text": "알면",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "알아서",
             "correct": false
           }
         ],
-        "wrongExplanation": "you know, right? = 알잖아"
+        "wrongExplanation": "알다 (to know) + -잖아 (you know) = 알잖아"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "알___.",
-        "promptTranslation": "You know, right?",
+        "type": "fill-blank",
+        "prompt": "괜찮___, 걱정하지 마.",
+        "promptTranslation": "It's okay ___, don't worry.",
         "options": [
-          {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
           {
             "text": "잖아",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "으면",
+            "correct": false
+          },
+          {
+            "text": "아서",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -잖아!"
+        "wrongExplanation": "괜찮다 + -잖아 = 괜찮잖아 (it's okay, you know)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"좋잖아\", \"알다\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "그래 니가 내 옆에 있는 꿈",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "알다 좋잖아",
+            "text": "Yeah, a dream where you're beside me",
             "correct": true
+          },
+          {
+            "text": "It's not a dream, you know",
+            "correct": false
+          },
+          {
+            "text": "Time remains, so wait for me",
+            "correct": false
+          },
+          {
+            "text": "I'm intoxicated by your story",
+            "correct": false
           }
         ],
-        "wrongExplanation": "알다 좋잖아"
+        "wrongExplanation": "니가 (you) 내 옆에 (beside me) 있는 (being) 꿈 (dream)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "남다",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "to remain / to be left",
+            "correct": true
+          },
+          {
+            "text": "to shine",
+            "correct": false
+          },
+          {
+            "text": "to cry",
+            "correct": false
+          },
+          {
+            "text": "to hold",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "남다 = to remain / to be left"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "날 좋아하던 그때",
-          "english": "",
+          "korean": "Oh-oh-oh, 꿈인가 봐",
+          "english": "Oh-oh-oh, it must be a dream",
+          "highlights": [
+            "꿈"
+          ]
+        },
+        {
+          "korean": "그래 니가 내 옆에 있는 꿈",
+          "english": "Yeah, a dream where you're beside me",
           "highlights": []
         },
         {
-          "korean": "수줍게 꽃을 건네던 너에게",
-          "english": "",
+          "korean": "Oh-oh, no",
+          "english": "Oh-oh, no",
           "highlights": []
         },
         {
-          "korean": "웃으며 손을 내밀었지",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "시간 지나 my birthday",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "우린 몰래 run away",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "온통 둘뿐인 밤거릴 걷다가",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "너와 눈이 마주친 그날",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "Oh, babe, 너의 눈동자에 cheers",
-          "english": "",
-          "highlights": []
+          "korean": "아니잖아 이건, yeah",
+          "english": "It's not (a dream), you know, yeah",
+          "highlights": [
+            "잖아"
+          ]
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1108,8 +758,8 @@
           }
         },
         {
-          "korean": "보이다",
-          "english": "to be seen",
+          "korean": "남다",
+          "english": "to remain / to be left",
           "kind": "word",
           "partOfSpeech": "verb",
           "songLine": {
@@ -1120,7 +770,7 @@
         },
         {
           "korean": "알잖아",
-          "english": "you know, right?",
+          "english": "you know (reminding)",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1130,8 +780,8 @@
           }
         },
         {
-          "korean": "보이잖아",
-          "english": "you can see it, can't you?",
+          "korean": "남잖아",
+          "english": "it remains, you know",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1146,9 +796,9 @@
         "meaning": "you know / isn't it / reminding"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
   ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  "generatedAt": "2025-06-10T09:30:00.000Z"
 }

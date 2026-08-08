@@ -1,104 +1,120 @@
 {
   "id": "v5-unit5-lesson19",
   "meta": {
-    "songId": "day6-you-were-beautiful",
+    "songId": "day6-youwerebeautiful3",
     "songTitle": "You Were Beautiful",
     "artist": "DAY6",
     "unit": 5,
     "lessonNumber": 19,
     "grammarFocus": "-다가도",
     "grammarMeaning": "even while in the middle of",
-    "koreanRatio": 0.85
+    "koreanRatio": 0.6
   },
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "시작하다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "sky",
-            "correct": false
-          },
-          {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "to start",
-            "correct": true
-          },
-          {
-            "text": "road",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "시작하다 = to start."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "DAY6 — You Were Beautiful",
-      "content": "Contradictory simultaneous states. \"Even while laughing, I cry.\"\n\nOne of DAY6's signature songs, built almost entirely around a single repeated word: 예뻤어 — 'you were beautiful,' past tense. The singer is clear upfront that he's not trying to get back together — he's just been hit by a memory and wants to say it out loud once.\n\nIn this lesson, you'll learn the grammar pattern **-다가도**, which means \"even while in the middle of.\" We'll see how DAY6 uses it in \"You Were Beautiful.\"",
+      "content": "이번 레슨에서는 **-다가도**를 배워요.\n\n-다가도는 '어떤 행동을 하는 중에도'라는 뜻이에요.\n\nDAY6의 \"You Were Beautiful\"을 통해 배워 봐요!",
+      "contentEnglish": "In this lesson, we'll learn **-다가도**.\n\n-다가도 means 'even while in the middle of (doing something)'.\n\nLet's learn through DAY6's \"You Were Beautiful\"!",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **생각하다** — to think\n- **혼자** — alone\n- **웃다가도 울다** — to cry even while laughing\n- **생각하다가도** — even while thinking\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "지금 이 말이",
         "우리가 다시",
         "시작하자는 건 아냐",
-        "그저 너의"
+        "그저 너의",
+        "남아있던 기억들이",
+        "떠올랐을 뿐이야",
+        "",
+        "정말 하루도 빠짐없이 (너는)",
+        "사랑한다 말해줬었지",
+        "잠들기 전에 또 눈 뜨자마자",
+        "말해주던 너",
+        "생각이 나 말해보는 거야",
+        "",
+        "예뻤어",
+        "날 바라봐 주던 그 눈빛",
+        "날 불러주던 그 목소리",
+        "다 다",
+        "그 모든 게 내겐",
+        "",
+        "예뻤어",
+        "더 바랄게 없는듯한 느낌",
+        "오직 너만이 주던 순간들",
+        "다 다",
+        "지났지만",
+        "넌 너무 예뻤어",
+        "",
+        "아직도 가끔 네 생각이 나",
+        "어렵게 전화를 걸어볼까",
+        "생각이 들 때도 많지만",
+        "Baby, I know it's already over",
+        "",
+        "마지막",
+        "날 바라봐 주던 그 눈빛",
+        "잘 지내라던 그 목소리",
+        "다 다",
+        "그마저도 내겐",
+        "",
+        "예뻤어",
+        "내게 보여준 눈물까지",
+        "너와 가졌던 순간들은",
+        "다 다",
+        "지났지만",
+        "넌 너무 예뻤어"
+      ],
+      "targetLineIndices": [
+        11,
+        26,
+        28,
+        37
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "생각이 나 말해보는 거야",
+      "breakdown": "생각이 = thought / thoughts\n나 = come to mind\n말해보는 = trying to say\n거야 = it is\n\n\"Thoughts come to mind, so I'm trying to say it.\"",
+      "dictionary": [
         {
-          "korean": "지금 이 말이",
-          "english": "What I'm saying right now",
-          "highlights": []
+          "word": "생각",
+          "reading": "생각",
+          "meaning": "thought"
         },
         {
-          "korean": "우리가 다시",
-          "english": "isn't that we should start over again",
-          "highlights": []
+          "word": "나다",
+          "reading": "나다",
+          "meaning": "to come to mind"
         },
         {
-          "korean": "시작하자는 건 아냐",
-          "english": "it's just that",
-          "highlights": []
-        },
-        {
-          "korean": "그저 너의",
-          "english": "some memory of you that had been staying inside me",
-          "highlights": []
+          "word": "말해보다",
+          "reading": "말해보다",
+          "meaning": "to try to say"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "매일 너를 생각하다 잠들어요.",
+        "english": "I fall asleep thinking of you every day.",
+        "highlights": [
+          "생각하다"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +123,17 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "생각이 나 말해보는 거야",
+          "english": "Thoughts come to mind, so I'm trying to say it",
           "highlights": [
-            "생각하다"
+            "생각"
           ]
         },
         "audioKey": "생각하다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -130,15 +146,15 @@
             "correct": true
           },
           {
-            "text": "even while thinking",
+            "text": "to forget",
             "correct": false
           },
           {
-            "text": "alone",
+            "text": "to remember",
             "correct": false
           },
           {
-            "text": "dream",
+            "text": "to change",
             "correct": false
           }
         ],
@@ -148,14 +164,66 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "자주 생각해요.",
-        "english": "I think about it often.",
-        "highlights": [
-          "생각해요"
+      "id": "s7-line2",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "아직도 가끔 네 생각이 나",
+      "breakdown": "아직도 = still\n가끔 = sometimes\n네 = your\n생각이 = thoughts\n나 = come to mind\n\n\"I still sometimes think of you.\"",
+      "dictionary": [
+        {
+          "word": "아직도",
+          "reading": "아직도",
+          "meaning": "still"
+        },
+        {
+          "word": "가끔",
+          "reading": "가끔",
+          "meaning": "sometimes"
+        },
+        {
+          "word": "생각",
+          "reading": "생각",
+          "meaning": "thought"
+        }
+      ]
+    },
+    {
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-다가도",
+        "meaning": "even while in the middle of",
+        "explanation": "어떤 행동을 하는 중에도 다른 일이 일어날 때 사용해요.\n\nUsed when something happens even while you're in the middle of doing something else.",
+        "songExample": {
+          "korean": "생각이 들 때도 많지만",
+          "english": "Even while I think about it often",
+          "highlights": [
+            "때도"
+          ]
+        },
+        "examples": [
+          {
+            "korean": "공부하다가도 자주 쉬어요.",
+            "english": "Even while studying, I rest often.",
+            "highlights": [
+              "하다가도"
+            ]
+          },
+          {
+            "korean": "바쁘다가도 전화를 받아요.",
+            "english": "Even while busy, I answer the phone.",
+            "highlights": [
+              "다가도"
+            ]
+          },
+          {
+            "korean": "잠들기 전에 또 눈 뜨자마자",
+            "english": "Before sleeping and right after waking up",
+            "highlights": [
+              "전에"
+            ]
+          }
         ]
       }
     },
@@ -165,153 +233,70 @@
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "자주 ___.",
-        "promptTranslation": "I think about it often.",
+        "prompt": "웃___ 울어요.",
+        "promptTranslation": "Even while laughing, I cry.",
         "options": [
           {
-            "text": "생각하다",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "생각해요",
+            "text": "다가도",
             "correct": true
           },
           {
-            "text": "마음",
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "아서",
+            "correct": false
+          },
+          {
+            "text": "으면",
             "correct": false
           }
         ],
-        "wrongExplanation": "자주 생각해요. = I think about it often."
+        "wrongExplanation": "-다가도 means 'even while in the middle of'"
       },
       "scored": true,
-      "itemIndex": 0
+      "itemIndex": null
     },
     {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "웃다가도 울다",
-        "english": "to cry even while laughing",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "웃다가도 울다"
-          ]
-        },
-        "audioKey": "웃다가도 울다"
-      }
+      "id": "s10-breather",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "반쯤 왔어요.\n\n계속해서 -다가도 패턴을 연습해 봐요!",
+      "contentEnglish": "You're halfway there!\n\nLet's continue practicing the -다가도 pattern!",
+      "musicPlaying": false
     },
     {
-      "id": "rc1",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "지금 이 말이",
-      "breakdown": "DAY6의 \"예뻤어\"를 또 만나요! 이번에는 \"-다가도\" 문법이에요.\n\"-다가도\"는 하던 일 중간에 갑자기 바뀌는 거예요.\n\"지금 이 말이\" — 지금 말하**다가도** 갑자기 울 수 있어요.\n생각하**다가도** 웃어요. 웃**다가도** 울어요. 감정이 계속 변해요.",
-      "dictionary": [
-        {
-          "word": "또",
-          "romanization": "tto",
-          "partOfSpeech": "adverb",
-          "definition": "again, also"
-        },
-        {
-          "word": "만나다",
-          "romanization": "man-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to meet"
-        },
-        {
-          "word": "갑자기",
-          "romanization": "gap-ja-gi",
-          "partOfSpeech": "adverb",
-          "definition": "suddenly",
-          "example": {
-            "korean": "갑자기 비가 왔어요.",
-            "english": "It suddenly rained."
-          }
-        },
-        {
-          "word": "바뀌다",
-          "romanization": "ba-kkwi-da",
-          "partOfSpeech": "verb",
-          "definition": "to be changed, to switch"
-        },
-        {
-          "word": "중간",
-          "romanization": "jung-gan",
-          "partOfSpeech": "noun",
-          "definition": "middle"
-        },
-        {
-          "word": "울다",
-          "romanization": "ul-da",
-          "partOfSpeech": "verb",
-          "definition": "to cry"
-        },
-        {
-          "word": "웃다",
-          "romanization": "ut-da",
-          "partOfSpeech": "verb",
-          "definition": "to smile, to laugh"
-        },
-        {
-          "word": "변하다",
-          "romanization": "byeon-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to change"
-        }
-      ]
-    },
-    {
-      "id": "s11-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "웃다가도 울다",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "to cry even while laughing",
-            "correct": true
-          },
-          {
-            "text": "to be beautiful",
-            "correct": false
-          },
-          {
-            "text": "even while thinking",
-            "correct": false
-          },
-          {
-            "text": "to think",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "웃다가도 울다 = to cry even while laughing"
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s12-context",
+      "id": "s11-context",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "웃다가도 울어요.",
-        "english": "I cry even while laughing.",
+        "korean": "친구들과 웃다가도 갑자기 슬퍼져요.",
+        "english": "Even while laughing with friends, I suddenly become sad.",
         "highlights": [
-          "웃다가도 울"
+          "웃다가도"
         ]
+      }
+    },
+    {
+      "id": "s12-teach",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "웃다가도",
+        "english": "even while laughing",
+        "kind": "phrase",
+        "phraseNote": "웃다 (to laugh) + -다가도",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "웃다가도 울 것 같아요",
+          "english": "Even while laughing, I think I'll cry",
+          "highlights": [
+            "웃다가도"
+          ]
+        },
+        "audioKey": "웃다가도"
       }
     },
     {
@@ -319,75 +304,111 @@
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "fill-blank",
-        "prompt": "___어요.",
-        "promptTranslation": "I cry even while laughing.",
-        "options": [
-          {
-            "text": "웃다가도 울",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "웃다가도 울다",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "웃다가도 울어요. = I cry even while laughing."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "지금 이 말이jigeum i mari",
+        "type": "tap-meaning",
+        "prompt": "웃다가도",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "What I'm saying right now",
+            "text": "even while laughing",
             "correct": true
           },
           {
-            "text": "isn't that we should start over again",
+            "text": "after laughing",
             "correct": false
           },
           {
-            "text": "it's just that",
+            "text": "because of laughing",
+            "correct": false
+          },
+          {
+            "text": "before laughing",
             "correct": false
           }
         ],
-        "wrongExplanation": "지금 이 말이jigeum i mari = What I'm saying right now"
+        "wrongExplanation": "웃다가도 = even while laughing"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "생각이 들 때도 많지만",
+      "breakdown": "생각이 = thought\n들 = to come (future)\n때도 = times / when\n많지만 = many but\n\n\"There are many times I think about it, but...\"",
+      "dictionary": [
+        {
+          "word": "생각",
+          "reading": "생각",
+          "meaning": "thought"
+        },
+        {
+          "word": "들다",
+          "reading": "들다",
+          "meaning": "to come to mind"
+        },
+        {
+          "word": "때",
+          "reading": "때",
+          "meaning": "time / when"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "아직도 가끔 네 생각이 나",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "I still sometimes think of you",
+            "correct": true
+          },
+          {
+            "text": "I never think of you anymore",
+            "correct": false
+          },
+          {
+            "text": "I always forget about you",
+            "correct": false
+          },
+          {
+            "text": "You still think of me sometimes",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "아직도 가끔 네 생각이 나 = I still sometimes think of you"
       },
       "scored": true,
       "itemIndex": null
     },
     {
-      "id": "s15-teach",
+      "id": "s16-context",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "오늘은 혼자 집에서 쉬고 싶어요.",
+        "english": "Today I want to rest at home alone.",
+        "highlights": [
+          "혼자"
+        ]
+      }
+    },
+    {
+      "id": "s17-teach",
       "type": "word-card",
       "label": "새 단어",
       "item": {
         "korean": "혼자",
         "english": "alone",
         "kind": "word",
-        "partOfSpeech": "adverb",
+        "partOfSpeech": "noun/adverb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "혼자서 네 생각을 해요",
+          "english": "I think of you alone",
           "highlights": [
             "혼자"
           ]
@@ -396,64 +417,7 @@
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "우리가 다시",
-      "breakdown": "\"우리가 다시\" — 우리가 다시 만날 수 있을까요?\n평소에 괜찮**다가도** 이 생각을 하면 슬퍼져요.\n\"다시\"는 \"again\"이에요. 한 번 끝났지만 다시 할 수 있을까?\n생각하**다가도** 멈춰요. 말하**다가도** 멈춰요. 대답을 모르니까.",
-      "dictionary": [
-        {
-          "word": "만날 수 있다",
-          "romanization": "man-nal su it-da",
-          "partOfSpeech": "phrase",
-          "definition": "to be able to meet"
-        },
-        {
-          "word": "평소",
-          "romanization": "pyeong-so",
-          "partOfSpeech": "noun",
-          "definition": "usually, normally"
-        },
-        {
-          "word": "괜찮다",
-          "romanization": "gwaen-chan-ta",
-          "partOfSpeech": "adjective",
-          "definition": "to be fine, to be okay"
-        },
-        {
-          "word": "생각",
-          "romanization": "saeng-gak",
-          "partOfSpeech": "noun",
-          "definition": "thought"
-        },
-        {
-          "word": "슬퍼지다",
-          "romanization": "seul-peo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to become sad"
-        },
-        {
-          "word": "멈추다",
-          "romanization": "meom-chu-da",
-          "partOfSpeech": "verb",
-          "definition": "to stop"
-        },
-        {
-          "word": "대답",
-          "romanization": "dae-dap",
-          "partOfSpeech": "noun",
-          "definition": "answer, reply"
-        },
-        {
-          "word": "모르다",
-          "romanization": "mo-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to not know"
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -462,246 +426,83 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "even while thinking",
-            "correct": false
-          },
-          {
-            "text": "to cry even while laughing",
-            "correct": false
-          },
-          {
             "text": "alone",
             "correct": true
           },
           {
-            "text": "to hide",
+            "text": "together",
+            "correct": false
+          },
+          {
+            "text": "sometimes",
+            "correct": false
+          },
+          {
+            "text": "always",
             "correct": false
           }
         ],
         "wrongExplanation": "혼자 = alone"
       },
       "scored": true,
-      "itemIndex": 2
+      "itemIndex": 1
     },
     {
-      "id": "s17-context",
+      "id": "s19-context",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "혼자 걸어요.",
-        "english": "I walk alone.",
+        "korean": "너를 생각하다가도 미소 지어요.",
+        "english": "Even while thinking of you, I smile.",
         "highlights": [
-          "혼자"
+          "생각하다가도"
         ]
       }
     },
     {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___ 걸어요.",
-        "promptTranslation": "I walk alone.",
-        "options": [
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "사람",
-            "correct": false
-          },
-          {
-            "text": "생각해요",
-            "correct": false
-          },
-          {
-            "text": "혼자",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "혼자 걸어요. = I walk alone."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "자주 생각해요.",
-          "english": "I think about it often.",
-          "highlights": [
-            "생각해요"
-          ]
-        },
-        {
-          "korean": "혼자 걸어요.",
-          "english": "I walk alone.",
-          "highlights": [
-            "혼자"
-          ]
-        }
-      ],
-      "note": "생각하다 + 혼자 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "What I'm saying right now",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "시작하자는 건 아냐sijakajaneun geon anya",
-            "correct": false
-          },
-          {
-            "text": "우리가 다시uriga dasi",
-            "correct": false
-          },
-          {
-            "text": "지금 이 말이jigeum i mari",
-            "correct": true
-          },
-          {
-            "text": "그저 너의geujeo neoui",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "지금 이 말이jigeum i mari"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-다가도",
-        "meaning": "even while in the middle of",
-        "explanation": "Contradictory simultaneous states. \"Even while laughing, I cry.\"",
-        "songExample": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "다가도"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "시작하자는 건 아냐",
-      "breakdown": "\"시작하자는 건 아냐\" — 다시 시작하자는 게 아니에요.\n가수가 혼자 걷**다가도** 이 생각을 해요. 우리의 이야기를.\n\"건 아냐\" = 것은 아니야. 부정이에요. 다시 사귀자는 거 아니에요.\n웃**다가도** 이 생각을 하면 울어요. 그래서 이 가사가 슬퍼요.",
-      "dictionary": [
-        {
-          "word": "혼자",
-          "romanization": "hon-ja",
-          "partOfSpeech": "adverb",
-          "definition": "alone",
-          "example": {
-            "korean": "혼자 걸어요.",
-            "english": "I walk alone."
-          }
-        },
-        {
-          "word": "이야기",
-          "romanization": "i-ya-gi",
-          "partOfSpeech": "noun",
-          "definition": "story"
-        },
-        {
-          "word": "부정",
-          "romanization": "bu-jeong",
-          "partOfSpeech": "noun",
-          "definition": "negation"
-        },
-        {
-          "word": "사귀다",
-          "romanization": "sa-gwi-da",
-          "partOfSpeech": "verb",
-          "definition": "to date"
-        },
-        {
-          "word": "걷다",
-          "romanization": "geot-da",
-          "partOfSpeech": "verb",
-          "definition": "to walk"
-        },
-        {
-          "word": "그래서",
-          "romanization": "geu-rae-seo",
-          "partOfSpeech": "conjunction",
-          "definition": "so, therefore"
-        },
-        {
-          "word": "슬프다",
-          "romanization": "seul-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "sad"
-        },
-        {
-          "word": "가사",
-          "romanization": "ga-sa",
-          "partOfSpeech": "noun",
-          "definition": "lyrics"
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
+      "id": "s20-teach",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
         "korean": "생각하다가도",
         "english": "even while thinking",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-다가도 = even while in the middle of",
+        "phraseNote": "생각하다 (to think) + -다가도",
+        "partOfSpeech": "",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "나를 먼저 생각해줬어",
+          "english": "You thought of me first",
           "highlights": [
-            "생각하다가도"
+            "생각해"
           ]
         },
         "audioKey": "생각하다가도"
       }
     },
     {
-      "id": "s23-quiz",
+      "id": "s21-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "tap-meaning",
-        "prompt": "생각하다가도",
-        "promptTranslation": "무슨 뜻일까요?",
+        "type": "fill-blank",
+        "prompt": "혼자 있을 때 너를 ___.",
+        "promptTranslation": "Even when I'm alone, I think of you.",
         "options": [
           {
-            "text": "alone",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "to cry even while laughing",
-            "correct": false
-          },
-          {
-            "text": "even while thinking",
+            "text": "생각하다가도",
             "correct": true
+          },
+          {
+            "text": "생각하지만",
+            "correct": false
+          },
+          {
+            "text": "생각하면",
+            "correct": false
+          },
+          {
+            "text": "생각해서",
+            "correct": false
           }
         ],
         "wrongExplanation": "생각하다가도 = even while thinking"
@@ -710,167 +511,171 @@
       "itemIndex": 3
     },
     {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "생각하다가도 잊어요.",
-        "english": "Even while thinking about it, I forget.",
-        "highlights": [
-          "생각하다가도"
-        ]
-      }
+      "id": "s22-line4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "내게 보여준 눈물까지",
+      "breakdown": "내게 = to me\n보여준 = showed\n눈물까지 = even tears\n\n\"Even the tears you showed me\"",
+      "dictionary": [
+        {
+          "word": "보여주다",
+          "reading": "보여주다",
+          "meaning": "to show"
+        },
+        {
+          "word": "눈물",
+          "reading": "눈물",
+          "meaning": "tears"
+        },
+        {
+          "word": "까지",
+          "reading": "까지",
+          "meaning": "even / until"
+        }
+      ]
+    },
+    {
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "혼자 있으면 생각해요.",
+          "english": "When I'm alone, I think (about you).",
+          "highlights": [
+            "있으면"
+          ]
+        },
+        {
+          "korean": "혼자 있다가도 생각해요.",
+          "english": "Even while alone, I think (about you).",
+          "highlights": [
+            "있다가도"
+          ]
+        }
+      ],
+      "note": "-다가도 emphasizes 'even while in the middle of' the action."
+    },
+    {
+      "id": "s24-quiz",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "-다가도",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "even while in the middle of",
+            "correct": true
+          },
+          {
+            "text": "because of",
+            "correct": false
+          },
+          {
+            "text": "in order to",
+            "correct": false
+          },
+          {
+            "text": "after finishing",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-다가도 = even while in the middle of"
+      },
+      "scored": true,
+      "itemIndex": null
     },
     {
       "id": "s25-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "생각하___",
-        "promptTranslation": "even while thinking",
+        "type": "tap-meaning",
+        "prompt": "웃다가도",
+        "promptTranslation": "영어로 무슨 뜻일까요?",
         "options": [
           {
-            "text": "다가도",
+            "text": "even while laughing",
             "correct": true
           },
           {
-            "text": "는데",
+            "text": "after crying",
             "correct": false
           },
           {
-            "text": "처럼",
+            "text": "before smiling",
             "correct": false
           },
           {
-            "text": "지만",
+            "text": "because I laughed",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -다가도예요."
+        "wrongExplanation": "웃다가도 = even while laughing"
       },
       "scored": true,
-      "itemIndex": 3
+      "itemIndex": 2
     },
     {
       "id": "s26-quiz",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "생각하다가도",
-        "promptTranslation": "여기서 -다가도는 무슨 느낌일까요?",
+        "type": "fill-blank",
+        "prompt": "일하___ 네 생각이 나요.",
+        "promptTranslation": "Even while working, I think of you.",
         "options": [
           {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
+            "text": "다가도",
             "correct": true
           },
           {
-            "text": "갑자기 일어났다가 멈췄어요",
+            "text": "지만",
             "correct": false
           },
           {
-            "text": "일부러 그렇게 했어요",
+            "text": "니까",
             "correct": false
           },
           {
-            "text": "더 이상 그렇지 않아요",
+            "text": "기 전에",
             "correct": false
           }
         ],
-        "wrongExplanation": "-다가도 = even while in the middle of — 선택이 아니라 저절로 된 거예요."
+        "wrongExplanation": "-다가도 connects two actions, showing 'even while' doing the first"
       },
       "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "그저 너의",
-      "breakdown": "\"그저 너의\" — 그저 너의 기억이 남아 있을 뿐이에요.\n혼자 있**다가도** 네 기억이 떠올라요.\n잘 지내**다가도** 갑자기 보고 싶어져요.\n\"-다가도\"는 이렇게 써요: 하던 일 중간에 감정이 바뀌어요. 웃**다가도** 울고, 걷**다가도** 멈춰요.",
-      "dictionary": [
-        {
-          "word": "남아 있다",
-          "romanization": "nam-a it-da",
-          "partOfSpeech": "phrase",
-          "definition": "to remain"
-        },
-        {
-          "word": "뿐",
-          "romanization": "ppun",
-          "partOfSpeech": "particle",
-          "definition": "only, just"
-        },
-        {
-          "word": "떠오르다",
-          "romanization": "tteo-o-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to come to mind"
-        },
-        {
-          "word": "잘 지내다",
-          "romanization": "jal ji-nae-da",
-          "partOfSpeech": "phrase",
-          "definition": "to be doing well",
-          "example": {
-            "korean": "잘 지내요?",
-            "english": "How are you?"
-          }
-        },
-        {
-          "word": "보고 싶어지다",
-          "romanization": "bo-go si-peo-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to start to miss someone"
-        },
-        {
-          "word": "하던",
-          "romanization": "ha-deon",
-          "partOfSpeech": "adjective",
-          "definition": "that one was doing"
-        },
-        {
-          "word": "바뀌다",
-          "romanization": "ba-kkwi-da",
-          "partOfSpeech": "verb",
-          "definition": "to be changed"
-        },
-        {
-          "word": "걷다",
-          "romanization": "geot-da",
-          "partOfSpeech": "verb",
-          "definition": "to walk"
-        }
-      ]
+      "itemIndex": null
     },
     {
       "id": "s27-quiz",
       "type": "quiz",
-      "label": "종합 퀴즈",
+      "label": "퀴즈",
       "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
+        "type": "tap-meaning",
+        "prompt": "생각이 나 말해보는 거야",
+        "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "혼자",
-            "correct": false
-          },
-          {
-            "text": "생각하다",
+            "text": "Thoughts come to mind, so I'm trying to say it",
             "correct": true
+          },
+          {
+            "text": "I forgot what I wanted to say",
+            "correct": false
+          },
+          {
+            "text": "I don't think about it anymore",
+            "correct": false
+          },
+          {
+            "text": "You should stop thinking about it",
+            "correct": false
           }
         ],
-        "wrongExplanation": "생각하다 = to think"
+        "wrongExplanation": "생각이 나 말해보는 거야 = Thoughts come to mind, so I'm trying to say it"
       },
       "scored": true,
       "itemIndex": null
@@ -878,165 +683,73 @@
     {
       "id": "s28-quiz",
       "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (alone)",
-        "options": [
-          {
-            "text": "생각하다",
-            "correct": false
-          },
-          {
-            "text": "혼자",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "혼자 = alone"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s29-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
+      "label": "퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "to cry even while laughing",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "생각하다",
+        "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "웃다가도 울다",
+            "text": "to think",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "to walk",
             "correct": false
           },
           {
-            "text": "생각하다",
+            "text": "to wait",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "to shine",
             "correct": false
           }
         ],
-        "wrongExplanation": "to cry even while laughing = 웃다가도 울다"
+        "wrongExplanation": "생각하다 = to think"
       },
       "scored": true,
-      "itemIndex": null
+      "itemIndex": 0
     },
     {
-      "id": "s30-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "웃___도 울어요.",
-        "promptTranslation": "I cry even while laughing.",
-        "options": [
-          {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "다가도",
-            "correct": true
-          },
-          {
-            "text": "게",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "패턴은 항상 -다가도!"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s31-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"하다가도\", \"생각하다\"]",
-        "promptTranslation": "Put these words in order",
-        "options": [
-          {
-            "text": "생각하다 하다가도",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "생각하다 하다가도"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s32-singalong",
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "지금 이 말이jigeum i mari",
-          "english": "",
-          "highlights": []
+          "korean": "아직도 가끔 네 생각이 나",
+          "english": "I still sometimes think of you",
+          "highlights": [
+            "생각"
+          ]
         },
         {
-          "korean": "우리가 다시uriga dasi",
-          "english": "",
-          "highlights": []
+          "korean": "생각이 들 때도 많지만",
+          "english": "There are many times I think about it, but",
+          "highlights": [
+            "생각",
+            "때도"
+          ]
         },
         {
-          "korean": "시작하자는 건 아냐sijakajaneun geon anya",
-          "english": "",
-          "highlights": []
+          "korean": "생각이 나 말해보는 거야",
+          "english": "Thoughts come to mind, so I'm trying to say it",
+          "highlights": [
+            "생각"
+          ]
         },
         {
-          "korean": "그저 너의geujeo neoui",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "남아있던 기억들이namaitdeon gieokdeuri",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "떠올랐을 뿐이야tteoollasseul ppuniya",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "정말 하루도 빠짐없이 (너는)jeongmal harudo ppajimeopsi (neoneun)",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "사랑한다 말해줬었지saranghanda malhaejwosseotji",
-          "english": "",
-          "highlights": []
+          "korean": "넌 너무 예뻤어",
+          "english": "You were so beautiful",
+          "highlights": [
+            "예뻤어"
+          ]
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1046,16 +759,18 @@
           "kind": "word",
           "partOfSpeech": "verb",
           "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
+            "korean": "생각이 나 말해보는 거야",
+            "english": "Thoughts come to mind, so I'm trying to say it",
+            "highlights": [
+              "생각"
+            ]
           }
         },
         {
           "korean": "혼자",
           "english": "alone",
           "kind": "word",
-          "partOfSpeech": "adverb",
+          "partOfSpeech": "noun/adverb",
           "songLine": {
             "korean": "",
             "english": "",
@@ -1063,14 +778,16 @@
           }
         },
         {
-          "korean": "웃다가도 울다",
-          "english": "to cry even while laughing",
+          "korean": "웃다가도",
+          "english": "even while laughing",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
+            "korean": "웃다가도 울 것 같아요",
+            "english": "Even while laughing, I think I'll cry",
+            "highlights": [
+              "웃다가도"
+            ]
           }
         },
         {
@@ -1079,9 +796,11 @@
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
-            "korean": "",
-            "english": "",
-            "highlights": []
+            "korean": "나를 먼저 생각해줬어",
+            "english": "You thought of me first",
+            "highlights": [
+              "생각해"
+            ]
           }
         }
       ],
@@ -1090,9 +809,9 @@
         "meaning": "even while in the middle of"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
   ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  "generatedAt": "2025-06-15T09:30:00.000Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "v5-unit1-lesson4",
   "meta": {
-    "songId": "punch-stay-with-me",
+    "songId": "punch-staywithme2",
     "songTitle": "Stay With Me",
     "artist": "Punch",
     "unit": 1,
@@ -10,114 +10,150 @@
     "grammarMeaning": "if / when",
     "koreanRatio": 0.6
   },
+  "generatedAt": "2025-06-20T10:30:00.000Z",
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "기다리다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "heart",
-            "correct": false
-          },
-          {
-            "text": "rain",
-            "correct": false
-          },
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "to wait",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "기다리다 = to wait."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "Punch — Stay With Me",
-      "content": "Conditional statements. \"If you smile, I'm happy.\"\n\nStay With Me is the central theme from the 2016-2017 drama Goblin (도깨비, also known as Guardian: The Lonely and Great God), performed by Punch with Chanyeol of EXO. The drama follows an immortal goblin cursed to live for centuries until he finds his human bride, and the song plays during the show's most fated, aching romantic moments — the pull between two people who feel connected across lifetimes, and the sorrow of a love that's shadowed by eventual, inevitable separation.\n\nIn this lesson, you'll learn the grammar pattern **-(으)면**, which means \"if / when.\" We'll see how Punch uses it in \"Stay With Me.\"",
+      "content": "이번 레슨에서는 **-(으)면**을 배워요.\n조건이나 가정을 표현할 때 사용해요.\n\nPunch의 **Stay With Me**는 운명적인 사랑에 대한 노래예요.\n드라마 '도깨비' OST로 유명해요.",
+      "contentEnglish": "In this lesson, you'll learn **-(으)면** — used to express conditions or hypothetical situations ('if' or 'when').\n\nPunch's **Stay With Me** is about fated love, famous as the OST from the drama 'Goblin'.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **괜찮다** — to be okay\n- **하늘** — sky\n- **웃으면 괜찮다** — if you smile, it's okay\n- **시간이 지나면** — if time passes\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "나의 두 눈을 감으면",
         "떠오르는 그 눈동자",
         "자꾸 가슴이 시려서",
-        "잊혀지길 바랬어"
+        "잊혀지길 바랬어",
+        "꿈이라면 이제",
+        "깨어났으면 (으면) 제발 (제발)",
+        "정말 네가 나의 운명인 걸까? (걸까?)",
+        "넌 falling you",
+        "",
+        "운명처럼 너를 falling",
+        "또 나를 부르네 calling",
+        "헤어 나올 수 없어 제발 hold me",
+        "내 인연의 끈이 넌지",
+        "기다린 네가 맞는지",
+        "가슴이 먼저 왜 내려앉는지 (Stay with me)",
+        "내 마음속 깊은 곳에 네가 사는지 (Stay with me)",
+        "내 안에 숨겨왔던 진실",
+        "",
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어",
+        "꿈이라면 이제",
+        "깨어났으면 (으면) 제발 (제발)",
+        "정말 네가 나의 운명인 걸까? (걸까?)",
+        "",
+        "Ooh",
+        "넌 falling you",
+        "Ooh",
+        "넌 falling you",
+        "",
+        "가슴은 뛰고 있어, 여전히 널 보고 있어",
+        "자꾸만 숨이 막혀서",
+        "아직은 멀리에서 너를 지켜보고 싶어",
+        "내가 또 왜 이러는지",
+        "처음 너를 봤을 때부터 다르게",
+        "운명의 시간은 또 더디게 갔지",
+        "내 가슴은 널 향했고",
+        "내 심장은 다시 또 뛰었고",
+        "꺼져버리던 희미한 불빛",
+        "너로 인해 다시 타오르는 눈빛",
+        "마치 오래전부터 널 사랑한 것 같아",
+        "무언가에 이끌리듯 끌려온 것 같아",
+        "",
+        "나의 두 눈을 감으면",
+        "떠오르는 그 눈동자",
+        "자꾸 가슴이 시려서",
+        "잊혀지길 바랬어",
+        "(꿈이라면) 꿈이라면 이제",
+        "깨어났으면 (꿈이 아니길) 제발",
+        "(혹시 네가) 정말 네가 나의 운명인걸까?",
+        "(운명이라면) 넌 falling you"
+      ],
+      "targetLineIndices": [
+        0,
+        5,
+        18,
+        47
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나의 두 눈을 감으면",
+      "breakdown": "나의 = my\n두 = two\n눈을 = eyes (object)\n감으면 = 감다 + (으)면 = if/when I close\n\n\"When I close my two eyes...\"\n\n-(으)면 creates a condition: 'if' or 'when' something happens.",
+      "dictionary": [
         {
-          "korean": "나의 두 눈을 감으면",
-          "english": "When I close my eyes",
-          "highlights": []
+          "word": "나의",
+          "reading": "나의",
+          "meaning": "my"
         },
         {
-          "korean": "떠오르는 그 눈동자",
-          "english": "those eyes come to mind",
-          "highlights": []
+          "word": "두",
+          "reading": "두",
+          "meaning": "two"
         },
         {
-          "korean": "자꾸 가슴이 시려서",
-          "english": "because my heart keeps aching",
-          "highlights": []
+          "word": "눈",
+          "reading": "눈",
+          "meaning": "eye(s)"
         },
         {
-          "korean": "잊혀지길 바랬어",
-          "english": "I hoped I could be forgotten",
-          "highlights": []
+          "word": "감다",
+          "reading": "감다",
+          "meaning": "to close (eyes)"
+        },
+        {
+          "word": "-(으)면",
+          "reading": "-(으)면",
+          "meaning": "if / when"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-gwaenchanta",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "괜찮아요, 걱정하지 마세요.",
+        "english": "It's okay, don't worry.",
+        "highlights": [
+          "괜찮"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-gwaenchanta",
       "type": "word-card",
       "label": "새 단어",
       "item": {
         "korean": "괜찮다",
-        "english": "to be okay",
+        "english": "to be okay / to be fine",
         "kind": "word",
         "partOfSpeech": "adjective",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "괜찮으면 나를 만나줘요",
+          "english": "If it's okay, please meet me",
           "highlights": [
-            "괜찮다"
+            "괜찮"
           ]
         },
         "audioKey": "괜찮다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-gwaenchanta",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -126,988 +162,609 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "night",
-            "correct": false
-          },
-          {
-            "text": "to be okay",
+            "text": "to be okay / to be fine",
             "correct": true
           },
           {
-            "text": "dream",
+            "text": "to be difficult",
+            "correct": false
+          },
+          {
+            "text": "to be special",
+            "correct": false
+          },
+          {
+            "text": "to be different",
             "correct": false
           }
         ],
-        "wrongExplanation": "괜찮다 = to be okay"
+        "wrongExplanation": "괜찮다 = to be okay / to be fine"
       },
       "scored": true,
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "괜찮아요.",
-        "english": "It's okay.",
-        "highlights": [
-          "괜찮아요"
-        ]
-      }
-    },
-    {
-      "id": "s9-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___.",
-        "promptTranslation": "It's okay.",
-        "options": [
-          {
-            "text": "괜찮아요",
-            "correct": true
-          },
-          {
-            "text": "웃으면 괜찮다",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "하늘",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "괜찮아요. = It's okay."
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "웃으면 괜찮다",
-        "english": "if you smile, it's okay",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "웃으면 괜찮다"
-          ]
-        },
-        "audioKey": "웃으면 괜찮다"
-      }
-    },
-    {
-      "id": "rc1",
+      "id": "s7-line2",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "나의 두 눈을 감으면",
-      "breakdown": "이 가사에서 \"-(으)면\"이 나와요! 이 레슨의 문법이에요.\n\"감으면\"은 \"감다\" + \"-(으)면\"이에요. \"눈을 감으면\" = \"눈을 감을 때\" — if I close my eyes.\n\"-(으)면\"은 조건을 말할 때 써요. \"비가 오면 우산을 써요\" — 비가 오면!\n이 노래에서 가수가 눈을 감으**면** 사랑하는 사람이 떠올라요.",
+      "lyricLine": "깨어났으면 (으면) 제발 (제발)",
+      "breakdown": "깨어났으면 = 깨어나다 + 았 + (으)면 = if (I) woke up\n제발 = please\n\n\"If only I woke up, please...\"\n\nThe singer is hoping this is a dream.\n-(으)면 expresses a wish or condition here.",
       "dictionary": [
         {
-          "word": "감다",
-          "romanization": "gam-da",
-          "partOfSpeech": "verb",
-          "definition": "to close (eyes)",
-          "example": {
-            "korean": "눈을 감으세요.",
-            "english": "Close your eyes."
-          }
+          "word": "깨어나다",
+          "reading": "깨어나다",
+          "meaning": "to wake up"
         },
         {
-          "word": "조건",
-          "romanization": "jo-geon",
-          "partOfSpeech": "noun",
-          "definition": "condition"
+          "word": "-(으)면",
+          "reading": "-(으)면",
+          "meaning": "if / when"
         },
         {
-          "word": "비",
-          "romanization": "bi",
-          "partOfSpeech": "noun",
-          "definition": "rain",
-          "example": {
-            "korean": "비가 와요.",
-            "english": "It's raining."
-          }
-        },
-        {
-          "word": "우산",
-          "romanization": "u-san",
-          "partOfSpeech": "noun",
-          "definition": "umbrella",
-          "example": {
-            "korean": "우산을 가져가요.",
-            "english": "Take an umbrella."
-          }
-        },
-        {
-          "word": "쓰다",
-          "romanization": "sseu-da",
-          "partOfSpeech": "verb",
-          "definition": "to use; to wear (hat/umbrella)"
-        },
-        {
-          "word": "때",
-          "romanization": "ttae",
-          "partOfSpeech": "noun",
-          "definition": "time, when",
-          "example": {
-            "korean": "그때 만나요.",
-            "english": "Let's meet then."
-          }
-        },
-        {
-          "word": "떠오르다",
-          "romanization": "tteo-o-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to come to mind, to rise"
-        },
-        {
-          "word": "사랑하는",
-          "romanization": "sa-rang-ha-neun",
-          "partOfSpeech": "adjective",
-          "definition": "beloved"
+          "word": "제발",
+          "reading": "제발",
+          "meaning": "please (desperate)"
         }
       ]
     },
     {
-      "id": "s11-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "웃으면 괜찮다",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "if you smile, it's okay",
-            "correct": true
-          },
-          {
-            "text": "to be okay",
-            "correct": false
-          },
-          {
-            "text": "to be beautiful",
-            "correct": false
-          },
-          {
-            "text": "to be loud",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "웃으면 괜찮다 = if you smile, it's okay"
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s12-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "웃으면 괜찮아요.",
-        "english": "If you smile, it's okay.",
-        "highlights": [
-          "웃으면",
-          "괜찮"
-        ]
-      }
-    },
-    {
-      "id": "s13-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 괜찮아요.",
-        "promptTranslation": "If you smile, it's okay.",
-        "options": [
-          {
-            "text": "웃으면 괜찮다",
-            "correct": false
-          },
-          {
-            "text": "웃으면",
-            "correct": true
-          },
-          {
-            "text": "시간이 지나면",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "웃으면 괜찮아요. = If you smile, it's okay."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s14-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "song-comprehension",
-        "prompt": "나의 두 눈을 감으면",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "When I close my eyes",
-            "correct": true
-          },
-          {
-            "text": "those eyes come to mind",
-            "correct": false
-          },
-          {
-            "text": "because my heart keeps aching",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "나의 두 눈을 감으면 = When I close my eyes"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s15-teach",
-      "type": "word-card",
-      "label": "새 단어",
-      "item": {
-        "korean": "하늘",
-        "english": "sky",
-        "kind": "word",
-        "partOfSpeech": "noun",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "하늘"
-          ]
-        },
-        "audioKey": "하늘"
-      }
-    },
-    {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "떠오르는 그 눈동자",
-      "breakdown": "이전 가사에서 \"눈을 감으**면**\"이라고 했어요. 그 다음은?\n떠오르는 그 눈동자 — 사랑하는 사람의 눈이 기억나요.\n\"떠오르다\"는 머릿속에 그림이 나타나는 것 같아요. 기억이 떠올라요.\n\"-(으)면\"으로 만들어 보면: \"생각하면 눈동자가 떠올라요.\" 이렇게 쓸 수 있어요!",
-      "dictionary": [
-        {
-          "word": "이전",
-          "romanization": "i-jeon",
-          "partOfSpeech": "noun/adjective",
-          "definition": "previous, before"
-        },
-        {
-          "word": "기억나다",
-          "romanization": "gi-eok-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to remember, to recall",
-          "example": {
-            "korean": "이름이 기억나요.",
-            "english": "I remember the name."
-          }
-        },
-        {
-          "word": "그림",
-          "romanization": "geu-rim",
-          "partOfSpeech": "noun",
-          "definition": "picture, drawing",
-          "example": {
-            "korean": "그림을 그려요.",
-            "english": "I draw a picture."
-          }
-        },
-        {
-          "word": "나타나다",
-          "romanization": "na-ta-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to appear"
-        },
-        {
-          "word": "생각하다",
-          "romanization": "saeng-gak-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to think",
-          "example": {
-            "korean": "자주 생각해요.",
-            "english": "I think about it often."
-          }
-        },
-        {
-          "word": "만들다",
-          "romanization": "man-deul-da",
-          "partOfSpeech": "verb",
-          "definition": "to make, to create",
-          "example": {
-            "korean": "음식을 만들어요.",
-            "english": "I make food."
-          }
-        },
-        {
-          "word": "이렇게",
-          "romanization": "i-reo-ke",
-          "partOfSpeech": "adverb",
-          "definition": "like this, in this way"
-        },
-        {
-          "word": "눈동자",
-          "romanization": "nun-dong-ja",
-          "partOfSpeech": "noun",
-          "definition": "pupil, eyes"
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "하늘",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "if you smile, it's okay",
-            "correct": false
-          },
-          {
-            "text": "sky",
-            "correct": true
-          },
-          {
-            "text": "if time passes",
-            "correct": false
-          },
-          {
-            "text": "to hide",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "하늘 = sky"
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s17-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "하늘이 예뻐요.",
-        "english": "The sky is pretty.",
-        "highlights": [
-          "하늘"
-        ]
-      }
-    },
-    {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이 예뻐요.",
-        "promptTranslation": "The sky is pretty.",
-        "options": [
-          {
-            "text": "하늘",
-            "correct": true
-          },
-          {
-            "text": "괜찮아요",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "하늘이 예뻐요. = The sky is pretty."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "괜찮아요.",
-          "english": "It's okay.",
-          "highlights": [
-            "괜찮아요"
-          ]
-        },
-        {
-          "korean": "하늘이 예뻐요.",
-          "english": "The sky is pretty.",
-          "highlights": [
-            "하늘"
-          ]
-        }
-      ],
-      "note": "괜찮다 + 하늘 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "When I close my eyes",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "자꾸 가슴이 시려서",
-            "correct": false
-          },
-          {
-            "text": "떠오르는 그 눈동자",
-            "correct": false
-          },
-          {
-            "text": "나의 두 눈을 감으면",
-            "correct": true
-          },
-          {
-            "text": "잊혀지길 바랬어",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "나의 두 눈을 감으면"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
+      "id": "s8-pattern",
       "type": "pattern-spotlight",
       "label": "패턴을 찾아봐요",
       "spotlight": {
         "pattern": "-(으)면",
         "meaning": "if / when",
-        "explanation": "Conditional statements. \"If you smile, I'm happy.\"",
+        "explanation": "조건이나 가정을 나타내요. '~하면'은 '~할 때' 또는 '만약 ~한다면'의 의미예요.\nExpresses conditions or hypothetical situations: 'if' or 'when' something happens.",
         "songExample": {
-          "korean": "",
-          "english": "",
+          "korean": "나의 두 눈을 감으면",
+          "english": "When I close my eyes",
           "highlights": [
-            "(으)면"
+            "으면"
           ]
         },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "자꾸 가슴이 시려서",
-      "breakdown": "\"가슴이 시리다\"는 마음이 아프다는 뜻이에요.\n\"시리다\"를 \"-(으)면\"으로 써 볼까요? \"가슴이 시리**면** 어떻게 해요?\" — 가슴이 시리면!\n\"자꾸\"는 반복해서라는 뜻이에요. 가슴이 한 번 아픈 게 아니라, 자꾸 아파요.\n웃으**면** 괜찮을까요? 시간이 지나**면** 괜찮을까요? 가수는 아직 모르겠어요.",
-      "dictionary": [
-        {
-          "word": "가슴",
-          "romanization": "ga-seum",
-          "partOfSpeech": "noun",
-          "definition": "chest, heart",
-          "example": {
-            "korean": "가슴이 아파요.",
-            "english": "My heart aches."
-          }
-        },
-        {
-          "word": "시리다",
-          "romanization": "si-ri-da",
-          "partOfSpeech": "adjective",
-          "definition": "to ache from cold"
-        },
-        {
-          "word": "반복",
-          "romanization": "ban-bok",
-          "partOfSpeech": "noun",
-          "definition": "repetition"
-        },
-        {
-          "word": "아프다",
-          "romanization": "a-peu-da",
-          "partOfSpeech": "adjective",
-          "definition": "to hurt, to be sick",
-          "example": {
-            "korean": "머리가 아파요.",
-            "english": "My head hurts."
-          }
-        },
-        {
-          "word": "한 번",
-          "romanization": "han beon",
-          "partOfSpeech": "noun",
-          "definition": "once",
-          "example": {
-            "korean": "한 번만 해요.",
-            "english": "Do it just once."
-          }
-        },
-        {
-          "word": "어떻게",
-          "romanization": "eo-tteo-ke",
-          "partOfSpeech": "adverb",
-          "definition": "how",
-          "example": {
-            "korean": "어떻게 해요?",
-            "english": "What should I do?"
-          }
-        },
-        {
-          "word": "아직",
-          "romanization": "a-jik",
-          "partOfSpeech": "adverb",
-          "definition": "still, yet",
-          "example": {
-            "korean": "아직 몰라요.",
-            "english": "I still don't know."
-          }
-        },
-        {
-          "word": "모르다",
-          "romanization": "mo-reu-da",
-          "partOfSpeech": "verb",
-          "definition": "to not know",
-          "example": {
-            "korean": "잘 모르겠어요.",
-            "english": "I'm not sure."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "시간이 지나면",
-        "english": "if time passes",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-(으)면 = if / when",
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "시간이 지나면"
-          ]
-        },
-        "audioKey": "시간이 지나면"
-      }
-    },
-    {
-      "id": "s23-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "시간이 지나면",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
+        "examples": [
           {
-            "text": "sky",
-            "correct": false
+            "korean": "비가 오면 집에 있어요.",
+            "english": "If it rains, I stay home.",
+            "highlights": [
+              "오면"
+            ]
           },
           {
-            "text": "to stop liking",
-            "correct": false
+            "korean": "시간이 있으면 전화해요.",
+            "english": "If I have time, I'll call.",
+            "highlights": [
+              "있으면"
+            ]
           },
           {
-            "text": "if time passes",
-            "correct": true
-          },
-          {
-            "text": "if you smile, it's okay",
-            "correct": false
+            "korean": "꿈이라면 이제 깨어났으면",
+            "english": "If it's a dream, I wish I'd wake up now",
+            "highlights": [
+              "라면",
+              "으면"
+            ]
           }
-        ],
-        "wrongExplanation": "시간이 지나면 = if time passes"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "시간이 지나면 괜찮아질 거예요.",
-        "english": "If time passes, it'll be okay.",
-        "highlights": [
-          "시간이 지나면"
         ]
       }
     },
     {
-      "id": "s25-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "시간이 지나면",
-        "promptTranslation": "if time passes",
+        "type": "fill-blank",
+        "prompt": "비가 오___ 집에 있어요.",
+        "promptTranslation": "If it rains, I stay home.",
         "options": [
           {
-            "text": "(으)면",
+            "text": "면",
             "correct": true
-          },
-          {
-            "text": "아서",
-            "correct": false
           },
           {
             "text": "고",
             "correct": false
           },
           {
-            "text": "처럼",
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "아서",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -(으)면예요."
+        "wrongExplanation": "오다 + 면 = 오면 (if it comes/rains). -(으)면 expresses condition."
+      },
+      "scored": true
+    },
+    {
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-(으)면**이 어떻게 쓰이는지 봤어요.\n이제 이 패턴이 들어간 표현을 배워 볼까요?",
+      "contentEnglish": "You've seen how -(으)면 works.\nNow let's learn phrases that use this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-gwaenchantaumyeon",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "괜찮으면 같이 가요.",
+        "english": "If it's okay, let's go together.",
+        "highlights": [
+          "괜찮으면"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-gwaenchantaumyeon",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "괜찮으면",
+        "english": "if it's okay",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "괜찮으면 나를 만나줘요",
+          "english": "If it's okay, please meet me",
+          "highlights": [
+            "괜찮으면"
+          ]
+        },
+        "audioKey": "괜찮으면"
+      }
+    },
+    {
+      "id": "s13-quiz-gwaenchantaumyeon",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "괜찮으면",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "if it's okay",
+            "correct": true
+          },
+          {
+            "text": "if it's difficult",
+            "correct": false
+          },
+          {
+            "text": "if it's not good",
+            "correct": false
+          },
+          {
+            "text": "if it's finished",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "괜찮다 (to be okay) + (으)면 = 괜찮으면 (if it's okay)"
+      },
+      "scored": true,
+      "itemIndex": 1
+    },
+    {
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나의 두 눈을 감으면",
+      "breakdown": "나의 두 눈을 = my two eyes (object)\n감으면 = 감다 + (으)면 = if/when I close\n\n\"When I close my two eyes...\"\n\nThis line repeats in the song.\n감다 (to close) uses -(으)면 to show the condition.",
+      "dictionary": [
+        {
+          "word": "감다",
+          "reading": "감다",
+          "meaning": "to close (eyes)"
+        },
+        {
+          "word": "-(으)면",
+          "reading": "-(으)면",
+          "meaning": "if / when"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "나의 두 눈을 감으면",
+        "promptTranslation": "이 가사의 뜻은?",
+        "options": [
+          {
+            "text": "When I close my two eyes",
+            "correct": true
+          },
+          {
+            "text": "If only I woke up",
+            "correct": false
+          },
+          {
+            "text": "If it's a dream",
+            "correct": false
+          },
+          {
+            "text": "When I see you",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "나의 두 눈을 = my two eyes, 감으면 = when/if I close"
+      },
+      "scored": true
+    },
+    {
+      "id": "s16-context-sigan",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "시간이 빨리 가요.",
+        "english": "Time goes by quickly.",
+        "highlights": [
+          "시간"
+        ]
+      }
+    },
+    {
+      "id": "s17-teach-sigan",
+      "type": "word-card",
+      "label": "새 단어",
+      "item": {
+        "korean": "시간",
+        "english": "time",
+        "kind": "word",
+        "partOfSpeech": "noun",
+        "songLine": {
+          "korean": "운명의 시간은 또 더디게 갔지",
+          "english": "The time of fate passed slowly",
+          "highlights": [
+            "시간"
+          ]
+        },
+        "audioKey": "시간"
+      }
+    },
+    {
+      "id": "s18-quiz-sigan",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "시간",
+        "promptTranslation": "무슨 뜻일까요?",
+        "options": [
+          {
+            "text": "time",
+            "correct": true
+          },
+          {
+            "text": "space",
+            "correct": false
+          },
+          {
+            "text": "moment",
+            "correct": false
+          },
+          {
+            "text": "fate",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "시간 = time"
+      },
+      "scored": true,
+      "itemIndex": 2
+    },
+    {
+      "id": "s19-context-siganidoemyeon",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "시간이 되면 연락할게요.",
+        "english": "When I have time, I'll contact you.",
+        "highlights": [
+          "시간이 되면"
+        ]
+      }
+    },
+    {
+      "id": "s20-teach-siganidoemyeon",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "시간이 되면",
+        "english": "when there's time / if you have time",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "songLine": {
+          "korean": "시간이 되면 나를 찾아줘요",
+          "english": "When you have time, please come find me",
+          "highlights": [
+            "시간이 되면"
+          ]
+        },
+        "audioKey": "시간이 되면"
+      }
+    },
+    {
+      "id": "s21-quiz-siganidoemyeon",
+      "type": "quiz",
+      "label": "퀴즈",
+      "quiz": {
+        "type": "fill-blank",
+        "prompt": "시간이 ___ 연락할게요.",
+        "promptTranslation": "When I have time, I'll contact you.",
+        "options": [
+          {
+            "text": "되면",
+            "correct": true
+          },
+          {
+            "text": "되고",
+            "correct": false
+          },
+          {
+            "text": "되지만",
+            "correct": false
+          },
+          {
+            "text": "되어서",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "시간이 되다 (to have time) + (으)면 = 되면. 시간이 되면 = when/if there's time"
       },
       "scored": true,
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
+      "id": "s22-line4",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "꿈이라면 이제 깨어났으면",
+      "breakdown": "꿈이라면 = 꿈 + 이다 + (으)면 = if it's a dream\n이제 = now\n깨어났으면 = if (I) woke up\n\n\"If it's a dream, I wish I'd wake up now...\"\n\nBoth 라면 and 으면 use the -(으)면 pattern.\n꿈 was taught in Lesson 1!",
+      "dictionary": [
+        {
+          "word": "꿈",
+          "reading": "꿈",
+          "meaning": "dream"
+        },
+        {
+          "word": "이다",
+          "reading": "이다",
+          "meaning": "to be"
+        },
+        {
+          "word": "이제",
+          "reading": "이제",
+          "meaning": "now"
+        },
+        {
+          "word": "깨어나다",
+          "reading": "깨어나다",
+          "meaning": "to wake up"
+        }
+      ]
+    },
+    {
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "비가 오면 우산을 써요.",
+          "english": "If it rains, I use an umbrella.",
+          "highlights": [
+            "오면"
+          ]
+        },
+        {
+          "korean": "비가 안 오면 산책해요.",
+          "english": "If it doesn't rain, I take a walk.",
+          "highlights": [
+            "안 오면"
+          ]
+        }
+      ],
+      "note": "-(으)면 can express both positive and negative conditions."
+    },
+    {
+      "id": "s24-quiz-mix1",
       "type": "quiz",
-      "label": "퀴즈",
+      "label": "종합 퀴즈",
       "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "What does -(으)면 express?",
+        "type": "tap-meaning",
+        "prompt": "What does -(으)면 mean?",
         "promptTranslation": null,
         "options": [
+          {
+            "text": "if / when",
+            "correct": true
+          },
+          {
+            "text": "and / and then",
+            "correct": false
+          },
           {
             "text": "but / however",
             "correct": false
           },
           {
-            "text": "not at all",
-            "correct": false
-          },
-          {
-            "text": "always / every time",
-            "correct": false
-          },
-          {
-            "text": "if / when",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "-(으)면 = if / when"
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "잊혀지길 바랬어",
-      "breakdown": "가수는 잊혀지길 바랬어요 — 잊히고 싶었어요.\n\"-(으)면\" 문법으로 이 마음을 표현해 볼까요?\n\"시간이 지나**면** 잊을 수 있을까?\" — 시간이 지나면 잊힐까?\n\"웃으**면** 괜찮아질까?\" — 웃으면 마음이 나아질까?\n이 노래에서 가수는 조건을 생각해요. \"~하면 괜찮을까?\" 하지만 아직 괜찮지 않아요.",
-      "dictionary": [
-        {
-          "word": "잊히다",
-          "romanization": "it-hi-da",
-          "partOfSpeech": "verb",
-          "definition": "to be forgotten"
-        },
-        {
-          "word": "표현하다",
-          "romanization": "pyo-hyeon-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to express"
-        },
-        {
-          "word": "나아지다",
-          "romanization": "na-a-ji-da",
-          "partOfSpeech": "verb",
-          "definition": "to get better, to improve",
-          "example": {
-            "korean": "많이 나아졌어요.",
-            "english": "It got much better."
-          }
-        },
-        {
-          "word": "지나다",
-          "romanization": "ji-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to pass (time)",
-          "example": {
-            "korean": "시간이 빨리 지나요.",
-            "english": "Time passes quickly."
-          }
-        },
-        {
-          "word": "마음",
-          "romanization": "ma-eum",
-          "partOfSpeech": "noun",
-          "definition": "heart, mind",
-          "example": {
-            "korean": "마음이 아파요.",
-            "english": "My heart hurts."
-          }
-        },
-        {
-          "word": "하지만",
-          "romanization": "ha-ji-man",
-          "partOfSpeech": "conjunction",
-          "definition": "but, however"
-        },
-        {
-          "word": "괜찮다",
-          "romanization": "gwaen-chan-ta",
-          "partOfSpeech": "adjective",
-          "definition": "to be okay, to be fine",
-          "example": {
-            "korean": "괜찮아요.",
-            "english": "It's okay."
-          }
-        },
-        {
-          "word": "빨리",
-          "romanization": "ppal-li",
-          "partOfSpeech": "adverb",
-          "definition": "quickly, fast",
-          "example": {
-            "korean": "빨리 와요.",
-            "english": "Come quickly."
-          }
-        }
-      ]
-    },
-    {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "시간이 지나면",
-            "correct": false
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "하늘",
-            "correct": false
-          },
-          {
-            "text": "괜찮다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "괜찮다 = to be okay"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (sky)",
-        "options": [
-          {
-            "text": "괜찮다",
-            "correct": false
-          },
-          {
-            "text": "하늘",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
+            "text": "because",
             "correct": false
           }
         ],
-        "wrongExplanation": "하늘 = sky"
+        "wrongExplanation": "-(으)면 means 'if' or 'when' — it expresses conditions or hypothetical situations."
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s29-quiz",
+      "id": "s25-quiz-mix2",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "if you smile, it's okay",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "if it's okay",
+        "promptTranslation": "한국어로?",
         "options": [
           {
-            "text": "웃으면 괜찮다",
+            "text": "괜찮으면",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "시간이 되면",
             "correct": false
           },
           {
-            "text": "괜찮다",
+            "text": "괜찮고",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "괜찮지만",
             "correct": false
           }
         ],
-        "wrongExplanation": "if you smile, it's okay = 웃으면 괜찮다"
+        "wrongExplanation": "괜찮다 (to be okay) + (으)면 = 괜찮으면 (if it's okay)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "비가 오___ 집에 있어요.",
-        "promptTranslation": "If it rains, I stay home.",
+        "type": "fill-blank",
+        "prompt": "날씨가 좋___ 공원에 가요.",
+        "promptTranslation": "If the weather is nice, I go to the park.",
         "options": [
           {
-            "text": "아서",
-            "correct": false
-          },
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "(으)면",
+            "text": "으면",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "고",
+            "correct": false
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "어서",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -(으)면!"
+        "wrongExplanation": "좋다 (to be good) + (으)면 = 좋으면. -(으)면 expresses the condition 'if the weather is nice.'"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"오면\", \"좋겠다\", \"괜찮다\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "꿈이라면 이제 깨어났으면",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "괜찮다 오면 좋겠다",
+            "text": "If it's a dream, I wish I'd wake up now",
             "correct": true
+          },
+          {
+            "text": "When I close my eyes",
+            "correct": false
+          },
+          {
+            "text": "If you have time, please meet me",
+            "correct": false
+          },
+          {
+            "text": "I want to protect you",
+            "correct": false
           }
         ],
-        "wrongExplanation": "괜찮다 오면 좋겠다"
+        "wrongExplanation": "꿈이라면 = if it's a dream, 깨어났으면 = I wish I woke up"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "시간",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "time",
+            "correct": true
+          },
+          {
+            "text": "dream",
+            "correct": false
+          },
+          {
+            "text": "person",
+            "correct": false
+          },
+          {
+            "text": "love",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "시간 = time"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
           "korean": "나의 두 눈을 감으면",
-          "english": "",
-          "highlights": []
+          "english": "When I close my two eyes",
+          "highlights": [
+            "으면"
+          ]
         },
         {
           "korean": "떠오르는 그 눈동자",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "자꾸 가슴이 시려서",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "잊혀지길 바랬어",
-          "english": "",
+          "english": "Those eyes that come to mind",
           "highlights": []
         },
         {
           "korean": "꿈이라면 이제",
-          "english": "",
-          "highlights": []
+          "english": "If it's a dream, now",
+          "highlights": [
+            "라면"
+          ]
         },
         {
-          "korean": "깨어났으면 (으면) 제발 (제발)",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "정말 네가 나의 운명인 걸까? (걸까?)",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "넌 falling you",
-          "english": "",
-          "highlights": []
+          "korean": "깨어났으면 제발",
+          "english": "I wish I'd wake up, please",
+          "highlights": [
+            "으면"
+          ]
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
         {
           "korean": "괜찮다",
-          "english": "to be okay",
+          "english": "to be okay / to be fine",
           "kind": "word",
           "partOfSpeech": "adjective",
           "songLine": {
@@ -1117,8 +774,8 @@
           }
         },
         {
-          "korean": "하늘",
-          "english": "sky",
+          "korean": "시간",
+          "english": "time",
           "kind": "word",
           "partOfSpeech": "noun",
           "songLine": {
@@ -1128,8 +785,8 @@
           }
         },
         {
-          "korean": "웃으면 괜찮다",
-          "english": "if you smile, it's okay",
+          "korean": "괜찮으면",
+          "english": "if it's okay",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1139,8 +796,8 @@
           }
         },
         {
-          "korean": "시간이 지나면",
-          "english": "if time passes",
+          "korean": "시간이 되면",
+          "english": "when there's time / if you have time",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1155,9 +812,8 @@
         "meaning": "if / when"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
-  ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  ]
 }

@@ -278,7 +278,6 @@ def build_prompt(lesson_num):
     config = LESSON_CONFIG[lesson_num]
     lyrics = load_lyrics(lesson_num)
     previously_taught = get_previously_taught(lesson_num)
-    gold = load_gold_standard()
 
     unit = config["unit"]
     grammar = config["grammarFocus"]
@@ -311,6 +310,7 @@ def build_prompt(lesson_num):
 8. Korean text must be natural and grammatically correct.
 9. Context sentences should be simple daily-life sentences using the target word.
 10. Do NOT teach ultra-basic words (나, 너, 가다, 오다, 있다) — USE them in sentences, but don't give them word cards.
+11. Quiz options MUST be objects with "text" and "correct" keys: {{"text": "answer", "correct": true}}. Never use plain strings.
 
 ## LESSON METADATA
 
@@ -368,11 +368,30 @@ def build_prompt(lesson_num):
 29. **sing-along** — 4 key lyric lines with translations. musicPlaying: true.
 30. **recap** — List all 4 taught items. pattern object. xpReward: 25, passThreshold: 0.7, totalQuizScreens: 11.
 
-## GOLD STANDARD (Lesson 1 — follow this structure exactly)
+## SCREEN TYPE JSON FORMATS (use these exact field names)
 
-```json
-{json.dumps(gold, ensure_ascii=False, indent=2)}
-```
+intro: {{"id":"s1-intro","type":"intro","label":null,"title":"Artist — 제목","content":"이번 레슨에서는 **-고**를 배워요.\\n...","contentEnglish":"In this lesson...","musicPlaying":true}}
+
+lyrics-fullsong: {{"id":"s2-fullsong","type":"lyrics-fullsong","label":"가사를 따라 읽어 보세요","allLines":["line1","line2","",...],"targetLineIndices":[0,4,14,20],"musicPlaying":true}}
+IMPORTANT: targetLineIndices must point to NON-EMPTY lines only. Never point to "" (empty verse break lines).
+
+line-breakdown: {{"id":"s3-line1","type":"line-breakdown","label":"가사 읽기","lyricLine":"가사 한 줄","breakdown":"word = meaning\\nword = meaning\\n\\n\\"Translation.\\"","dictionary":[{{"word":"단어","reading":"단어","meaning":"meaning"}}]}}
+
+context-sentence: {{"id":"s4-context","type":"context-sentence","label":"문장 연습","sentence":{{"korean":"나는 좋은 꿈을 꿨어요.","english":"I had a nice dream.","highlights":["꿈"]}}}}
+
+word-card: {{"id":"s5-teach","type":"word-card","label":"새 단어","item":{{"korean":"꿈","english":"dream","kind":"word","partOfSpeech":"noun","songLine":{{"korean":"꿈을 꾸듯이","english":"As if dreaming","highlights":["꿈"]}},"audioKey":"꿈"}}}}
+
+phrase-card: {{"id":"s12-teach","type":"phrase-card","label":"새 표현","item":{{"korean":"웃고 울다","english":"to laugh and cry","kind":"phrase","phraseNote":"웃다 + -고 + 울다","partOfSpeech":"","songLine":{{"korean":"...","english":"...","highlights":[]}},"audioKey":"웃고 울다"}}}}
+
+quiz: {{"id":"s6-quiz","type":"quiz","label":"퀴즈","quiz":{{"type":"tap-meaning","prompt":"꿈","promptTranslation":"무슨 뜻일까요?","options":[{{"text":"dream","correct":true}},{{"text":"star","correct":false}},{{"text":"rain","correct":false}},{{"text":"road","correct":false}}],"wrongExplanation":"꿈 = dream"}},"scored":true,"itemIndex":0}}
+
+pattern-spotlight: {{"id":"s8-pattern","type":"pattern-spotlight","label":"패턴을 찾아봐요","spotlight":{{"pattern":"-고","meaning":"and / and then","explanation":"두 가지를 연결해요.\\nConnects two actions.","songExample":{{"korean":"가수는 나고 관객은 너","english":"The singer is me and the audience is you","highlights":["고"]}},"examples":[{{"korean":"먹고 자요.","english":"I eat and sleep.","highlights":["고"]}}]}}}}
+
+pair-context: {{"id":"s23-pair","type":"pair-context","label":"비교해 보세요","sentences":[{{"korean":"가요.","english":"I go.","highlights":[]}},{{"korean":"가고 있어요.","english":"I'm going.","highlights":["고 있"]}}],"note":"Compare the two forms."}}
+
+sing-along: {{"id":"s29-singalong","type":"sing-along","label":"노래","lines":[{{"korean":"가사","english":"translation","highlights":["고"]}}],"musicPlaying":true}}
+
+recap: {{"id":"s30-recap","type":"recap","label":"결과","items":[{{"korean":"꿈","english":"dream","kind":"word","partOfSpeech":"noun","songLine":{{"korean":"","english":"","highlights":[]}}}}],"pattern":{{"pattern":"-고","meaning":"and / and then"}},"xpReward":25,"passThreshold":0.7,"totalQuizScreens":11}}
 
 ## QUIZ QUALITY RULES
 
@@ -443,6 +462,9 @@ def quality_gate(lesson_data):
         if s["type"] == "quiz":
             q = s.get("quiz", {})
             opts = q.get("options", [])
+            if opts and isinstance(opts[0], str):
+                issues.append(f"FAIL: quiz at screen {i+1} has string options (need objects with text/correct)")
+                continue
             correct_count = sum(1 for o in opts if o.get("correct"))
             if correct_count != 1:
                 issues.append(f"FAIL: quiz at screen {i+1} has {correct_count} correct answers")

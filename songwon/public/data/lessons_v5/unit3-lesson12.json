@@ -8,97 +8,130 @@
     "lessonNumber": 12,
     "grammarFocus": "-는데",
     "grammarMeaning": "background info / mild contrast",
-    "koreanRatio": 0.75
+    "koreanRatio": 0.6
   },
+  "generatedAt": "2025-06-15T09:00:00.000Z",
   "screens": [
     {
-      "id": "s1-warmup",
-      "type": "warmup",
-      "label": "복습",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "알다",
-        "promptTranslation": "지난 시간에 배운 거예요!",
-        "options": [
-          {
-            "text": "love",
-            "correct": false
-          },
-          {
-            "text": "road",
-            "correct": false
-          },
-          {
-            "text": "star",
-            "correct": false
-          },
-          {
-            "text": "to know",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "알다 = to know."
-      },
-      "scored": false
-    },
-    {
-      "id": "s2-intro",
+      "id": "s1-intro",
       "type": "intro",
       "label": null,
       "title": "BOL4 — Some",
-      "content": "Setting the scene before your main point. Extremely common in spoken Korean.\n\nThis song is a direct celebration of 썸 (sseom) — the specifically Korean dating-culture stage before you're official, where you're texting constantly, hanging out one-on-one, and everyone around you can tell something's happening except neither of you has said the words. The singer is impatient and giddy about it: she's decided she's going to chase this, call every day, push past her own nerves, even though she's sure she'll get rejected.\n\nIn this lesson, you'll learn the grammar pattern **-는데**, which means \"background info / mild contrast.\" We'll see how BOL4 uses it in \"Some.\"",
+      "content": "이번 레슨에서는 **-는데**를 배워요.\n배경 정보를 주거나 부드러운 대조를 만들어요.\n\nBOL4의 **Some**은 솔직한 마음을 표현하는 노래예요.\n누군가를 좋아하는 설레는 마음을 담았어요.",
+      "contentEnglish": "In this lesson, you'll learn **-는데** — used to give background information or create a mild contrast.\n\nBOL4's **Some** is about expressing honest feelings. It captures the excitement of liking someone.",
       "musicPlaying": true
     },
     {
-      "id": "s3-intro",
-      "type": "intro",
-      "label": null,
-      "title": "이번에 배울 것",
-      "content": "이번 레슨에서 배울 단어:\n- **걷다** — to walk\n- **비** — rain\n- **비가 오는데** — it's raining, and...\n- **걷고 있는데** — I was walking, and...\n\n레슨이 끝나면, 이 노래의 가사를 이해할 수 있어요.",
-      "musicPlaying": true
-    },
-    {
-      "id": "s4-lyrics-kr",
-      "type": "lyrics-korean",
-      "label": "들어 보세요",
-      "lines": [
+      "id": "s2-fullsong",
+      "type": "lyrics-fullsong",
+      "label": "가사를 따라 읽어 보세요",
+      "allLines": [
         "표현이 서툰 것도 잘못인가요",
         "나 차가운 도시에 따뜻한 여잔데",
         "그냥 좋아한단 말도 안 되는가요",
-        "솔직하게 난 말하고 싶어요"
+        "솔직하게 난 말하고 싶어요",
+        "",
+        "사라져 아니 사라지지 마",
+        "네 맘을 보여줘 아니 보여주지 마",
+        "하루 종일 머릿속에 네 미소만",
+        "우리 그냥 한번 만나볼래요",
+        "",
+        "나 오늘부터 너랑 썸을 한번 타볼 거야",
+        "나 매일매일 네게 전화도 할 거야",
+        "밀가루 못 먹는 나를 달래서라도",
+        "너랑 맛있는 걸 먹으러 다닐 거야",
+        "",
+        "넘넘 스윗한 넌 정말 달콤한 걸",
+        "넘넘 스윗한 넌",
+        "",
+        "그냥 좋아한단 말도 안 되는가요",
+        "솔직하게 난 말하고 싶어요",
+        "",
+        "사라져 아니 사라지지 마",
+        "네 맘을 보여줘 아니 보여주지 마",
+        "하루 종일 머릿속에 네 미소만",
+        "우리 그냥 한번 만나볼래요",
+        "",
+        "나 오늘부터 너랑 썸을 한번 타볼 거야",
+        "나 매일매일 네게 전화도 할 거야",
+        "밀가루 못 먹는 나를 달래서라도",
+        "너랑 맛있는 걸 먹으러 다닐 거야",
+        "",
+        "사랑은 이렇게 생기는 게 아니겠어",
+        "어쩌면 내 맘의 반쪽을",
+        "네게 걸어보는 건데",
+        "나는 오늘도 네게 차일 것만 같아도",
+        "난 한번 더 너에게 다시 달려가 볼 거야",
+        "",
+        "나 오늘부터 너랑 썸을 한번 타볼 거야",
+        "나 매일매일 네게 전화도 할 거야",
+        "매운 거 못 먹는 나를 달래서라도",
+        "너랑 맛있는 걸 먹으러 다닐 거야",
+        "",
+        "나도 그 애처럼 좋아요 좀 눌러줘",
+        "나도 너랑 말 좀 할 수 있게 해줘",
+        "나는 풀이 죽어서 오늘도 포기하고",
+        "뒤를 돌아볼 때쯤 나를 붙잡는 넌",
+        "",
+        "넘넘 스윗한 넌 정말 달콤한 걸",
+        "넘넘 스윗한 넌"
+      ],
+      "targetLineIndices": [
+        1,
+        7,
+        28,
+        29
       ],
       "musicPlaying": true
     },
     {
-      "id": "s5-lyrics-en",
-      "type": "lyrics-english",
-      "label": "번역",
-      "lines": [
+      "id": "s3-line1",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "나 차가운 도시에 따뜻한 여잔데",
+      "breakdown": "나 = I\n차가운 = cold\n도시에 = in the city\n따뜻한 = warm\n여잔데 = 여자인데 = I'm a woman, but/and...\n\n**-는데** gives background: \"I'm a warm woman in a cold city (but...)\"",
+      "dictionary": [
         {
-          "korean": "표현이 서툰 것도 잘못인가요",
-          "english": "Is it wrong that I'm bad at expressing myself?",
-          "highlights": []
+          "word": "차가운",
+          "reading": "차갑다",
+          "meaning": "cold"
         },
         {
-          "korean": "나 차가운 도시에 따뜻한 여잔데",
-          "english": "I'm a warm woman in a cold city",
-          "highlights": []
+          "word": "도시",
+          "reading": "도시",
+          "meaning": "city"
         },
         {
-          "korean": "그냥 좋아한단 말도 안 되는가요",
-          "english": "is it that strange to just say I like you?",
-          "highlights": []
+          "word": "따뜻한",
+          "reading": "따뜻하다",
+          "meaning": "warm"
         },
         {
-          "korean": "솔직하게 난 말하고 싶어요",
-          "english": "I want to say it honestly",
-          "highlights": []
+          "word": "여자",
+          "reading": "여자",
+          "meaning": "woman"
+        },
+        {
+          "word": "-는데",
+          "reading": "-는데",
+          "meaning": "but / and (background/contrast)"
         }
-      ],
-      "musicPlaying": false
+      ]
     },
     {
-      "id": "s6-teach",
+      "id": "s4-context-walk",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "공원에서 걷는 것을 좋아해요.",
+        "english": "I like walking in the park.",
+        "highlights": [
+          "걷"
+        ]
+      }
+    },
+    {
+      "id": "s5-teach-walk",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -107,17 +140,17 @@
         "kind": "word",
         "partOfSpeech": "verb",
         "songLine": {
-          "korean": "",
-          "english": "",
+          "korean": "너랑 맛있는 걸 먹으러 다닐 거야",
+          "english": "I'll go around eating delicious things with you",
           "highlights": [
-            "걷다"
+            "다닐"
           ]
         },
         "audioKey": "걷다"
       }
     },
     {
-      "id": "s7-quiz",
+      "id": "s6-quiz-walk",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -126,20 +159,20 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "rain",
-            "correct": false
-          },
-          {
-            "text": "dream",
-            "correct": false
-          },
-          {
-            "text": "I was walking, and...",
-            "correct": false
-          },
-          {
             "text": "to walk",
             "correct": true
+          },
+          {
+            "text": "to run",
+            "correct": false
+          },
+          {
+            "text": "to sit",
+            "correct": false
+          },
+          {
+            "text": "to stand",
+            "correct": false
           }
         ],
         "wrongExplanation": "걷다 = to walk"
@@ -148,240 +181,242 @@
       "itemIndex": 0
     },
     {
-      "id": "s8-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "공원에서 걸어요.",
-        "english": "I walk in the park.",
-        "highlights": [
-          "걸어요"
-        ]
-      }
-    },
-    {
-      "id": "s9-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "공원에서 ___.",
-        "promptTranslation": "I walk in the park.",
-        "options": [
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "걸어요",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "공원에서 걸어요. = I walk in the park."
-      },
-      "scored": true,
-      "itemIndex": 0
-    },
-    {
-      "id": "s10-teach",
-      "type": "phrase-card",
-      "label": "새 표현",
-      "item": {
-        "korean": "비가 오는데",
-        "english": "it's raining, and...",
-        "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": null,
-        "songLine": {
-          "korean": "",
-          "english": "",
-          "highlights": [
-            "비가 오는데"
-          ]
-        },
-        "audioKey": "비가 오는데"
-      }
-    },
-    {
-      "id": "rc1",
+      "id": "s7-line2",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "표현이 서툰 것도 잘못인가요",
-      "breakdown": "\"표현\"은 감정을 말이나 행동으로 보여주는 거예요.\n\"서툴다\"는 잘 못하는 거예요. \"서툰\" = 서툴다의 형용사형.\n\"잘못\"은 \"mistake\" 또는 \"fault\"예요. \"인가요\"는 물어보는 거예요.\n\"표현이 서투**는데** 잘못인가요?\" — 잘 표현 못하**는데**, 그것도 잘못이에요?",
+      "lyricLine": "하루 종일 머릿속에 네 미소만",
+      "breakdown": "하루 종일 = all day long\n머릿속에 = in (my) head\n네 = your\n미소만 = only (your) smile\n\n\"All day long, only your smile is in my head.\"\nThis line sets up background for the next: 우리 그냥 한번 만나볼래요 (so shall we meet?)",
       "dictionary": [
         {
-          "word": "표현",
-          "romanization": "pyo-hyeon",
-          "partOfSpeech": "noun",
-          "definition": "expression",
-          "example": {
-            "korean": "감정 표현이에요.",
-            "english": "It's an emotional expression."
-          }
+          "word": "하루 종일",
+          "reading": "하루 종일",
+          "meaning": "all day long"
         },
         {
-          "word": "서툴다",
-          "romanization": "seo-tul-da",
-          "partOfSpeech": "adjective",
-          "definition": "clumsy at, unskilled"
+          "word": "머릿속",
+          "reading": "머릿속",
+          "meaning": "inside the head"
         },
         {
-          "word": "잘못",
-          "romanization": "jal-mot",
-          "partOfSpeech": "noun",
-          "definition": "mistake, fault",
-          "example": {
-            "korean": "제 잘못이에요.",
-            "english": "It's my fault."
-          }
-        },
-        {
-          "word": "감정",
-          "romanization": "gam-jeong",
-          "partOfSpeech": "noun",
-          "definition": "emotion, feeling"
-        },
-        {
-          "word": "행동",
-          "romanization": "haeng-dong",
-          "partOfSpeech": "noun",
-          "definition": "action, behavior"
-        },
-        {
-          "word": "물어보다",
-          "romanization": "mul-eo-bo-da",
-          "partOfSpeech": "verb",
-          "definition": "to ask"
-        },
-        {
-          "word": "보여주다",
-          "romanization": "bo-yeo-ju-da",
-          "partOfSpeech": "verb",
-          "definition": "to show"
-        },
-        {
-          "word": "형용사",
-          "romanization": "hyeong-yong-sa",
-          "partOfSpeech": "noun",
-          "definition": "adjective"
+          "word": "미소",
+          "reading": "미소",
+          "meaning": "smile"
         }
       ]
     },
     {
-      "id": "s11-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "tap-meaning",
-        "prompt": "비가 오는데",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
+      "id": "s8-pattern",
+      "type": "pattern-spotlight",
+      "label": "패턴을 찾아봐요",
+      "spotlight": {
+        "pattern": "-는데",
+        "meaning": "background info / mild contrast",
+        "explanation": "배경 정보를 주거나 상황을 설명해요. '...한데/하는데' 다음에 다른 내용이 와요.\nGives background or sets up a contrast. Often translated as 'but', 'and', or 'so'.",
+        "songExample": {
+          "korean": "나 차가운 도시에 따뜻한 여잔데",
+          "english": "I'm a warm woman in a cold city (but...)",
+          "highlights": [
+            "데"
+          ]
+        },
+        "examples": [
           {
-            "text": "to be beautiful",
-            "correct": false
+            "korean": "비가 오는데 우산이 없어요.",
+            "english": "It's raining, but I don't have an umbrella.",
+            "highlights": [
+              "는데"
+            ]
           },
           {
-            "text": "it's raining, and...",
-            "correct": true
+            "korean": "배가 고픈데 밥이 없어요.",
+            "english": "I'm hungry, but there's no food.",
+            "highlights": [
+              "데"
+            ]
           },
           {
-            "text": "to disappear",
-            "correct": false
-          },
-          {
-            "text": "I was walking, and...",
-            "correct": false
+            "korean": "네게 걸어보는 건데",
+            "english": "I'm trying it on you (background info)",
+            "highlights": [
+              "데"
+            ]
           }
-        ],
-        "wrongExplanation": "비가 오는데 = it's raining, and..."
-      },
-      "scored": true,
-      "itemIndex": 1
-    },
-    {
-      "id": "s12-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "비가 오는데 우산이 없어요.",
-        "english": "It's raining and I don't have an umbrella.",
-        "highlights": [
-          "비가 오는데"
         ]
       }
     },
     {
-      "id": "s13-quiz",
+      "id": "s9-quiz-pattern",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
         "type": "fill-blank",
-        "prompt": "___ 우산이 없어요.",
-        "promptTranslation": "It's raining and I don't have an umbrella.",
+        "prompt": "배가 고프___ 밥이 없어요.",
+        "promptTranslation": "I'm hungry, ___ there's no food.",
         "options": [
           {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "시간",
-            "correct": false
-          },
-          {
-            "text": "걷고 있는데",
-            "correct": false
-          },
-          {
-            "text": "비가 오는데",
+            "text": "ㄴ데",
             "correct": true
+          },
+          {
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "고",
+            "correct": false
+          },
+          {
+            "text": "면",
+            "correct": false
           }
         ],
-        "wrongExplanation": "비가 오는데 우산이 없어요. = It's raining and I don't have an umbrella."
+        "wrongExplanation": "-ㄴ데 (or -은데) gives background: I'm hungry, and (as background) there's no food"
       },
-      "scored": true,
-      "itemIndex": 1
+      "scored": true
     },
     {
-      "id": "s14-quiz",
+      "id": "s10-checkpoint",
+      "type": "intro",
+      "label": null,
+      "title": "잘 하고 있어요!",
+      "content": "**-는데**가 어떻게 배경을 설명하는지 봤어요.\n이제 이 패턴이 들어간 표현을 배워 볼까요?",
+      "contentEnglish": "You've seen how -는데 provides background information.\nNow let's learn phrases that use this pattern.",
+      "musicPlaying": false
+    },
+    {
+      "id": "s11-context-walking",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "지금 걷는데 조금 있다가 전화할게요.",
+        "english": "I'm walking now, so I'll call you in a bit.",
+        "highlights": [
+          "걷는데"
+        ]
+      }
+    },
+    {
+      "id": "s12-teach-walking",
+      "type": "phrase-card",
+      "label": "새 표현",
+      "item": {
+        "korean": "걷는데",
+        "english": "I'm walking, and...",
+        "kind": "phrase",
+        "partOfSpeech": "",
+        "phraseNote": "걷다 (to walk) + -는데 = walking (background info)",
+        "songLine": {
+          "korean": "",
+          "english": "",
+          "highlights": []
+        },
+        "audioKey": "걷는데"
+      }
+    },
+    {
+      "id": "s13-quiz-walking",
       "type": "quiz",
-      "label": "가사 퀴즈",
+      "label": "퀴즈",
       "quiz": {
-        "type": "song-comprehension",
-        "prompt": "표현이 서툰 것도 잘못인가요",
+        "type": "tap-meaning",
+        "prompt": "걷는데",
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "Everything sounds different",
-            "correct": false
-          },
-          {
-            "text": "Is it wrong that I'm bad at expressing myself?",
+            "text": "I'm walking, and...",
             "correct": true
           },
           {
-            "text": "I'm a warm woman in a cold city",
+            "text": "I want to walk",
             "correct": false
           },
           {
-            "text": "is it that strange to just say I like you?",
+            "text": "if I walk",
+            "correct": false
+          },
+          {
+            "text": "I walked",
             "correct": false
           }
         ],
-        "wrongExplanation": "표현이 서툰 것도 잘못인가요 = Is it wrong that I'm bad at expressing myself?"
+        "wrongExplanation": "걷는데 = I'm walking (background), and... Uses -는데 to give context"
       },
       "scored": true,
-      "itemIndex": null
+      "itemIndex": 2
     },
     {
-      "id": "s15-teach",
+      "id": "s14-line3",
+      "type": "line-breakdown",
+      "label": "가사 읽기",
+      "lyricLine": "네게 걸어보는 건데",
+      "breakdown": "네게 = to you\n걸어보는 = trying, betting\n건데 = 것인데 = it's that... (background explanation)\n\n\"I'm trying it on you (as background info)...\"\n-는데 provides context for what comes next.",
+      "dictionary": [
+        {
+          "word": "네게",
+          "reading": "네게",
+          "meaning": "to you"
+        },
+        {
+          "word": "걸다",
+          "reading": "걸다",
+          "meaning": "to bet / to try"
+        },
+        {
+          "word": "-보다",
+          "reading": "-보다",
+          "meaning": "to try doing"
+        },
+        {
+          "word": "것",
+          "reading": "것",
+          "meaning": "thing (nominalizer)"
+        }
+      ]
+    },
+    {
+      "id": "s15-quiz-lyrics",
+      "type": "quiz",
+      "label": "가사 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "나 차가운 도시에 따뜻한 여잔데",
+        "promptTranslation": "이 가사의 뜻은?",
+        "options": [
+          {
+            "text": "I'm a warm woman in a cold city (but...)",
+            "correct": true
+          },
+          {
+            "text": "The city is warm and I am cold",
+            "correct": false
+          },
+          {
+            "text": "I want to be a warm woman",
+            "correct": false
+          },
+          {
+            "text": "It's raining in the cold city",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "차가운 도시 = cold city, 따뜻한 여자 = warm woman, -ㄴ데 = but/and (background)"
+      },
+      "scored": true
+    },
+    {
+      "id": "s16-context-rain",
+      "type": "context-sentence",
+      "label": "문장 연습",
+      "sentence": {
+        "korean": "오늘 비가 많이 왔어요.",
+        "english": "It rained a lot today.",
+        "highlights": [
+          "비"
+        ]
+      }
+    },
+    {
+      "id": "s17-teach-rain",
       "type": "word-card",
       "label": "새 단어",
       "item": {
@@ -392,92 +427,13 @@
         "songLine": {
           "korean": "",
           "english": "",
-          "highlights": [
-            "비"
-          ]
+          "highlights": []
         },
         "audioKey": "비"
       }
     },
     {
-      "id": "rc2",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "나 차가운 도시에 따뜻한 여잔데",
-      "breakdown": "여기서 \"-는데\"가 나와요! \"여자인데\"의 줄임말 \"여잔데\"예요.\n\"차가운\"은 cold예요. \"도시\"는 city예요. \"따뜻한\"은 warm이에요.\n\"나 차가운 도시에 따뜻한 여잔**데**\" — 나는 따뜻한 여자인**데**, 이 도시는 차가워요.\n\"-는데\"는 배경을 말해요. 따뜻한 여자인**데** — 그런**데** 왜 사랑을 못 받아요?",
-      "dictionary": [
-        {
-          "word": "차가운",
-          "romanization": "cha-ga-un",
-          "partOfSpeech": "adjective",
-          "definition": "cold",
-          "example": {
-            "korean": "차가운 바람이에요.",
-            "english": "It's a cold wind."
-          }
-        },
-        {
-          "word": "도시",
-          "romanization": "do-si",
-          "partOfSpeech": "noun",
-          "definition": "city",
-          "example": {
-            "korean": "큰 도시예요.",
-            "english": "It's a big city."
-          }
-        },
-        {
-          "word": "따뜻한",
-          "romanization": "tta-tteu-tan",
-          "partOfSpeech": "adjective",
-          "definition": "warm",
-          "example": {
-            "korean": "따뜻한 커피예요.",
-            "english": "It's warm coffee."
-          }
-        },
-        {
-          "word": "여자",
-          "romanization": "yeo-ja",
-          "partOfSpeech": "noun",
-          "definition": "woman",
-          "example": {
-            "korean": "여자 한 명이에요.",
-            "english": "It's one woman."
-          }
-        },
-        {
-          "word": "받다",
-          "romanization": "bat-da",
-          "partOfSpeech": "verb",
-          "definition": "to receive",
-          "example": {
-            "korean": "선물을 받았어요.",
-            "english": "I received a gift."
-          }
-        },
-        {
-          "word": "배경",
-          "romanization": "bae-gyeong",
-          "partOfSpeech": "noun",
-          "definition": "background, context"
-        },
-        {
-          "word": "줄임말",
-          "romanization": "jul-im-mal",
-          "partOfSpeech": "noun",
-          "definition": "abbreviation"
-        },
-        {
-          "word": "사랑",
-          "romanization": "sa-rang",
-          "partOfSpeech": "noun",
-          "definition": "love"
-        }
-      ]
-    },
-    {
-      "id": "s16-quiz",
+      "id": "s18-quiz-rain",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
@@ -486,280 +442,72 @@
         "promptTranslation": "무슨 뜻일까요?",
         "options": [
           {
-            "text": "to hide",
-            "correct": false
-          },
-          {
-            "text": "it's raining, and...",
-            "correct": false
-          },
-          {
             "text": "rain",
             "correct": true
           },
           {
-            "text": "I was walking, and...",
+            "text": "snow",
+            "correct": false
+          },
+          {
+            "text": "wind",
+            "correct": false
+          },
+          {
+            "text": "cloud",
             "correct": false
           }
         ],
         "wrongExplanation": "비 = rain"
       },
       "scored": true,
-      "itemIndex": 2
+      "itemIndex": 1
     },
     {
-      "id": "s17-context",
+      "id": "s19-context-raining",
       "type": "context-sentence",
       "label": "문장 연습",
       "sentence": {
-        "korean": "비가 와요.",
-        "english": "It's raining.",
+        "korean": "비가 오는데 집에 있을래요.",
+        "english": "It's raining, so I'll stay home.",
         "highlights": [
-          "비"
+          "비가 오는데"
         ]
       }
     },
     {
-      "id": "s18-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___가 와요.",
-        "promptTranslation": "It's raining.",
-        "options": [
-          {
-            "text": "세상",
-            "correct": false
-          },
-          {
-            "text": "비",
-            "correct": true
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "걸어요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "비가 와요. = It's raining."
-      },
-      "scored": true,
-      "itemIndex": 2
-    },
-    {
-      "id": "s19-pair",
-      "type": "pair-context",
-      "label": "비교해 보세요",
-      "sentences": [
-        {
-          "korean": "공원에서 걸어요.",
-          "english": "I walk in the park.",
-          "highlights": [
-            "걸어요"
-          ]
-        },
-        {
-          "korean": "비가 와요.",
-          "english": "It's raining.",
-          "highlights": [
-            "비"
-          ]
-        }
-      ],
-      "note": "걷다 + 비 — 둘 다 이번 레슨에서 배운 단어예요."
-    },
-    {
-      "id": "s20-quiz",
-      "type": "quiz",
-      "label": "가사 퀴즈",
-      "quiz": {
-        "type": "line-recall",
-        "prompt": "Is it wrong that I'm bad at expressing myself?",
-        "promptTranslation": "어떤 가사일까요?",
-        "options": [
-          {
-            "text": "그냥 좋아한단 말도 안 되는가요",
-            "correct": false
-          },
-          {
-            "text": "나 차가운 도시에 따뜻한 여잔데",
-            "correct": false
-          },
-          {
-            "text": "표현이 서툰 것도 잘못인가요",
-            "correct": true
-          },
-          {
-            "text": "솔직하게 난 말하고 싶어요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "표현이 서툰 것도 잘못인가요"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s21-pattern",
-      "type": "pattern-spotlight",
-      "label": "패턴을 찾아봐요",
-      "spotlight": {
-        "pattern": "-는데",
-        "meaning": "background info / mild contrast",
-        "explanation": "Setting the scene before your main point. Extremely common in spoken Korean.",
-        "songExample": {
-          "korean": "울어서 좋을 게 없는데",
-          "english": "",
-          "highlights": [
-            "는데"
-          ]
-        },
-        "examples": []
-      }
-    },
-    {
-      "id": "rc3",
-      "type": "line-breakdown",
-      "label": "가사 읽기",
-      "lyricLine": "그냥 좋아한단 말도 안 되는가요",
-      "breakdown": "\"그냥\"은 \"just\"이에요. 특별한 이유 없이.\n\"좋아한다는\"의 줄임말이 \"좋아한단\"이에요.\n\"말도 안 되다\"는 \"doesn't make sense\" 또는 \"is ridiculous\"예요.\n\"그냥 좋아한다는 말도 안 되나요?\" — 그냥 좋아한다고 하**는데**, 그게 이상한가요?",
-      "dictionary": [
-        {
-          "word": "그냥",
-          "romanization": "geu-nyang",
-          "partOfSpeech": "adverb",
-          "definition": "just, simply"
-        },
-        {
-          "word": "좋아하다",
-          "romanization": "jo-a-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to like"
-        },
-        {
-          "word": "말도 안 되다",
-          "romanization": "mal-do an doe-da",
-          "partOfSpeech": "phrase",
-          "definition": "to be ridiculous, to make no sense"
-        },
-        {
-          "word": "이상하다",
-          "romanization": "i-sang-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "strange, weird",
-          "example": {
-            "korean": "이상해요.",
-            "english": "It's strange."
-          }
-        },
-        {
-          "word": "특별한",
-          "romanization": "teuk-byeol-han",
-          "partOfSpeech": "adjective",
-          "definition": "special"
-        },
-        {
-          "word": "이유",
-          "romanization": "i-yu",
-          "partOfSpeech": "noun",
-          "definition": "reason"
-        },
-        {
-          "word": "되다",
-          "romanization": "doe-da",
-          "partOfSpeech": "verb",
-          "definition": "to become, to work"
-        },
-        {
-          "word": "줄임말",
-          "romanization": "jul-im-mal",
-          "partOfSpeech": "noun",
-          "definition": "abbreviation"
-        }
-      ]
-    },
-    {
-      "id": "s22-teach",
+      "id": "s20-teach-raining",
       "type": "phrase-card",
       "label": "새 표현",
       "item": {
-        "korean": "걷고 있는데",
-        "english": "I was walking, and...",
+        "korean": "비가 오는데",
+        "english": "it's raining, but/and...",
         "kind": "phrase",
-        "phraseNote": "이 표현을 통째로 외우세요 — 한국 사람들이 자주 쓰는 표현이에요.",
-        "grammarNote": "-는데 = background info / mild contrast",
+        "partOfSpeech": "",
+        "phraseNote": "비가 오다 (it rains) + -는데 = it's raining (background)",
         "songLine": {
           "korean": "",
           "english": "",
-          "highlights": [
-            "걷고 있는데"
-          ]
+          "highlights": []
         },
-        "audioKey": "걷고 있는데"
+        "audioKey": "비가 오는데"
       }
     },
     {
-      "id": "s23-quiz",
+      "id": "s21-quiz-raining",
       "type": "quiz",
       "label": "퀴즈",
       "quiz": {
-        "type": "tap-meaning",
-        "prompt": "걷고 있는데",
-        "promptTranslation": "무슨 뜻일까요?",
-        "options": [
-          {
-            "text": "rain",
-            "correct": false
-          },
-          {
-            "text": "to stop liking",
-            "correct": false
-          },
-          {
-            "text": "it's raining, and...",
-            "correct": false
-          },
-          {
-            "text": "I was walking, and...",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "걷고 있는데 = I was walking, and..."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "s24-context",
-      "type": "context-sentence",
-      "label": "문장 연습",
-      "sentence": {
-        "korean": "걷고 있는데 비가 왔어요.",
-        "english": "I was walking and it started to rain.",
-        "highlights": [
-          "걷고 있는데"
-        ]
-      }
-    },
-    {
-      "id": "s25-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "grammar-fill",
-        "prompt": "걷고 있___",
-        "promptTranslation": "I was walking, and...",
+        "type": "fill-blank",
+        "prompt": "비가 오___ 우산이 없어요.",
+        "promptTranslation": "It's raining, ___ I don't have an umbrella.",
         "options": [
           {
             "text": "는데",
             "correct": true
           },
           {
-            "text": "아서",
+            "text": "고",
             "correct": false
           },
           {
@@ -767,316 +515,245 @@
             "correct": false
           },
           {
-            "text": "지만",
+            "text": "아서",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -는데예요."
+        "wrongExplanation": "비가 오다 + -는데 = it's raining (background info). -는데 sets up the contrast with 'no umbrella'"
       },
       "scored": true,
       "itemIndex": 3
     },
     {
-      "id": "s26-quiz",
-      "type": "quiz",
-      "label": "퀴즈",
-      "quiz": {
-        "type": "pattern-comprehension",
-        "prompt": "걷고 있는데",
-        "promptTranslation": "여기서 -는데는 무슨 느낌일까요?",
-        "options": [
-          {
-            "text": "자연스럽게, 선택이 아니라 그렇게 됐어요",
-            "correct": true
-          },
-          {
-            "text": "갑자기 일어났다가 멈췄어요",
-            "correct": false
-          },
-          {
-            "text": "일부러 그렇게 했어요",
-            "correct": false
-          },
-          {
-            "text": "더 이상 그렇지 않아요",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "-는데 = background info / mild contrast — 선택이 아니라 저절로 된 거예요."
-      },
-      "scored": true,
-      "itemIndex": 3
-    },
-    {
-      "id": "rc4",
+      "id": "s22-line4",
       "type": "line-breakdown",
       "label": "가사 읽기",
-      "lyricLine": "솔직하게 난 말하고 싶어요",
-      "breakdown": "\"솔직하다\"는 거짓말하지 않는 거예요. \"솔직하게\" = honestly.\n\"난\"은 \"나는\"의 줄임말이에요.\n\"말하고 싶어요\"는 레슨 2에서 배운 \"-고 싶다\"예요! 기억나요?\n비가 오**는데** 걷고 싶어요. 표현이 서투**는데** 말하고 싶어요. \"-는데\"는 배경을 설명하고, 그 다음에 하고 싶은 말을 해요!",
+      "lyricLine": "나는 오늘도 네게 차일 것만 같아도",
+      "breakdown": "나는 = I (topic)\n오늘도 = today too\n네게 = by you\n차일 = 차이다 (to be rejected) future\n것만 같아도 = even though it seems like\n\n\"Even though it seems like I'll be rejected by you today too...\"\nProvides background for the next action (still trying).",
       "dictionary": [
         {
-          "word": "솔직하다",
-          "romanization": "sol-jik-ha-da",
-          "partOfSpeech": "adjective",
-          "definition": "honest, frank",
-          "example": {
-            "korean": "솔직하게 말해요.",
-            "english": "I speak honestly."
-          }
+          "word": "오늘",
+          "reading": "오늘",
+          "meaning": "today"
         },
         {
-          "word": "거짓말",
-          "romanization": "geo-jit-mal",
-          "partOfSpeech": "noun",
-          "definition": "lie",
-          "example": {
-            "korean": "거짓말하지 마세요.",
-            "english": "Don't lie."
-          }
+          "word": "차이다",
+          "reading": "차이다",
+          "meaning": "to be rejected / dumped"
         },
         {
-          "word": "배우다",
-          "romanization": "bae-u-da",
-          "partOfSpeech": "verb",
-          "definition": "to learn",
-          "example": {
-            "korean": "한국어를 배워요.",
-            "english": "I learn Korean."
-          }
-        },
-        {
-          "word": "기억나다",
-          "romanization": "gi-eok-na-da",
-          "partOfSpeech": "verb",
-          "definition": "to remember"
-        },
-        {
-          "word": "설명하다",
-          "romanization": "seol-myeong-ha-da",
-          "partOfSpeech": "verb",
-          "definition": "to explain"
-        },
-        {
-          "word": "배경",
-          "romanization": "bae-gyeong",
-          "partOfSpeech": "noun",
-          "definition": "background"
-        },
-        {
-          "word": "걷다",
-          "romanization": "geot-da",
-          "partOfSpeech": "verb",
-          "definition": "to walk",
-          "example": {
-            "korean": "같이 걸어요.",
-            "english": "Let's walk together."
-          }
-        },
-        {
-          "word": "다음",
-          "romanization": "da-eum",
-          "partOfSpeech": "noun",
-          "definition": "next",
-          "example": {
-            "korean": "다음에 만나요.",
-            "english": "Let's meet next time."
-          }
+          "word": "같다",
+          "reading": "같다",
+          "meaning": "to seem like"
         }
       ]
     },
     {
-      "id": "s27-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "fill-blank",
-        "prompt": "___ 좋아요.",
-        "promptTranslation": "___ is nice.",
-        "options": [
-          {
-            "text": "사랑",
-            "correct": false
-          },
-          {
-            "text": "행복",
-            "correct": false
-          },
-          {
-            "text": "비",
-            "correct": false
-          },
-          {
-            "text": "걷다",
-            "correct": true
-          }
-        ],
-        "wrongExplanation": "걷다 = to walk"
-      },
-      "scored": true,
-      "itemIndex": null
+      "id": "s23-pair",
+      "type": "pair-context",
+      "label": "비교해 보세요",
+      "sentences": [
+        {
+          "korean": "시간이 있는데 뭐 할까요?",
+          "english": "I have time (as background), so what should we do?",
+          "highlights": [
+            "는데"
+          ]
+        },
+        {
+          "korean": "피곤한데 일해야 해요.",
+          "english": "I'm tired, but I have to work.",
+          "highlights": [
+            "데"
+          ]
+        }
+      ],
+      "note": "-는데 can suggest what comes next (첫 번째) or show contrast (두 번째)"
     },
     {
-      "id": "s28-quiz",
-      "type": "quiz",
-      "label": "종합 퀴즈",
-      "quiz": {
-        "type": "distinguish",
-        "prompt": "___이/가 좋아요.",
-        "promptTranslation": "Which word fits? (rain)",
-        "options": [
-          {
-            "text": "걷다",
-            "correct": false
-          },
-          {
-            "text": "비",
-            "correct": true
-          },
-          {
-            "text": "마음",
-            "correct": false
-          },
-          {
-            "text": "사랑",
-            "correct": false
-          }
-        ],
-        "wrongExplanation": "비 = rain"
-      },
-      "scored": true,
-      "itemIndex": null
-    },
-    {
-      "id": "s29-quiz",
+      "id": "s24-quiz-mix1",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
         "type": "tap-meaning",
-        "prompt": "it's raining, and...",
-        "promptTranslation": "이 뜻에 맞는 한국어는?",
+        "prompt": "What does -는데 do?",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "gives background info or mild contrast",
+            "correct": true
+          },
+          {
+            "text": "connects two equal actions (and)",
+            "correct": false
+          },
+          {
+            "text": "shows condition (if)",
+            "correct": false
+          },
+          {
+            "text": "shows strong contrast (but, however)",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "-는데 provides background or context, often leading to what comes next. It's softer than -지만"
+      },
+      "scored": true
+    },
+    {
+      "id": "s25-quiz-mix2",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "it's raining, but/and...",
+        "promptTranslation": "한국어로?",
         "options": [
           {
             "text": "비가 오는데",
             "correct": true
           },
           {
-            "text": "사랑",
+            "text": "걷는데",
             "correct": false
           },
           {
-            "text": "걷다",
+            "text": "비가 오지만",
             "correct": false
           },
           {
-            "text": "시간",
+            "text": "비가 오고",
             "correct": false
           }
         ],
-        "wrongExplanation": "it's raining, and... = 비가 오는데"
+        "wrongExplanation": "비가 오다 (it rains) + -는데 = 비가 오는데 (it's raining, and...)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s30-quiz",
+      "id": "s26-quiz-mix3",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "grammar-fill",
-        "prompt": "비가 오___.",
-        "promptTranslation": "It's raining, and...",
+        "type": "fill-blank",
+        "prompt": "지금 걷___ 조금 후에 전화할게요.",
+        "promptTranslation": "I'm walking now, ___ I'll call later.",
         "options": [
-          {
-            "text": "처럼",
-            "correct": false
-          },
-          {
-            "text": "면",
-            "correct": false
-          },
           {
             "text": "는데",
             "correct": true
           },
           {
-            "text": "게",
+            "text": "지만",
+            "correct": false
+          },
+          {
+            "text": "고",
+            "correct": false
+          },
+          {
+            "text": "아서",
             "correct": false
           }
         ],
-        "wrongExplanation": "패턴은 항상 -는데!"
+        "wrongExplanation": "걷다 + -는데 = 걷는데 (I'm walking, and...). -는데 gives background for calling later"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s31-quiz",
+      "id": "s27-quiz-mix4",
       "type": "quiz",
       "label": "종합 퀴즈",
       "quiz": {
-        "type": "sentence-order",
-        "prompt": "[\"좋은데\", \"걷다\"]",
-        "promptTranslation": "Put these words in order",
+        "type": "tap-meaning",
+        "prompt": "네게 걸어보는 건데",
+        "promptTranslation": "이 가사의 뜻은?",
         "options": [
           {
-            "text": "걷다 좋은데",
+            "text": "I'm trying it on you (as background)",
             "correct": true
+          },
+          {
+            "text": "I want to walk to you",
+            "correct": false
+          },
+          {
+            "text": "You are walking towards me",
+            "correct": false
+          },
+          {
+            "text": "I will try if you want",
+            "correct": false
           }
         ],
-        "wrongExplanation": "걷다 좋은데"
+        "wrongExplanation": "네게 = to you, 걸어보다 = to try/bet, -는 건데 = it's that (background info)"
       },
-      "scored": true,
-      "itemIndex": null
+      "scored": true
     },
     {
-      "id": "s32-singalong",
+      "id": "s28-quiz-mix5",
+      "type": "quiz",
+      "label": "종합 퀴즈",
+      "quiz": {
+        "type": "tap-meaning",
+        "prompt": "걷다",
+        "promptTranslation": null,
+        "options": [
+          {
+            "text": "to walk",
+            "correct": true
+          },
+          {
+            "text": "to run",
+            "correct": false
+          },
+          {
+            "text": "to stop",
+            "correct": false
+          },
+          {
+            "text": "to wait",
+            "correct": false
+          }
+        ],
+        "wrongExplanation": "걷다 = to walk"
+      },
+      "scored": true
+    },
+    {
+      "id": "s29-singalong",
       "type": "sing-along",
       "label": "노래",
       "lines": [
         {
-          "korean": "표현이 서툰 것도 잘못인가요",
-          "english": "",
-          "highlights": []
-        },
-        {
           "korean": "나 차가운 도시에 따뜻한 여잔데",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "그냥 좋아한단 말도 안 되는가요",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "솔직하게 난 말하고 싶어요",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "사라져 아니 사라지지 마",
-          "english": "",
-          "highlights": []
-        },
-        {
-          "korean": "네 맘을 보여줘 아니 보여주지 마",
-          "english": "",
-          "highlights": []
+          "english": "I'm a warm woman in a cold city (but...)",
+          "highlights": [
+            "데"
+          ]
         },
         {
           "korean": "하루 종일 머릿속에 네 미소만",
-          "english": "",
+          "english": "All day long, only your smile is in my head",
           "highlights": []
         },
         {
-          "korean": "우리 그냥 한번 만나볼래요",
-          "english": "",
+          "korean": "어쩌면 내 맘의 반쪽을 네게 걸어보는 건데",
+          "english": "Maybe I'm betting half of my heart on you",
+          "highlights": [
+            "데"
+          ]
+        },
+        {
+          "korean": "나는 오늘도 네게 차일 것만 같아도",
+          "english": "Even though it seems like I'll be rejected today too",
           "highlights": []
         }
       ],
       "musicPlaying": true
     },
     {
-      "id": "s33-recap",
+      "id": "s30-recap",
       "type": "recap",
       "label": "결과",
       "items": [
@@ -1103,8 +780,8 @@
           }
         },
         {
-          "korean": "비가 오는데",
-          "english": "it's raining, and...",
+          "korean": "걷는데",
+          "english": "I'm walking, and...",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1114,8 +791,8 @@
           }
         },
         {
-          "korean": "걷고 있는데",
-          "english": "I was walking, and...",
+          "korean": "비가 오는데",
+          "english": "it's raining, but/and...",
           "kind": "phrase",
           "partOfSpeech": "",
           "songLine": {
@@ -1130,9 +807,8 @@
         "meaning": "background info / mild contrast"
       },
       "xpReward": 25,
-      "passThreshold": 0.8,
-      "totalQuizScreens": 16
+      "passThreshold": 0.7,
+      "totalQuizScreens": 11
     }
-  ],
-  "generatedAt": "2026-08-03T00:00:00.000Z"
+  ]
 }
