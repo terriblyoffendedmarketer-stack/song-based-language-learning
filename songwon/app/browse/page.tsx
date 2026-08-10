@@ -8,6 +8,7 @@ import {
   type V5LessonIndexEntry,
 } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
+import { BottomNav } from "@/components/BottomNav";
 import { loadV5Progress, defaultProgress, isUnitUnlocked, isLessonUnlocked, initTesterMode } from "@/lib/v5-progress";
 import type { V5UserProgress } from "@/lib/types";
 
@@ -198,43 +199,7 @@ export default function BrowsePage() {
         </div>
       </main>
 
-      {/* Bottom nav */}
-      <nav className="border-t border-border bg-card px-4 py-2">
-        <div className="max-w-lg mx-auto flex justify-around">
-          {[
-            { href: "/", icon: "🏠", label: "홈", en: "Home" },
-            {
-              href: "/browse",
-              icon: "📚",
-              label: "레슨",
-              en: "Lessons",
-              active: true,
-            },
-            { href: "/review", icon: "📖", label: "복습", en: "Review" },
-            {
-              href: "/progress",
-              icon: "📊",
-              label: "기록",
-              en: "Progress",
-            },
-          ].map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex flex-col items-center gap-0.5 px-4 py-1 rounded-lg transition-colors ${
-                item.active
-                  ? "text-accent"
-                  : "text-faint hover:text-muted"
-              }`}
-            >
-              <span className="text-lg">{item.icon}</span>
-              <span className="text-[10px] font-semibold kr">
-                <KrTip en={item.en}>{item.label}</KrTip>
-              </span>
-            </Link>
-          ))}
-        </div>
-      </nav>
+      <BottomNav active="browse" />
     </div>
   );
 }

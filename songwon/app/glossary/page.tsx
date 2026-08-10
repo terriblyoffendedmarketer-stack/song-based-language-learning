@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useTTS } from "@/hooks/useTTS";
 import { KrTip } from "@/components/ui/KrTip";
+import { BottomNav } from "@/components/BottomNav";
 
 interface GlossaryEntry {
   pattern: string;
@@ -187,6 +188,8 @@ export default function GlossaryPage() {
           )}
         </div>
       </main>
+
+      <BottomNav active="home" />
     </div>
   );
 }

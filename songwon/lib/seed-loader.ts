@@ -145,3 +145,36 @@ export async function loadV5LessonById(
   }
   return null;
 }
+
+// ─── Song Index Loader ───
+
+export interface SongIndexEntry {
+  id: string;
+  title: string;
+  artist: string;
+  koreanLines: number;
+  uniqueKoreanLines: number;
+  totalLines: number;
+  youtubeId: string;
+  lyricsFile: string;
+  lessons?: {
+    lessonId: string;
+    lessonNumber: number;
+    unit: number;
+    grammar: string;
+  }[];
+}
+
+export interface SongIndex {
+  totalSongs: number;
+  songs: SongIndexEntry[];
+}
+
+let cachedSongIndex: SongIndex | null = null;
+
+export async function loadSongIndex(): Promise<SongIndex> {
+  if (cachedSongIndex) return cachedSongIndex;
+  const res = await fetch("/data/song_index.json");
+  cachedSongIndex = await res.json();
+  return cachedSongIndex!;
+}

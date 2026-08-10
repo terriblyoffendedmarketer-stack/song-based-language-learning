@@ -1,0 +1,871 @@
+{
+  "totalSongs": 72,
+  "songs": [
+    {
+      "id": "10cm-my-eyes",
+      "title": "My Eyes",
+      "artist": "10cm",
+      "koreanLines": 35,
+      "uniqueKoreanLines": 22,
+      "totalLines": 35,
+      "youtubeId": "ecdkXVNR2Yk",
+      "lyricsFile": "10cm - My Eyes.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit4-lesson16",
+          "lessonNumber": 16,
+          "unit": 4,
+          "grammar": "-게 되다"
+        }
+      ]
+    },
+    {
+      "id": "10cm-phonecert",
+      "title": "Phonecert",
+      "artist": "10cm",
+      "koreanLines": 41,
+      "uniqueKoreanLines": 35,
+      "totalLines": 41,
+      "youtubeId": "txi3VEdStJ4",
+      "lyricsFile": "10cm - Phonecert.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit1-lesson1",
+          "lessonNumber": 1,
+          "unit": 1,
+          "grammar": "-고"
+        }
+      ]
+    },
+    {
+      "id": "10cm-stalker",
+      "title": "Stalker",
+      "artist": "10cm",
+      "koreanLines": 39,
+      "uniqueKoreanLines": 25,
+      "totalLines": 39,
+      "youtubeId": "YSJ9_lP5sgI",
+      "lyricsFile": "10cm - Stalker.txt"
+    },
+    {
+      "id": "10cm-lean-on-my-shoulder",
+      "title": "Lean On My Shoulder",
+      "artist": "10cm",
+      "koreanLines": 25,
+      "uniqueKoreanLines": 21,
+      "totalLines": 25,
+      "youtubeId": "JVp4wpzCNN0",
+      "lyricsFile": "10cm - Lean On My Shoulder.txt"
+    },
+    {
+      "id": "ben-just-like-a-dream",
+      "title": "Just Like a Dream",
+      "artist": "BEN",
+      "koreanLines": 21,
+      "uniqueKoreanLines": 16,
+      "totalLines": 23,
+      "youtubeId": "HIahP3Cct2o",
+      "lyricsFile": "BEN - Just Like a Dream.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit4-lesson15",
+          "lessonNumber": 15,
+          "unit": 4,
+          "grammar": "-처럼"
+        }
+      ]
+    },
+    {
+      "id": "bibi-very-slowly",
+      "title": "Very, Slowly",
+      "artist": "BIBI",
+      "koreanLines": 22,
+      "uniqueKoreanLines": 15,
+      "totalLines": 24,
+      "youtubeId": "_hgSiJzCDJQ",
+      "lyricsFile": "BIBI - Very, Slowly.txt"
+    },
+    {
+      "id": "bol4-love-story",
+      "title": "Love story",
+      "artist": "BOL4",
+      "koreanLines": 29,
+      "uniqueKoreanLines": 22,
+      "totalLines": 35,
+      "youtubeId": "WelKAFjKnDE",
+      "lyricsFile": "BOL4 - Love story.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit3-lesson11",
+          "lessonNumber": 11,
+          "unit": 3,
+          "grammar": "-잖아"
+        }
+      ]
+    },
+    {
+      "id": "bol4-seoul",
+      "title": "Seoul",
+      "artist": "BOL4",
+      "koreanLines": 29,
+      "uniqueKoreanLines": 23,
+      "totalLines": 33,
+      "youtubeId": "yFXW3YQ5ufQ",
+      "lyricsFile": "BOL4 - Seoul.txt"
+    },
+    {
+      "id": "bol4-some",
+      "title": "Some",
+      "artist": "BOL4",
+      "koreanLines": 39,
+      "uniqueKoreanLines": 24,
+      "totalLines": 39,
+      "youtubeId": "hZmoMyFXDoI",
+      "lyricsFile": "BOL4 - Some.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit3-lesson12",
+          "lessonNumber": 12,
+          "unit": 3,
+          "grammar": "-는데"
+        }
+      ]
+    },
+    {
+      "id": "bts-fake-love",
+      "title": "FAKE LOVE",
+      "artist": "BTS",
+      "koreanLines": 47,
+      "uniqueKoreanLines": 24,
+      "totalLines": 72,
+      "youtubeId": "NT8ePWlgx_Y",
+      "lyricsFile": "BTS - FAKE LOVE.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit5-lesson17",
+          "lessonNumber": 17,
+          "unit": 5,
+          "grammar": "-아/어 버리다"
+        },
+        {
+          "lessonId": "v5-unit4-lesson13",
+          "lessonNumber": 13,
+          "unit": 4,
+          "grammar": "-아/어도"
+        }
+      ]
+    },
+    {
+      "id": "bts-life-goes-on",
+      "title": "Life Goes On",
+      "artist": "BTS",
+      "koreanLines": 46,
+      "uniqueKoreanLines": 39,
+      "totalLines": 62,
+      "youtubeId": "Q6CRKXKpdSM",
+      "lyricsFile": "BTS - Life Goes On.txt"
+    },
+    {
+      "id": "bts-save-me",
+      "title": "Save Me",
+      "artist": "BTS",
+      "koreanLines": 49,
+      "uniqueKoreanLines": 38,
+      "totalLines": 73,
+      "youtubeId": "384_y4CS9hI",
+      "lyricsFile": "BTS - Save Me.txt"
+    },
+    {
+      "id": "bts-mic-drop",
+      "title": "Mic Drop",
+      "artist": "BTS",
+      "koreanLines": 57,
+      "uniqueKoreanLines": 42,
+      "totalLines": 73,
+      "youtubeId": "zz1MkneRm6A",
+      "lyricsFile": "BTS - Mic Drop.txt"
+    },
+    {
+      "id": "bumkey-family",
+      "title": "Family",
+      "artist": "BUMKEY",
+      "koreanLines": 19,
+      "uniqueKoreanLines": 15,
+      "totalLines": 28,
+      "youtubeId": "zDDJvvwvdoc",
+      "lyricsFile": "BUMKEY - Family.txt"
+    },
+    {
+      "id": "bewhy-ok-prod-by-gray",
+      "title": "OK (Prod. by GRAY)",
+      "artist": "BewhY",
+      "koreanLines": 62,
+      "uniqueKoreanLines": 52,
+      "totalLines": 81,
+      "youtubeId": "IyRTlGCNTKQ",
+      "lyricsFile": "BewhY - OK (Prod. by GRAY).txt"
+    },
+    {
+      "id": "davichi",
+      "title": "그대니까요",
+      "artist": "DAVICHI",
+      "koreanLines": 23,
+      "uniqueKoreanLines": 21,
+      "totalLines": 48,
+      "youtubeId": "deTqjg66P7A",
+      "lyricsFile": "DAVICHI - 그대니까요.txt"
+    },
+    {
+      "id": "day6-shoot-me",
+      "title": "Shoot Me",
+      "artist": "DAY6",
+      "koreanLines": 54,
+      "uniqueKoreanLines": 35,
+      "totalLines": 79,
+      "youtubeId": "pjl369FQht8",
+      "lyricsFile": "DAY6 - Shoot Me.txt"
+    },
+    {
+      "id": "day6-you-were-beautiful",
+      "title": "You Were Beautiful",
+      "artist": "DAY6",
+      "koreanLines": 62,
+      "uniqueKoreanLines": 42,
+      "totalLines": 63,
+      "youtubeId": "Mhyi9p7T7OM",
+      "lyricsFile": "DAY6 - You Were Beautiful.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit5-lesson19",
+          "lessonNumber": 19,
+          "unit": 5,
+          "grammar": "-다가도"
+        },
+        {
+          "lessonId": "v5-unit5-lesson20",
+          "lessonNumber": 20,
+          "unit": 5,
+          "grammar": "-던"
+        },
+        {
+          "lessonId": "v5-unit4-lesson14",
+          "lessonNumber": 14,
+          "unit": 4,
+          "grammar": "-아/어지다"
+        },
+        {
+          "lessonId": "v5-unit2-lesson5",
+          "lessonNumber": 5,
+          "unit": 2,
+          "grammar": "-지만"
+        }
+      ]
+    },
+    {
+      "id": "dreamcatcher-deja-vu",
+      "title": "Deja Vu",
+      "artist": "Dreamcatcher",
+      "koreanLines": 33,
+      "uniqueKoreanLines": 30,
+      "totalLines": 48,
+      "youtubeId": "DvorgVug1PA",
+      "lyricsFile": "Dreamcatcher - Deja Vu.txt"
+    },
+    {
+      "id": "exo-love-shot",
+      "title": "Love Shot",
+      "artist": "EXO",
+      "koreanLines": 32,
+      "uniqueKoreanLines": 32,
+      "totalLines": 69,
+      "youtubeId": "KmRqHwJrTKQ",
+      "lyricsFile": "EXO - Love Shot.txt"
+    },
+    {
+      "id": "gaho",
+      "title": "시작",
+      "artist": "Gaho",
+      "koreanLines": 36,
+      "uniqueKoreanLines": 29,
+      "totalLines": 46,
+      "youtubeId": "sVzborJObAI",
+      "lyricsFile": "Gaho - 시작.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit5-lesson18",
+          "lessonNumber": 18,
+          "unit": 5,
+          "grammar": "-기 전에"
+        },
+        {
+          "lessonId": "v5-unit1-lesson2",
+          "lessonNumber": 2,
+          "unit": 1,
+          "grammar": "-고 싶다"
+        }
+      ]
+    },
+    {
+      "id": "girls-generation-lion-heart",
+      "title": "Lion Heart",
+      "artist": "Girls' Generation",
+      "koreanLines": 54,
+      "uniqueKoreanLines": 43,
+      "totalLines": 61,
+      "youtubeId": "CgaHOA_IwNY",
+      "lyricsFile": "Girls' Generation - Lion Heart.txt"
+    },
+    {
+      "id": "ha-hyun-sang-lighthouse",
+      "title": "Lighthouse",
+      "artist": "Ha Hyun Sang",
+      "koreanLines": 27,
+      "uniqueKoreanLines": 20,
+      "totalLines": 27,
+      "youtubeId": "r3osM4YzeEY",
+      "lyricsFile": "Ha Hyun Sang - Lighthouse.txt"
+    },
+    {
+      "id": "heize-why",
+      "title": "Why",
+      "artist": "Heize",
+      "koreanLines": 23,
+      "uniqueKoreanLines": 19,
+      "totalLines": 34,
+      "youtubeId": "BKWUePnJJvw",
+      "lyricsFile": "Heize - Why.txt"
+    },
+    {
+      "id": "iu-blueming",
+      "title": "Blueming",
+      "artist": "IU",
+      "koreanLines": 35,
+      "uniqueKoreanLines": 30,
+      "totalLines": 38,
+      "youtubeId": "I0_ZXHzKysc",
+      "lyricsFile": "IU - Blueming.txt"
+    },
+    {
+      "id": "iu-coin",
+      "title": "Coin",
+      "artist": "IU",
+      "koreanLines": 22,
+      "uniqueKoreanLines": 22,
+      "totalLines": 49,
+      "youtubeId": "dk22oBpplKA",
+      "lyricsFile": "IU - Coin.txt"
+    },
+    {
+      "id": "iu-good-day",
+      "title": "Good day",
+      "artist": "IU",
+      "koreanLines": 39,
+      "uniqueKoreanLines": 31,
+      "totalLines": 43,
+      "youtubeId": "OIHlzvEKncQ",
+      "lyricsFile": "IU - Good day.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit2-lesson6",
+          "lessonNumber": 6,
+          "unit": 2,
+          "grammar": "-지 못하다"
+        }
+      ]
+    },
+    {
+      "id": "iu-through-the-night",
+      "title": "Through the Night(밤편지)",
+      "artist": "IU",
+      "koreanLines": 27,
+      "uniqueKoreanLines": 21,
+      "totalLines": 27,
+      "youtubeId": "NnRjwEhFU70",
+      "lyricsFile": "IU - Through the Night(밤편지).txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit3-lesson10",
+          "lessonNumber": 10,
+          "unit": 3,
+          "grammar": "-(으)ㄹ 것 같다"
+        }
+      ]
+    },
+    {
+      "id": "iu-meaning-of-you",
+      "title": "Meaning of you",
+      "artist": "IU",
+      "koreanLines": 29,
+      "uniqueKoreanLines": 18,
+      "totalLines": 29,
+      "youtubeId": "JA0j2-SAsBg",
+      "lyricsFile": "IU - Meaning of you.txt"
+    },
+    {
+      "id": "iu-g-dragon-palette-feat-g-dragon",
+      "title": "Palette (feat. G-DRAGON)",
+      "artist": "IU, G-DRAGON",
+      "koreanLines": 40,
+      "uniqueKoreanLines": 35,
+      "totalLines": 48,
+      "youtubeId": null,
+      "lyricsFile": "IU, G-DRAGON - Palette (feat. G-DRAGON).txt"
+    },
+    {
+      "id": "iu-suga-eight-prod-feat-suga-of-bts",
+      "title": "eight(Prod.&Feat. SUGA of BTS)",
+      "artist": "IU, SUGA",
+      "koreanLines": 30,
+      "uniqueKoreanLines": 26,
+      "totalLines": 44,
+      "youtubeId": "5_IYVichXbA",
+      "lyricsFile": "IU, SUGA - eight(Prod.&Feat. SUGA of BTS).txt"
+    },
+    {
+      "id": "ive-xoxz",
+      "title": "XOXZ",
+      "artist": "IVE",
+      "koreanLines": 25,
+      "uniqueKoreanLines": 19,
+      "totalLines": 64,
+      "youtubeId": "HfVIsd1rR_E",
+      "lyricsFile": "IVE - XOXZ.txt"
+    },
+    {
+      "id": "ive-baddie",
+      "title": "Baddie",
+      "artist": "IVE",
+      "koreanLines": 36,
+      "uniqueKoreanLines": 27,
+      "totalLines": 74,
+      "youtubeId": "9Hfyg5BtfnI",
+      "lyricsFile": "IVE - Baddie.txt"
+    },
+    {
+      "id": "jannabi-dreams-books-power-and-walls",
+      "title": "dreams, books, power and walls",
+      "artist": "JANNABI",
+      "koreanLines": 43,
+      "uniqueKoreanLines": 35,
+      "totalLines": 43,
+      "youtubeId": "LTMnmgE0dzk",
+      "lyricsFile": "JANNABI - dreams, books, power and walls.txt"
+    },
+    {
+      "id": "jannabi-for-lovers-who-hesitate",
+      "title": "for lovers who hesitate",
+      "artist": "JANNABI",
+      "koreanLines": 28,
+      "uniqueKoreanLines": 24,
+      "totalLines": 28,
+      "youtubeId": "Pez5xqRL-Qc",
+      "lyricsFile": "JANNABI - for lovers who hesitate.txt"
+    },
+    {
+      "id": "jaurim",
+      "title": "스물다섯, 스물하나",
+      "artist": "JAURIM",
+      "koreanLines": 36,
+      "uniqueKoreanLines": 23,
+      "totalLines": 36,
+      "youtubeId": "BteNIPEAB90",
+      "lyricsFile": "JAURIM - 스물다섯, 스물하나.txt"
+    },
+    {
+      "id": "jo-yuri-glassy",
+      "title": "GLASSY",
+      "artist": "JO YURI",
+      "koreanLines": 41,
+      "uniqueKoreanLines": 30,
+      "totalLines": 58,
+      "youtubeId": "PEIvcxSO9zQ",
+      "lyricsFile": "JO YURI - GLASSY.txt"
+    },
+    {
+      "id": "jang-beom-june-your-shampoo-scent-in-the-flowers",
+      "title": "Your Shampoo Scent In The Flowers",
+      "artist": "Jang Beom June",
+      "koreanLines": 39,
+      "uniqueKoreanLines": 28,
+      "totalLines": 39,
+      "youtubeId": "wy9-NDklaaE",
+      "lyricsFile": "Jang Beom June - Your Shampoo Scent In The Flowers.txt"
+    },
+    {
+      "id": "kim-yuna-the-road",
+      "title": "The Road",
+      "artist": "Kim Yuna",
+      "koreanLines": 20,
+      "uniqueKoreanLines": 16,
+      "totalLines": 20,
+      "youtubeId": "t1D45HdmC-Q",
+      "lyricsFile": "Kim Yuna - The Road.txt"
+    },
+    {
+      "id": "kpop-demon-hunters-golden",
+      "title": "Golden",
+      "artist": "Kpop Demon Hunters",
+      "koreanLines": 8,
+      "uniqueKoreanLines": 7,
+      "totalLines": 71,
+      "youtubeId": "9_bTl2vvYQg",
+      "lyricsFile": "Kpop Demon Hunters - Golden.txt"
+    },
+    {
+      "id": "leehi-1-2-3-4",
+      "title": "1, 2, 3, 4",
+      "artist": "LEEHI",
+      "koreanLines": 47,
+      "uniqueKoreanLines": 32,
+      "totalLines": 65,
+      "youtubeId": "VclPp-1r6e0",
+      "lyricsFile": "LEEHI - 1, 2, 3, 4.txt"
+    },
+    {
+      "id": "lucy-i-got-u",
+      "title": "I Got U",
+      "artist": "LUCY",
+      "koreanLines": 32,
+      "uniqueKoreanLines": 23,
+      "totalLines": 39,
+      "youtubeId": "JMzog80Kqpw",
+      "lyricsFile": "LUCY - I Got U.txt"
+    },
+    {
+      "id": "lim-jae-beum",
+      "title": "낙인",
+      "artist": "Lim Jae Beum",
+      "koreanLines": 57,
+      "uniqueKoreanLines": 57,
+      "totalLines": 120,
+      "youtubeId": "7hwEJFtcyiQ",
+      "lyricsFile": "Lim Jae Beum - 낙인.txt"
+    },
+    {
+      "id": "lundi-blues-fake-folk-version",
+      "title": "Fake - Folk Version",
+      "artist": "Lundi Blues",
+      "koreanLines": 30,
+      "uniqueKoreanLines": 21,
+      "totalLines": 30,
+      "youtubeId": "NVIJ49f7Bx4",
+      "lyricsFile": "Lundi Blues - Fake - Folk Version.txt"
+    },
+    {
+      "id": "lyn-love-story",
+      "title": "Love Story",
+      "artist": "Lyn",
+      "koreanLines": 33,
+      "uniqueKoreanLines": 28,
+      "totalLines": 40,
+      "youtubeId": "HECoiE6n7S4",
+      "lyricsFile": "Lyn - Love Story.txt"
+    },
+    {
+      "id": "mamamoo-girl-crush",
+      "title": "Girl Crush",
+      "artist": "MAMAMOO",
+      "koreanLines": 36,
+      "uniqueKoreanLines": 23,
+      "totalLines": 50,
+      "youtubeId": "YScv9FDxYsA",
+      "lyricsFile": "MAMAMOO - Girl Crush.txt"
+    },
+    {
+      "id": "mamamoo-hip",
+      "title": "HIP",
+      "artist": "MAMAMOO",
+      "koreanLines": 69,
+      "uniqueKoreanLines": 39,
+      "totalLines": 74,
+      "youtubeId": "wp_lKkWoyfI",
+      "lyricsFile": "MAMAMOO - HIP.txt"
+    },
+    {
+      "id": "mamamoo-mr-ambiguous",
+      "title": "Mr-Ambiguous",
+      "artist": "MAMAMOO",
+      "koreanLines": 38,
+      "uniqueKoreanLines": 27,
+      "totalLines": 61,
+      "youtubeId": "I1V4bctd8uA",
+      "lyricsFile": "MAMAMOO - Mr-Ambiguous.txt"
+    },
+    {
+      "id": "mamamoo-gogobebe",
+      "title": "gogobebe",
+      "artist": "MAMAMOO",
+      "koreanLines": 73,
+      "uniqueKoreanLines": 35,
+      "totalLines": 78,
+      "youtubeId": "DNTwy84nQLM",
+      "lyricsFile": "MAMAMOO - gogobebe.txt"
+    },
+    {
+      "id": "momoland-bboom-bboom",
+      "title": "BBoom BBoom",
+      "artist": "MOMOLAND",
+      "koreanLines": 56,
+      "uniqueKoreanLines": 40,
+      "totalLines": 67,
+      "youtubeId": "NLkfJbvMDAA",
+      "lyricsFile": "MOMOLAND - BBoom BBoom.txt"
+    },
+    {
+      "id": "moon-byul-absence",
+      "title": "Absence",
+      "artist": "Moon Byul",
+      "koreanLines": 39,
+      "uniqueKoreanLines": 31,
+      "totalLines": 40,
+      "youtubeId": "a2zG_9BFcd8",
+      "lyricsFile": "Moon Byul - Absence.txt"
+    },
+    {
+      "id": "nc-a-tikitik-jian-flashback",
+      "title": "Flashback",
+      "artist": "NC.A, TIKITIK, 유준호, JIAN",
+      "koreanLines": 32,
+      "uniqueKoreanLines": 24,
+      "totalLines": 32,
+      "youtubeId": "57TMcuosEUo",
+      "lyricsFile": "NC.A, TIKITIK, 유준호, JIAN - Flashback.txt"
+    },
+    {
+      "id": "park-boram-hyehwadong-or-sangmundong",
+      "title": "Hyehwadong (or Sangmundong)",
+      "artist": "Park Boram",
+      "koreanLines": 25,
+      "uniqueKoreanLines": 13,
+      "totalLines": 25,
+      "youtubeId": "vITYEPcom2s",
+      "lyricsFile": "Park Boram - Hyehwadong (or Sangmundong).txt"
+    },
+    {
+      "id": "punch-done-for-me",
+      "title": "Done For Me",
+      "artist": "Punch",
+      "koreanLines": 46,
+      "uniqueKoreanLines": 35,
+      "totalLines": 51,
+      "youtubeId": "CGnc553-ttg",
+      "lyricsFile": "Punch - Done For Me.txt"
+    },
+    {
+      "id": "punch-stay-with-me",
+      "title": "Stay With Me",
+      "artist": "Punch",
+      "koreanLines": 45,
+      "uniqueKoreanLines": 32,
+      "totalLines": 47,
+      "youtubeId": "XRqMn6c0tsU",
+      "lyricsFile": "Punch - Stay With Me.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit1-lesson4",
+          "lessonNumber": 4,
+          "unit": 1,
+          "grammar": "-(으)면"
+        },
+        {
+          "lessonId": "v5-unit1-lesson3",
+          "lessonNumber": 3,
+          "unit": 1,
+          "grammar": "-고 있다"
+        },
+        {
+          "lessonId": "v5-unit2-lesson8",
+          "lessonNumber": 8,
+          "unit": 2,
+          "grammar": "-아/어서"
+        }
+      ]
+    },
+    {
+      "id": "raiden-chanyeol-leehi-changmo-yours",
+      "title": "Yours",
+      "artist": "Raiden, CHANYEOL, LEEHI, CHANGMO",
+      "koreanLines": 68,
+      "uniqueKoreanLines": 63,
+      "totalLines": 125,
+      "youtubeId": "xpJN9oxxsrU",
+      "lyricsFile": "Raiden, CHANYEOL, LEEHI, CHANGMO - Yours.txt"
+    },
+    {
+      "id": "red-velvet-psycho",
+      "title": "Psycho",
+      "artist": "Red Velvet",
+      "koreanLines": 55,
+      "uniqueKoreanLines": 40,
+      "totalLines": 86,
+      "youtubeId": "PyyT5tHbOLw",
+      "lyricsFile": "Red Velvet - Psycho.txt"
+    },
+    {
+      "id": "shaun-closed-ending",
+      "title": "Closed Ending",
+      "artist": "SHAUN",
+      "koreanLines": 57,
+      "uniqueKoreanLines": 35,
+      "totalLines": 64,
+      "youtubeId": "VhjHsHHfri0",
+      "lyricsFile": "SHAUN - Closed Ending.txt"
+    },
+    {
+      "id": "shaun-way-back-home",
+      "title": "Way Back Home",
+      "artist": "SHAUN",
+      "koreanLines": 13,
+      "uniqueKoreanLines": 13,
+      "totalLines": 49,
+      "youtubeId": "1rP7ziPDDt0",
+      "lyricsFile": "SHAUN - Way Back Home.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit3-lesson9",
+          "lessonNumber": 9,
+          "unit": 3,
+          "grammar": "-아/어 줘"
+        }
+      ]
+    },
+    {
+      "id": "sunmi-pporappippam",
+      "title": "pporappippam",
+      "artist": "SUNMI",
+      "koreanLines": 59,
+      "uniqueKoreanLines": 28,
+      "totalLines": 59,
+      "youtubeId": "wh7j1uEpNsQ",
+      "lyricsFile": "SUNMI - pporappippam.txt"
+    },
+    {
+      "id": "shin-in-ryu-undecided",
+      "title": "Undecided",
+      "artist": "Shin In Ryu",
+      "koreanLines": 24,
+      "uniqueKoreanLines": 19,
+      "totalLines": 24,
+      "youtubeId": "lM5rod6YKv0",
+      "lyricsFile": "Shin In Ryu - Undecided.txt"
+    },
+    {
+      "id": "sogyumo-acacia-band-almost-blue-2019-remake",
+      "title": "Almost Blue (2019 Remake)",
+      "artist": "Sogyumo Acacia Band",
+      "koreanLines": 7,
+      "uniqueKoreanLines": 7,
+      "totalLines": 11,
+      "youtubeId": "uum12ES8ucM",
+      "lyricsFile": "Sogyumo Acacia Band - Almost Blue (2019 Remake).txt"
+    },
+    {
+      "id": "sogyumo-acacia-band-butterfly",
+      "title": "Butterfly",
+      "artist": "Sogyumo Acacia Band",
+      "koreanLines": 29,
+      "uniqueKoreanLines": 17,
+      "totalLines": 29,
+      "youtubeId": "6nBESyebPTo",
+      "lyricsFile": "Sogyumo Acacia Band - Butterfly.txt"
+    },
+    {
+      "id": "suga-dwechita",
+      "title": "Dwechita",
+      "artist": "Suga",
+      "koreanLines": 62,
+      "uniqueKoreanLines": 45,
+      "totalLines": 66,
+      "youtubeId": "65XIZDJ24_s",
+      "lyricsFile": "Suga - Dwechita.txt"
+    },
+    {
+      "id": "taeyeon-11-11",
+      "title": "11:11",
+      "artist": "TAEYEON",
+      "koreanLines": 29,
+      "uniqueKoreanLines": 26,
+      "totalLines": 46,
+      "youtubeId": "XReCgXhOg3E",
+      "lyricsFile": "TAEYEON - 11_11.txt"
+    },
+    {
+      "id": "taeyeon-four-seasons",
+      "title": "Four Seasons",
+      "artist": "TAEYEON",
+      "koreanLines": 42,
+      "uniqueKoreanLines": 29,
+      "totalLines": 51,
+      "youtubeId": "yxagVXtlE_0",
+      "lyricsFile": "TAEYEON - Four Seasons.txt"
+    },
+    {
+      "id": "taeyeon-weekend",
+      "title": "Weekend",
+      "artist": "TAEYEON",
+      "koreanLines": 56,
+      "uniqueKoreanLines": 46,
+      "totalLines": 62,
+      "youtubeId": null,
+      "lyricsFile": "TAEYEON - Weekend.txt"
+    },
+    {
+      "id": "twice-fancy",
+      "title": "FANCY",
+      "artist": "TWICE",
+      "koreanLines": 44,
+      "uniqueKoreanLines": 30,
+      "totalLines": 62,
+      "youtubeId": "j4OrZV_GAsI",
+      "lyricsFile": "TWICE - FANCY.txt"
+    },
+    {
+      "id": "twice-feel-special",
+      "title": "Feel Special",
+      "artist": "TWICE",
+      "koreanLines": 39,
+      "uniqueKoreanLines": 25,
+      "totalLines": 60,
+      "youtubeId": "CZ61FaoaNHg",
+      "lyricsFile": "TWICE - Feel Special.txt"
+    },
+    {
+      "id": "twice-likey",
+      "title": "Likey",
+      "artist": "TWICE",
+      "koreanLines": 49,
+      "uniqueKoreanLines": 36,
+      "totalLines": 67,
+      "youtubeId": "5gZl0PYC2Ho",
+      "lyricsFile": "TWICE - Likey.txt",
+      "lessons": [
+        {
+          "lessonId": "v5-unit2-lesson7",
+          "lessonNumber": 7,
+          "unit": 2,
+          "grammar": "-지 않다"
+        }
+      ]
+    },
+    {
+      "id": "twice-what-is-love",
+      "title": "What is Love?",
+      "artist": "TWICE",
+      "koreanLines": 54,
+      "uniqueKoreanLines": 42,
+      "totalLines": 70,
+      "youtubeId": "KWZ-ytC9Uyk",
+      "lyricsFile": "TWICE - What is Love_.txt"
+    },
+    {
+      "id": "youngjoo-smells",
+      "title": "Smells",
+      "artist": "YOUNGJOO",
+      "koreanLines": 33,
+      "uniqueKoreanLines": 18,
+      "totalLines": 33,
+      "youtubeId": "W_TdN0CarpE",
+      "lyricsFile": "YOUNGJOO - Smells.txt"
+    }
+  ]
+}

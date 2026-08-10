@@ -83,16 +83,28 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 
 ## Key Web App Files
 - `app/learn/v5/[lessonId]/page.tsx` — V5 lesson engine (main lesson UI)
-- `app/page.tsx` — home screen (resume, stats, reminders, APK download)
+- `app/page.tsx` — home screen (resume, stats, song library CTA, APK download)
 - `app/browse/page.tsx` — lesson browser by unit
+- `app/songs/page.tsx` — song library browser (all 72 songs, ungated)
+- `app/songs/[songId]/practice/page.tsx` — song practice engine (line-by-line)
+- `app/progress/page.tsx` — progress dashboard (V5 data)
 - `app/glossary/page.tsx` — grammar glossary
 - `app/api/tts-cached/route.ts` — TTS API (cache + on-demand generation)
 - `app/api/audio/route.ts` — MP3 streaming with range requests
 - `hooks/useTTS.ts` — client-side TTS hook (Edge TTS → Web Speech fallback)
 - `lib/v5-progress.ts` — progress tracking (save/load/unlock)
+- `lib/seed-loader.ts` — data loaders (lesson index, song index, curriculum)
 - `lib/notifications.ts` — cross-platform notification service
-- `lib/notification-trivia.json` — 240 Korean trivia items for reminders
+- `components/BottomNav.tsx` — shared bottom navigation (Home, Lessons, Songs, Progress)
 - `components/ReminderSettings.tsx` — reminder toggle + time picker
+
+## V2 Files
+- `V2_ROADMAP.md` — V2 roadmap (practice mode, song learning, quiz improvements)
+- `LEARNING_SCIENCE_AUDIT.md` — audit vs Krashen, Bloom, Ebbinghaus, Justin Sung
+- `FINAL_VERSION_BLUEPRINT.md` — universal multi-language version (future)
+- `public/data/song_index.json` — 72-song index for song browser
+- `public/data/lyrics/*.txt` — raw lyrics files for song practice
+- `public/data/song_practice/*.json` — rich practice data (generated, per-song)
 
 ## How to Run
 1. `npm install` in `songwon/`

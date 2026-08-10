@@ -6,6 +6,7 @@ import Link from "next/link";
 import { loadV5Progress, defaultProgress, loadInProgress, isLessonUnlocked, getLessonNumber, initTesterMode } from "@/lib/v5-progress";
 import { loadV5LessonIndex, type V5LessonIndex } from "@/lib/seed-loader";
 import { KrTip } from "@/components/ui/KrTip";
+import { BottomNav } from "@/components/BottomNav";
 import { StartupQuestion } from "@/components/StartupQuestion";
 import { ReminderSettings } from "@/components/ReminderSettings";
 import { checkAndShowWebNotification } from "@/lib/notifications";
@@ -236,6 +237,25 @@ export default function Home() {
             </div>
           </div>
 
+          {/* Song Library CTA */}
+          <Link
+            href="/songs"
+            className="block bg-card border border-border rounded-2xl p-5 hover:shadow-md hover:border-accent/40 transition-all active:scale-[0.98]"
+          >
+            <div className="flex items-center gap-4">
+              <span className="text-3xl">🎵</span>
+              <div className="flex-1 min-w-0">
+                <p className="font-bold text-sm">
+                  <KrTip en="Song Library">노래 도서관</KrTip>
+                </p>
+                <p className="text-xs text-muted mt-0.5">
+                  Learn any of 72 songs line-by-line — no lessons required
+                </p>
+              </div>
+              <span className="text-accent text-sm">→</span>
+            </div>
+          </Link>
+
           {/* Browse + Glossary */}
           <div className="grid grid-cols-2 gap-3">
             <Link
@@ -274,30 +294,7 @@ export default function Home() {
         </div>
       </main>
 
-      {/* Bottom nav */}
-      <nav className="border-t border-border bg-card px-4 py-2">
-        <div className="max-w-lg mx-auto flex justify-around">
-          {[
-            { href: "/", icon: "🏠", label: "홈", en: "Home", active: true },
-            { href: "/browse", icon: "📚", label: "레슨", en: "Lessons" },
-            { href: "/glossary", icon: "📐", label: "문법", en: "Grammar" },
-            { href: "/progress", icon: "📊", label: "기록", en: "Progress" },
-          ].map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex flex-col items-center gap-0.5 px-4 py-1 rounded-lg transition-colors ${
-                item.active ? "text-accent" : "text-faint hover:text-muted"
-              }`}
-            >
-              <span className="text-lg">{item.icon}</span>
-              <span className="text-[10px] font-semibold kr">
-                <KrTip en={item.en}>{item.label}</KrTip>
-              </span>
-            </Link>
-          ))}
-        </div>
-      </nav>
+      <BottomNav active="home" />
     </div>
   );
 }

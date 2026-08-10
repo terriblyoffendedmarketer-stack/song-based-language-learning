@@ -2,37 +2,54 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { loadState } from "@/lib/storage";
-import { getStrengthLabel } from "@/lib/srs";
-import type { AppState } from "@/lib/types";
+import {
+  loadV5Progress,
+  defaultProgress,
+  initTesterMode,
+  getLessonNumber,
+} from "@/lib/v5-progress";
+import { loadV5LessonIndex, type V5LessonIndex } from "@/lib/seed-loader";
+import type { V5UserProgress } from "@/lib/types";
 import { KrTip } from "@/components/ui/KrTip";
+import { BottomNav } from "@/components/BottomNav";
+
+const UNIT_LABELS: Record<number, string> = {
+  1: "초급 1",
+  2: "초급 2",
+  3: "초급 3",
+  4: "중급 1",
+  5: "중급 2",
+};
 
 export default function ProgressPage() {
-  const [state, setState] = useState<AppState | null>(null);
+  const [progress, setProgress] = useState<V5UserProgress>(defaultProgress());
+  const [index, setIndex] = useState<V5LessonIndex | null>(null);
 
   useEffect(() => {
-    setState(loadState());
+    initTesterMode();
+    setProgress(loadV5Progress());
+    loadV5LessonIndex().then(setIndex).catch(() => {});
   }, []);
 
-  if (!state) {
-    return (
-      <div className="flex-1 flex items-center justify-center">
-        <div className="animate-pulse text-2xl">📊</div>
-      </div>
-    );
-  }
-
-  const { progress, vocabulary, songs, lessons } = state;
+  const totalPassed = progress.units.reduce(
+    (sum, u) => sum + u.lessons.filter((l) => l.passed).length,
+    0
+  );
+  const totalAttempts = progress.units.reduce(
+    (sum, u) => sum + u.lessons.reduce((s, l) => s + l.attempts, 0),
+    0
+  );
+  const accuracy =
+    progress.totalAnswered > 0
+      ? Math.round((progress.totalCorrect / progress.totalAnswered) * 100)
+      : 0;
 
   const levelThresholds = [
     { label: "초급 1", en: "Beginner 1", min: 0 },
     { label: "초급 2", en: "Beginner 2", min: 100 },
-    { label: "초급 3", en: "Beginner 3", min: 300 },
-    { label: "중급 1", en: "Intermediate 1", min: 600 },
-    { label: "중급 2", en: "Intermediate 2", min: 1200 },
-    { label: "중급 3", en: "Intermediate 3", min: 2000 },
-    { label: "고급 1", en: "Advanced 1", min: 3500 },
-    { label: "고급 2", en: "Advanced 2", min: 5000 },
+    { label: "초급 3", en: "Beginner 3", min: 250 },
+    { label: "중급 1", en: "Intermediate 1", min: 500 },
+    { label: "중급 2", en: "Intermediate 2", min: 800 },
   ];
 
   const currentLevel =
@@ -46,19 +63,8 @@ export default function ProgressPage() {
     ? Math.min(100, (xpInLevel / xpForNext) * 100)
     : 100;
 
-  const strong = vocabulary.filter((v) => v.srs.strength >= 80).length;
-  const medium = vocabulary.filter(
-    (v) => v.srs.strength >= 20 && v.srs.strength < 80
-  ).length;
-  const weak = vocabulary.filter((v) => v.srs.strength < 20).length;
-
-  const dueCount = vocabulary.filter(
-    (v) => v.srs.nextReview <= new Date().toISOString()
-  ).length;
-
   return (
-    <div className="flex-1 flex flex-col">
-      {/* Header */}
+    <div className="flex-1 flex flex-col min-h-screen">
       <header className="px-4 py-4 border-b border-border">
         <div className="max-w-lg mx-auto flex items-center justify-between">
           <Link
@@ -67,7 +73,9 @@ export default function ProgressPage() {
           >
             ← <KrTip en="Home">홈</KrTip>
           </Link>
-          <h1 className="kr font-bold"><KrTip en="My progress">내 기록</KrTip></h1>
+          <h1 className="kr font-bold">
+            <KrTip en="My progress">내 기록</KrTip>
+          </h1>
           <div className="w-10" />
         </div>
       </header>
@@ -78,16 +86,17 @@ export default function ProgressPage() {
           <div className="bg-card border border-border rounded-2xl p-5 space-y-3">
             <div className="flex items-center justify-between">
               <div>
-                <p className="kr text-2xl font-black"><KrTip en={currentLevel.en}>{currentLevel.label}</KrTip></p>
-                <p className="text-xs text-muted">
-                  {progress.xp} XP total
+                <p className="kr text-2xl font-black">
+                  <KrTip en={currentLevel.en}>{currentLevel.label}</KrTip>
                 </p>
+                <p className="text-xs text-muted">{progress.xp} XP total</p>
               </div>
               <div className="text-right">
                 <div className="flex items-center gap-1 bg-amber-light px-3 py-1.5 rounded-full">
                   <span className="text-lg">🔥</span>
                   <span className="text-sm font-bold text-amber">
-                    {progress.streak}<KrTip en="days">일</KrTip>
+                    {progress.streak}
+                    <KrTip en="days">일</KrTip>
                   </span>
                 </div>
               </div>
@@ -114,186 +123,146 @@ export default function ProgressPage() {
 
           {/* Stats grid */}
           <div className="grid grid-cols-2 gap-3">
-            <StatCard value={songs.length} label="노래" sub="Songs" />
             <StatCard
-              value={progress.lessonsCompleted.length}
-              label="수업 완료"
-              sub="Lessons"
+              value={totalPassed}
+              total={20}
+              label="완료"
+              sub="Lessons Passed"
             />
-            <StatCard value={vocabulary.length} label="단어" sub="Words" />
             <StatCard
-              value={progress.immersionMinutes}
-              label="분 몰입"
-              sub="Minutes"
+              value={accuracy}
+              suffix="%"
+              label="정확도"
+              sub="Quiz Accuracy"
+            />
+            <StatCard
+              value={totalAttempts}
+              label="시도"
+              sub="Total Attempts"
+            />
+            <StatCard
+              value={progress.totalAnswered}
+              label="문제"
+              sub="Questions Answered"
             />
           </div>
 
-          {/* Vocabulary strength breakdown */}
-          {vocabulary.length > 0 && (
-            <div className="bg-card border border-border rounded-2xl p-5 space-y-4">
-              <div className="flex items-center justify-between">
-                <p className="kr font-bold"><KrTip en="Word strength">단어 실력</KrTip></p>
-                <span className="text-xs text-faint">Vocabulary Strength</span>
-              </div>
+          {/* Per-unit breakdown */}
+          <div className="space-y-3">
+            <h2 className="kr font-bold">
+              <KrTip en="Unit progress">유닛별 진도</KrTip>
+            </h2>
+            {progress.units.map((unit) => {
+              const unitLessons =
+                index?.units[String(unit.unit)]?.lessons ?? [];
+              const passed = unit.lessons.filter((l) => l.passed).length;
+              const totalInUnit = unitLessons.length || 4;
 
-              {/* Stacked bar */}
-              <div className="h-4 rounded-full overflow-hidden flex">
-                {strong > 0 && (
-                  <div
-                    className="bg-sage h-full"
-                    style={{
-                      width: `${(strong / vocabulary.length) * 100}%`,
-                    }}
-                  />
-                )}
-                {medium > 0 && (
-                  <div
-                    className="bg-amber h-full"
-                    style={{
-                      width: `${(medium / vocabulary.length) * 100}%`,
-                    }}
-                  />
-                )}
-                {weak > 0 && (
-                  <div
-                    className="bg-coral h-full"
-                    style={{
-                      width: `${(weak / vocabulary.length) * 100}%`,
-                    }}
-                  />
-                )}
-              </div>
-
-              <div className="grid grid-cols-3 gap-2 text-center">
-                <div>
-                  <div className="flex items-center justify-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-sage" />
-                    <span className="text-sm font-bold">{strong}</span>
-                  </div>
-                  <p className="text-[10px] text-muted kr"><KrTip en="Strong">강해요</KrTip></p>
-                </div>
-                <div>
-                  <div className="flex items-center justify-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-amber" />
-                    <span className="text-sm font-bold">{medium}</span>
-                  </div>
-                  <p className="text-[10px] text-muted kr"><KrTip en="Okay">괜찮아요</KrTip></p>
-                </div>
-                <div>
-                  <div className="flex items-center justify-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-coral" />
-                    <span className="text-sm font-bold">{weak}</span>
-                  </div>
-                  <p className="text-[10px] text-muted kr"><KrTip en="Weak">약해요</KrTip></p>
-                </div>
-              </div>
-
-              {dueCount > 0 && (
-                <Link
-                  href="/review"
-                  className="block w-full py-3 rounded-xl bg-coral text-white text-center
-                    text-sm font-semibold hover:bg-coral/90 transition-colors"
+              return (
+                <div
+                  key={unit.unit}
+                  className={`bg-card border border-border rounded-xl p-4 ${
+                    !unit.unlocked ? "opacity-50" : ""
+                  }`}
                 >
-                  {dueCount}<KrTip en="items to review">개 복습하기</KrTip> Review Now
-                </Link>
-              )}
-            </div>
-          )}
-
-          {/* Recent vocabulary */}
-          {vocabulary.length > 0 && (
-            <div className="space-y-3">
-              <div className="flex items-center justify-between">
-                <p className="kr font-bold"><KrTip en="Recent words">최근 단어</KrTip></p>
-                <span className="text-xs text-faint">Recent Words</span>
-              </div>
-              <div className="space-y-2">
-                {vocabulary.slice(-8).reverse().map((v) => {
-                  const strength = getStrengthLabel(v.srs.strength);
-                  return (
+                  <div className="flex items-center justify-between mb-2">
+                    <p className="kr text-sm font-bold">
+                      {unit.unlocked ? "" : "🔒 "}
+                      {UNIT_LABELS[unit.unit]}
+                    </p>
+                    <span className="text-xs text-faint">
+                      {passed}/{totalInUnit} passed
+                    </span>
+                  </div>
+                  <div className="h-2 bg-border rounded-full overflow-hidden">
                     <div
-                      key={v.id}
-                      className="bg-card border border-border rounded-xl px-4 py-3
-                        flex items-center justify-between"
-                    >
-                      <div>
-                        <p className="kr font-bold text-sm">{v.korean}</p>
-                        <p className="text-xs text-muted">{v.english}</p>
-                      </div>
-                      <div className="text-right">
-                        <span
-                          className={`text-[10px] font-semibold text-${strength.color} kr`}
-                        >
-                          {strength.label}
-                        </span>
-                        <p className="text-[10px] text-faint">
-                          TOPIK {v.topikLevel}
-                        </p>
-                      </div>
+                      className="h-full bg-sage rounded-full transition-all"
+                      style={{
+                        width: `${(passed / totalInUnit) * 100}%`,
+                      }}
+                    />
+                  </div>
+                  {unit.lessons.length > 0 && (
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      {unit.lessons.map((lesson) => {
+                        const num = getLessonNumber(lesson.lessonId);
+                        const score =
+                          lesson.bestScore != null && lesson.bestTotal
+                            ? Math.round(
+                                (lesson.bestScore / lesson.bestTotal) * 100
+                              )
+                            : null;
+                        return (
+                          <div
+                            key={lesson.lessonId}
+                            className={`text-[10px] px-2 py-1 rounded-md border ${
+                              lesson.passed
+                                ? "bg-sage-light border-sage/30 text-sage"
+                                : "bg-coral-light border-coral/30 text-coral"
+                            }`}
+                          >
+                            L{num}
+                            {score !== null && (
+                              <span className="ml-1 font-bold">{score}%</span>
+                            )}
+                          </div>
+                        );
+                      })}
                     </div>
-                  );
-                })}
-              </div>
-            </div>
-          )}
+                  )}
+                </div>
+              );
+            })}
+          </div>
 
           {/* Empty state */}
-          {vocabulary.length === 0 && songs.length === 0 && (
-            <div className="text-center py-12 space-y-4">
-              <div className="text-6xl">📊</div>
-              <p className="kr text-lg font-bold"><KrTip en="No progress yet">아직 기록이 없어요</KrTip></p>
+          {totalPassed === 0 && totalAttempts === 0 && (
+            <div className="text-center py-8 space-y-3">
+              <div className="text-5xl">📊</div>
+              <p className="kr text-lg font-bold">
+                <KrTip en="No progress yet">아직 기록이 없어요</KrTip>
+              </p>
               <p className="text-sm text-muted">
-                Upload songs and complete lessons to see your progress
+                Complete lessons to see your stats here
               </p>
               <Link
-                href="/upload"
-                className="inline-block px-6 py-3 rounded-xl bg-accent text-white
-                  text-sm font-semibold hover:bg-accent-hover transition-colors"
+                href="/"
+                className="inline-block px-6 py-3 rounded-xl bg-accent text-white text-sm font-semibold hover:bg-accent-hover transition-colors"
               >
-                <KrTip en="Get started">시작하기</KrTip>
+                <KrTip en="Start learning">학습 시작</KrTip>
               </Link>
             </div>
           )}
         </div>
       </main>
 
-      {/* Bottom nav */}
-      <nav className="border-t border-border bg-card px-4 py-2">
-        <div className="max-w-lg mx-auto flex justify-around">
-          {[
-            { href: "/", icon: "🏠", label: "홈", en: "Home", active: false },
-            { href: "/review", icon: "📖", label: "복습", en: "Review", active: false },
-            { href: "/progress", icon: "📊", label: "기록", en: "Progress", active: true },
-          ].map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className={`flex flex-col items-center gap-0.5 px-4 py-1 rounded-lg transition-colors ${
-                item.active ? "text-accent" : "text-faint hover:text-muted"
-              }`}
-            >
-              <span className="text-lg">{item.icon}</span>
-              <span className="text-[10px] font-semibold kr"><KrTip en={item.en}>{item.label}</KrTip></span>
-            </Link>
-          ))}
-        </div>
-      </nav>
+      <BottomNav active="progress" />
     </div>
   );
 }
 
 function StatCard({
   value,
+  total,
+  suffix,
   label,
   sub,
 }: {
   value: number;
+  total?: number;
+  suffix?: string;
   label: string;
   sub: string;
 }) {
   return (
     <div className="bg-card border border-border rounded-xl p-4 text-center">
-      <p className="text-2xl font-bold">{value}</p>
+      <p className="text-2xl font-bold">
+        {value}
+        {suffix && <span className="text-lg">{suffix}</span>}
+        {total != null && (
+          <span className="text-faint text-sm">/{total}</span>
+        )}
+      </p>
       <p className="text-xs kr text-muted">{label}</p>
       <p className="text-[10px] text-faint">{sub}</p>
     </div>
