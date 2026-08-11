@@ -1,0 +1,379 @@
+{
+  "songId": "day6-shoot-me",
+  "lines": [
+    {
+      "korean": "쉬운 일이 절대 아냐",
+      "english": "It's never an easy thing",
+      "words": [
+        {
+          "korean": "쉬운 일",
+          "english": "easy thing/task",
+          "role": "noun"
+        },
+        {
+          "korean": "절대",
+          "english": "absolutely/never",
+          "role": "adverb"
+        },
+        {
+          "korean": "아냐",
+          "english": "is not",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "네 앞에 서는 건",
+      "english": "standing in front of you",
+      "words": [
+        {
+          "korean": "네",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "앞에",
+          "english": "in front of",
+          "role": "noun"
+        },
+        {
+          "korean": "서는 건",
+          "english": "the act of standing",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ/는 건",
+        "meaning": "the act/thing of ~ing",
+        "note": "Nominalizes the verb 서다 (to stand) to make it the topic of discussion — 'the thing that is standing'"
+      }
+    },
+    {
+      "korean": "잘 나가다가도 뭔가 어긋나면 그대로 시작이야",
+      "english": "Just when things are going well, if something goes wrong, it's right back to square one",
+      "words": [
+        {
+          "korean": "잘 나가다가도",
+          "english": "even when going well",
+          "role": "verb"
+        },
+        {
+          "korean": "뭔가",
+          "english": "something",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어긋나면",
+          "english": "if it goes wrong",
+          "role": "verb"
+        },
+        {
+          "korean": "그대로",
+          "english": "just as it is/right back",
+          "role": "adverb"
+        },
+        {
+          "korean": "시작이야",
+          "english": "it's the start",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다가도",
+        "meaning": "even while/when ~ing",
+        "note": "Shows a contrast — even in the middle of things going well, if something happens, the situation reverses completely"
+      }
+    },
+    {
+      "korean": "싸늘해져 가는 네 눈빛",
+      "english": "Your gaze growing colder",
+      "words": [
+        {
+          "korean": "싸늘해져 가는",
+          "english": "growing cold",
+          "role": "verb"
+        },
+        {
+          "korean": "네",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "눈빛",
+          "english": "gaze/look in eyes",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어져 가다",
+        "meaning": "gradually becoming ~",
+        "note": "Shows a progressive change over time — the coldness is not sudden but increasing"
+      }
+    },
+    {
+      "korean": "난 그 자리 가만히 앉은 채 숨을 고르고 있어",
+      "english": "I just sit still in that spot, trying to steady my breathing",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그 자리",
+          "english": "that spot",
+          "role": "noun"
+        },
+        {
+          "korean": "가만히",
+          "english": "still/quietly",
+          "role": "adverb"
+        },
+        {
+          "korean": "앉은 채",
+          "english": "while sitting",
+          "role": "expression"
+        },
+        {
+          "korean": "숨을 고르고 있어",
+          "english": "am steadying my breath",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "while remaining in the state of ~",
+        "note": "Describes maintaining one state while doing something else — staying seated while trying to calm down"
+      }
+    },
+    {
+      "korean": "서로를 향한 말투는 점점 더 날카로워져만 가",
+      "english": "The way we talk to each other just keeps getting sharper",
+      "words": [
+        {
+          "korean": "서로를 향한",
+          "english": "directed at each other",
+          "role": "verb"
+        },
+        {
+          "korean": "말투는",
+          "english": "the way of speaking",
+          "role": "noun"
+        },
+        {
+          "korean": "점점 더",
+          "english": "more and more",
+          "role": "adverb"
+        },
+        {
+          "korean": "날카로워져만 가",
+          "english": "only keeps getting sharper",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지기만 하다",
+        "meaning": "only keeps ~ing (nothing else)",
+        "note": "Emphasizes that the sharpness only increases, with no improvement or relief"
+      }
+    },
+    {
+      "korean": "얼마든지 맞아줄게",
+      "english": "I'll take however many you want",
+      "words": [
+        {
+          "korean": "얼마든지",
+          "english": "however much/as many as",
+          "role": "adverb"
+        },
+        {
+          "korean": "맞아줄게",
+          "english": "I'll take/get hit",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어줄게",
+        "meaning": "I'll do ~ for you",
+        "note": "A promise form usually used kindly, here twisted ironically — offering to take pain for the partner's benefit"
+      }
+    },
+    {
+      "korean": "원한 게 이거라면",
+      "english": "If that's what you wanted",
+      "words": [
+        {
+          "korean": "원한 게",
+          "english": "the thing you wanted",
+          "role": "expression"
+        },
+        {
+          "korean": "이거",
+          "english": "this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "라면",
+          "english": "if it is",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이젠 너무 익숙해",
+      "english": "I'm so used to it now",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now/at this point",
+          "role": "adverb"
+        },
+        {
+          "korean": "너무",
+          "english": "too/so",
+          "role": "adverb"
+        },
+        {
+          "korean": "익숙해",
+          "english": "am used to/familiar with",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "이걸로 풀린다면",
+      "english": "If this resolves things",
+      "words": [
+        {
+          "korean": "이걸로",
+          "english": "with this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "풀린다면",
+          "english": "if it gets resolved",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너와 원했던 건 로맨스 한편이야",
+      "english": "What I wanted with you was a romance",
+      "words": [
+        {
+          "korean": "너와",
+          "english": "with you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "원했던 건",
+          "english": "the thing I wanted",
+          "role": "expression"
+        },
+        {
+          "korean": "로맨스 한편",
+          "english": "a romance",
+          "role": "noun"
+        },
+        {
+          "korean": "이야",
+          "english": "is",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "진심이 아니길 빌어",
+      "english": "I pray it's not sincere",
+      "words": [
+        {
+          "korean": "진심",
+          "english": "sincerity/true feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "아니길",
+          "english": "that it's not",
+          "role": "verb"
+        },
+        {
+          "korean": "빌어",
+          "english": "I pray/wish",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기를 바라다/빌다",
+        "meaning": "hope/pray that ~",
+        "note": "Expresses a wish that the partner's harsh words ('it's over') aren't genuine"
+      }
+    },
+    {
+      "korean": "그저 불안한 맘에 뱉은 거라고 믿고 싶어",
+      "english": "I want to believe you just said it out of anxiety",
+      "words": [
+        {
+          "korean": "그저",
+          "english": "just/merely",
+          "role": "adverb"
+        },
+        {
+          "korean": "불안한 맘에",
+          "english": "out of an anxious heart",
+          "role": "noun"
+        },
+        {
+          "korean": "뱉은 거",
+          "english": "the thing you spat out",
+          "role": "verb"
+        },
+        {
+          "korean": "라고",
+          "english": "that",
+          "role": "particle"
+        },
+        {
+          "korean": "믿고 싶어",
+          "english": "want to believe",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 거라고",
+        "meaning": "that it is the case that ~",
+        "note": "Used to describe what the speaker wants to believe — framing the harsh words as just anxiety-driven"
+      }
+    },
+    {
+      "korean": "가슴에 박히는 너의 한발 한발이 사실은 너무 아파",
+      "english": "Each shot that lodges in my chest actually hurts so much",
+      "words": [
+        {
+          "korean": "가슴에",
+          "english": "in my chest",
+          "role": "noun"
+        },
+        {
+          "korean": "박히는",
+          "english": "that lodges/embeds",
+          "role": "verb"
+        },
+        {
+          "korean": "너의 한발 한발",
+          "english": "each of your shots",
+          "role": "noun"
+        },
+        {
+          "korean": "사실은",
+          "english": "actually/in truth",
+          "role": "adverb"
+        },
+        {
+          "korean": "너무 아파",
+          "english": "hurts so much",
+          "role": "adjective"
+        }
+      ]
+    }
+  ]
+}

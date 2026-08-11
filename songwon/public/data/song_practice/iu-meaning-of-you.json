@@ -1,0 +1,301 @@
+{
+  "songId": "iu-meaning-of-you",
+  "lines": [
+    {
+      "korean": "너의 그 한 마디 말도",
+      "english": "Even a single word from you",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그",
+          "english": "that",
+          "role": "pronoun"
+        },
+        {
+          "korean": "한 마디",
+          "english": "one word",
+          "role": "noun"
+        },
+        {
+          "korean": "말",
+          "english": "word/speech",
+          "role": "noun"
+        },
+        {
+          "korean": "도",
+          "english": "even/also",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "그 웃음도 나에겐 커다란 의미",
+      "english": "And that smile too, to me they hold huge meaning",
+      "words": [
+        {
+          "korean": "그 웃음도",
+          "english": "that smile too",
+          "role": "noun"
+        },
+        {
+          "korean": "나에겐",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "커다란",
+          "english": "huge/enormous",
+          "role": "adjective"
+        },
+        {
+          "korean": "의미",
+          "english": "meaning/significance",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "너의 그 작은 눈빛도",
+      "english": "Even your small glance",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그",
+          "english": "that",
+          "role": "pronoun"
+        },
+        {
+          "korean": "작은",
+          "english": "small/little",
+          "role": "adjective"
+        },
+        {
+          "korean": "눈빛도",
+          "english": "glance/look (even)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "쓸쓸한 뒷모습도 나에겐 힘겨운 약속",
+      "english": "Even your lonely silhouette, to me they're a heavy promise",
+      "words": [
+        {
+          "korean": "쓸쓸한",
+          "english": "lonely/desolate",
+          "role": "adjective"
+        },
+        {
+          "korean": "뒷모습도",
+          "english": "back view/silhouette (even)",
+          "role": "noun"
+        },
+        {
+          "korean": "나에겐",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "힘겨운",
+          "english": "difficult/heavy",
+          "role": "adjective"
+        },
+        {
+          "korean": "약속",
+          "english": "promise",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "너의 모든 것은 내게로 와",
+      "english": "Everything about you comes to me",
+      "words": [
+        {
+          "korean": "너의 모든 것은",
+          "english": "everything about you",
+          "role": "noun"
+        },
+        {
+          "korean": "내게로",
+          "english": "to me/toward me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "와",
+          "english": "comes",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "풀리지 않는 수수께끼가 되네",
+      "english": "And becomes a riddle that won't unravel",
+      "words": [
+        {
+          "korean": "풀리지 않는",
+          "english": "that won't be solved",
+          "role": "verb"
+        },
+        {
+          "korean": "수수께끼가",
+          "english": "riddle/puzzle",
+          "role": "noun"
+        },
+        {
+          "korean": "되네",
+          "english": "becomes (I realize)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않는",
+        "meaning": "that doesn't/won't (verb)",
+        "note": "Negative modifier form turning 풀리다 (to be solved) into 'that won't be solved,' modifying 수수께끼 (riddle)."
+      }
+    },
+    {
+      "korean": "슬픔은 간이역의 코스모스로 피고",
+      "english": "Sadness blooms as cosmos flowers at a small station",
+      "words": [
+        {
+          "korean": "슬픔은",
+          "english": "sadness",
+          "role": "noun"
+        },
+        {
+          "korean": "간이역의",
+          "english": "of a small/unstaffed station",
+          "role": "noun"
+        },
+        {
+          "korean": "코스모스로",
+          "english": "as cosmos flowers",
+          "role": "noun"
+        },
+        {
+          "korean": "피고",
+          "english": "blooms",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "스쳐 불어온 넌 향긋한 바람",
+      "english": "You, brushing past me, are a fragrant wind",
+      "words": [
+        {
+          "korean": "스쳐 불어온",
+          "english": "brushing past",
+          "role": "verb"
+        },
+        {
+          "korean": "넌",
+          "english": "you (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "향긋한",
+          "english": "fragrant/sweet-smelling",
+          "role": "adjective"
+        },
+        {
+          "korean": "바람",
+          "english": "wind",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "나 이제 뭉게구름 위에 성을 짓고",
+      "english": "Now I build a castle on top of billowing clouds",
+      "words": [
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "뭉게구름 위에",
+          "english": "on top of billowing clouds",
+          "role": "noun"
+        },
+        {
+          "korean": "성을 짓고",
+          "english": "build a castle",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "널 향해 창을 내리 바람 드는 창을",
+      "english": "And open a window facing you, a window that lets the wind in",
+      "words": [
+        {
+          "korean": "널 향해",
+          "english": "facing you",
+          "role": "expression"
+        },
+        {
+          "korean": "창을 내리",
+          "english": "open/install a window",
+          "role": "verb"
+        },
+        {
+          "korean": "바람 드는",
+          "english": "that lets wind in",
+          "role": "verb"
+        },
+        {
+          "korean": "창을",
+          "english": "window",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "도대체 넌 나에게 누구냐?",
+      "english": "Just who on earth are you to me?",
+      "words": [
+        {
+          "korean": "도대체",
+          "english": "on earth/the hell",
+          "role": "adverb"
+        },
+        {
+          "korean": "넌",
+          "english": "you (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나에게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "누구냐",
+          "english": "who are you",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "도대체",
+        "meaning": "on earth/the hell (intensifier)",
+        "note": "Used to express genuine confusion or frustration, emphasizing the question 'who are you?'"
+      }
+    }
+  ]
+}

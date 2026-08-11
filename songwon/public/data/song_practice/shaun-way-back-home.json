@@ -1,0 +1,342 @@
+{
+  "songId": "shaun-way-back-home",
+  "lines": [
+    {
+      "korean": "조용히 잠든 방을 열어 기억을 꺼내 들어",
+      "english": "I open a quietly sleeping room and pull out a memory",
+      "words": [
+        {
+          "korean": "조용히",
+          "english": "quietly",
+          "role": "adverb"
+        },
+        {
+          "korean": "잠든 방을",
+          "english": "sleeping room",
+          "role": "noun"
+        },
+        {
+          "korean": "열어",
+          "english": "open",
+          "role": "verb"
+        },
+        {
+          "korean": "기억을",
+          "english": "memory",
+          "role": "noun"
+        },
+        {
+          "korean": "꺼내 들어",
+          "english": "pull out",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "부서진 시간 위에서 선명히 너는 떠올라",
+      "english": "On top of broken time, you rise up clearly",
+      "words": [
+        {
+          "korean": "부서진 시간",
+          "english": "broken time",
+          "role": "noun"
+        },
+        {
+          "korean": "위에서",
+          "english": "on top of",
+          "role": "particle"
+        },
+        {
+          "korean": "선명히",
+          "english": "clearly",
+          "role": "adverb"
+        },
+        {
+          "korean": "떠올라",
+          "english": "rise up/come to mind",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "길 잃은 마음속에 널 가둔 채 살아",
+      "english": "I've been living with you locked inside a lost heart",
+      "words": [
+        {
+          "korean": "길 잃은",
+          "english": "lost",
+          "role": "adjective"
+        },
+        {
+          "korean": "마음속에",
+          "english": "inside the heart",
+          "role": "noun"
+        },
+        {
+          "korean": "널",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "가둔 채",
+          "english": "while locked away",
+          "role": "expression"
+        },
+        {
+          "korean": "살아",
+          "english": "live/have been living",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "while remaining in a state of",
+        "note": "Describes an ongoing condition carried through time — here, living while keeping someone locked away in one's heart"
+      }
+    },
+    {
+      "korean": "멈춘 시간 속 잠든 너를 찾아가",
+      "english": "Inside stopped time, I go looking for you asleep",
+      "words": [
+        {
+          "korean": "멈춘 시간 속",
+          "english": "inside stopped time",
+          "role": "noun"
+        },
+        {
+          "korean": "잠든 너를",
+          "english": "you asleep",
+          "role": "noun"
+        },
+        {
+          "korean": "찾아가",
+          "english": "go looking for",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아무리 막아도 결국 너의 곁인 걸",
+      "english": "No matter how much I try to stop it, in the end it's by your side",
+      "words": [
+        {
+          "korean": "아무리 막아도",
+          "english": "no matter how much I block it",
+          "role": "expression"
+        },
+        {
+          "korean": "결국",
+          "english": "in the end",
+          "role": "adverb"
+        },
+        {
+          "korean": "너의 곁인 걸",
+          "english": "it's by your side",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "아무리 -아/어도",
+        "meaning": "no matter how much",
+        "note": "Sets up a strong concession — an attempt at resistance that fails against something stronger, here the inevitable pull back to the person"
+      }
+    },
+    {
+      "korean": "길고 긴 여행을 끝내 이젠 돌아가",
+      "english": "After a long, long journey, I'm finally going back now",
+      "words": [
+        {
+          "korean": "길고 긴 여행을",
+          "english": "long, long journey",
+          "role": "noun"
+        },
+        {
+          "korean": "끝내",
+          "english": "after ending/finally",
+          "role": "verb"
+        },
+        {
+          "korean": "이젠",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "돌아가",
+          "english": "go back",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너라는 집으로 지금 다시 way back home",
+      "english": "To the home that is you, right now, way back home",
+      "words": [
+        {
+          "korean": "너라는 집으로",
+          "english": "to the home that is you",
+          "role": "expression"
+        },
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)라는",
+        "meaning": "called/known as/that is",
+        "note": "Directly equates two nouns — here, a person and the concept of home — rather than comparing them"
+      }
+    },
+    {
+      "korean": "세상을 뒤집어 찾으려 해",
+      "english": "I'll turn the world upside down trying to find it",
+      "words": [
+        {
+          "korean": "세상을",
+          "english": "the world",
+          "role": "noun"
+        },
+        {
+          "korean": "뒤집어",
+          "english": "turn upside down",
+          "role": "verb"
+        },
+        {
+          "korean": "찾으려 해",
+          "english": "try to find",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)려 해",
+        "meaning": "try to/intend to",
+        "note": "Expresses intention or effort to do something — here, the determination to search"
+      }
+    },
+    {
+      "korean": "오직 너로 완결된 이야기를",
+      "english": "A story that's only complete with you",
+      "words": [
+        {
+          "korean": "오직",
+          "english": "only",
+          "role": "adverb"
+        },
+        {
+          "korean": "너로",
+          "english": "with you",
+          "role": "particle"
+        },
+        {
+          "korean": "완결된",
+          "english": "completed",
+          "role": "verb"
+        },
+        {
+          "korean": "이야기를",
+          "english": "story",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "빛이 다 꺼진 여기 나를 안아줘",
+      "english": "Here where all the light has gone out, hold me",
+      "words": [
+        {
+          "korean": "빛이",
+          "english": "light",
+          "role": "noun"
+        },
+        {
+          "korean": "다 꺼진",
+          "english": "all gone out",
+          "role": "verb"
+        },
+        {
+          "korean": "여기",
+          "english": "here",
+          "role": "noun"
+        },
+        {
+          "korean": "나를",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "안아줘",
+          "english": "hold me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줘",
+        "meaning": "please do (for me)",
+        "note": "A gentle request form that implies doing something as a favor or act of care for the speaker"
+      }
+    },
+    {
+      "korean": "눈을 감으면 소리 없이 밀려와",
+      "english": "When I close my eyes, it comes rushing in without a sound",
+      "words": [
+        {
+          "korean": "눈을 감으면",
+          "english": "when I close my eyes",
+          "role": "expression"
+        },
+        {
+          "korean": "소리 없이",
+          "english": "without a sound",
+          "role": "adverb"
+        },
+        {
+          "korean": "밀려와",
+          "english": "comes rushing in",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if/when",
+        "note": "Creates a conditional — when one action happens, another follows as a result"
+      }
+    },
+    {
+      "korean": "이 마음 그 위로 넌 또 한 겹 쌓여가",
+      "english": "On top of this heart, you're layering up one more time",
+      "words": [
+        {
+          "korean": "이 마음",
+          "english": "this heart",
+          "role": "noun"
+        },
+        {
+          "korean": "그 위로",
+          "english": "on top of that",
+          "role": "particle"
+        },
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "또 한 겹",
+          "english": "one more layer",
+          "role": "noun"
+        },
+        {
+          "korean": "쌓여가",
+          "english": "pile up/layer up",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

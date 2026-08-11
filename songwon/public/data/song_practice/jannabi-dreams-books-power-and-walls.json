@@ -1,0 +1,385 @@
+{
+  "songId": "jannabi-dreams-books-power-and-walls",
+  "lines": [
+    {
+      "korean": "해가 뜨고 다시 지는 것에 연연하였던 나의 작은방",
+      "english": "My small room where I used to obsess over the sun rising and setting again",
+      "words": [
+        {
+          "korean": "해가 뜨고 지는 것",
+          "english": "the sun rising and setting",
+          "role": "noun"
+        },
+        {
+          "korean": "연연하였던",
+          "english": "used to obsess over / cling to",
+          "role": "verb"
+        },
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "작은방",
+          "english": "small room",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았/었던",
+        "meaning": "past state recalled from memory",
+        "note": "연연하였던 describes a past habit of obsessing, looked back on with distance"
+      }
+    },
+    {
+      "korean": "텅 빈 마음 노랠 불러봤자 누군가에겐 소음일 테니",
+      "english": "Even if I sing to my empty heart, it'll just be noise to someone else anyway",
+      "words": [
+        {
+          "korean": "텅 빈 마음",
+          "english": "empty heart",
+          "role": "noun"
+        },
+        {
+          "korean": "노랠 불러봤자",
+          "english": "even if I sing",
+          "role": "verb"
+        },
+        {
+          "korean": "누군가에겐",
+          "english": "to someone",
+          "role": "expression"
+        },
+        {
+          "korean": "소음일 테니",
+          "english": "it'll be noise anyway",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 봤자",
+        "meaning": "even if one does ~",
+        "note": "불러봤자 means 'even if I try singing,' expressing futility — the action won't change the outcome"
+      }
+    },
+    {
+      "korean": "나 들으라고 내쉰 숨이 더냐 아버지 내게 물으시고",
+      "english": "My father asked me, 'Was that sigh for me to hear?'",
+      "words": [
+        {
+          "korean": "나 들으라고",
+          "english": "for me to hear",
+          "role": "expression"
+        },
+        {
+          "korean": "내쉰 숨",
+          "english": "the sigh I let out",
+          "role": "noun"
+        },
+        {
+          "korean": "더냐",
+          "english": "is it / was it",
+          "role": "verb"
+        },
+        {
+          "korean": "아버지",
+          "english": "father",
+          "role": "noun"
+        },
+        {
+          "korean": "물으시고",
+          "english": "asked",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)라고",
+        "meaning": "in order to / so that",
+        "note": "들으라고 means 'so that [I] could hear,' expressing purpose or intention"
+      }
+    },
+    {
+      "korean": "제 발 저려 난 답할 수 없었네",
+      "english": "Caught red-handed, I couldn't answer",
+      "words": [
+        {
+          "korean": "제 발 저려",
+          "english": "caught red-handed / feeling guilty",
+          "role": "expression"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "답할 수 없었네",
+          "english": "couldn't answer",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우리는 어째서 어른이 된 걸까",
+      "english": "How did we end up becoming adults?",
+      "words": [
+        {
+          "korean": "우리는",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어째서",
+          "english": "how / why",
+          "role": "adverb"
+        },
+        {
+          "korean": "어른이 된 걸까",
+          "english": "did we become adults",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "I wonder ~ / could it be ~",
+        "note": "된 걸까 is a rhetorical, self-directed question expressing confusion about becoming an adult"
+      }
+    },
+    {
+      "korean": "하루하루가 참 무거운 짐이야",
+      "english": "Every single day is such a heavy burden",
+      "words": [
+        {
+          "korean": "하루하루가",
+          "english": "each day / every single day",
+          "role": "noun"
+        },
+        {
+          "korean": "참",
+          "english": "really / truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "무거운 짐",
+          "english": "heavy burden",
+          "role": "noun"
+        },
+        {
+          "korean": "이야",
+          "english": "is",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "더는 못 갈 거야",
+      "english": "I can't go any further",
+      "words": [
+        {
+          "korean": "더는",
+          "english": "any more / any further",
+          "role": "adverb"
+        },
+        {
+          "korean": "못 갈 거야",
+          "english": "can't go / won't be able to go",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "꿈과 책과 힘과 벽 사이를 눈치 보기에 바쁜 나날들",
+      "english": "Days spent busy reading the room between dreams, books, power, and walls",
+      "words": [
+        {
+          "korean": "꿈과 책과 힘과 벽",
+          "english": "dreams, books, power, and walls",
+          "role": "noun"
+        },
+        {
+          "korean": "사이를",
+          "english": "between / among",
+          "role": "noun"
+        },
+        {
+          "korean": "눈치 보기에",
+          "english": "reading the room / being cautious",
+          "role": "expression"
+        },
+        {
+          "korean": "바쁜 나날들",
+          "english": "busy days",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "소년이여 야망을 가져라 무책임한 격언 따위에",
+      "english": "'Boys, be ambitious' — such a reckless, irresponsible saying",
+      "words": [
+        {
+          "korean": "소년이여",
+          "english": "O boys",
+          "role": "noun"
+        },
+        {
+          "korean": "야망을 가져라",
+          "english": "have ambition / be ambitious",
+          "role": "verb"
+        },
+        {
+          "korean": "무책임한",
+          "english": "irresponsible / reckless",
+          "role": "adjective"
+        },
+        {
+          "korean": "격언 따위에",
+          "english": "saying / maxim (dismissive)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "가질 수 없음을 알게 되던 날",
+      "english": "The day I realized I could never have it",
+      "words": [
+        {
+          "korean": "가질 수 없음을",
+          "english": "the inability to have / not being able to have",
+          "role": "noun"
+        },
+        {
+          "korean": "알게 되던 날",
+          "english": "the day I came to realize",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 되다",
+        "meaning": "to come to / end up ~ing",
+        "note": "알게 되던 날 means 'the day I came to realize,' describing a gradual realization that became a turning point"
+      }
+    },
+    {
+      "korean": "두드러기처럼 돋은 심술이 끝내 그 이름 더럽히고 말았네",
+      "english": "A resentment rose up like hives, and in the end it tainted even that name",
+      "words": [
+        {
+          "korean": "두드러기처럼",
+          "english": "like hives",
+          "role": "expression"
+        },
+        {
+          "korean": "돋은 심술이",
+          "english": "resentment that rose up",
+          "role": "noun"
+        },
+        {
+          "korean": "끝내",
+          "english": "in the end / finally",
+          "role": "adverb"
+        },
+        {
+          "korean": "더럽히고 말았네",
+          "english": "ended up tainting",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 말다",
+        "meaning": "end up ~ing (undesirable outcome)",
+        "note": "더럽히고 말았네 expresses that the resentment ended up tainting the memory, with regret about the inevitable outcome"
+      }
+    },
+    {
+      "korean": "멈춰 선 남겨진 날 보면 어떤 맘이 들까",
+      "english": "What would I feel if I saw myself, left behind, standing still?",
+      "words": [
+        {
+          "korean": "멈춰 선",
+          "english": "standing still / stopped",
+          "role": "verb"
+        },
+        {
+          "korean": "남겨진 날",
+          "english": "me who was left behind",
+          "role": "noun"
+        },
+        {
+          "korean": "보면",
+          "english": "if I see",
+          "role": "verb"
+        },
+        {
+          "korean": "어떤 맘이 들까",
+          "english": "what feelings would arise",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "하루하루가 참 무서운 밤인 걸",
+      "english": "Every single day is such a frightening night",
+      "words": [
+        {
+          "korean": "하루하루가",
+          "english": "each day / every single day",
+          "role": "noun"
+        },
+        {
+          "korean": "참",
+          "english": "really / so",
+          "role": "adverb"
+        },
+        {
+          "korean": "무서운 밤인 걸",
+          "english": "is a frightening night",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "자고 나면 괜찮아질 거야",
+      "english": "If I sleep, I'll be fine tomorrow",
+      "words": [
+        {
+          "korean": "자고 나면",
+          "english": "after sleeping / once I sleep",
+          "role": "verb"
+        },
+        {
+          "korean": "괜찮아질 거야",
+          "english": "will be okay / will be fine",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우린 조금씩 닮아야 할 거야",
+      "english": "We're going to have to resemble them, little by little",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "조금씩",
+          "english": "little by little / gradually",
+          "role": "adverb"
+        },
+        {
+          "korean": "닮아야 할 거야",
+          "english": "will have to resemble",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야 할 거야",
+        "meaning": "will have to ~",
+        "note": "닮아야 할 거야 expresses an inevitable necessity — that resembling tired adults is something that must happen in the future"
+      }
+    }
+  ]
+}

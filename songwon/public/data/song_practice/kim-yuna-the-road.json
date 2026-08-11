@@ -1,0 +1,430 @@
+{
+  "songId": "kim-yuna-the-road",
+  "lines": [
+    {
+      "korean": "아무도 가르쳐 주지 않아",
+      "english": "No one will teach me",
+      "words": [
+        {
+          "korean": "아무도",
+          "english": "no one",
+          "role": "pronoun"
+        },
+        {
+          "korean": "가르쳐 주지 않아",
+          "english": "won't teach (me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "to do something for someone",
+        "note": "가르쳐 주다 means 'to teach (for someone)', and the negation 주지 않아 expresses that no one is doing this favor"
+      }
+    },
+    {
+      "korean": "이 길이 옳은지 다른 길로 가야 할지",
+      "english": "Whether this road is right, or whether I should take a different one",
+      "words": [
+        {
+          "korean": "이 길이",
+          "english": "this road",
+          "role": "noun"
+        },
+        {
+          "korean": "옳은지",
+          "english": "whether it's right",
+          "role": "verb"
+        },
+        {
+          "korean": "다른 길로",
+          "english": "to a different road",
+          "role": "noun"
+        },
+        {
+          "korean": "가야 할지",
+          "english": "whether I should go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ/는지",
+        "meaning": "whether, if (indirect question)",
+        "note": "Used twice here (옳은지, 가야 할지) to express uncertainty about two options — whether this path is correct or whether to take another"
+      }
+    },
+    {
+      "korean": "난 저길 저 끝에 다 다르면 멈추겠지",
+      "english": "I suppose I'll just stop wherever that far end is",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "저길 저 끝에",
+          "english": "at that far end",
+          "role": "noun"
+        },
+        {
+          "korean": "다 다르면",
+          "english": "when I reach it all",
+          "role": "verb"
+        },
+        {
+          "korean": "멈추겠지",
+          "english": "I suppose I'll stop",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠지",
+        "meaning": "I suppose/probably will",
+        "note": "Expresses a resigned or uncertain prediction about the future — she's guessing she'll stop at the end, not stating it as a firm plan"
+      }
+    },
+    {
+      "korean": "가로막힌 미로 앞에 서 있어",
+      "english": "I'm standing in front of a maze that's completely blocked off",
+      "words": [
+        {
+          "korean": "가로막힌",
+          "english": "blocked off",
+          "role": "adjective"
+        },
+        {
+          "korean": "미로",
+          "english": "maze/labyrinth",
+          "role": "noun"
+        },
+        {
+          "korean": "앞에",
+          "english": "in front of",
+          "role": "particle"
+        },
+        {
+          "korean": "서 있어",
+          "english": "standing",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내 길을 물어도 대답 없는 메아리",
+      "english": "Even when I ask which way to go, only an answerless echo comes back",
+      "words": [
+        {
+          "korean": "내 길을",
+          "english": "my way/road",
+          "role": "noun"
+        },
+        {
+          "korean": "물어도",
+          "english": "even when I ask",
+          "role": "verb"
+        },
+        {
+          "korean": "대답 없는",
+          "english": "answerless",
+          "role": "adjective"
+        },
+        {
+          "korean": "메아리",
+          "english": "echo",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if/though",
+        "note": "물어도 means 'even when/though I ask' — despite her calling out for guidance, she receives no answer"
+      }
+    },
+    {
+      "korean": "어제와 똑같은 이 길에 머물지 몰라",
+      "english": "I might just stay stuck on this same road as yesterday",
+      "words": [
+        {
+          "korean": "어제와",
+          "english": "with yesterday",
+          "role": "noun"
+        },
+        {
+          "korean": "똑같은",
+          "english": "exactly the same",
+          "role": "adjective"
+        },
+        {
+          "korean": "이 길에",
+          "english": "on this road",
+          "role": "noun"
+        },
+        {
+          "korean": "머물지 몰라",
+          "english": "might stay",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ지 모르다",
+        "meaning": "might, may (uncertainty)",
+        "note": "Expresses possibility or uncertainty — she's not sure if she'll remain stuck on the same path"
+      }
+    },
+    {
+      "korean": "저 거미줄 끝에 꼭 매달린 것처럼",
+      "english": "Like something hanging at the very end of that spider's thread",
+      "words": [
+        {
+          "korean": "저 거미줄",
+          "english": "that spider's thread",
+          "role": "noun"
+        },
+        {
+          "korean": "끝에",
+          "english": "at the end",
+          "role": "noun"
+        },
+        {
+          "korean": "꼭 매달린",
+          "english": "hanging tightly",
+          "role": "verb"
+        },
+        {
+          "korean": "것처럼",
+          "english": "like/as if",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "것처럼",
+        "meaning": "like, as if",
+        "note": "Creates a simile comparing her situation to being caught at the end of a spider web — vulnerable and trapped"
+      }
+    },
+    {
+      "korean": "세상 어딘가 저 길 가장 구석에",
+      "english": "Somewhere in the world, at the very corner of that road",
+      "words": [
+        {
+          "korean": "세상 어딘가",
+          "english": "somewhere in the world",
+          "role": "noun"
+        },
+        {
+          "korean": "저 길",
+          "english": "that road",
+          "role": "noun"
+        },
+        {
+          "korean": "가장 구석에",
+          "english": "at the very corner",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "갈 길을 잃은 나를 찾아야만 해",
+      "english": "I have to find myself, the one who's lost her way",
+      "words": [
+        {
+          "korean": "갈 길을 잃은",
+          "english": "who lost her way",
+          "role": "verb"
+        },
+        {
+          "korean": "나를",
+          "english": "myself",
+          "role": "pronoun"
+        },
+        {
+          "korean": "찾아야만 해",
+          "english": "must find",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야만 하다",
+        "meaning": "must absolutely do",
+        "note": "Expresses strong obligation with added emphasis from 만 — she absolutely must find her lost self"
+      }
+    },
+    {
+      "korean": "저 해를 삼킨 어둠이 오기 전에",
+      "english": "Before the darkness that swallowed the sun arrives",
+      "words": [
+        {
+          "korean": "저 해를",
+          "english": "the sun",
+          "role": "noun"
+        },
+        {
+          "korean": "삼킨",
+          "english": "swallowed",
+          "role": "verb"
+        },
+        {
+          "korean": "어둠이",
+          "english": "darkness",
+          "role": "noun"
+        },
+        {
+          "korean": "오기 전에",
+          "english": "before it comes",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 전에",
+        "meaning": "before doing/happening",
+        "note": "Sets a time limit or deadline — she must find herself before darkness arrives, creating urgency"
+      }
+    },
+    {
+      "korean": "긴 벽에 갇힌 나의 길을 찾아야만 하겠지",
+      "english": "I have to find my road, trapped behind that long wall",
+      "words": [
+        {
+          "korean": "긴 벽에",
+          "english": "in/behind a long wall",
+          "role": "noun"
+        },
+        {
+          "korean": "갇힌",
+          "english": "trapped",
+          "role": "verb"
+        },
+        {
+          "korean": "나의 길을",
+          "english": "my road",
+          "role": "noun"
+        },
+        {
+          "korean": "찾아야만 하겠지",
+          "english": "I suppose I must find",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야만 하겠지",
+        "meaning": "I suppose I must do",
+        "note": "Combines strong obligation (아야만 하다) with uncertain prediction (겠지) — a resigned acceptance that she must find her path"
+      }
+    },
+    {
+      "korean": "가르쳐줘 내 가려진 두려움",
+      "english": "Show me the fear I've kept hidden",
+      "words": [
+        {
+          "korean": "가르쳐줘",
+          "english": "teach me/show me",
+          "role": "verb"
+        },
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "가려진",
+          "english": "hidden/covered",
+          "role": "verb"
+        },
+        {
+          "korean": "두려움",
+          "english": "fear",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "이 길이 끝나면 다른 길이 있는지",
+      "english": "Whether there's another road after this one ends",
+      "words": [
+        {
+          "korean": "이 길이",
+          "english": "this road",
+          "role": "noun"
+        },
+        {
+          "korean": "끝나면",
+          "english": "when it ends",
+          "role": "verb"
+        },
+        {
+          "korean": "다른 길이",
+          "english": "another road",
+          "role": "noun"
+        },
+        {
+          "korean": "있는지",
+          "english": "whether there is",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if/when",
+        "note": "Sets up a conditional situation — what happens after this road ends"
+      }
+    },
+    {
+      "korean": "두 발에 뒤엉킨 이 매듭 끝을 풀기엔",
+      "english": "To untangle this knot twisted around both my feet",
+      "words": [
+        {
+          "korean": "두 발에",
+          "english": "around both feet",
+          "role": "noun"
+        },
+        {
+          "korean": "뒤엉킨",
+          "english": "tangled/twisted",
+          "role": "verb"
+        },
+        {
+          "korean": "이 매듭 끝을",
+          "english": "this knot",
+          "role": "noun"
+        },
+        {
+          "korean": "풀기엔",
+          "english": "to untangle",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기엔",
+        "meaning": "in order to do (but...)",
+        "note": "Short form of -기에는, often implying difficulty or insufficiency — she wants to untangle the knot but..."
+      }
+    },
+    {
+      "korean": "내 무뎌진 손이 더 아프게 조여와",
+      "english": "My numbed hands only tighten it more painfully",
+      "words": [
+        {
+          "korean": "내 무뎌진 손이",
+          "english": "my numbed hands",
+          "role": "noun"
+        },
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "아프게",
+          "english": "painfully",
+          "role": "adverb"
+        },
+        {
+          "korean": "조여와",
+          "english": "tighten",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

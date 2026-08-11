@@ -1,0 +1,370 @@
+{
+  "songId": "davichi",
+  "lines": [
+    {
+      "korean": "사랑한다 말하는 그댈 보면",
+      "english": "When I see you saying you love me",
+      "words": [
+        {
+          "korean": "사랑한다 말하는",
+          "english": "saying 'I love you'",
+          "role": "verb"
+        },
+        {
+          "korean": "그댈",
+          "english": "you (poetic, object form)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보면",
+          "english": "when I see",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "when/if",
+        "note": "보면 creates a conditional/temporal clause: 'when I see'"
+      }
+    },
+    {
+      "korean": "왠지 모르게 이렇게 아파와",
+      "english": "For some reason it hurts like this",
+      "words": [
+        {
+          "korean": "왠지 모르게",
+          "english": "for some reason, somehow",
+          "role": "adverb"
+        },
+        {
+          "korean": "이렇게",
+          "english": "like this, this much",
+          "role": "adverb"
+        },
+        {
+          "korean": "아파와",
+          "english": "it hurts",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "서로 다른 그런 마음까지도 안아줄게요",
+      "english": "I'll embrace even the parts of your heart that are different from mine",
+      "words": [
+        {
+          "korean": "서로 다른",
+          "english": "different from each other",
+          "role": "adjective"
+        },
+        {
+          "korean": "마음까지도",
+          "english": "even [those] feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "안아줄게요",
+          "english": "I will embrace/hold",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줄게요",
+        "meaning": "I will do [something] for you",
+        "note": "안아줄게요 combines 안다 (to embrace) + 주다 (to give/do for someone) + ㄹ게요 (promise/intention)"
+      }
+    },
+    {
+      "korean": "꽃잎은 시들고 계절은 변해도",
+      "english": "Even as flower petals wither and seasons change",
+      "words": [
+        {
+          "korean": "꽃잎은",
+          "english": "flower petals",
+          "role": "noun"
+        },
+        {
+          "korean": "시들고",
+          "english": "wither and",
+          "role": "verb"
+        },
+        {
+          "korean": "계절은",
+          "english": "seasons",
+          "role": "noun"
+        },
+        {
+          "korean": "변해도",
+          "english": "even if [they] change",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if/though",
+        "note": "변해도 expresses concession: 'even though seasons change'"
+      }
+    },
+    {
+      "korean": "영원한 내 사랑 그 마음뿐이에요",
+      "english": "My eternal love, that feeling alone",
+      "words": [
+        {
+          "korean": "영원한",
+          "english": "eternal",
+          "role": "adjective"
+        },
+        {
+          "korean": "내 사랑",
+          "english": "my love",
+          "role": "noun"
+        },
+        {
+          "korean": "그 마음뿐이에요",
+          "english": "only that feeling",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-뿐이에요",
+        "meaning": "is only, nothing but",
+        "note": "마음뿐이에요 emphasizes exclusivity: 'that feeling alone, nothing else'"
+      }
+    },
+    {
+      "korean": "가슴 아파도 난 그대니까요",
+      "english": "Even if my heart aches, it's because it's you",
+      "words": [
+        {
+          "korean": "가슴 아파도",
+          "english": "even if my heart aches",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그대니까요",
+          "english": "because it's you",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)니까요",
+        "meaning": "because it is [reason/cause]",
+        "note": "그대니까요 is the song's core expression: 'because you are you' — a self-explanatory reason"
+      }
+    },
+    {
+      "korean": "기억해요 기다려요 그대",
+      "english": "I remember, I wait, for you",
+      "words": [
+        {
+          "korean": "기억해요",
+          "english": "I remember",
+          "role": "verb"
+        },
+        {
+          "korean": "기다려요",
+          "english": "I wait",
+          "role": "verb"
+        },
+        {
+          "korean": "그대",
+          "english": "you (poetic)",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "함께 할 수 없는 그 순간에도",
+      "english": "Even in the moments we can't be together",
+      "words": [
+        {
+          "korean": "함께 할 수 없는",
+          "english": "can't be together",
+          "role": "verb"
+        },
+        {
+          "korean": "그 순간에도",
+          "english": "even in those moments",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없다",
+        "meaning": "cannot do, unable to",
+        "note": "할 수 없는 modifies 순간: 'moments [that we] cannot be together'"
+      }
+    },
+    {
+      "korean": "나는 그대를 생각할거에요",
+      "english": "I'll be thinking of you",
+      "words": [
+        {
+          "korean": "나는",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그대를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "생각할거에요",
+          "english": "will think of",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 거예요",
+        "meaning": "will do, going to",
+        "note": "생각할거에요 expresses future intention: 'I will think of [you]'"
+      }
+    },
+    {
+      "korean": "수 많았던 사람중에 우리가 만난 이유가 있을거에요",
+      "english": "Out of all the countless people, there must be a reason we met",
+      "words": [
+        {
+          "korean": "수 많았던 사람중에",
+          "english": "among countless people",
+          "role": "noun"
+        },
+        {
+          "korean": "우리가",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "만난 이유가",
+          "english": "the reason [we] met",
+          "role": "noun"
+        },
+        {
+          "korean": "있을거에요",
+          "english": "there must be",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "사람이 사랑을 기다리는일이 얼마나 아픈지 그대는 모르나요",
+      "english": "Don't you know how painful it is for a person to wait for love?",
+      "words": [
+        {
+          "korean": "사랑을 기다리는일이",
+          "english": "the act of waiting for love",
+          "role": "noun"
+        },
+        {
+          "korean": "얼마나 아픈지",
+          "english": "how painful it is",
+          "role": "expression"
+        },
+        {
+          "korean": "그대는",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "모르나요",
+          "english": "don't you know?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "얼마나 -는지",
+        "meaning": "how [adjective/verb]",
+        "note": "얼마나 아픈지 expresses degree: 'how painful it is'"
+      }
+    },
+    {
+      "korean": "시간이 가도 난 그대니까요",
+      "english": "Even as time passes, it's because it's you",
+      "words": [
+        {
+          "korean": "시간이 가도",
+          "english": "even as time passes",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그대니까요",
+          "english": "because it's you",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "아무래도 돌아서는 건 아냐",
+      "english": "There's no way I'm turning away",
+      "words": [
+        {
+          "korean": "아무래도",
+          "english": "no matter what, anyway",
+          "role": "adverb"
+        },
+        {
+          "korean": "돌아서는 건",
+          "english": "turning away",
+          "role": "verb"
+        },
+        {
+          "korean": "아냐",
+          "english": "is not",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 건 아니다",
+        "meaning": "it's not that [verb]",
+        "note": "돌아서는 건 아냐 negates the action: 'it's not that I'm turning away'"
+      }
+    },
+    {
+      "korean": "내 손을 놓지 말아요",
+      "english": "Don't let go of my hand",
+      "words": [
+        {
+          "korean": "내 손을",
+          "english": "my hand",
+          "role": "noun"
+        },
+        {
+          "korean": "놓지 말아요",
+          "english": "don't let go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말아요",
+        "meaning": "please don't [verb]",
+        "note": "놓지 말아요 is a polite negative command: 'please don't let go'"
+      }
+    },
+    {
+      "korean": "슬프게 말아요 떠나지 말아요",
+      "english": "Don't be sad, don't leave",
+      "words": [
+        {
+          "korean": "슬프게 말아요",
+          "english": "don't be sad",
+          "role": "verb"
+        },
+        {
+          "korean": "떠나지 말아요",
+          "english": "don't leave",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

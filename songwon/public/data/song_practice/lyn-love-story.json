@@ -1,0 +1,380 @@
+{
+  "songId": "lyn-love-story",
+  "lines": [
+    {
+      "korean": "언제나 같은 꿈에 낯선 얼굴을 하고",
+      "english": "Always in the same dream, wearing an unfamiliar face",
+      "words": [
+        {
+          "korean": "언제나",
+          "english": "always",
+          "role": "adverb"
+        },
+        {
+          "korean": "같은 꿈에",
+          "english": "in the same dream",
+          "role": "noun"
+        },
+        {
+          "korean": "낯선",
+          "english": "unfamiliar, strange",
+          "role": "adjective"
+        },
+        {
+          "korean": "얼굴을 하고",
+          "english": "wearing a face",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "멈춰진 시간 속에 너와 마주쳤던 나",
+      "english": "I ran into you in time that had stopped",
+      "words": [
+        {
+          "korean": "멈춰진",
+          "english": "stopped, frozen",
+          "role": "adjective"
+        },
+        {
+          "korean": "시간 속에",
+          "english": "in time, within time",
+          "role": "noun"
+        },
+        {
+          "korean": "너와",
+          "english": "with you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "마주쳤던",
+          "english": "ran into, encountered",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "조금 두려웠나봐",
+      "english": "I guess I was a little scared",
+      "words": [
+        {
+          "korean": "조금",
+          "english": "a little, slightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "두려웠나봐",
+          "english": "I guess I was scared",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-나 봐",
+        "meaning": "I guess, it seems that",
+        "note": "Expresses a soft realization about one's own past state, as if observing yourself from outside — sounds more vulnerable than stating it directly."
+      }
+    },
+    {
+      "korean": "영원히 꿈일까봐",
+      "english": "Afraid it would be a dream forever",
+      "words": [
+        {
+          "korean": "영원히",
+          "english": "forever, eternally",
+          "role": "adverb"
+        },
+        {
+          "korean": "꿈일까봐",
+          "english": "afraid it might be a dream",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ까봐",
+        "meaning": "afraid that, worried that",
+        "note": "Expresses concern or fear about a possibility — here, the fear that this love is just a dream."
+      }
+    },
+    {
+      "korean": "이젠 눈을 뜨도 너야",
+      "english": "Now even when I open my eyes, it's you",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now, at this point",
+          "role": "adverb"
+        },
+        {
+          "korean": "눈을 뜨도",
+          "english": "even when I open my eyes",
+          "role": "verb"
+        },
+        {
+          "korean": "너야",
+          "english": "it's you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if, even though",
+        "note": "Shows that something is true regardless of the condition — she sees him even when awake, not just in dreams."
+      }
+    },
+    {
+      "korean": "감출 수가 없는 너만 보는 두 눈을",
+      "english": "Eyes that only look at you, eyes I can't hide",
+      "words": [
+        {
+          "korean": "감출 수가 없는",
+          "english": "can't hide",
+          "role": "expression"
+        },
+        {
+          "korean": "너만",
+          "english": "only you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보는",
+          "english": "looking at",
+          "role": "verb"
+        },
+        {
+          "korean": "두 눈을",
+          "english": "two eyes",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 수가 없는",
+        "meaning": "cannot, unable to",
+        "note": "Expresses impossibility — her eyes reveal her feelings and she has no control over it."
+      }
+    },
+    {
+      "korean": "감을 수가 없는 난",
+      "english": "I can't close them",
+      "words": [
+        {
+          "korean": "감을 수가 없는",
+          "english": "can't close",
+          "role": "expression"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "세상 모든 것을 나에게 모두 준다 해도",
+      "english": "Even if I were given everything in the world",
+      "words": [
+        {
+          "korean": "세상 모든 것을",
+          "english": "everything in the world",
+          "role": "noun"
+        },
+        {
+          "korean": "나에게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "모두",
+          "english": "all, everything",
+          "role": "adverb"
+        },
+        {
+          "korean": "준다 해도",
+          "english": "even if given",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ/는다 해도",
+        "meaning": "even if",
+        "note": "Creates the biggest possible hypothetical to emphasize rejection — nothing in the world could replace this love."
+      }
+    },
+    {
+      "korean": "너와 바꿀 수 없어 내 사랑을",
+      "english": "I couldn't trade my love for you",
+      "words": [
+        {
+          "korean": "너와",
+          "english": "for you, with you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "바꿀 수 없어",
+          "english": "can't trade, can't exchange",
+          "role": "verb"
+        },
+        {
+          "korean": "내 사랑을",
+          "english": "my love",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "언젠가 단 한 번쯤 나에게 와줄 거라고",
+      "english": "That someday, just once, they would come to me",
+      "words": [
+        {
+          "korean": "언젠가",
+          "english": "someday",
+          "role": "adverb"
+        },
+        {
+          "korean": "단 한 번쯤",
+          "english": "just once, at least once",
+          "role": "expression"
+        },
+        {
+          "korean": "나에게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "와줄 거라고",
+          "english": "that they would come",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 거라고",
+        "meaning": "that [someone] would",
+        "note": "Reported or quoted future intention — rehearsing a long-held private belief rather than making a direct statement."
+      }
+    },
+    {
+      "korean": "그 사람 그 사랑을 난 꼭 찾을 거라고",
+      "english": "I would definitely find that person, that love",
+      "words": [
+        {
+          "korean": "그 사람",
+          "english": "that person",
+          "role": "noun"
+        },
+        {
+          "korean": "그 사랑을",
+          "english": "that love",
+          "role": "noun"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "꼭",
+          "english": "definitely, certainly",
+          "role": "adverb"
+        },
+        {
+          "korean": "찾을 거라고",
+          "english": "that I would find",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "많이 아프겠지만 다시 나에게 물어도",
+      "english": "It'll probably hurt a lot, but even if you ask me again",
+      "words": [
+        {
+          "korean": "많이",
+          "english": "a lot, much",
+          "role": "adverb"
+        },
+        {
+          "korean": "아프겠지만",
+          "english": "it will hurt, but",
+          "role": "verb"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "나에게 물어도",
+          "english": "even if you ask me",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠지만",
+        "meaning": "probably will, but",
+        "note": "Combines future conjecture (-겠-) with contrast (-지만) — acknowledging future pain while asserting commitment anyway."
+      }
+    },
+    {
+      "korean": "정말 사랑이잖아",
+      "english": "This really is love",
+      "words": [
+        {
+          "korean": "정말",
+          "english": "really, truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "사랑이잖아",
+          "english": "it's love, you know",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아",
+        "meaning": "you know, isn't it",
+        "note": "Appeals to shared knowledge or obvious truth — asserting with gentle insistence that this is undeniably love."
+      }
+    },
+    {
+      "korean": "너의 가슴 속에서 깊이 잠들고 싶어",
+      "english": "I want to fall deeply asleep inside your heart",
+      "words": [
+        {
+          "korean": "너의 가슴 속에서",
+          "english": "inside your heart",
+          "role": "noun"
+        },
+        {
+          "korean": "깊이",
+          "english": "deeply",
+          "role": "adverb"
+        },
+        {
+          "korean": "잠들고 싶어",
+          "english": "want to fall asleep",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "혹시 꿈 속일까봐 눈을 뜰 수가 없어",
+      "english": "Afraid it might be a dream, I can't open my eyes",
+      "words": [
+        {
+          "korean": "혹시",
+          "english": "perhaps, by any chance",
+          "role": "adverb"
+        },
+        {
+          "korean": "꿈 속일까봐",
+          "english": "afraid it's inside a dream",
+          "role": "expression"
+        },
+        {
+          "korean": "눈을 뜰 수가 없어",
+          "english": "can't open my eyes",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

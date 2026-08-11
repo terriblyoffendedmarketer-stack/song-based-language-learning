@@ -1,0 +1,280 @@
+{
+  "songId": "park-boram-hyehwadong-or-sangmundong",
+  "lines": [
+    {
+      "korean": "오늘은 잊고 지내던 친구에게서 전화가 왔네",
+      "english": "Today I got a call from a friend I'd forgotten about",
+      "words": [
+        {
+          "korean": "잊고 지내던",
+          "english": "had been forgetting / living without thinking of",
+          "role": "verb"
+        },
+        {
+          "korean": "친구에게서",
+          "english": "from a friend",
+          "role": "noun"
+        },
+        {
+          "korean": "전화가 왔네",
+          "english": "a call came",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "retrospective modifier marking a past ongoing state",
+        "note": "지내던 describes the continuous state of 'living while forgetting' that the speaker remembers from experience"
+      }
+    },
+    {
+      "korean": "내일이면 멀리 떠나간다고",
+      "english": "Because tomorrow they're leaving far away",
+      "words": [
+        {
+          "korean": "내일이면",
+          "english": "by tomorrow / come tomorrow",
+          "role": "expression"
+        },
+        {
+          "korean": "멀리",
+          "english": "far away",
+          "role": "adverb"
+        },
+        {
+          "korean": "떠나간다고",
+          "english": "they say they're leaving",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다고",
+        "meaning": "indirect quotation indicating stated reason",
+        "note": "Reports the friend's reason for calling without directly quoting them"
+      }
+    },
+    {
+      "korean": "어릴 적 함께 뛰놀던 골목길에서 만나자 하네",
+      "english": "They said let's meet in the alley where we used to run and play as kids",
+      "words": [
+        {
+          "korean": "어릴 적",
+          "english": "when we were young / childhood",
+          "role": "noun"
+        },
+        {
+          "korean": "함께",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "뛰놀던",
+          "english": "used to run and play",
+          "role": "verb"
+        },
+        {
+          "korean": "골목길에서",
+          "english": "in the alley",
+          "role": "noun"
+        },
+        {
+          "korean": "만나자 하네",
+          "english": "they say let's meet",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-네",
+        "meaning": "narrative/realization ending",
+        "note": "Gives the song a storytelling quality, as if the speaker is recounting events as they unfold with mild surprise"
+      }
+    },
+    {
+      "korean": "내일이면 아주 멀리 간다고",
+      "english": "Because tomorrow they're going very far away",
+      "words": [
+        {
+          "korean": "내일이면",
+          "english": "by tomorrow / come tomorrow",
+          "role": "expression"
+        },
+        {
+          "korean": "아주 멀리",
+          "english": "very far",
+          "role": "adverb"
+        },
+        {
+          "korean": "간다고",
+          "english": "they say they're going",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "덜컹거리는 전철을 타고 찾아가는 그 길",
+      "english": "Riding the rattling subway train, going down that road",
+      "words": [
+        {
+          "korean": "덜컹거리는",
+          "english": "rattling / clattering",
+          "role": "verb"
+        },
+        {
+          "korean": "전철을 타고",
+          "english": "riding the subway",
+          "role": "verb"
+        },
+        {
+          "korean": "찾아가는",
+          "english": "going to find / visiting",
+          "role": "verb"
+        },
+        {
+          "korean": "그 길",
+          "english": "that road",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "우리는 얼마나 많은 것을 잊고 살아가는지",
+      "english": "How much we forget while we live our lives",
+      "words": [
+        {
+          "korean": "우리는",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "얼마나 많은 것을",
+          "english": "how many things",
+          "role": "expression"
+        },
+        {
+          "korean": "잊고 살아가는지",
+          "english": "forget while living",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고",
+        "meaning": "indicates doing one action while/and doing another",
+        "note": "잊고 살아가는 means 'living while forgetting' — the forgetting happens as part of the process of living"
+      }
+    },
+    {
+      "korean": "어릴 적 넓게만 보이던 좁은 골목길에",
+      "english": "In the narrow alley that once looked so wide as a kid",
+      "words": [
+        {
+          "korean": "어릴 적",
+          "english": "when young / as a kid",
+          "role": "noun"
+        },
+        {
+          "korean": "넓게만 보이던",
+          "english": "used to look only wide",
+          "role": "verb"
+        },
+        {
+          "korean": "좁은",
+          "english": "narrow",
+          "role": "adjective"
+        },
+        {
+          "korean": "골목길에",
+          "english": "in the alley",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "retrospective modifier for remembered past state",
+        "note": "보이던 contrasts how the alley appeared in childhood memory versus its actual narrowness now"
+      }
+    },
+    {
+      "korean": "다정한 옛 친구 나를 반겨 달려오는데",
+      "english": "My warm old friend comes running to greet me",
+      "words": [
+        {
+          "korean": "다정한",
+          "english": "warm / affectionate",
+          "role": "adjective"
+        },
+        {
+          "korean": "옛 친구",
+          "english": "old friend",
+          "role": "noun"
+        },
+        {
+          "korean": "나를 반겨",
+          "english": "welcoming me / greeting me",
+          "role": "verb"
+        },
+        {
+          "korean": "달려오는데",
+          "english": "comes running",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어릴 적 함께 꿈꾸던 부푼 세상을 만나자 하네",
+      "english": "They say let's meet the swelled-up world we dreamed of together as kids",
+      "words": [
+        {
+          "korean": "어릴 적",
+          "english": "when we were young",
+          "role": "noun"
+        },
+        {
+          "korean": "함께 꿈꾸던",
+          "english": "used to dream of together",
+          "role": "verb"
+        },
+        {
+          "korean": "부푼 세상을",
+          "english": "the swelled-up world / the big world",
+          "role": "noun"
+        },
+        {
+          "korean": "만나자 하네",
+          "english": "they say let's meet",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "언젠간 돌아오는 날 활짝 웃으며 만나자 하네",
+      "english": "They say let's meet again someday when I return, smiling wide",
+      "words": [
+        {
+          "korean": "언젠간",
+          "english": "someday",
+          "role": "adverb"
+        },
+        {
+          "korean": "돌아오는 날",
+          "english": "the day I return",
+          "role": "noun"
+        },
+        {
+          "korean": "활짝 웃으며",
+          "english": "smiling wide",
+          "role": "verb"
+        },
+        {
+          "korean": "만나자 하네",
+          "english": "they say let's meet",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-으며",
+        "meaning": "while doing / and (formal)",
+        "note": "웃으며 means 'while smiling' — describes the manner in which they'll meet"
+      }
+    }
+  ]
+}

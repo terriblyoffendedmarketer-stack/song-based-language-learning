@@ -1,0 +1,415 @@
+{
+  "songId": "bts-save-me",
+  "lines": [
+    {
+      "korean": "난 숨쉬고 싶어, 이 밤이 싫어",
+      "english": "I want to breathe, I hate this night",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "숨쉬고 싶어",
+          "english": "want to breathe",
+          "role": "verb"
+        },
+        {
+          "korean": "이 밤이",
+          "english": "this night",
+          "role": "noun"
+        },
+        {
+          "korean": "싫어",
+          "english": "hate",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 싶어",
+        "meaning": "want to do ~",
+        "note": "Expresses desire; attached to verb stem (숨쉬다 → 숨쉬고 싶어)"
+      }
+    },
+    {
+      "korean": "이젠 깨고 싶어, 꿈속이 싫어",
+      "english": "I want to wake up now, I hate being in this dream",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "깨고 싶어",
+          "english": "want to wake up",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈속이",
+          "english": "inside a dream",
+          "role": "noun"
+        },
+        {
+          "korean": "싫어",
+          "english": "hate",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 싶어",
+        "meaning": "want to do ~",
+        "note": "Same pattern as previous line, creating parallel structure to express urgent desires"
+      }
+    },
+    {
+      "korean": "내 안에 갇혀서 난 죽어 있어",
+      "english": "Trapped inside myself, I'm already dead",
+      "words": [
+        {
+          "korean": "내 안에",
+          "english": "inside me",
+          "role": "noun"
+        },
+        {
+          "korean": "갇혀서",
+          "english": "trapped",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "죽어 있어",
+          "english": "am dead",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 있어",
+        "meaning": "to be in a state of ~",
+        "note": "Shows a continuing state resulting from an action (죽다 → 죽어 있어 = is dead/has died and remains so)"
+      }
+    },
+    {
+      "korean": "왜 이리 깜깜한 건지?",
+      "english": "Why is it so dark?",
+      "words": [
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "이리",
+          "english": "so much, this much",
+          "role": "adverb"
+        },
+        {
+          "korean": "깜깜한",
+          "english": "pitch-black, dark",
+          "role": "adjective"
+        },
+        {
+          "korean": "건지",
+          "english": "is it that",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 건지",
+        "meaning": "whether/why it is that ~",
+        "note": "Expresses wondering or questioning (깜깜하다 → 깜깜한 건지 = whether/why it is dark)"
+      }
+    },
+    {
+      "korean": "구해줘 날, 나도 날 잡을 수 없어",
+      "english": "Save me, I can't even hold on to myself",
+      "words": [
+        {
+          "korean": "구해줘",
+          "english": "save (me)",
+          "role": "verb"
+        },
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나도",
+          "english": "even I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잡을 수 없어",
+          "english": "can't hold on to",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없어",
+        "meaning": "cannot do ~",
+        "note": "Expresses inability or impossibility (잡다 → 잡을 수 없어 = cannot hold)"
+      }
+    },
+    {
+      "korean": "내 심장소릴 들어봐",
+      "english": "Listen to the sound of my heartbeat",
+      "words": [
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "심장소릴",
+          "english": "heartbeat sound",
+          "role": "noun"
+        },
+        {
+          "korean": "들어봐",
+          "english": "listen, try listening",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 봐",
+        "meaning": "try doing ~",
+        "note": "Suggests trying something or commands someone to do something (듣다 → 들어봐 = listen/try listening)"
+      }
+    },
+    {
+      "korean": "제멋대로 널 부르잖아",
+      "english": "It's calling out for you on its own",
+      "words": [
+        {
+          "korean": "제멋대로",
+          "english": "on its own, willfully",
+          "role": "adverb"
+        },
+        {
+          "korean": "널",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "부르잖아",
+          "english": "is calling, you know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아",
+        "meaning": "you know, as you can see",
+        "note": "States something the listener should already know or can observe (부르다 → 부르잖아 = is calling, as you can see)"
+      }
+    },
+    {
+      "korean": "이 까만 어둠 속에서",
+      "english": "In this pitch-black darkness",
+      "words": [
+        {
+          "korean": "이",
+          "english": "this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "까만",
+          "english": "pitch-black",
+          "role": "adjective"
+        },
+        {
+          "korean": "어둠",
+          "english": "darkness",
+          "role": "noun"
+        },
+        {
+          "korean": "속에서",
+          "english": "inside, within",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "너는 이렇게 빛나니까",
+      "english": "Because you shine like this",
+      "words": [
+        {
+          "korean": "너는",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이렇게",
+          "english": "like this, this much",
+          "role": "adverb"
+        },
+        {
+          "korean": "빛나니까",
+          "english": "because (you) shine",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)니까",
+        "meaning": "because ~",
+        "note": "Gives a reason or cause for something (빛나다 → 빛나니까 = because you shine)"
+      }
+    },
+    {
+      "korean": "그 손을 내밀어줘, save me",
+      "english": "Reach out that hand, save me",
+      "words": [
+        {
+          "korean": "그 손을",
+          "english": "that hand",
+          "role": "noun"
+        },
+        {
+          "korean": "내밀어줘",
+          "english": "reach out, extend",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줘",
+        "meaning": "please do ~ (for me)",
+        "note": "Requests someone to do something for the speaker's benefit (내밀다 → 내밀어줘 = reach out for me)"
+      }
+    },
+    {
+      "korean": "오늘따라 달이 빛나",
+      "english": "Tonight especially, the moon is shining",
+      "words": [
+        {
+          "korean": "오늘따라",
+          "english": "especially today, more so today",
+          "role": "adverb"
+        },
+        {
+          "korean": "달이",
+          "english": "the moon",
+          "role": "noun"
+        },
+        {
+          "korean": "빛나",
+          "english": "shines",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "날 삼켜버린 이 lunatic",
+      "english": "This lunacy that swallowed me whole",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "삼켜버린",
+          "english": "swallowed up",
+          "role": "verb"
+        },
+        {
+          "korean": "이",
+          "english": "this",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to do ~ completely, to finish doing ~",
+        "note": "Emphasizes completion or finality, often with regret (삼키다 → 삼켜버린 = swallowed up completely)"
+      }
+    },
+    {
+      "korean": "너란 구원이 내 삶의 일부며",
+      "english": "You, as my salvation, are part of my life",
+      "words": [
+        {
+          "korean": "너란",
+          "english": "called you, that is you",
+          "role": "expression"
+        },
+        {
+          "korean": "구원이",
+          "english": "salvation",
+          "role": "noun"
+        },
+        {
+          "korean": "내 삶의",
+          "english": "of my life",
+          "role": "noun"
+        },
+        {
+          "korean": "일부며",
+          "english": "are a part",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "나 다시 웃을 수 있도록",
+      "english": "So that I can smile again",
+      "words": [
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃을 수 있도록",
+          "english": "so that (I) can smile",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있도록",
+        "meaning": "so that (one) can do ~",
+        "note": "Expresses purpose or desired result (웃다 → 웃을 수 있도록 = so that I can smile)"
+      }
+    },
+    {
+      "korean": "고마워, 내가 나이게 해줘서",
+      "english": "Thank you for letting me be myself",
+      "words": [
+        {
+          "korean": "고마워",
+          "english": "thank you",
+          "role": "expression"
+        },
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나이게",
+          "english": "be myself",
+          "role": "verb"
+        },
+        {
+          "korean": "해줘서",
+          "english": "for letting (me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 해줘서",
+        "meaning": "for letting/making (someone) do ~",
+        "note": "Expresses gratitude for enabling an action (나이다 → 나이게 해줘서 = for letting me be me)"
+      }
+    }
+  ]
+}

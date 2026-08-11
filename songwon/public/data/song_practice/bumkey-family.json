@@ -1,0 +1,322 @@
+{
+  "songId": "bumkey-family",
+  "lines": [
+    {
+      "korean": "잠시 눈을 감아봐요",
+      "english": "Close your eyes for a moment",
+      "words": [
+        {
+          "korean": "잠시",
+          "english": "for a moment",
+          "role": "adverb"
+        },
+        {
+          "korean": "눈을",
+          "english": "eyes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "감아봐요",
+          "english": "try closing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 봐요",
+        "meaning": "try doing ~, do ~ and see",
+        "note": "감다 (to close) + -아 봐요 suggests gently trying an action, here inviting the listener to close their eyes"
+      }
+    },
+    {
+      "korean": "함께 지난 날들이 보이죠",
+      "english": "You can see the days we spent together",
+      "words": [
+        {
+          "korean": "함께",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "지난 날들이",
+          "english": "past days (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "보이죠",
+          "english": "can be seen, are visible",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우리 참 많이도 울고 웃었네요",
+      "english": "We really did cry and laugh so much",
+      "words": [
+        {
+          "korean": "우리",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "참 많이도",
+          "english": "really so much",
+          "role": "adverb"
+        },
+        {
+          "korean": "울고 웃었네요",
+          "english": "cried and laughed",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-네요",
+        "meaning": "expression of realization or gentle observation",
+        "note": "Used here to express a reflective realization about the past, softening the statement with nostalgia"
+      }
+    },
+    {
+      "korean": "사랑이란 이름으로",
+      "english": "Under the name of love",
+      "words": [
+        {
+          "korean": "사랑이란",
+          "english": "called love, that is love",
+          "role": "noun"
+        },
+        {
+          "korean": "이름으로",
+          "english": "by/under the name",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)란",
+        "meaning": "called ~, that is ~",
+        "note": "Defines or names something; here 사랑이란 이름 = 'the name called love' — a formal, poetic way to frame the relationship"
+      }
+    },
+    {
+      "korean": "말하지 않아도 날 이해해줘서",
+      "english": "For understanding me without needing words",
+      "words": [
+        {
+          "korean": "말하지 않아도",
+          "english": "even without speaking",
+          "role": "verb"
+        },
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이해해줘서",
+          "english": "for understanding (for me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않아도",
+        "meaning": "even without doing ~, even if ~ doesn't happen",
+        "note": "Expresses that understanding happens despite the absence of words, emphasizing wordless connection"
+      }
+    },
+    {
+      "korean": "나의 모진말 속에도 곁에 있어줘서 고마워요",
+      "english": "Thank you for staying beside me even through my harsh words",
+      "words": [
+        {
+          "korean": "나의 모진말",
+          "english": "my harsh words",
+          "role": "noun"
+        },
+        {
+          "korean": "속에도",
+          "english": "even within, even during",
+          "role": "particle"
+        },
+        {
+          "korean": "곁에 있어줘서",
+          "english": "for staying beside (me)",
+          "role": "verb"
+        },
+        {
+          "korean": "고마워요",
+          "english": "thank you",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줘서",
+        "meaning": "for doing ~ (for me/someone)",
+        "note": "Expresses gratitude for an action done for the speaker's benefit; 있어줘서 = 'for being there (for me)'"
+      }
+    },
+    {
+      "korean": "그대 주윌 둘러봐요",
+      "english": "Look around you for a moment",
+      "words": [
+        {
+          "korean": "그대",
+          "english": "you (poetic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "주윌",
+          "english": "surroundings (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "둘러봐요",
+          "english": "look around",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "가족이란 이름 속에",
+      "english": "Within the name we call family",
+      "words": [
+        {
+          "korean": "가족이란",
+          "english": "called family, that is family",
+          "role": "noun"
+        },
+        {
+          "korean": "이름",
+          "english": "name",
+          "role": "noun"
+        },
+        {
+          "korean": "속에",
+          "english": "within, inside",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)란",
+        "meaning": "called ~, that is ~",
+        "note": "Mirrors the earlier 사랑이란 이름으로 — the central shift from 'love' to 'family' as the defining frame"
+      }
+    },
+    {
+      "korean": "나의 모진말 속에도 아무말 없이 안아준 그대",
+      "english": "You, who held me without a word even through my harsh words",
+      "words": [
+        {
+          "korean": "나의 모진말 속에도",
+          "english": "even within my harsh words",
+          "role": "noun"
+        },
+        {
+          "korean": "아무말 없이",
+          "english": "without any words",
+          "role": "adverb"
+        },
+        {
+          "korean": "안아준",
+          "english": "held, embraced (for me)",
+          "role": "verb"
+        },
+        {
+          "korean": "그대",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "이제는 그대를 내가 지켜줄게",
+      "english": "Now I'll be the one who protects you",
+      "words": [
+        {
+          "korean": "이제는",
+          "english": "now, from now on",
+          "role": "adverb"
+        },
+        {
+          "korean": "그대를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "지켜줄게",
+          "english": "will protect (for you)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줄게",
+        "meaning": "I will do ~ (for you)",
+        "note": "A promise to do something for someone's benefit; shifts the song from gratitude to commitment"
+      }
+    },
+    {
+      "korean": "언젠가 그대가 준 사랑 알수 있겠죠",
+      "english": "Someday I'll be able to understand the love you gave me",
+      "words": [
+        {
+          "korean": "언젠가",
+          "english": "someday",
+          "role": "adverb"
+        },
+        {
+          "korean": "그대가 준",
+          "english": "that you gave",
+          "role": "verb"
+        },
+        {
+          "korean": "사랑",
+          "english": "love",
+          "role": "noun"
+        },
+        {
+          "korean": "알수 있겠죠",
+          "english": "will be able to understand",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있겠죠",
+        "meaning": "will probably be able to ~",
+        "note": "Combines ability (-ㄹ 수 있다) with future conjecture (-겠-) and gentle assertion (-죠)"
+      }
+    },
+    {
+      "korean": "모두 등 돌려도 그댄 내 편이겠죠",
+      "english": "Even if everyone turns their back, you'll be on my side",
+      "words": [
+        {
+          "korean": "모두",
+          "english": "everyone",
+          "role": "pronoun"
+        },
+        {
+          "korean": "등 돌려도",
+          "english": "even if (they) turn their back",
+          "role": "verb"
+        },
+        {
+          "korean": "그댄",
+          "english": "you (contraction)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내 편이겠죠",
+          "english": "will be on my side",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if ~, even though ~",
+        "note": "Expresses that something remains true regardless of a contrary condition; emphasizes unconditional loyalty"
+      }
+    }
+  ]
+}

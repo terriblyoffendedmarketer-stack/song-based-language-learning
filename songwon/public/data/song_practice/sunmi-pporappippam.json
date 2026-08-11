@@ -1,0 +1,380 @@
+{
+  "songId": "sunmi-pporappippam",
+  "lines": [
+    {
+      "korean": "내게 뭘 원하냬",
+      "english": "He asks what I want from him",
+      "words": [
+        {
+          "korean": "내게",
+          "english": "from me / to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "뭘",
+          "english": "what (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "원하냬",
+          "english": "asking what [I] want",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-냬",
+        "meaning": "casual reported speech for questions",
+        "note": "Combines -냐고 해 into one syllable, used to relay someone else's question in casual speech"
+      }
+    },
+    {
+      "korean": "하늘에 별도 따주겠대",
+      "english": "Says he'll pluck me a star from the sky",
+      "words": [
+        {
+          "korean": "하늘에",
+          "english": "in the sky / from the sky",
+          "role": "noun"
+        },
+        {
+          "korean": "별도",
+          "english": "even a star",
+          "role": "noun"
+        },
+        {
+          "korean": "따주겠대",
+          "english": "says he'll pluck for me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠대",
+        "meaning": "casual reported speech expressing intention",
+        "note": "Combines -겠다고 해 to relay someone's promise or intention casually"
+      }
+    },
+    {
+      "korean": "다른 건 안 바래",
+      "english": "I don't want anything else",
+      "words": [
+        {
+          "korean": "다른 건",
+          "english": "other things",
+          "role": "noun"
+        },
+        {
+          "korean": "안",
+          "english": "not",
+          "role": "adverb"
+        },
+        {
+          "korean": "바래",
+          "english": "want / wish for",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이 밤만 원하네",
+      "english": "I only want this night",
+      "words": [
+        {
+          "korean": "이 밤만",
+          "english": "only this night",
+          "role": "noun"
+        },
+        {
+          "korean": "원하네",
+          "english": "want / desire",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-네",
+        "meaning": "expresses realization or observation",
+        "note": "Used here to express the speaker's own realization about what she truly wants"
+      }
+    },
+    {
+      "korean": "그대 손 잡고 안 놔줄래",
+      "english": "Hold your hand and not let go",
+      "words": [
+        {
+          "korean": "그대 손",
+          "english": "your hand",
+          "role": "noun"
+        },
+        {
+          "korean": "잡고",
+          "english": "hold and",
+          "role": "verb"
+        },
+        {
+          "korean": "안 놓아줄래",
+          "english": "won't let go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고",
+        "meaning": "connects two actions sequentially",
+        "note": "Links 'holding' and 'not letting go' as continuous connected actions"
+      }
+    },
+    {
+      "korean": "보라빛 밤 I like it like it",
+      "english": "Purple night, I like it like it",
+      "words": [
+        {
+          "korean": "보라빛",
+          "english": "purple-colored / purple hue",
+          "role": "adjective"
+        },
+        {
+          "korean": "밤",
+          "english": "night",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "더 같이 있자 아직 이르잖아",
+      "english": "Let's stay together longer, it's still early",
+      "words": [
+        {
+          "korean": "더",
+          "english": "more / longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "같이 있자",
+          "english": "let's be together",
+          "role": "verb"
+        },
+        {
+          "korean": "아직",
+          "english": "still / yet",
+          "role": "adverb"
+        },
+        {
+          "korean": "이르잖아",
+          "english": "it's early, you know",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아",
+        "meaning": "you know / isn't it",
+        "note": "Appeals to shared knowledge or obvious fact — 'it's still early, as you can see'"
+      }
+    },
+    {
+      "korean": "날 하늘 위로 터트려 볼래",
+      "english": "Want to burst me open up into the sky",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "하늘 위로",
+          "english": "up into the sky",
+          "role": "noun"
+        },
+        {
+          "korean": "터트려 볼래",
+          "english": "want to burst open",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 볼래",
+        "meaning": "want to try doing",
+        "note": "Expresses desire to attempt an action, here used to suggest bursting into the sky together"
+      }
+    },
+    {
+      "korean": "눈 뜨면 다 사라져",
+      "english": "When I open my eyes, it all disappears",
+      "words": [
+        {
+          "korean": "눈 뜨면",
+          "english": "when [I] open eyes",
+          "role": "verb"
+        },
+        {
+          "korean": "다",
+          "english": "all / everything",
+          "role": "adverb"
+        },
+        {
+          "korean": "사라져",
+          "english": "disappears",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "when / if",
+        "note": "Sets up a conditional that creates the song's central tension — opening eyes causes everything to vanish"
+      }
+    },
+    {
+      "korean": "엉망이 돼도",
+      "english": "Even if it becomes a mess",
+      "words": [
+        {
+          "korean": "엉망이",
+          "english": "a mess / disaster",
+          "role": "noun"
+        },
+        {
+          "korean": "돼도",
+          "english": "even if it becomes",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if / although",
+        "note": "Expresses acceptance of negative consequences — willing to accept chaos"
+      }
+    },
+    {
+      "korean": "난 다시 또 이 밤을 기다릴게요",
+      "english": "I'll wait for this night again",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다시 또",
+          "english": "again and again",
+          "role": "adverb"
+        },
+        {
+          "korean": "이 밤을",
+          "english": "this night (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "기다릴게요",
+          "english": "will wait for",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "술은 입에도 안 댔는데 I'm tipsy",
+      "english": "I haven't even touched alcohol but I'm tipsy",
+      "words": [
+        {
+          "korean": "술은",
+          "english": "alcohol",
+          "role": "noun"
+        },
+        {
+          "korean": "입에도",
+          "english": "even to my mouth",
+          "role": "noun"
+        },
+        {
+          "korean": "안 댔는데",
+          "english": "haven't touched but",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는데",
+        "meaning": "but / however / and yet",
+        "note": "Contrasts two facts — not drinking alcohol yet feeling drunk, creating a paradox"
+      }
+    },
+    {
+      "korean": "나 조금 어지러운 것 같애",
+      "english": "I think I'm a little dizzy",
+      "words": [
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "조금",
+          "english": "a little",
+          "role": "adverb"
+        },
+        {
+          "korean": "어지러운",
+          "english": "dizzy",
+          "role": "adjective"
+        },
+        {
+          "korean": "것 같애",
+          "english": "I think / it seems",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 것 같다",
+        "meaning": "I think / it seems like",
+        "note": "Softens the statement, expressing uncertainty about her own state"
+      }
+    },
+    {
+      "korean": "지금 아님 언제? 참 답답하네",
+      "english": "If not now, when? This is so frustrating",
+      "words": [
+        {
+          "korean": "지금 아님",
+          "english": "if not now",
+          "role": "expression"
+        },
+        {
+          "korean": "언제",
+          "english": "when",
+          "role": "adverb"
+        },
+        {
+          "korean": "참",
+          "english": "really / truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "답답하네",
+          "english": "frustrating / stifling",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "꿈인가 싶다가도 니가 떠오르니까",
+      "english": "Even when I think it might be a dream, because you come to mind",
+      "words": [
+        {
+          "korean": "꿈인가 싶다가도",
+          "english": "even while thinking it's a dream",
+          "role": "expression"
+        },
+        {
+          "korean": "니가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "떠오르니까",
+          "english": "because [you] come to mind",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ가 싶다가도",
+        "meaning": "even while thinking it might be",
+        "note": "Captures wavering between doubt and certainty — momentary doubt immediately reversed"
+      }
+    }
+  ]
+}

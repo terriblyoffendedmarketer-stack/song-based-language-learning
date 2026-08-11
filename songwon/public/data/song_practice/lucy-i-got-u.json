@@ -1,0 +1,385 @@
+{
+  "songId": "lucy-i-got-u",
+  "lines": [
+    {
+      "korean": "수많은 사람들 속",
+      "english": "among so many people",
+      "words": [
+        {
+          "korean": "수많은",
+          "english": "countless, so many",
+          "role": "adjective"
+        },
+        {
+          "korean": "사람들",
+          "english": "people",
+          "role": "noun"
+        },
+        {
+          "korean": "속",
+          "english": "inside, among",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "우린 어디 숨어있다 이제 만났는지",
+      "english": "were we hiding somewhere until we finally met now?",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어디",
+          "english": "where, somewhere",
+          "role": "adverb"
+        },
+        {
+          "korean": "숨어있다",
+          "english": "were hiding",
+          "role": "verb"
+        },
+        {
+          "korean": "이제",
+          "english": "now, finally",
+          "role": "adverb"
+        },
+        {
+          "korean": "만났는지",
+          "english": "whether/if we met",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내 맘이 already over you",
+      "english": "my heart is already over you",
+      "words": [
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "맘이",
+          "english": "heart (subject)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "언제까지 숨길 수는 없는걸",
+      "english": "you can't hide forever",
+      "words": [
+        {
+          "korean": "언제까지",
+          "english": "until when, forever",
+          "role": "adverb"
+        },
+        {
+          "korean": "숨길",
+          "english": "to hide",
+          "role": "verb"
+        },
+        {
+          "korean": "수는 없는걸",
+          "english": "can't (you know)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없다",
+        "meaning": "cannot do ~",
+        "note": "Uses -(으)ㄹ 수 없다 to express impossibility, with 는걸 ending to make it a gentle assertion ('you know you can't')."
+      }
+    },
+    {
+      "korean": "내게 다가와 주면 돼",
+      "english": "you just need to come to me",
+      "words": [
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다가와 주면",
+          "english": "if you come (for me)",
+          "role": "verb"
+        },
+        {
+          "korean": "돼",
+          "english": "it's okay, it's enough",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주면 되다",
+        "meaning": "it's enough if ~, you just need to ~",
+        "note": "Combines -아/어 주다 (doing something for someone) with -면 되다 (it's enough if) to express a simple requirement."
+      }
+    },
+    {
+      "korean": "너를 잡을게",
+      "english": "I'll catch you",
+      "words": [
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잡을게",
+          "english": "I'll catch, I'll hold",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ게",
+        "meaning": "I will ~ (promise/commitment)",
+        "note": "Expresses a promise or commitment from the speaker to the listener, stronger than simple future tense."
+      }
+    },
+    {
+      "korean": "누가 먼저든 상관없잖아",
+      "english": "it doesn't matter who goes first",
+      "words": [
+        {
+          "korean": "누가",
+          "english": "who",
+          "role": "pronoun"
+        },
+        {
+          "korean": "먼저든",
+          "english": "whoever first, regardless of who's first",
+          "role": "adverb"
+        },
+        {
+          "korean": "상관없잖아",
+          "english": "doesn't matter (you know)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-든",
+        "meaning": "whether/regardless of which ~",
+        "note": "Attached to question words like 누가 to mean 'whoever' or 'no matter who', dismissing the question as unimportant."
+      }
+    },
+    {
+      "korean": "맘 가는 대로 어린애처럼",
+      "english": "following my heart like a child",
+      "words": [
+        {
+          "korean": "맘 가는 대로",
+          "english": "the way my heart goes, following my heart",
+          "role": "expression"
+        },
+        {
+          "korean": "어린애처럼",
+          "english": "like a child",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 대로",
+        "meaning": "according to the way ~, following ~",
+        "note": "Expresses doing something according to how something else unfolds; here, acting on pure instinct without overthinking."
+      }
+    },
+    {
+      "korean": "별다른 말없이도 웃어주는 너",
+      "english": "you, who smiles without saying much",
+      "words": [
+        {
+          "korean": "별다른",
+          "english": "particular, special, much",
+          "role": "adjective"
+        },
+        {
+          "korean": "말없이도",
+          "english": "even without words",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃어주는",
+          "english": "who smiles (for me)",
+          "role": "verb"
+        },
+        {
+          "korean": "너",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-없이도",
+        "meaning": "even without ~",
+        "note": "Combines -없이 (without) and -도 (even) to emphasize doing something despite the absence of something else."
+      }
+    },
+    {
+      "korean": "이대로면 우리 대화는 for 24 hours",
+      "english": "if we stay like this, our conversation could go on for 24 hours",
+      "words": [
+        {
+          "korean": "이대로면",
+          "english": "if we stay like this",
+          "role": "expression"
+        },
+        {
+          "korean": "우리",
+          "english": "our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "대화는",
+          "english": "conversation (topic)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "오늘 이 밤 내 인생 최고의 밤인진 몰라도",
+      "english": "I don't know if tonight is the best night of my life or not",
+      "words": [
+        {
+          "korean": "오늘 이 밤",
+          "english": "tonight, this night",
+          "role": "noun"
+        },
+        {
+          "korean": "내 인생",
+          "english": "my life",
+          "role": "noun"
+        },
+        {
+          "korean": "최고의 밤",
+          "english": "the best night",
+          "role": "noun"
+        },
+        {
+          "korean": "인진 몰라도",
+          "english": "I don't know if it is, but",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ지 모르다",
+        "meaning": "I don't know if/whether ~",
+        "note": "Uses -(으)ㄴ지 to embed a question ('whether it is') with 모르다, and 도 adds 'but/even so' concession."
+      }
+    },
+    {
+      "korean": "그대와 함께 한 이 순간 절대 잊지 못할 거야",
+      "english": "this moment together with you, I'll never be able to forget",
+      "words": [
+        {
+          "korean": "그대와",
+          "english": "with you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "함께 한",
+          "english": "together, spent together",
+          "role": "verb"
+        },
+        {
+          "korean": "이 순간",
+          "english": "this moment",
+          "role": "noun"
+        },
+        {
+          "korean": "절대",
+          "english": "absolutely, never",
+          "role": "adverb"
+        },
+        {
+          "korean": "잊지 못할 거야",
+          "english": "won't be able to forget",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 못하다",
+        "meaning": "cannot do ~, unable to ~",
+        "note": "Expresses inability; with 거야 it becomes future tense, meaning 'will not be able to'."
+      }
+    },
+    {
+      "korean": "두려워져 if you go away",
+      "english": "it scares me if you go away",
+      "words": [
+        {
+          "korean": "두려워져",
+          "english": "it becomes scary, I get scared",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지다",
+        "meaning": "to become ~",
+        "note": "Attached to descriptive verbs/adjectives to show a change in state; 두렵다 (scary) becomes 두려워지다 (become scared)."
+      }
+    },
+    {
+      "korean": "난 꿈이라 해도 괜찮아",
+      "english": "even if it's a dream, I don't mind",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "꿈이라 해도",
+          "english": "even if it's a dream",
+          "role": "expression"
+        },
+        {
+          "korean": "괜찮아",
+          "english": "it's okay, I don't mind",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도 괜찮다",
+        "meaning": "even if ~, it's fine",
+        "note": "Expresses acceptance of an unfavorable condition; 이라 해도 is the copula form for 'even if it is'."
+      }
+    },
+    {
+      "korean": "세상이 끝나도 너와 나는 같이 놀 수 있을 거야",
+      "english": "even if the world ends, you and I will be able to play together",
+      "words": [
+        {
+          "korean": "세상이 끝나도",
+          "english": "even if the world ends",
+          "role": "expression"
+        },
+        {
+          "korean": "너와 나는",
+          "english": "you and I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "같이",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "놀 수 있을 거야",
+          "english": "will be able to play",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if ~, even though ~",
+        "note": "Expresses concession; something remains true regardless of the condition stated."
+      }
+    }
+  ]
+}

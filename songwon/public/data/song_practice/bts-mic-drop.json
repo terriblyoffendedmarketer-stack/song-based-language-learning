@@ -1,0 +1,380 @@
+{
+  "songId": "bts-mic-drop",
+  "lines": [
+    {
+      "korean": "누가 내 수저 더럽대?",
+      "english": "Who says my spoon is dirty?",
+      "words": [
+        {
+          "korean": "누가",
+          "english": "who",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "수저",
+          "english": "spoon (metaphor for social class)",
+          "role": "noun"
+        },
+        {
+          "korean": "더럽대",
+          "english": "says (it's) dirty",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-대",
+        "meaning": "reported speech: (someone) says that ~",
+        "note": "Casual reported speech ending, showing the speaker is quoting what others say about them"
+      }
+    },
+    {
+      "korean": "마이크 잡음 금수저 여럿 패",
+      "english": "Once I grab the mic, I beat plenty of gold spoons",
+      "words": [
+        {
+          "korean": "마이크 잡음",
+          "english": "grab the mic",
+          "role": "verb"
+        },
+        {
+          "korean": "금수저",
+          "english": "gold spoon (wealthy-born person)",
+          "role": "noun"
+        },
+        {
+          "korean": "여럿",
+          "english": "many, plenty",
+          "role": "noun"
+        },
+        {
+          "korean": "패",
+          "english": "beat, defeat",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "미안해, Billboard, 미안해, worldwide",
+      "english": "Sorry Billboard, sorry worldwide",
+      "words": [
+        {
+          "korean": "미안해",
+          "english": "sorry (sarcastic)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "아들이 넘 잘나가서 미안해, 엄마",
+      "english": "Sorry mom, your son is doing too well",
+      "words": [
+        {
+          "korean": "아들이",
+          "english": "son (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "넘",
+          "english": "too (=너무)",
+          "role": "adverb"
+        },
+        {
+          "korean": "잘나가서",
+          "english": "doing well/succeeding",
+          "role": "verb"
+        },
+        {
+          "korean": "미안해",
+          "english": "sorry",
+          "role": "expression"
+        },
+        {
+          "korean": "엄마",
+          "english": "mom",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아서/어서",
+        "meaning": "because ~, so ~",
+        "note": "Shows cause and effect: doing well is the reason for the apology (which is ironic/sarcastic here)"
+      }
+    },
+    {
+      "korean": "트로피들로 백이 가득해",
+      "english": "My bag is full of trophies",
+      "words": [
+        {
+          "korean": "트로피들로",
+          "english": "with trophies",
+          "role": "noun"
+        },
+        {
+          "korean": "백이",
+          "english": "bag (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "가득해",
+          "english": "is full",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)로",
+        "meaning": "with, by means of",
+        "note": "Particle showing what fills the bag - the trophies are the filling material"
+      }
+    },
+    {
+      "korean": "Hater들은 벌써 학을 떼",
+      "english": "Haters already gave up",
+      "words": [
+        {
+          "korean": "Hater들은",
+          "english": "haters (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "벌써",
+          "english": "already",
+          "role": "adverb"
+        },
+        {
+          "korean": "학을 떼",
+          "english": "gave up (idiom: exhausted and quit)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "이미 황금빛, 황금빛 나의 성공",
+      "english": "Already golden, golden, my success",
+      "words": [
+        {
+          "korean": "이미",
+          "english": "already",
+          "role": "adverb"
+        },
+        {
+          "korean": "황금빛",
+          "english": "golden light/color",
+          "role": "noun"
+        },
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "성공",
+          "english": "success",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "내 손에 트로피, 아, 너무 많아",
+      "english": "Trophies in my hands, ah, too many",
+      "words": [
+        {
+          "korean": "내 손에",
+          "english": "in my hands",
+          "role": "noun"
+        },
+        {
+          "korean": "트로피",
+          "english": "trophy/trophies",
+          "role": "noun"
+        },
+        {
+          "korean": "너무",
+          "english": "too",
+          "role": "adverb"
+        },
+        {
+          "korean": "많아",
+          "english": "many, a lot",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "너무 heavy 내 두 손이 모잘라",
+      "english": "Too heavy, my two hands aren't enough",
+      "words": [
+        {
+          "korean": "너무",
+          "english": "too",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 두 손이",
+          "english": "my two hands (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "모잘라",
+          "english": "aren't enough",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "발, 발 조심, 너네 말, 말 조심",
+      "english": "Watch your step, watch your words",
+      "words": [
+        {
+          "korean": "발",
+          "english": "foot/step",
+          "role": "noun"
+        },
+        {
+          "korean": "조심",
+          "english": "be careful, watch out",
+          "role": "verb"
+        },
+        {
+          "korean": "너네",
+          "english": "you guys (plural)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "말",
+          "english": "words/speech",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "너무 busy 내 온몸이 모잘라",
+      "english": "Too busy, my whole body isn't enough",
+      "words": [
+        {
+          "korean": "너무",
+          "english": "too",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 온몸이",
+          "english": "my whole body (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "모잘라",
+          "english": "isn't enough",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이거 완전 네 글자, 사필귀정",
+      "english": "This is exactly four characters: justice always prevails",
+      "words": [
+        {
+          "korean": "이거",
+          "english": "this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "완전",
+          "english": "totally, exactly",
+          "role": "adverb"
+        },
+        {
+          "korean": "네 글자",
+          "english": "four characters",
+          "role": "noun"
+        },
+        {
+          "korean": "사필귀정",
+          "english": "things return to what's right (idiom)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "네 현실을 봐라 쌔 쌤통",
+      "english": "Look at your reality, serves you right",
+      "words": [
+        {
+          "korean": "네",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "현실을",
+          "english": "reality (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "봐라",
+          "english": "look at (command)",
+          "role": "verb"
+        },
+        {
+          "korean": "쌤통",
+          "english": "serves you right",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "지금 죽어도 난 개행복",
+      "english": "Even if I die right now, I'm ridiculously happy",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "noun"
+        },
+        {
+          "korean": "죽어도",
+          "english": "even if (I) die",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I (=나는)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "개행복",
+          "english": "ridiculously happy (slang intensifier)",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-어도/아도",
+        "meaning": "even if ~, even though ~",
+        "note": "Shows contrast: even in the extreme case of dying, the happiness level is so high it doesn't matter"
+      }
+    },
+    {
+      "korean": "더 볼 일 없어",
+      "english": "Nothing more to see here",
+      "words": [
+        {
+          "korean": "더",
+          "english": "more, anymore",
+          "role": "adverb"
+        },
+        {
+          "korean": "볼 일",
+          "english": "business to see/thing to see",
+          "role": "noun"
+        },
+        {
+          "korean": "없어",
+          "english": "there isn't",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "pattern": "-고",
+    "meaning": "and / and then",
+    "lessonId": "v5-unit1-lesson1",
+    "unit": 1,
+    "lessonNumber": 1
+  },
+  {
+    "pattern": "-고 싶다",
+    "meaning": "want to do",
+    "lessonId": "v5-unit1-lesson2",
+    "unit": 1,
+    "lessonNumber": 2
+  },
+  {
+    "pattern": "-고 있다",
+    "meaning": "progressive / ongoing state",
+    "lessonId": "v5-unit1-lesson3",
+    "unit": 1,
+    "lessonNumber": 3
+  },
+  {
+    "pattern": "-(으)면",
+    "meaning": "if / when",
+    "lessonId": "v5-unit1-lesson4",
+    "unit": 1,
+    "lessonNumber": 4
+  },
+  {
+    "pattern": "-지만",
+    "meaning": "but, although",
+    "lessonId": "v5-unit2-lesson5",
+    "unit": 2,
+    "lessonNumber": 5
+  },
+  {
+    "pattern": "-지 못하다",
+    "meaning": "cannot do",
+    "lessonId": "v5-unit2-lesson6",
+    "unit": 2,
+    "lessonNumber": 6
+  },
+  {
+    "pattern": "-지 않다",
+    "meaning": "not, negation",
+    "lessonId": "v5-unit2-lesson7",
+    "unit": 2,
+    "lessonNumber": 7
+  },
+  {
+    "pattern": "-아/어서",
+    "meaning": "because / and then",
+    "lessonId": "v5-unit2-lesson8",
+    "unit": 2,
+    "lessonNumber": 8
+  },
+  {
+    "pattern": "-(으)ㄹ 것 같다",
+    "meaning": "it seems like / I think",
+    "lessonId": "v5-unit3-lesson10",
+    "unit": 3,
+    "lessonNumber": 10
+  },
+  {
+    "pattern": "-잖아",
+    "meaning": "you know / isn't it / reminding",
+    "lessonId": "v5-unit3-lesson11",
+    "unit": 3,
+    "lessonNumber": 11
+  },
+  {
+    "pattern": "-는데",
+    "meaning": "background info / mild contrast",
+    "lessonId": "v5-unit3-lesson12",
+    "unit": 3,
+    "lessonNumber": 12
+  },
+  {
+    "pattern": "-아/어 줘",
+    "meaning": "please do ~ for me",
+    "lessonId": "v5-unit3-lesson9",
+    "unit": 3,
+    "lessonNumber": 9
+  },
+  {
+    "pattern": "-아/어도",
+    "meaning": "even though, even if",
+    "lessonId": "v5-unit4-lesson13",
+    "unit": 4,
+    "lessonNumber": 13
+  },
+  {
+    "pattern": "-아/어지다",
+    "meaning": "to become a state",
+    "lessonId": "v5-unit4-lesson14",
+    "unit": 4,
+    "lessonNumber": 14
+  },
+  {
+    "pattern": "-처럼",
+    "meaning": "like, as",
+    "lessonId": "v5-unit4-lesson15",
+    "unit": 4,
+    "lessonNumber": 15
+  },
+  {
+    "pattern": "-게 되다",
+    "meaning": "to end up ~ing",
+    "lessonId": "v5-unit4-lesson16",
+    "unit": 4,
+    "lessonNumber": 16
+  },
+  {
+    "pattern": "-아/어 버리다",
+    "meaning": "to do completely / with finality",
+    "lessonId": "v5-unit5-lesson17",
+    "unit": 5,
+    "lessonNumber": 17
+  },
+  {
+    "pattern": "-기 전에",
+    "meaning": "before doing",
+    "lessonId": "v5-unit5-lesson18",
+    "unit": 5,
+    "lessonNumber": 18
+  },
+  {
+    "pattern": "-다가도",
+    "meaning": "even while in the middle of",
+    "lessonId": "v5-unit5-lesson19",
+    "unit": 5,
+    "lessonNumber": 19
+  },
+  {
+    "pattern": "-던",
+    "meaning": "past retrospective modifier",
+    "lessonId": "v5-unit5-lesson20",
+    "unit": 5,
+    "lessonNumber": 20
+  }
+]

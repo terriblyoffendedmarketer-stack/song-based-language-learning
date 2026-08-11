@@ -30,6 +30,8 @@ export default function Home() {
   });
   const [resumeLessonId, setResumeLessonId] = useState<string | null>(null);
   const [pendingNavigate, setPendingNavigate] = useState(false);
+  const [spotifyUrl, setSpotifyUrl] = useState<string | null>(null);
+  const [songStats, setSongStats] = useState({ songsStarted: 0, linesLearned: 0 });
 
   useEffect(() => {
     initTesterMode();
@@ -40,6 +42,28 @@ export default function Home() {
     setProgress(loadV5Progress());
     loadV5LessonIndex().then(setIndex);
     checkAndShowWebNotification();
+    fetch("/data/spotify_playlist.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d?.url) setSpotifyUrl(d.url); })
+      .catch(() => {});
+
+    // Load song practice stats
+    try {
+      const raw = localStorage.getItem("songwon-song-progress");
+      if (raw) {
+        const all = JSON.parse(raw);
+        let songsStarted = 0;
+        let linesLearned = 0;
+        for (const songId of Object.keys(all)) {
+          const completed = all[songId]?.completedLines ?? [];
+          if (completed.length > 0) {
+            songsStarted++;
+            linesLearned += completed.length;
+          }
+        }
+        setSongStats({ songsStarted, linesLearned });
+      }
+    } catch {}
   }, []);
 
   const handleQuestionDismiss = () => {
@@ -237,6 +261,25 @@ export default function Home() {
             </div>
           </div>
 
+          {/* Practice CTA */}
+          <Link
+            href="/practice"
+            className="block bg-card border border-border rounded-2xl p-5 hover:shadow-md hover:border-accent/40 transition-all active:scale-[0.98]"
+          >
+            <div className="flex items-center gap-4">
+              <span className="text-3xl">✏️</span>
+              <div className="flex-1 min-w-0">
+                <p className="font-bold text-sm">
+                  <KrTip en="Practice">연습</KrTip>
+                </p>
+                <p className="text-xs text-muted mt-0.5">
+                  Review vocab & grammar with spaced repetition
+                </p>
+              </div>
+              <span className="text-accent text-sm">→</span>
+            </div>
+          </Link>
+
           {/* Song Library CTA */}
           <Link
             href="/songs"
@@ -251,6 +294,11 @@ export default function Home() {
                 <p className="text-xs text-muted mt-0.5">
                   Learn any of 72 songs line-by-line — no lessons required
                 </p>
+                {songStats.songsStarted > 0 && (
+                  <p className="text-xs text-accent mt-1 font-semibold">
+                    {songStats.songsStarted} songs started · {songStats.linesLearned} lines learned
+                  </p>
+                )}
               </div>
               <span className="text-accent text-sm">→</span>
             </div>
@@ -275,6 +323,25 @@ export default function Home() {
               <KrTip en="Grammar Glossary">문법 사전</KrTip> →
             </Link>
           </div>
+
+          {/* Spotify playlist */}
+          {spotifyUrl && (
+            <a
+              href={spotifyUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 bg-card border border-border rounded-xl p-4 hover:border-green-500/40 transition-colors active:scale-[0.98]"
+            >
+              <span className="text-2xl">🎧</span>
+              <div className="flex-1 min-w-0">
+                <p className="text-sm font-bold">
+                  <KrTip en="Listen on Spotify">Spotify에서 듣기</KrTip>
+                </p>
+                <p className="text-xs text-muted">All 72 study songs in one playlist</p>
+              </div>
+              <span className="text-green-500 text-sm font-semibold">↗</span>
+            </a>
+          )}
 
           {/* Reminder + Android download */}
           <ReminderSettings />

@@ -1,0 +1,345 @@
+{
+  "songId": "bibi-very-slowly",
+  "lines": [
+    {
+      "korean": "눈빛만으로 알 수가 있지",
+      "english": "Just from your eyes I can tell",
+      "words": [
+        {
+          "korean": "눈빛만으로",
+          "english": "just from the eyes / eye expression alone",
+          "role": "expression"
+        },
+        {
+          "korean": "알 수가 있지",
+          "english": "can tell / can know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-만으로",
+        "meaning": "just from/with ~ alone",
+        "note": "Shows that only this one thing is needed to know or do something — here, she needs only to look at his eyes to understand him."
+      }
+    },
+    {
+      "korean": "어떤 세상을 살아왔는지",
+      "english": "what kind of world you've lived through",
+      "words": [
+        {
+          "korean": "어떤",
+          "english": "what kind of",
+          "role": "adjective"
+        },
+        {
+          "korean": "세상을",
+          "english": "world",
+          "role": "noun"
+        },
+        {
+          "korean": "살아왔는지",
+          "english": "have lived through",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 왔다",
+        "meaning": "have been doing ~ / have done ~ (up until now)",
+        "note": "살아왔다 shows continuous action from the past to present — the kind of life he's lived through up until this moment."
+      }
+    },
+    {
+      "korean": "처음 내민 너의 따뜻한 손길에",
+      "english": "at your first warm touch reaching out",
+      "words": [
+        {
+          "korean": "처음",
+          "english": "first",
+          "role": "adverb"
+        },
+        {
+          "korean": "내민",
+          "english": "reaching out / extended",
+          "role": "verb"
+        },
+        {
+          "korean": "따뜻한",
+          "english": "warm",
+          "role": "adjective"
+        },
+        {
+          "korean": "손길에",
+          "english": "at the touch / gesture",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "내 마음이 전부 녹아내",
+      "english": "my whole heart melted",
+      "words": [
+        {
+          "korean": "내 마음이",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "전부",
+          "english": "entirely / all of it",
+          "role": "adverb"
+        },
+        {
+          "korean": "녹아내",
+          "english": "melted",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우린 서로 앞을 주저하고",
+      "english": "we both hesitated to move forward",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "서로",
+          "english": "each other / both",
+          "role": "adverb"
+        },
+        {
+          "korean": "앞을",
+          "english": "forward / ahead",
+          "role": "noun"
+        },
+        {
+          "korean": "주저하고",
+          "english": "hesitated and",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "현실 속에 무너져 가던",
+      "english": "were collapsing inside reality",
+      "words": [
+        {
+          "korean": "현실 속에",
+          "english": "inside reality / in the real world",
+          "role": "noun"
+        },
+        {
+          "korean": "무너져 가던",
+          "english": "were collapsing / crumbling",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 가다",
+        "meaning": "to gradually become ~",
+        "note": "무너져 가다 shows the gradual process of falling apart — not a sudden collapse, but a slow crumbling under pressure."
+      }
+    },
+    {
+      "korean": "이런 나를 잊어가게 해",
+      "english": "this makes me forget who I was",
+      "words": [
+        {
+          "korean": "이런 나를",
+          "english": "this me / who I was",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잊어가게 해",
+          "english": "makes me forget",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하다",
+        "meaning": "to make/let someone do ~",
+        "note": "잊어가게 해 means his presence makes her able to forget her broken past self — he enables the change."
+      }
+    },
+    {
+      "korean": "I'm telling the truth",
+      "english": "I'm telling the truth",
+      "words": [
+        {
+          "korean": "I'm telling the truth",
+          "english": "I'm telling the truth",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "너에게 가는 중",
+      "english": "I'm on my way to you",
+      "words": [
+        {
+          "korean": "너에게",
+          "english": "to you",
+          "role": "expression"
+        },
+        {
+          "korean": "가는 중",
+          "english": "in the process of going / on my way",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 중",
+        "meaning": "in the middle of ~ing / currently ~ing",
+        "note": "가는 중 shows an ongoing action — she's in the process of moving toward him, not there yet but actively going."
+      }
+    },
+    {
+      "korean": "이젠 나를 봐줘",
+      "english": "now look at me",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now / at this point",
+          "role": "adverb"
+        },
+        {
+          "korean": "나를",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "봐줘",
+          "english": "look at / see",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "to do ~ for someone (asking a favor)",
+        "note": "봐줘 is a request form — she's asking him to do her the favor of noticing her, paying attention to her now."
+      }
+    },
+    {
+      "korean": "내가 다가갈게 천천히",
+      "english": "I'll come closer, slowly",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다가갈게",
+          "english": "I'll come closer / I'll approach",
+          "role": "verb"
+        },
+        {
+          "korean": "천천히",
+          "english": "slowly",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ게",
+        "meaning": "I will ~ (soft promise about speaker's action)",
+        "note": "다가갈게 is a gentle promise — she's telling him what she'll do, her own intention, without demanding anything from him in return."
+      }
+    },
+    {
+      "korean": "아주 천천히",
+      "english": "very slowly",
+      "words": [
+        {
+          "korean": "아주",
+          "english": "very / extremely",
+          "role": "adverb"
+        },
+        {
+          "korean": "천천히",
+          "english": "slowly",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "손짓만으로 알 수가 있지",
+      "english": "just from the way you gesture I can tell",
+      "words": [
+        {
+          "korean": "손짓만으로",
+          "english": "just from the gestures / hand movements alone",
+          "role": "expression"
+        },
+        {
+          "korean": "알 수가 있지",
+          "english": "can tell / can know",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너가 얼마나 착한 애인지",
+      "english": "how kind a person you are",
+      "words": [
+        {
+          "korean": "너가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "얼마나",
+          "english": "how much / how",
+          "role": "adverb"
+        },
+        {
+          "korean": "착한 애인지",
+          "english": "kind a person (you) are",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "얼마나 -ㄴ/은지",
+        "meaning": "how ~ (something) is",
+        "note": "Used to express the degree or extent of something — here, how kind he is. 애 is casual for 'person/kid'."
+      }
+    },
+    {
+      "korean": "우리가 지나왔던 시간들이 이제야 날 버티게 해",
+      "english": "the time we've walked through together only now makes me able to hold on",
+      "words": [
+        {
+          "korean": "우리가 지나왔던",
+          "english": "that we have passed through / walked through",
+          "role": "verb"
+        },
+        {
+          "korean": "시간들이",
+          "english": "times / moments",
+          "role": "noun"
+        },
+        {
+          "korean": "이제야",
+          "english": "only now / finally",
+          "role": "adverb"
+        },
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "버티게 해",
+          "english": "makes me able to hold on / endure",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하다",
+        "meaning": "to make/enable someone to do ~",
+        "note": "버티게 해 means the shared time gives her strength to endure — 버티다 means to hold your ground, and here love reframes endurance as something positive."
+      }
+    }
+  ]
+}

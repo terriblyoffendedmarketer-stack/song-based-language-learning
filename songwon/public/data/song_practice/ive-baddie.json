@@ -1,0 +1,356 @@
+{
+  "songId": "ive-baddie",
+  "lines": [
+    {
+      "korean": "뭐든 될 대로 되라지",
+      "english": "Whatever happens, let it happen",
+      "words": [
+        {
+          "korean": "뭐든",
+          "english": "whatever",
+          "role": "pronoun"
+        },
+        {
+          "korean": "될 대로",
+          "english": "however it will become",
+          "role": "expression"
+        },
+        {
+          "korean": "되라지",
+          "english": "let it be (casual, defiant)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "될 대로 되라지",
+        "meaning": "let it be whatever it will be; a fatalistic acceptance",
+        "note": "A set expression combining 될 대로 ('however it turns out') with -라지 ending to express casual indifference toward outcomes"
+      }
+    },
+    {
+      "korean": "나는 없어 거기 이미",
+      "english": "I'm not there anymore",
+      "words": [
+        {
+          "korean": "나는",
+          "english": "I (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "없어",
+          "english": "am not",
+          "role": "verb"
+        },
+        {
+          "korean": "거기",
+          "english": "there",
+          "role": "noun"
+        },
+        {
+          "korean": "이미",
+          "english": "already",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "어차피 못 찾을 테니",
+      "english": "You won't be able to find me anyway",
+      "words": [
+        {
+          "korean": "어차피",
+          "english": "anyway, regardless",
+          "role": "adverb"
+        },
+        {
+          "korean": "못 찾을",
+          "english": "won't be able to find",
+          "role": "verb"
+        },
+        {
+          "korean": "테니",
+          "english": "since/because (future)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을 테니",
+        "meaning": "since/because [something] will happen",
+        "note": "Combines future presumption -(으)ㄹ 터 with -니 to express a confident reason or justification for what was said before"
+      }
+    },
+    {
+      "korean": "더 솔직하게 말해줘",
+      "english": "Speak to me more honestly",
+      "words": [
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "솔직하게",
+          "english": "honestly",
+          "role": "adverb"
+        },
+        {
+          "korean": "말해줘",
+          "english": "speak/tell me",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "착한 척은 지겨워",
+      "english": "I'm tired of acting nice",
+      "words": [
+        {
+          "korean": "착한 척은",
+          "english": "pretending to be nice",
+          "role": "expression"
+        },
+        {
+          "korean": "지겨워",
+          "english": "am tired of, am sick of",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 척",
+        "meaning": "pretending to be/do something",
+        "note": "착하다 (to be nice) + -ㄴ 척 creates 'pretending to be nice' — expressing the act of faking a quality"
+      }
+    },
+    {
+      "korean": "우리 앞에선 룰이 의미 없었어 굳이",
+      "english": "In front of us, rules had no meaning anyway",
+      "words": [
+        {
+          "korean": "우리 앞에선",
+          "english": "in front of us",
+          "role": "expression"
+        },
+        {
+          "korean": "룰이",
+          "english": "rules",
+          "role": "noun"
+        },
+        {
+          "korean": "의미 없었어",
+          "english": "had no meaning",
+          "role": "verb"
+        },
+        {
+          "korean": "굳이",
+          "english": "particularly, anyway",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "난 그 틀에 없어 이미",
+      "english": "I'm not in that mold anymore",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그 틀에",
+          "english": "in that mold/frame",
+          "role": "noun"
+        },
+        {
+          "korean": "없어",
+          "english": "am not",
+          "role": "verb"
+        },
+        {
+          "korean": "이미",
+          "english": "already",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "뛰어 놀래 시끄럽게",
+      "english": "I'll jump around and play loudly",
+      "words": [
+        {
+          "korean": "뛰어 놀래",
+          "english": "will jump and play",
+          "role": "verb"
+        },
+        {
+          "korean": "시끄럽게",
+          "english": "loudly, noisily",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "답답한 건 벗어 던져",
+      "english": "Throw off whatever feels suffocating",
+      "words": [
+        {
+          "korean": "답답한 건",
+          "english": "things that are suffocating",
+          "role": "expression"
+        },
+        {
+          "korean": "벗어 던져",
+          "english": "take off and throw away",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "고개 숙일 필요 없어",
+      "english": "There's no need to bow your head",
+      "words": [
+        {
+          "korean": "고개 숙일",
+          "english": "to bow one's head",
+          "role": "expression"
+        },
+        {
+          "korean": "필요 없어",
+          "english": "there's no need",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 필요 없어",
+        "meaning": "there's no need to ~",
+        "note": "Used to dismiss expectations or obligations — here rejecting the social pressure to be humble or apologetic"
+      }
+    },
+    {
+      "korean": "내 판단을 믿어 난",
+      "english": "I trust my own judgment",
+      "words": [
+        {
+          "korean": "내 판단을",
+          "english": "my judgment",
+          "role": "noun"
+        },
+        {
+          "korean": "믿어",
+          "english": "trust, believe in",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "모자이크 없이",
+      "english": "Without censoring",
+      "words": [
+        {
+          "korean": "모자이크",
+          "english": "mosaic, censorship",
+          "role": "noun"
+        },
+        {
+          "korean": "없이",
+          "english": "without",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "생각할 시간에 저지르는 게 my motto",
+      "english": "Doing it instead of thinking about it is my motto",
+      "words": [
+        {
+          "korean": "생각할 시간에",
+          "english": "in the time to think",
+          "role": "expression"
+        },
+        {
+          "korean": "저지르는 게",
+          "english": "doing/committing (something)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 시간에",
+        "meaning": "in the time it takes to ~; instead of ~",
+        "note": "Contrasts two activities, suggesting one is better done than the other — here: act first, don't overthink"
+      }
+    },
+    {
+      "korean": "앞 다퉈 내 길을 막지",
+      "english": "They rush to block my path",
+      "words": [
+        {
+          "korean": "앞 다퉈",
+          "english": "competitively, rushing forward",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 길을",
+          "english": "my path",
+          "role": "noun"
+        },
+        {
+          "korean": "막지",
+          "english": "block",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "가뿐히 날아 오를 테니",
+      "english": "I'll lightly fly up and over it",
+      "words": [
+        {
+          "korean": "가뿐히",
+          "english": "lightly, easily",
+          "role": "adverb"
+        },
+        {
+          "korean": "날아 오를",
+          "english": "will fly up",
+          "role": "verb"
+        },
+        {
+          "korean": "테니",
+          "english": "since (future)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "어딜 그리 바삐 가니",
+      "english": "Where are you rushing off to in such a hurry?",
+      "words": [
+        {
+          "korean": "어딜",
+          "english": "where (to)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그리",
+          "english": "so, such",
+          "role": "adverb"
+        },
+        {
+          "korean": "바삐",
+          "english": "busily, hurriedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "가니",
+          "english": "are you going",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

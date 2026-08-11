@@ -1,0 +1,395 @@
+{
+  "songId": "punch-stay-with-me",
+  "lines": [
+    {
+      "korean": "나의 두 눈을 감으면",
+      "english": "When I close my eyes",
+      "words": [
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "두 눈을",
+          "english": "two eyes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "감으면",
+          "english": "if/when I close",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-으면",
+        "meaning": "if/when ~",
+        "note": "Conditional form attached to 감다 (to close); sets up the condition for what follows in the next line."
+      }
+    },
+    {
+      "korean": "떠오르는 그 눈동자",
+      "english": "Those eyes come to mind",
+      "words": [
+        {
+          "korean": "떠오르는",
+          "english": "that come to mind/rise up",
+          "role": "verb"
+        },
+        {
+          "korean": "그",
+          "english": "those",
+          "role": "pronoun"
+        },
+        {
+          "korean": "눈동자",
+          "english": "eyes/pupils",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는",
+        "meaning": "present modifier form",
+        "note": "Modifies 눈동자, describing the eyes as 'those that rise up/come to mind'."
+      }
+    },
+    {
+      "korean": "자꾸 가슴이 시려서",
+      "english": "Because my heart keeps aching",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "keeps/repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "가슴이",
+          "english": "heart (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "시려서",
+          "english": "aches/is cold, so",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아서/어서",
+        "meaning": "because/so",
+        "note": "Shows the reason for the action in the following clause; 시리다 means to feel cold/aching pain."
+      }
+    },
+    {
+      "korean": "잊혀지길 바랬어",
+      "english": "I hoped I could be forgotten",
+      "words": [
+        {
+          "korean": "잊혀지길",
+          "english": "to be forgotten",
+          "role": "verb"
+        },
+        {
+          "korean": "바랬어",
+          "english": "I hoped",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-길 바라다",
+        "meaning": "to hope that ~",
+        "note": "Used for wishes about things outside your control; 잊혀지다 is passive form of 잊다 (to forget)."
+      }
+    },
+    {
+      "korean": "꿈이라면 이제 깨어났으면 제발",
+      "english": "If this is a dream, I wish I would wake up now, please",
+      "words": [
+        {
+          "korean": "꿈이라면",
+          "english": "if this is a dream",
+          "role": "expression"
+        },
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "깨어났으면",
+          "english": "I wish I would wake up",
+          "role": "verb"
+        },
+        {
+          "korean": "제발",
+          "english": "please",
+          "role": "interjection"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았/었으면",
+        "meaning": "I wish ~",
+        "note": "Expresses a hope or wish; often followed by 좋겠다 but can stand alone for emotional emphasis."
+      }
+    },
+    {
+      "korean": "정말 네가 나의 운명인 걸까?",
+      "english": "Is it really true that you're my fate?",
+      "words": [
+        {
+          "korean": "정말",
+          "english": "really",
+          "role": "adverb"
+        },
+        {
+          "korean": "네가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나의 운명인",
+          "english": "are my fate",
+          "role": "expression"
+        },
+        {
+          "korean": "걸까",
+          "english": "I wonder/could it be",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ/은 걸까",
+        "meaning": "I wonder if ~",
+        "note": "Rhetorical question expressing doubt or wonderment; 인 is the copula linking 운명 to the subject."
+      }
+    },
+    {
+      "korean": "운명처럼 너를 falling",
+      "english": "Falling for you like fate",
+      "words": [
+        {
+          "korean": "운명처럼",
+          "english": "like fate",
+          "role": "expression"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "falling",
+          "english": "falling",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like/as",
+        "note": "Attached to nouns to make comparisons; frames the feeling as something bigger than personal choice."
+      }
+    },
+    {
+      "korean": "또 나를 부르네 calling",
+      "english": "And you're calling out to me again",
+      "words": [
+        {
+          "korean": "또",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "부르네",
+          "english": "you're calling",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-네",
+        "meaning": "I see/notice that ~",
+        "note": "Sentence ending expressing realization or observation of an ongoing action."
+      }
+    },
+    {
+      "korean": "헤어 나올 수 없어 제발 hold me",
+      "english": "I can't pull myself out, please hold me",
+      "words": [
+        {
+          "korean": "헤어 나올 수 없어",
+          "english": "can't escape/pull out",
+          "role": "expression"
+        },
+        {
+          "korean": "제발",
+          "english": "please",
+          "role": "interjection"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 수 없다",
+        "meaning": "cannot ~",
+        "note": "Expresses inability; 헤어 나오다 means to escape or extricate oneself from something."
+      }
+    },
+    {
+      "korean": "내 인연의 끈이 넌지",
+      "english": "Whether you're the thread of my destined connection",
+      "words": [
+        {
+          "korean": "내 인연의",
+          "english": "of my fate/connection",
+          "role": "noun"
+        },
+        {
+          "korean": "끈이",
+          "english": "thread/string (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "넌지",
+          "english": "whether you are",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ지",
+        "meaning": "whether ~",
+        "note": "Used for indirect questions or uncertainty; 넌 is contraction of 너인 (you are)."
+      }
+    },
+    {
+      "korean": "가슴이 먼저 왜 내려앉는지",
+      "english": "Why my heart sinks first",
+      "words": [
+        {
+          "korean": "가슴이",
+          "english": "heart (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "먼저",
+          "english": "first",
+          "role": "adverb"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "내려앉는지",
+          "english": "sinks/settles down",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "가슴은 뛰고 있어, 여전히 널 보고 있어",
+      "english": "My heart is racing, I'm still looking at you",
+      "words": [
+        {
+          "korean": "가슴은 뛰고 있어",
+          "english": "heart is beating/racing",
+          "role": "expression"
+        },
+        {
+          "korean": "여전히",
+          "english": "still",
+          "role": "adverb"
+        },
+        {
+          "korean": "널 보고 있어",
+          "english": "looking at you",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 있다",
+        "meaning": "is/am ~ing (ongoing action)",
+        "note": "Progressive aspect showing continuous action; both clauses use this pattern to emphasize the ongoing state."
+      }
+    },
+    {
+      "korean": "자꾸만 숨이 막혀서",
+      "english": "I keep losing my breath",
+      "words": [
+        {
+          "korean": "자꾸만",
+          "english": "keeps/continuously",
+          "role": "adverb"
+        },
+        {
+          "korean": "숨이",
+          "english": "breath (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "막혀서",
+          "english": "is blocked/choked",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "처음 너를 봤을 때부터 다르게",
+      "english": "Different, from the very first moment I saw you",
+      "words": [
+        {
+          "korean": "처음",
+          "english": "first time",
+          "role": "noun"
+        },
+        {
+          "korean": "너를 봤을 때부터",
+          "english": "from when I saw you",
+          "role": "expression"
+        },
+        {
+          "korean": "다르게",
+          "english": "differently",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 때부터",
+        "meaning": "from the time when ~",
+        "note": "Marks a starting point in time; 봤을 때 means 'when I saw', and 부터 adds 'from/since'."
+      }
+    },
+    {
+      "korean": "마치 오래전부터 널 사랑한 것 같아",
+      "english": "It feels like I've loved you since long ago",
+      "words": [
+        {
+          "korean": "마치",
+          "english": "as if/like",
+          "role": "adverb"
+        },
+        {
+          "korean": "오래전부터",
+          "english": "since long ago",
+          "role": "expression"
+        },
+        {
+          "korean": "널 사랑한",
+          "english": "loved you",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 것 같다",
+        "meaning": "it seems like ~",
+        "note": "Expresses conjecture or supposition about past actions; softens the statement to convey uncertainty or feeling."
+      }
+    }
+  ]
+}

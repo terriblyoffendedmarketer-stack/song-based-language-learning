@@ -1,0 +1,365 @@
+{
+  "songId": "twice-what-is-love",
+  "lines": [
+    {
+      "korean": "매일같이 영화 속에서나 책 속에서나",
+      "english": "Every day, whether in movies or in books",
+      "words": [
+        {
+          "korean": "매일같이",
+          "english": "every day, day after day",
+          "role": "adverb"
+        },
+        {
+          "korean": "영화 속에서나",
+          "english": "whether in movies",
+          "role": "expression"
+        },
+        {
+          "korean": "책 속에서나",
+          "english": "or in books",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)나",
+        "meaning": "or, whether A or B",
+        "note": "Used to list alternatives in an inclusive way, suggesting 'whether it's A or B'"
+      }
+    },
+    {
+      "korean": "드라마 속에서 사랑을 느껴",
+      "english": "I feel love in dramas",
+      "words": [
+        {
+          "korean": "드라마 속에서",
+          "english": "in dramas",
+          "role": "expression"
+        },
+        {
+          "korean": "사랑을",
+          "english": "love (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "느껴",
+          "english": "feel",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내 일처럼 자꾸 가슴이 뛰어",
+      "english": "My heart keeps racing as if it's my own story",
+      "words": [
+        {
+          "korean": "내 일처럼",
+          "english": "as if it's my own business/story",
+          "role": "expression"
+        },
+        {
+          "korean": "자꾸",
+          "english": "keeps, repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "가슴이",
+          "english": "heart (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "뛰어",
+          "english": "races, beats fast",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like, as if",
+        "note": "Used to make comparisons, here comparing the feeling to experiencing one's own story"
+      }
+    },
+    {
+      "korean": "두근두근거려",
+      "english": "It pounds and pounds",
+      "words": [
+        {
+          "korean": "두근두근거려",
+          "english": "pounds repeatedly (heart)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "설레임에 부풀어 올라",
+      "english": "I'm swelling up with excitement",
+      "words": [
+        {
+          "korean": "설레임에",
+          "english": "with excitement/fluttering",
+          "role": "noun"
+        },
+        {
+          "korean": "부풀어 올라",
+          "english": "swell up, puff up",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "궁금해서 미칠 것만 같아",
+      "english": "I'm so curious I feel like I'm going crazy",
+      "words": [
+        {
+          "korean": "궁금해서",
+          "english": "because I'm curious",
+          "role": "adjective"
+        },
+        {
+          "korean": "미칠",
+          "english": "go crazy",
+          "role": "verb"
+        },
+        {
+          "korean": "것만 같아",
+          "english": "feel like, seem like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것만 같아",
+        "meaning": "feel like something will happen",
+        "note": "Expresses a strong feeling or impression that something seems to be the case"
+      }
+    },
+    {
+      "korean": "언젠간 내게도 이런 일이 실제로 일어날까?",
+      "english": "Will something like this actually happen to me someday?",
+      "words": [
+        {
+          "korean": "언젠간",
+          "english": "someday, one day",
+          "role": "adverb"
+        },
+        {
+          "korean": "내게도",
+          "english": "to me too",
+          "role": "expression"
+        },
+        {
+          "korean": "이런 일이",
+          "english": "this kind of thing (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "실제로",
+          "english": "actually, in reality",
+          "role": "adverb"
+        },
+        {
+          "korean": "일어날까?",
+          "english": "will it happen?",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "사탕처럼 달콤하다는데",
+      "english": "They say it's sweet like candy",
+      "words": [
+        {
+          "korean": "사탕처럼",
+          "english": "like candy",
+          "role": "expression"
+        },
+        {
+          "korean": "달콤하다는데",
+          "english": "they say it's sweet",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다는데",
+        "meaning": "they say that, I heard that",
+        "note": "Used to quote hearsay or what others say, expressing information received from others"
+      }
+    },
+    {
+      "korean": "하늘을 나는 것 같다는데",
+      "english": "They say it feels like flying in the sky",
+      "words": [
+        {
+          "korean": "하늘을",
+          "english": "sky (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "나는",
+          "english": "fly",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같다는데",
+          "english": "they say it seems like",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "사랑이 어떤 느낌인지",
+      "english": "What love feels like",
+      "words": [
+        {
+          "korean": "사랑이",
+          "english": "love (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "어떤",
+          "english": "what kind of",
+          "role": "adjective"
+        },
+        {
+          "korean": "느낌인지",
+          "english": "what the feeling is",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ지",
+        "meaning": "whether, what (indirect question)",
+        "note": "Used to embed a question within a statement, here asking 'what kind of feeling it is'"
+      }
+    },
+    {
+      "korean": "언젠간 나에게도 사랑이 올까?",
+      "english": "Will love come to me someday too?",
+      "words": [
+        {
+          "korean": "언젠간",
+          "english": "someday",
+          "role": "adverb"
+        },
+        {
+          "korean": "나에게도",
+          "english": "to me too",
+          "role": "expression"
+        },
+        {
+          "korean": "사랑이",
+          "english": "love (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "올까?",
+          "english": "will it come?",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "만일 언젠가 진짜로 내게 사랑이 올 때",
+      "english": "If someday love really comes to me",
+      "words": [
+        {
+          "korean": "만일",
+          "english": "if",
+          "role": "adverb"
+        },
+        {
+          "korean": "언젠가",
+          "english": "someday",
+          "role": "adverb"
+        },
+        {
+          "korean": "진짜로",
+          "english": "really, truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "expression"
+        },
+        {
+          "korean": "사랑이 올 때",
+          "english": "when love comes",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "난 울어버릴지도 몰라",
+      "english": "I might just burst into tears",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "울어버릴지도",
+          "english": "might end up crying",
+          "role": "verb"
+        },
+        {
+          "korean": "몰라",
+          "english": "don't know, might",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ지도 모르다",
+        "meaning": "might, may possibly",
+        "note": "Expresses possibility or uncertainty about something that could happen"
+      }
+    },
+    {
+      "korean": "도대체 언제쯤 나와 만나게 될는지",
+      "english": "Just when on earth will I meet them",
+      "words": [
+        {
+          "korean": "도대체",
+          "english": "on earth, just (intensifier)",
+          "role": "adverb"
+        },
+        {
+          "korean": "언제쯤",
+          "english": "around when, about when",
+          "role": "adverb"
+        },
+        {
+          "korean": "나와",
+          "english": "with me",
+          "role": "expression"
+        },
+        {
+          "korean": "만나게 될는지",
+          "english": "will come to meet",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "보고 싶어 죽겠어",
+      "english": "I want to see them so badly",
+      "words": [
+        {
+          "korean": "보고 싶어",
+          "english": "want to see",
+          "role": "verb"
+        },
+        {
+          "korean": "죽겠어",
+          "english": "dying, so much (intensifier)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 싶어 죽겠다",
+        "meaning": "want to do something so badly",
+        "note": "An intensified expression using '죽겠다' (dying) to emphasize extreme desire"
+      }
+    }
+  ]
+}

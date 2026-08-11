@@ -1,0 +1,400 @@
+{
+  "songId": "bol4-seoul",
+  "lines": [
+    {
+      "korean": "Seoul 처음 만난 낯선 도시에서",
+      "english": "Seoul, in this unfamiliar city I met for the first time",
+      "words": [
+        {
+          "korean": "처음",
+          "english": "for the first time",
+          "role": "adverb"
+        },
+        {
+          "korean": "만난",
+          "english": "met",
+          "role": "verb"
+        },
+        {
+          "korean": "낯선",
+          "english": "unfamiliar, strange",
+          "role": "adjective"
+        },
+        {
+          "korean": "도시에서",
+          "english": "in the city",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ",
+        "meaning": "past-tense modifier for nouns",
+        "note": "Both 만난 and 낯선 modify 도시 — the city (that I) met for the first time, the city (that is) unfamiliar"
+      }
+    },
+    {
+      "korean": "사람들 사이에 빛이 나는",
+      "english": "Among all the people, shining bright",
+      "words": [
+        {
+          "korean": "사람들",
+          "english": "people",
+          "role": "noun"
+        },
+        {
+          "korean": "사이에",
+          "english": "among, between",
+          "role": "noun"
+        },
+        {
+          "korean": "빛이 나는",
+          "english": "shining, emitting light",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는",
+        "meaning": "present-tense modifier for nouns",
+        "note": "빛이 나는 modifies the person described in the next line — someone who is currently shining"
+      }
+    },
+    {
+      "korean": "기타를 멘 멋진 소년과 사랑에 빠진 love story",
+      "english": "A love story, falling for a cool boy with a guitar slung over his shoulder",
+      "words": [
+        {
+          "korean": "기타를 멘",
+          "english": "with a guitar slung/carried",
+          "role": "verb"
+        },
+        {
+          "korean": "멋진",
+          "english": "cool, stylish",
+          "role": "adjective"
+        },
+        {
+          "korean": "소년과",
+          "english": "with a boy",
+          "role": "noun"
+        },
+        {
+          "korean": "사랑에 빠진",
+          "english": "fell in love",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "들어볼래? 지나치게도 소설 같은 이야기일 거야",
+      "english": "Want to hear it? It'll be a story that's almost too much like a novel",
+      "words": [
+        {
+          "korean": "들어볼래?",
+          "english": "want to hear/listen?",
+          "role": "verb"
+        },
+        {
+          "korean": "지나치게도",
+          "english": "excessively, almost too much",
+          "role": "adverb"
+        },
+        {
+          "korean": "소설 같은",
+          "english": "like a novel",
+          "role": "expression"
+        },
+        {
+          "korean": "이야기일 거야",
+          "english": "will be a story",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 거야",
+        "meaning": "will, going to (future intention or prediction)",
+        "note": "이야기일 거야 = it will be a story — the speaker is predicting what kind of story this is"
+      }
+    },
+    {
+      "korean": "꽃잎이 떨어지는 그날에",
+      "english": "On the day the flower petals fall",
+      "words": [
+        {
+          "korean": "꽃잎이",
+          "english": "flower petals",
+          "role": "noun"
+        },
+        {
+          "korean": "떨어지는",
+          "english": "fall, drop",
+          "role": "verb"
+        },
+        {
+          "korean": "그날에",
+          "english": "on that day",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 그날",
+        "meaning": "the day when ~",
+        "note": "Turns a verb clause into a modifier for a time noun — 'that day when the petals fall'"
+      }
+    },
+    {
+      "korean": "우리가 만난 그곳에서",
+      "english": "At the place where we met",
+      "words": [
+        {
+          "korean": "우리가",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "만난",
+          "english": "met",
+          "role": "verb"
+        },
+        {
+          "korean": "그곳에서",
+          "english": "at that place",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 그곳",
+        "meaning": "the place where ~",
+        "note": "Past-tense modifier turning a memory into a location marker — the place is defined by what happened there"
+      }
+    },
+    {
+      "korean": "멀리서 기타 소리가 들리면 나 너를 위해 노랠 부를 거야",
+      "english": "If I hear guitar sound from far away, I'll sing a song for you",
+      "words": [
+        {
+          "korean": "멀리서",
+          "english": "from far away",
+          "role": "adverb"
+        },
+        {
+          "korean": "소리가 들리면",
+          "english": "if [I] hear the sound",
+          "role": "verb"
+        },
+        {
+          "korean": "너를 위해",
+          "english": "for you",
+          "role": "expression"
+        },
+        {
+          "korean": "노랠 부를 거야",
+          "english": "will sing a song",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if, when (conditional)",
+        "note": "들리면 creates the condition — the reunion and the song depend on hearing that sound"
+      }
+    },
+    {
+      "korean": "빛이 가득한 이 도시에서",
+      "english": "In this city full of light",
+      "words": [
+        {
+          "korean": "빛이",
+          "english": "light",
+          "role": "noun"
+        },
+        {
+          "korean": "가득한",
+          "english": "full of",
+          "role": "adjective"
+        },
+        {
+          "korean": "이 도시에서",
+          "english": "in this city",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "눈을 반짝이며 꿈을 꾸는",
+      "english": "Eyes sparkling, dreaming",
+      "words": [
+        {
+          "korean": "눈을 반짝이며",
+          "english": "eyes sparkling, while eyes sparkle",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈을 꾸는",
+          "english": "dreaming",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-며",
+        "meaning": "while ~ing (simultaneous action)",
+        "note": "반짝이며 links two actions happening at once — sparkling eyes while dreaming"
+      }
+    },
+    {
+      "korean": "마이크를 쥔 멋진 소녀와 사랑에 빠진 love story",
+      "english": "A love story, falling for a cool girl holding a microphone",
+      "words": [
+        {
+          "korean": "마이크를 쥔",
+          "english": "holding a microphone",
+          "role": "verb"
+        },
+        {
+          "korean": "멋진",
+          "english": "cool, stylish",
+          "role": "adjective"
+        },
+        {
+          "korean": "소녀와",
+          "english": "with a girl",
+          "role": "noun"
+        },
+        {
+          "korean": "사랑에 빠진",
+          "english": "fell in love",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "언젠가 사랑했던 그 도시에서",
+      "english": "In that city I once loved",
+      "words": [
+        {
+          "korean": "언젠가",
+          "english": "once, sometime",
+          "role": "adverb"
+        },
+        {
+          "korean": "사랑했던",
+          "english": "loved (in the past)",
+          "role": "verb"
+        },
+        {
+          "korean": "그 도시에서",
+          "english": "in that city",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았/었던",
+        "meaning": "past tense with reflective/reminiscent tone",
+        "note": "사랑했던 adds nostalgic distance — not just 'loved' but 'used to love, once loved'"
+      }
+    },
+    {
+      "korean": "내 목소릴 기억한다면",
+      "english": "If you remember my voice",
+      "words": [
+        {
+          "korean": "내 목소릴",
+          "english": "my voice",
+          "role": "noun"
+        },
+        {
+          "korean": "기억한다면",
+          "english": "if [you] remember",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ다면",
+        "meaning": "if (hypothetical conditional)",
+        "note": "기억한다면 creates an uncertain condition — the speaker doesn't know if they'll be remembered"
+      }
+    },
+    {
+      "korean": "그때 우리 만나자 my Seoul",
+      "english": "Let's meet then, my Seoul",
+      "words": [
+        {
+          "korean": "그때",
+          "english": "at that time, then",
+          "role": "noun"
+        },
+        {
+          "korean": "우리",
+          "english": "we, us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "만나자",
+          "english": "let's meet",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-자",
+        "meaning": "let's (casual proposal)",
+        "note": "만나자 is an informal suggestion addressed to both the person and the city itself"
+      }
+    },
+    {
+      "korean": "너와 나 꿈꿔왔던 그날에",
+      "english": "On that day you and I have been dreaming of",
+      "words": [
+        {
+          "korean": "너와 나",
+          "english": "you and I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "꿈꿔왔던",
+          "english": "have been dreaming of",
+          "role": "verb"
+        },
+        {
+          "korean": "그날에",
+          "english": "on that day",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 왔던",
+        "meaning": "have been ~ing (continuous past up to now)",
+        "note": "꿈꿔왔던 shows ongoing action from past to present — a dream that's been carried forward"
+      }
+    },
+    {
+      "korean": "환하게 미소 지을 수 있다면 나 너를 위해 노래해",
+      "english": "If I can smile brightly, I'll sing for you",
+      "words": [
+        {
+          "korean": "환하게",
+          "english": "brightly, radiantly",
+          "role": "adverb"
+        },
+        {
+          "korean": "미소 지을 수 있다면",
+          "english": "if [I] can smile",
+          "role": "verb"
+        },
+        {
+          "korean": "너를 위해",
+          "english": "for you",
+          "role": "expression"
+        },
+        {
+          "korean": "노래해",
+          "english": "sing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있다면",
+        "meaning": "if [one] can/is able to ~",
+        "note": "지을 수 있다면 combines ability (수 있다) with condition (다면) — if the ability exists, the promise follows"
+      }
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "songId": "iu-good-day",
+  "lines": [
+    {
+      "korean": "어쩜 이렇게 하늘은 더 파란 건지?",
+      "english": "How is the sky even bluer today?",
+      "words": [
+        {
+          "korean": "어쩜",
+          "english": "how is it that",
+          "role": "adverb"
+        },
+        {
+          "korean": "이렇게",
+          "english": "this much / like this",
+          "role": "adverb"
+        },
+        {
+          "korean": "하늘은",
+          "english": "the sky (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "더 파란",
+          "english": "more blue",
+          "role": "adjective"
+        },
+        {
+          "korean": "건지",
+          "english": "I wonder if/whether",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 건지",
+        "meaning": "I wonder if/whether ~",
+        "note": "Used to express wondering or questioning about something, often rhetorical"
+      }
+    },
+    {
+      "korean": "오늘따라 왜 바람은 또 완벽한지?",
+      "english": "Why does the wind feel so perfect, of all days?",
+      "words": [
+        {
+          "korean": "오늘따라",
+          "english": "especially today / of all days",
+          "role": "adverb"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "바람은",
+          "english": "the wind (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "또",
+          "english": "again / also",
+          "role": "adverb"
+        },
+        {
+          "korean": "완벽한지",
+          "english": "is so perfect",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "그냥 모르는 척, 하나 못 들은 척 지워버린 척 딴 얘길 시작할까?",
+      "english": "Should I just pretend not to know, pretend not to hear, pretend I've erased it and start some other conversation?",
+      "words": [
+        {
+          "korean": "모르는 척",
+          "english": "pretend not to know",
+          "role": "expression"
+        },
+        {
+          "korean": "못 들은 척",
+          "english": "pretend not to hear",
+          "role": "expression"
+        },
+        {
+          "korean": "지워버린 척",
+          "english": "pretend to have erased",
+          "role": "expression"
+        },
+        {
+          "korean": "딴 얘길",
+          "english": "another conversation",
+          "role": "noun"
+        },
+        {
+          "korean": "시작할까",
+          "english": "shall I start",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 척하다",
+        "meaning": "to pretend to do ~",
+        "note": "Stacked three times here to show escalating avoidance and self-deception before the confession"
+      }
+    },
+    {
+      "korean": "아무 말 못하게 입맞출까?",
+      "english": "Should I kiss him so he can't say anything?",
+      "words": [
+        {
+          "korean": "아무 말",
+          "english": "any words",
+          "role": "noun"
+        },
+        {
+          "korean": "못하게",
+          "english": "so that [he] can't",
+          "role": "expression"
+        },
+        {
+          "korean": "입맞출까",
+          "english": "should I kiss",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하다",
+        "meaning": "to make/let someone do ~",
+        "note": "Here 못하게 means 'to prevent from doing' - making it so he can't speak"
+      }
+    },
+    {
+      "korean": "눈물이 차올라서 고갤 들어",
+      "english": "Tears well up so I lift my chin",
+      "words": [
+        {
+          "korean": "눈물이",
+          "english": "tears (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "차올라서",
+          "english": "well up / fill up",
+          "role": "verb"
+        },
+        {
+          "korean": "고갤",
+          "english": "my head/chin (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "들어",
+          "english": "lift",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "흐르지 못하게 또 살짝 웃어",
+      "english": "I smile faintly again so they won't fall",
+      "words": [
+        {
+          "korean": "흐르지 못하게",
+          "english": "so they won't flow/fall",
+          "role": "expression"
+        },
+        {
+          "korean": "또",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "살짝",
+          "english": "slightly / faintly",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃어",
+          "english": "smile",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내게 왜 이러는지? 무슨 말을 하는지?",
+      "english": "Why is it doing this to me? What is it trying to say?",
+      "words": [
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "왜 이러는지",
+          "english": "why it's doing this",
+          "role": "expression"
+        },
+        {
+          "korean": "무슨 말을",
+          "english": "what words",
+          "role": "noun"
+        },
+        {
+          "korean": "하는지",
+          "english": "is saying",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "한 번도 못했던 말",
+      "english": "Words I've never said before",
+      "words": [
+        {
+          "korean": "한 번도",
+          "english": "not even once / never",
+          "role": "adverb"
+        },
+        {
+          "korean": "못했던",
+          "english": "couldn't say / haven't said",
+          "role": "verb"
+        },
+        {
+          "korean": "말",
+          "english": "words",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "past modifier indicating unfinished or habitual past action",
+        "note": "Expresses that this is something she had never done before (up until now)"
+      }
+    },
+    {
+      "korean": "울면서 할 줄은 나 몰랐던 말",
+      "english": "Words I never knew I'd say while crying",
+      "words": [
+        {
+          "korean": "울면서",
+          "english": "while crying",
+          "role": "verb"
+        },
+        {
+          "korean": "할 줄은",
+          "english": "how to do / would do",
+          "role": "expression"
+        },
+        {
+          "korean": "몰랐던",
+          "english": "didn't know",
+          "role": "verb"
+        },
+        {
+          "korean": "말",
+          "english": "words",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 줄 모르다",
+        "meaning": "to not know how to / not expect to",
+        "note": "Expresses that she never imagined she would say these words while crying"
+      }
+    },
+    {
+      "korean": "나는요 오빠가 좋은걸 어떡해?",
+      "english": "I like you, oppa. What do I do?",
+      "words": [
+        {
+          "korean": "나는요",
+          "english": "as for me (soft emphasis)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "오빠가",
+          "english": "oppa (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "좋은걸",
+          "english": "I like [you]",
+          "role": "expression"
+        },
+        {
+          "korean": "어떡해",
+          "english": "what do I do",
+          "role": "interjection"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ걸",
+        "meaning": "expresses realization, mild assertion, or emotion",
+        "note": "The key confession line - 좋은걸 softly expresses her feelings as a realization she can't help"
+      }
+    },
+    {
+      "korean": "새로 바뀐 내 머리가 별로였는지?",
+      "english": "Was my new haircut not good?",
+      "words": [
+        {
+          "korean": "새로 바뀐",
+          "english": "newly changed",
+          "role": "verb"
+        },
+        {
+          "korean": "내 머리가",
+          "english": "my hair/haircut (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "별로였는지",
+          "english": "wasn't good / was bad",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "아직 모르는 척, 기억 안 나는 척 아무 일 없던 것처럼 굴어볼까?",
+      "english": "Should I still pretend not to know, pretend not to remember, and act like nothing happened?",
+      "words": [
+        {
+          "korean": "아직",
+          "english": "still",
+          "role": "adverb"
+        },
+        {
+          "korean": "모르는 척",
+          "english": "pretend not to know",
+          "role": "expression"
+        },
+        {
+          "korean": "기억 안 나는 척",
+          "english": "pretend not to remember",
+          "role": "expression"
+        },
+        {
+          "korean": "아무 일 없던 것처럼",
+          "english": "as if nothing happened",
+          "role": "expression"
+        },
+        {
+          "korean": "굴어볼까",
+          "english": "should I act/behave",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 것처럼",
+        "meaning": "as if ~",
+        "note": "Used to describe acting or appearing as if something were the case"
+      }
+    },
+    {
+      "korean": "철없는 건지? 조금 둔한 건지?",
+      "english": "Is it that I'm still childish? Or a little slow?",
+      "words": [
+        {
+          "korean": "철없는",
+          "english": "immature / childish",
+          "role": "adjective"
+        },
+        {
+          "korean": "건지",
+          "english": "is it that / I wonder if",
+          "role": "expression"
+        },
+        {
+          "korean": "조금",
+          "english": "a little",
+          "role": "adverb"
+        },
+        {
+          "korean": "둔한",
+          "english": "slow / dull",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "눈물은 나오는데 활짝 웃어",
+      "english": "Tears are coming out but I smile brightly",
+      "words": [
+        {
+          "korean": "눈물은",
+          "english": "tears (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "나오는데",
+          "english": "are coming out, but",
+          "role": "verb"
+        },
+        {
+          "korean": "활짝",
+          "english": "brightly / widely",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃어",
+          "english": "smile",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는데",
+        "meaning": "but / even though / while",
+        "note": "Contrasts two simultaneous actions - tears falling while forcing herself to smile"
+      }
+    },
+    {
+      "korean": "자존심은 곱게 접어 하늘 위로",
+      "english": "I fold up my pride neatly and send it to the sky",
+      "words": [
+        {
+          "korean": "자존심은",
+          "english": "pride (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "곱게",
+          "english": "neatly / prettily",
+          "role": "adverb"
+        },
+        {
+          "korean": "접어",
+          "english": "fold",
+          "role": "verb"
+        },
+        {
+          "korean": "하늘 위로",
+          "english": "up to the sky",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}

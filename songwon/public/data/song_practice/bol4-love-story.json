@@ -1,0 +1,380 @@
+{
+  "songId": "bol4-love-story",
+  "lines": [
+    {
+      "korean": "날 좋아하던 그때",
+      "english": "back when you liked me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아하던",
+          "english": "liked (back then)",
+          "role": "verb"
+        },
+        {
+          "korean": "그때",
+          "english": "that time",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "retrospective past modifier",
+        "note": "Attached to 좋아하다 to mark a remembered, ongoing state in the past — not just 'you liked me' but 'back when you used to like me' with nostalgia."
+      }
+    },
+    {
+      "korean": "수줍게 꽃을 건네던 너에게",
+      "english": "to you, shyly handing me a flower",
+      "words": [
+        {
+          "korean": "수줍게",
+          "english": "shyly",
+          "role": "adverb"
+        },
+        {
+          "korean": "꽃을",
+          "english": "a flower",
+          "role": "noun"
+        },
+        {
+          "korean": "건네던",
+          "english": "handing over (back then)",
+          "role": "verb"
+        },
+        {
+          "korean": "너에게",
+          "english": "to you",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "웃으며 손을 내밀었지",
+      "english": "I smiled and reached out my hand",
+      "words": [
+        {
+          "korean": "웃으며",
+          "english": "while smiling",
+          "role": "verb"
+        },
+        {
+          "korean": "손을",
+          "english": "hand",
+          "role": "noun"
+        },
+        {
+          "korean": "내밀었지",
+          "english": "reached out",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-으며",
+        "meaning": "while doing, and",
+        "note": "Connects two simultaneous actions — she smiled while reaching out her hand, showing both actions happened together."
+      }
+    },
+    {
+      "korean": "우린 몰래 run away",
+      "english": "we secretly ran away",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "몰래",
+          "english": "secretly",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "온통 둘뿐인 밤거릴 걷다가",
+      "english": "while walking a night street with just the two of us",
+      "words": [
+        {
+          "korean": "온통",
+          "english": "entirely, all around",
+          "role": "adverb"
+        },
+        {
+          "korean": "둘뿐인",
+          "english": "only the two of us",
+          "role": "expression"
+        },
+        {
+          "korean": "밤거릴",
+          "english": "night street",
+          "role": "noun"
+        },
+        {
+          "korean": "걷다가",
+          "english": "while walking",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다가",
+        "meaning": "while doing, and then",
+        "note": "Indicates an action in progress that gets interrupted or leads to something — they were walking when their eyes met."
+      }
+    },
+    {
+      "korean": "너와 눈이 마주친 그날",
+      "english": "the day our eyes met",
+      "words": [
+        {
+          "korean": "너와",
+          "english": "with you",
+          "role": "noun"
+        },
+        {
+          "korean": "눈이",
+          "english": "eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "마주친",
+          "english": "met, locked",
+          "role": "verb"
+        },
+        {
+          "korean": "그날",
+          "english": "that day",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "너의 눈동자에 cheers",
+      "english": "cheers to your eyes",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "눈동자에",
+          "english": "to your eyes/pupils",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "달빛에 비춰진 우리의 흩어진 잔상",
+      "english": "our scattered afterimage reflected in the moonlight",
+      "words": [
+        {
+          "korean": "달빛에",
+          "english": "in the moonlight",
+          "role": "noun"
+        },
+        {
+          "korean": "비춰진",
+          "english": "reflected, illuminated",
+          "role": "verb"
+        },
+        {
+          "korean": "우리의",
+          "english": "our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "흩어진",
+          "english": "scattered",
+          "role": "verb"
+        },
+        {
+          "korean": "잔상",
+          "english": "afterimage",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "너의 이야기에 취해",
+      "english": "I get drunk on your stories",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이야기에",
+          "english": "on stories",
+          "role": "noun"
+        },
+        {
+          "korean": "취해",
+          "english": "get drunk",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "밤하늘의 별이 쏟아질 것만 같은 기분",
+      "english": "a feeling like the stars in the night sky are about to pour down",
+      "words": [
+        {
+          "korean": "밤하늘의",
+          "english": "of the night sky",
+          "role": "noun"
+        },
+        {
+          "korean": "별이",
+          "english": "stars",
+          "role": "noun"
+        },
+        {
+          "korean": "쏟아질",
+          "english": "pour down",
+          "role": "verb"
+        },
+        {
+          "korean": "것만 같은",
+          "english": "feels as if",
+          "role": "expression"
+        },
+        {
+          "korean": "기분",
+          "english": "feeling",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것만 같은",
+        "meaning": "feels as if, seems like",
+        "note": "Expresses a strong subjective feeling — not claiming the stars literally pour down, but that it feels overwhelmingly like they might."
+      }
+    },
+    {
+      "korean": "날 바래다준 그때",
+      "english": "back when you walked me home",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "바래다준",
+          "english": "walked [me] home",
+          "role": "verb"
+        },
+        {
+          "korean": "그때",
+          "english": "that time",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "살며시 입을 맞추었지",
+      "english": "I gently kissed you",
+      "words": [
+        {
+          "korean": "살며시",
+          "english": "gently, softly",
+          "role": "adverb"
+        },
+        {
+          "korean": "입을",
+          "english": "lips",
+          "role": "noun"
+        },
+        {
+          "korean": "맞추었지",
+          "english": "pressed together, kissed",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우리가 새긴 별자릴 찾다가",
+      "english": "while looking for the constellation we'd traced",
+      "words": [
+        {
+          "korean": "우리가",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "새긴",
+          "english": "carved, traced",
+          "role": "verb"
+        },
+        {
+          "korean": "별자릴",
+          "english": "constellation",
+          "role": "noun"
+        },
+        {
+          "korean": "찾다가",
+          "english": "while looking for",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그래 니가 내 옆에 있는 꿈",
+      "english": "yeah, the dream where you're beside me",
+      "words": [
+        {
+          "korean": "그래",
+          "english": "yeah, right",
+          "role": "interjection"
+        },
+        {
+          "korean": "니가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내 옆에",
+          "english": "beside me",
+          "role": "expression"
+        },
+        {
+          "korean": "있는",
+          "english": "are (present)",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈",
+          "english": "dream",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "아니잖아 이건",
+      "english": "this isn't that, you know",
+      "words": [
+        {
+          "korean": "아니잖아",
+          "english": "isn't, you know",
+          "role": "verb"
+        },
+        {
+          "korean": "이건",
+          "english": "this",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아",
+        "meaning": "you know, as you should know",
+        "note": "Used to assert something obvious or push back against doubt — 'this ISN'T a dream, as you should realize' — emphasizing reality against her own worry."
+      }
+    }
+  ]
+}

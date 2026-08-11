@@ -1,0 +1,340 @@
+{
+  "songId": "momoland-bboom-bboom",
+  "lines": [
+    {
+      "korean": "설레어 너와 나의 랑데뷰",
+      "english": "My heart flutters, our rendezvous, you and me",
+      "words": [
+        {
+          "korean": "설레어",
+          "english": "my heart flutters",
+          "role": "verb"
+        },
+        {
+          "korean": "너와 나의",
+          "english": "yours and mine",
+          "role": "expression"
+        },
+        {
+          "korean": "랑데뷰",
+          "english": "rendezvous",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "내 마음을 들었다 놨다 해 맘대루",
+      "english": "You pick up my heart and put it down, however you please",
+      "words": [
+        {
+          "korean": "내 마음을",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "들었다 놨다 해",
+          "english": "pick up and put down repeatedly",
+          "role": "expression"
+        },
+        {
+          "korean": "맘대루",
+          "english": "however you please",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았/었다 -았/었다 하다",
+        "meaning": "to do X and Y repeatedly, back and forth",
+        "note": "Shows inconsistent behavior — picking up and putting down the heart over and over"
+      }
+    },
+    {
+      "korean": "지금 내 눈엔 눈엔 눈엔 네 어깨 무릎 발",
+      "english": "Right now in my eyes, in my eyes, in my eyes, your shoulders, knees, feet",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 눈엔",
+          "english": "in my eyes",
+          "role": "expression"
+        },
+        {
+          "korean": "네 어깨 무릎 발",
+          "english": "your shoulders, knees, feet",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "숨이 탁 막힐 것 같아",
+      "english": "I feel like I can't breathe",
+      "words": [
+        {
+          "korean": "숨이",
+          "english": "breath",
+          "role": "noun"
+        },
+        {
+          "korean": "탁 막힐",
+          "english": "suddenly get blocked",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "feels like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같아",
+        "meaning": "feels like ~, seems like ~",
+        "note": "Describes a strong physical/emotional reaction as a perception rather than a fact"
+      }
+    },
+    {
+      "korean": "난 너만 보면",
+      "english": "Whenever I just look at you",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "너만",
+          "english": "only you",
+          "role": "expression"
+        },
+        {
+          "korean": "보면",
+          "english": "when I look",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "네 매력에 난 난 놀라게 돼 또",
+      "english": "I'm amazed by your charm, again and again",
+      "words": [
+        {
+          "korean": "네 매력에",
+          "english": "by your charm",
+          "role": "noun"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "놀라게 돼",
+          "english": "become amazed",
+          "role": "verb"
+        },
+        {
+          "korean": "또",
+          "english": "again",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "자꾸만 봐 자꾸 와",
+      "english": "Keep looking, keep coming",
+      "words": [
+        {
+          "korean": "자꾸만",
+          "english": "keep on, repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "봐",
+          "english": "look",
+          "role": "verb"
+        },
+        {
+          "korean": "자꾸",
+          "english": "repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "와",
+          "english": "come",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이제 나만 보게 될 거야",
+      "english": "Now you'll end up seeing only me",
+      "words": [
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "나만",
+          "english": "only me",
+          "role": "expression"
+        },
+        {
+          "korean": "보게 될 거야",
+          "english": "will end up seeing",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 될 거야",
+        "meaning": "will end up ~ing",
+        "note": "Predicts an inevitable outcome with playful confidence — you'll have no choice but to see only me"
+      }
+    },
+    {
+      "korean": "너를 들었다 놓을 거야",
+      "english": "I'll pick you up and put you down",
+      "words": [
+        {
+          "korean": "너를",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "들었다 놓을 거야",
+          "english": "will pick up and put down",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "내 머리부터 뿜뿜 내 발끝까지 뿜뿜 뿜뿜 어",
+      "english": "From my head, bboom bboom, to the tips of my toes, bboom bboom bboom",
+      "words": [
+        {
+          "korean": "내 머리부터",
+          "english": "from my head",
+          "role": "expression"
+        },
+        {
+          "korean": "내 발끝까지",
+          "english": "to the tips of my toes",
+          "role": "expression"
+        },
+        {
+          "korean": "뿜뿜",
+          "english": "bboom bboom (heart pounding)",
+          "role": "interjection"
+        }
+      ]
+    },
+    {
+      "korean": "네 앞에서 난 뿜뿜",
+      "english": "In front of you, I'm bboom bboom",
+      "words": [
+        {
+          "korean": "네 앞에서",
+          "english": "in front of you",
+          "role": "expression"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "뿜뿜",
+          "english": "bboom bboom (heart pounding)",
+          "role": "interjection"
+        }
+      ]
+    },
+    {
+      "korean": "네게 줄게 뿜뿜 뿜뿜 어",
+      "english": "I'll give it to you, bboom bboom bboom",
+      "words": [
+        {
+          "korean": "네게",
+          "english": "to you",
+          "role": "expression"
+        },
+        {
+          "korean": "줄게",
+          "english": "I'll give",
+          "role": "verb"
+        },
+        {
+          "korean": "뿜뿜",
+          "english": "bboom bboom",
+          "role": "interjection"
+        }
+      ]
+    },
+    {
+      "korean": "지금 보고 있는 게 꿈은 아닐 걸",
+      "english": "What you're seeing right now probably isn't a dream",
+      "words": [
+        {
+          "korean": "지금 보고 있는 게",
+          "english": "what you're seeing now",
+          "role": "expression"
+        },
+        {
+          "korean": "꿈은",
+          "english": "a dream",
+          "role": "noun"
+        },
+        {
+          "korean": "아닐 걸",
+          "english": "probably isn't",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "땡땡이치고 날 만나게 될 걸",
+      "english": "You'll end up skipping out to meet me",
+      "words": [
+        {
+          "korean": "땡땡이치고",
+          "english": "skipping (class/work)",
+          "role": "verb"
+        },
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "만나게 될 걸",
+          "english": "will end up meeting",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "이제 나만 생각 날 거야",
+      "english": "Now you'll only think of me",
+      "words": [
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "나만",
+          "english": "only me",
+          "role": "expression"
+        },
+        {
+          "korean": "생각 날 거야",
+          "english": "will think of",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "songId": "kpop-demon-hunters-golden",
+  "lines": [
+    {
+      "korean": "어두워진 앞길속에",
+      "english": "inside the path ahead that had gone dark",
+      "words": [
+        {
+          "korean": "어두워진",
+          "english": "that has become dark",
+          "role": "adjective"
+        },
+        {
+          "korean": "앞길",
+          "english": "the path ahead",
+          "role": "noun"
+        },
+        {
+          "korean": "속에",
+          "english": "inside",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-어/아지다",
+        "meaning": "to become [adjective]",
+        "note": "어둡다 (dark) + 어지다 creates 어두워지다 (to become dark), then -ㄴ makes it a past modifier: 'that has become dark'"
+      }
+    },
+    {
+      "korean": "끝없이 on stage",
+      "english": "endlessly on stage",
+      "words": [
+        {
+          "korean": "끝",
+          "english": "end",
+          "role": "noun"
+        },
+        {
+          "korean": "없이",
+          "english": "without",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "없이",
+        "meaning": "without",
+        "note": "When attached to a noun, 없이 means 'without [noun]' — here 끝없이 literally means 'without end,' i.e., endlessly"
+      }
+    },
+    {
+      "korean": "영원히 깨질 수 없는",
+      "english": "eternally unbreakable",
+      "words": [
+        {
+          "korean": "영원히",
+          "english": "eternally",
+          "role": "adverb"
+        },
+        {
+          "korean": "깨질",
+          "english": "to be broken",
+          "role": "verb"
+        },
+        {
+          "korean": "수 없는",
+          "english": "cannot be",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없는",
+        "meaning": "cannot be [verb]-ed",
+        "note": "깨지다 (to break/shatter) + ㄹ 수 없는 creates a modifier meaning 'that cannot be broken' — the -(으)ㄴ ending modifies the noun that follows"
+      }
+    },
+    {
+      "korean": "밝게 빛나는 우리",
+      "english": "us, shining brightly",
+      "words": [
+        {
+          "korean": "밝게",
+          "english": "brightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "빛나는",
+          "english": "shining",
+          "role": "verb"
+        },
+        {
+          "korean": "우리",
+          "english": "us/we",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게",
+        "meaning": "adverb form of adjectives",
+        "note": "밝다 (bright) + -게 creates 밝게 (brightly), which modifies the verb 빛나다 (to shine) — this pattern turns any adjective into an adverb"
+      }
+    }
+  ]
+}

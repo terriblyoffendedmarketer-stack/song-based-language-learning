@@ -1,0 +1,555 @@
+{
+  "songId": "bol4-some",
+  "lines": [
+    {
+      "korean": "표현이 서툰 것도 잘못인가요",
+      "english": "Is it a crime that I'm bad at expressing myself?",
+      "words": [
+        {
+          "korean": "표현이",
+          "english": "expression",
+          "role": "noun"
+        },
+        {
+          "korean": "서툰",
+          "english": "clumsy at / bad at",
+          "role": "adjective"
+        },
+        {
+          "korean": "것도",
+          "english": "thing also / the fact that",
+          "role": "noun"
+        },
+        {
+          "korean": "잘못인가요",
+          "english": "is it wrong / is it a mistake",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 것",
+        "meaning": "nominalizer that turns a verb/adjective into 'the fact/thing that...'",
+        "note": "서툰 것 = 'the fact that [I'm] clumsy' — turns the adjective into a noun phrase that can be the subject"
+      }
+    },
+    {
+      "korean": "나 차가운 도시에 따뜻한 여잔데",
+      "english": "I'm a warm woman in a cold city",
+      "words": [
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "차가운 도시에",
+          "english": "in a cold city",
+          "role": "noun"
+        },
+        {
+          "korean": "따뜻한",
+          "english": "warm",
+          "role": "adjective"
+        },
+        {
+          "korean": "여잔데",
+          "english": "I'm a woman (but...)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ데",
+        "meaning": "provides background/context, often with contrast or 'but...' feeling",
+        "note": "여잔데 = 여자인데, she's stating her nature as context for why she wants to express herself warmly"
+      }
+    },
+    {
+      "korean": "그냥 좋아한단 말도 안 되는가요",
+      "english": "Is it so strange to just say I like you?",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just / simply",
+          "role": "adverb"
+        },
+        {
+          "korean": "좋아한단 말도",
+          "english": "saying that I like [you]",
+          "role": "expression"
+        },
+        {
+          "korean": "안 되는가요",
+          "english": "isn't it okay / is it not allowed",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ/는다는 말",
+        "meaning": "the statement/words that..., saying that...",
+        "note": "좋아한다는 말 = 'the words/statement that I like you' — frames direct speech as a noun"
+      }
+    },
+    {
+      "korean": "솔직하게 난 말하고 싶어요",
+      "english": "I want to say it honestly",
+      "words": [
+        {
+          "korean": "솔직하게",
+          "english": "honestly / frankly",
+          "role": "adverb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "말하고 싶어요",
+          "english": "want to say",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "사라져 아니 사라지지 마",
+      "english": "Disappear — no wait, don't disappear",
+      "words": [
+        {
+          "korean": "사라져",
+          "english": "disappear",
+          "role": "verb"
+        },
+        {
+          "korean": "아니",
+          "english": "no / wait",
+          "role": "interjection"
+        },
+        {
+          "korean": "사라지지 마",
+          "english": "don't disappear",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't do ~, negative command",
+        "note": "사라지지 마 = 'don't disappear' — informal negative imperative showing her contradictory feelings"
+      }
+    },
+    {
+      "korean": "네 맘을 보여줘 아니 보여주지 마",
+      "english": "Show me your heart — no wait, don't show it",
+      "words": [
+        {
+          "korean": "네 맘을",
+          "english": "your heart",
+          "role": "noun"
+        },
+        {
+          "korean": "보여줘",
+          "english": "show me",
+          "role": "verb"
+        },
+        {
+          "korean": "아니",
+          "english": "no / wait",
+          "role": "interjection"
+        },
+        {
+          "korean": "보여주지 마",
+          "english": "don't show",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "하루 종일 머릿속에 네 미소만",
+      "english": "All day long, only your smile in my head",
+      "words": [
+        {
+          "korean": "하루 종일",
+          "english": "all day long",
+          "role": "expression"
+        },
+        {
+          "korean": "머릿속에",
+          "english": "in my head",
+          "role": "noun"
+        },
+        {
+          "korean": "네 미소만",
+          "english": "only your smile",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "우리 그냥 한번 만나볼래요",
+      "english": "Let's just try meeting up once",
+      "words": [
+        {
+          "korean": "우리",
+          "english": "we / us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그냥",
+          "english": "just / casually",
+          "role": "adverb"
+        },
+        {
+          "korean": "한번",
+          "english": "once / one time",
+          "role": "adverb"
+        },
+        {
+          "korean": "만나볼래요",
+          "english": "shall we try meeting",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 보다",
+        "meaning": "to try doing something",
+        "note": "만나보다 = 'try meeting' — combined with -ㄹ래요 (shall we?) to make a tentative suggestion"
+      }
+    },
+    {
+      "korean": "나 오늘부터 너랑 썸을 한번 타볼 거야",
+      "english": "Starting today, I'm going to try riding a 썸 with you",
+      "words": [
+        {
+          "korean": "오늘부터",
+          "english": "starting today / from today",
+          "role": "expression"
+        },
+        {
+          "korean": "너랑",
+          "english": "with you",
+          "role": "noun"
+        },
+        {
+          "korean": "썸을",
+          "english": "a 썸 (pre-dating stage)",
+          "role": "noun"
+        },
+        {
+          "korean": "타볼 거야",
+          "english": "going to try riding",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 볼 거야",
+        "meaning": "going to try doing ~",
+        "note": "타볼 거야 = 타 + 보다 + -(으)ㄹ 거야, frames her decision as an attempt rather than certainty, perfect for the uncertain 썸 stage"
+      }
+    },
+    {
+      "korean": "나 매일매일 네게 전화도 할 거야",
+      "english": "I'm going to call you every single day",
+      "words": [
+        {
+          "korean": "매일매일",
+          "english": "every single day",
+          "role": "adverb"
+        },
+        {
+          "korean": "네게",
+          "english": "to you",
+          "role": "noun"
+        },
+        {
+          "korean": "전화도 할 거야",
+          "english": "will call too",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "밀가루 못 먹는 나를 달래서라도",
+      "english": "Even if I have to coax myself past not being able to eat flour",
+      "words": [
+        {
+          "korean": "밀가루 못 먹는",
+          "english": "can't eat flour",
+          "role": "verb"
+        },
+        {
+          "korean": "나를",
+          "english": "myself",
+          "role": "pronoun"
+        },
+        {
+          "korean": "달래서라도",
+          "english": "even if I have to coax/soothe",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서라도",
+        "meaning": "even if I have to ~, even by means of ~",
+        "note": "달래서라도 = 'even if I have to coax myself' — shows determination to overcome her dietary restriction for him"
+      }
+    },
+    {
+      "korean": "너랑 맛있는 걸 먹으러 다닐 거야",
+      "english": "I'll go around eating good food with you",
+      "words": [
+        {
+          "korean": "너랑",
+          "english": "with you",
+          "role": "noun"
+        },
+        {
+          "korean": "맛있는 걸",
+          "english": "delicious things",
+          "role": "noun"
+        },
+        {
+          "korean": "먹으러",
+          "english": "in order to eat",
+          "role": "verb"
+        },
+        {
+          "korean": "다닐 거야",
+          "english": "will go around",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)러 다니다",
+        "meaning": "to go around doing ~, to make rounds to do ~",
+        "note": "먹으러 다니다 = 'go around eating' — suggests repeated dates, making it a habit"
+      }
+    },
+    {
+      "korean": "사랑은 이렇게 생기는 게 아니겠어",
+      "english": "Isn't this how love starts?",
+      "words": [
+        {
+          "korean": "사랑은",
+          "english": "love",
+          "role": "noun"
+        },
+        {
+          "korean": "이렇게",
+          "english": "like this / this way",
+          "role": "adverb"
+        },
+        {
+          "korean": "생기는 게",
+          "english": "the thing that forms/happens",
+          "role": "verb"
+        },
+        {
+          "korean": "아니겠어",
+          "english": "isn't it / wouldn't it be",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 게 아니다",
+        "meaning": "rhetorical question: isn't it ~? wouldn't it be ~?",
+        "note": "생기는 게 아니겠어 = 'isn't this how it happens?' — she's convincing herself that this tentative approach is how love begins"
+      }
+    },
+    {
+      "korean": "어쩌면 내 맘의 반쪽을 네게 걸어보는 건데",
+      "english": "Maybe it means I'm betting half my heart on you",
+      "words": [
+        {
+          "korean": "어쩌면",
+          "english": "maybe / perhaps",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 맘의 반쪽을",
+          "english": "half of my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "네게",
+          "english": "on you",
+          "role": "noun"
+        },
+        {
+          "korean": "걸어보는 건데",
+          "english": "the fact that I'm trying to bet",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 건데",
+        "meaning": "it's that ~, the thing is that ~ (providing explanation)",
+        "note": "걸어보는 것인데 shortened to 건데, explains what '이렇게 생기는 것' actually means — she's taking a risk"
+      }
+    },
+    {
+      "korean": "나는 오늘도 네게 차일 것만 같아도",
+      "english": "Even though I feel like I'll just get rejected by you again today",
+      "words": [
+        {
+          "korean": "오늘도",
+          "english": "today too / again today",
+          "role": "adverb"
+        },
+        {
+          "korean": "네게",
+          "english": "by you",
+          "role": "noun"
+        },
+        {
+          "korean": "차일 것만 같아도",
+          "english": "even though it seems I'll only be rejected",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같아도",
+        "meaning": "even though it seems like ~",
+        "note": "차이다 (to be rejected/dumped) + -(으)ㄹ 것 같다 (seems like) + -아/어도 (even if) — despite expecting rejection, she'll keep trying"
+      }
+    },
+    {
+      "korean": "난 한번 더 너에게 다시 달려가 볼 거야",
+      "english": "I'm going to run toward you one more time",
+      "words": [
+        {
+          "korean": "한번 더",
+          "english": "one more time",
+          "role": "adverb"
+        },
+        {
+          "korean": "너에게",
+          "english": "toward you",
+          "role": "noun"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "달려가 볼 거야",
+          "english": "going to try running",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "나도 그 애처럼 좋아요 좀 눌러줘",
+      "english": "Press 'like' for me too, like you do for that person",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "me too / for me also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그 애처럼",
+          "english": "like that person",
+          "role": "expression"
+        },
+        {
+          "korean": "좋아요 좀",
+          "english": "'like' (social media)",
+          "role": "noun"
+        },
+        {
+          "korean": "눌러줘",
+          "english": "press for me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "to do something for someone",
+        "note": "눌러줘 = 'press for me' — asking him to give her attention on social media like he does for others"
+      }
+    },
+    {
+      "korean": "나도 너랑 말 좀 할 수 있게 해줘",
+      "english": "Let me be able to talk with you a bit",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "me too / I also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "너랑",
+          "english": "with you",
+          "role": "noun"
+        },
+        {
+          "korean": "말 좀",
+          "english": "words / talk a bit",
+          "role": "noun"
+        },
+        {
+          "korean": "할 수 있게 해줘",
+          "english": "let me be able to do",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있게 하다",
+        "meaning": "to make it so someone can do ~, to allow/enable someone to do ~",
+        "note": "할 수 있게 해줘 = 'make it so I can do' + 'do it for me' — causative + benefactive, asking for permission/opportunity to interact"
+      }
+    },
+    {
+      "korean": "나는 풀이 죽어서 오늘도 포기하고",
+      "english": "I get discouraged and give up again today",
+      "words": [
+        {
+          "korean": "풀이 죽어서",
+          "english": "getting discouraged / becoming deflated",
+          "role": "expression"
+        },
+        {
+          "korean": "오늘도",
+          "english": "today too / again today",
+          "role": "adverb"
+        },
+        {
+          "korean": "포기하고",
+          "english": "give up and",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "뒤를 돌아볼 때쯤 나를 붙잡는 넌",
+      "english": "When I'm about to turn around, you're the one who grabs me",
+      "words": [
+        {
+          "korean": "뒤를 돌아볼 때쯤",
+          "english": "around the time I look back",
+          "role": "expression"
+        },
+        {
+          "korean": "나를",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "붙잡는",
+          "english": "grabbing / catching",
+          "role": "verb"
+        },
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 때쯤",
+        "meaning": "around the time when ~, about when ~",
+        "note": "돌아볼 때쯤 = 'around the time I turn around' — 쯤 adds approximation, suggesting the fantasy moment right before giving up"
+      }
+    }
+  ]
+}

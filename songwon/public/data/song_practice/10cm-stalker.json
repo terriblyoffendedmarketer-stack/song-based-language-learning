@@ -1,0 +1,370 @@
+{
+  "songId": "10cm-stalker",
+  "lines": [
+    {
+      "korean": "나도 알아 나의 문제가 무엇인지",
+      "english": "I know too, what my problem is",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "I too, me also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "알아",
+          "english": "know",
+          "role": "verb"
+        },
+        {
+          "korean": "나의 문제가",
+          "english": "my problem",
+          "role": "noun"
+        },
+        {
+          "korean": "무엇인지",
+          "english": "what it is",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-인지",
+        "meaning": "what/whether it is",
+        "note": "Turns a question into an indirect clause, here embedded after 알아 to mean 'know what [something] is'"
+      }
+    },
+    {
+      "korean": "난 못났고 별볼일 없지",
+      "english": "I'm plain-looking and unremarkable",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I (contracted)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "못났고",
+          "english": "am ugly/plain",
+          "role": "adjective"
+        },
+        {
+          "korean": "별볼일 없지",
+          "english": "have nothing special going on",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "그 애가 나를 부끄러워 한다는 게",
+      "english": "the fact that she's embarrassed by me",
+      "words": [
+        {
+          "korean": "그 애가",
+          "english": "that person (she)",
+          "role": "noun"
+        },
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "부끄러워 한다는 게",
+          "english": "the fact that [she] is embarrassed",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다는 것",
+        "meaning": "the fact that ~",
+        "note": "Nominalizes a clause into a noun phrase, here contracted to -다는 게 to express 'the fact that she finds me embarrassing'"
+      }
+    },
+    {
+      "korean": "슬프지만 내가 뭐라고",
+      "english": "is sad, but who am I to complain",
+      "words": [
+        {
+          "korean": "슬프지만",
+          "english": "is sad, but",
+          "role": "adjective"
+        },
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "뭐라고",
+          "english": "what/who [am I to say]",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "빛나는 누군갈 좋아하는 일에 기준이 있는 거라면",
+      "english": "If there are standards for liking someone who shines",
+      "words": [
+        {
+          "korean": "빛나는 누군갈",
+          "english": "someone who shines",
+          "role": "noun"
+        },
+        {
+          "korean": "좋아하는 일에",
+          "english": "the act of liking",
+          "role": "noun"
+        },
+        {
+          "korean": "기준이",
+          "english": "standards",
+          "role": "noun"
+        },
+        {
+          "korean": "있는 거라면",
+          "english": "if it's the case that [they] exist",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 거라면",
+        "meaning": "if it's the case that ~",
+        "note": "Introduces a hypothetical condition, here accepting the premise that standards exist for who can pursue someone attractive"
+      }
+    },
+    {
+      "korean": "이해할 수 없지만 할말 없는걸",
+      "english": "I can't understand it, but I have nothing to say",
+      "words": [
+        {
+          "korean": "이해할 수 없지만",
+          "english": "can't understand, but",
+          "role": "verb"
+        },
+        {
+          "korean": "할말",
+          "english": "words to say",
+          "role": "noun"
+        },
+        {
+          "korean": "없는걸",
+          "english": "don't have any",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "난 안경 쓴 샌님이니까",
+      "english": "because I'm just a bespectacled bookish type",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "안경 쓴",
+          "english": "wearing glasses",
+          "role": "verb"
+        },
+        {
+          "korean": "샌님",
+          "english": "bookish nerd",
+          "role": "noun"
+        },
+        {
+          "korean": "이니까",
+          "english": "because [I] am",
+          "role": "connector"
+        }
+      ]
+    },
+    {
+      "korean": "내가 이렇게 사랑하는데",
+      "english": "Even though I love her this much",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이렇게",
+          "english": "this much, like this",
+          "role": "adverb"
+        },
+        {
+          "korean": "사랑하는데",
+          "english": "love, but/though",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는데",
+        "meaning": "but/though/even though",
+        "note": "Sets up a contrast or background context, here expressing that despite loving her, the situation doesn't change"
+      }
+    },
+    {
+      "korean": "나는 아무것도 할 수 없고",
+      "english": "I can't do anything at all",
+      "words": [
+        {
+          "korean": "나는",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "아무것도",
+          "english": "anything at all",
+          "role": "pronoun"
+        },
+        {
+          "korean": "할 수 없고",
+          "english": "can't do",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "바라만 보는데도",
+      "english": "even though I'm only watching",
+      "words": [
+        {
+          "korean": "바라만",
+          "english": "only gaze/watch",
+          "role": "verb"
+        },
+        {
+          "korean": "보는데도",
+          "english": "even though [I] see/watch",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는데도",
+        "meaning": "even though ~",
+        "note": "Emphasizes a concession — despite the minimal action of just watching, it still causes discomfort"
+      }
+    },
+    {
+      "korean": "내가 그렇게 불편할까요",
+      "english": "am I really that uncomfortable?",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그렇게",
+          "english": "that much, so",
+          "role": "adverb"
+        },
+        {
+          "korean": "불편할까요",
+          "english": "am [I] uncomfortable?",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "내가 나쁜 걸까요",
+      "english": "am I a bad person?",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나쁜",
+          "english": "bad",
+          "role": "adjective"
+        },
+        {
+          "korean": "걸까요",
+          "english": "is it that ~? (polite question)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "이제 알아 나의 할 일이 무엇인지",
+      "english": "Now I know what I'm supposed to do",
+      "words": [
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "알아",
+          "english": "know",
+          "role": "verb"
+        },
+        {
+          "korean": "나의 할 일이",
+          "english": "what I should do",
+          "role": "noun"
+        },
+        {
+          "korean": "무엇인지",
+          "english": "what it is",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "다 포기하고 참아야 하지",
+      "english": "give up on everything and just endure it",
+      "words": [
+        {
+          "korean": "다",
+          "english": "everything, all",
+          "role": "adverb"
+        },
+        {
+          "korean": "포기하고",
+          "english": "give up and",
+          "role": "verb"
+        },
+        {
+          "korean": "참아야 하지",
+          "english": "have to endure",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야 하지",
+        "meaning": "have to, must",
+        "note": "Expresses obligation or necessity, here an obligation the speaker has imposed on himself"
+      }
+    },
+    {
+      "korean": "저 잘나가는 너의 남자친구처럼 되고 싶지만 불가능하지",
+      "english": "I want to become like your successful boyfriend, but it's impossible",
+      "words": [
+        {
+          "korean": "잘나가는",
+          "english": "successful, doing well",
+          "role": "verb"
+        },
+        {
+          "korean": "너의 남자친구처럼",
+          "english": "like your boyfriend",
+          "role": "noun"
+        },
+        {
+          "korean": "되고 싶지만",
+          "english": "want to become, but",
+          "role": "verb"
+        },
+        {
+          "korean": "불가능하지",
+          "english": "it's impossible",
+          "role": "adjective"
+        }
+      ]
+    }
+  ]
+}

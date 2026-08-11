@@ -1,0 +1,380 @@
+{
+  "songId": "ive-xoxz",
+  "lines": [
+    {
+      "korean": "두 눈 꼭 감아볼래?",
+      "english": "Will you try closing your eyes tight?",
+      "words": [
+        {
+          "korean": "두 눈",
+          "english": "both eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "꼭",
+          "english": "tightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "감아볼래",
+          "english": "will you try closing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 볼래?",
+        "meaning": "will you try ~?",
+        "note": "A soft invitation combining -아/어 보다 (try doing) with -(으)ㄹ래? (will you?), used here to gently ask someone to close their eyes"
+      }
+    },
+    {
+      "korean": "어떤 판타질 상상하든 내가 다 이뤄줄게",
+      "english": "Whatever fantasy you imagine, I'll make it all come true",
+      "words": [
+        {
+          "korean": "어떤 판타질",
+          "english": "whatever fantasy",
+          "role": "noun"
+        },
+        {
+          "korean": "상상하든",
+          "english": "you imagine",
+          "role": "verb"
+        },
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다",
+          "english": "all",
+          "role": "adverb"
+        },
+        {
+          "korean": "이뤄줄게",
+          "english": "will make it come true (for you)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-든",
+        "meaning": "whatever/no matter",
+        "note": "Attached to 상상하다 to mean 'whatever you imagine' — expressing that the outcome is the same regardless of what fantasy is chosen"
+      }
+    },
+    {
+      "korean": "너는 그냥 꿈만 꾸면 돼",
+      "english": "You just have to dream",
+      "words": [
+        {
+          "korean": "너는",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그냥",
+          "english": "just",
+          "role": "adverb"
+        },
+        {
+          "korean": "꿈만",
+          "english": "only dreams",
+          "role": "noun"
+        },
+        {
+          "korean": "꾸면 돼",
+          "english": "have to dream/it's enough to dream",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면 돼",
+        "meaning": "it's enough to ~, just need to ~",
+        "note": "Expresses that doing this action is sufficient — 'you only need to dream, nothing else is required'"
+      }
+    },
+    {
+      "korean": "점점 커지는 silence",
+      "english": "The silence growing bigger and bigger",
+      "words": [
+        {
+          "korean": "점점",
+          "english": "gradually, more and more",
+          "role": "adverb"
+        },
+        {
+          "korean": "커지는",
+          "english": "growing/getting bigger",
+          "role": "verb"
+        },
+        {
+          "korean": "silence",
+          "english": "silence",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "아득히 너를 이끈 소리",
+      "english": "A sound that led you far away",
+      "words": [
+        {
+          "korean": "아득히",
+          "english": "faintly, far away",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이끈",
+          "english": "led, guided",
+          "role": "verb"
+        },
+        {
+          "korean": "소리",
+          "english": "sound",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "원하면 끄덕여봐",
+      "english": "If you want it, just nod",
+      "words": [
+        {
+          "korean": "원하면",
+          "english": "if you want",
+          "role": "verb"
+        },
+        {
+          "korean": "끄덕여봐",
+          "english": "try nodding",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면",
+        "meaning": "if ~",
+        "note": "Conditional form of 원하다 (to want) — creates an if-then relationship with the command to nod"
+      }
+    },
+    {
+      "korean": "너는 깨어날 수 없을 걸",
+      "english": "You won't be able to wake up",
+      "words": [
+        {
+          "korean": "너는",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "깨어날",
+          "english": "to wake up",
+          "role": "verb"
+        },
+        {
+          "korean": "수 없을 걸",
+          "english": "won't be able to, I bet",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을 수 없을 걸",
+        "meaning": "won't be able to ~, probably",
+        "note": "Combines -(으)ㄹ 수 없다 (cannot) with -을 걸 (I bet/probably) to express confident prediction about inability"
+      }
+    },
+    {
+      "korean": "너의 모든 것을 원해",
+      "english": "I want everything of yours",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "모든 것을",
+          "english": "everything (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "원해",
+          "english": "want",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너라면 다, I want it all",
+      "english": "If it's from you, I want it all",
+      "words": [
+        {
+          "korean": "너라면",
+          "english": "if it's you",
+          "role": "expression"
+        },
+        {
+          "korean": "다",
+          "english": "all, everything",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)라면",
+        "meaning": "if it's ~",
+        "note": "Conditional form after a noun (너) meaning 'if it's you' or 'as long as it's you' — emphasizing that the condition matters"
+      }
+    },
+    {
+      "korean": "모조리 다, I want it all",
+      "english": "Every last bit, I want it all",
+      "words": [
+        {
+          "korean": "모조리",
+          "english": "every last bit, entirely",
+          "role": "adverb"
+        },
+        {
+          "korean": "다",
+          "english": "all",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "더 못되게 더 착하게",
+      "english": "More wickedly, more sweetly",
+      "words": [
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "못되게",
+          "english": "wickedly, meanly",
+          "role": "adverb"
+        },
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "착하게",
+          "english": "sweetly, kindly",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "노래를 따라와 날 찾아내 봐",
+      "english": "Follow the song and try to find me",
+      "words": [
+        {
+          "korean": "노래를",
+          "english": "the song (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "따라와",
+          "english": "follow",
+          "role": "verb"
+        },
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "찾아내 봐",
+          "english": "try finding",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "깨어나지 마, 순진한 건 됐으니",
+      "english": "Don't wake up — we've had enough of innocence",
+      "words": [
+        {
+          "korean": "깨어나지 마",
+          "english": "don't wake up",
+          "role": "verb"
+        },
+        {
+          "korean": "순진한 건",
+          "english": "innocent things/innocence",
+          "role": "noun"
+        },
+        {
+          "korean": "됐으니",
+          "english": "is enough/since it's done",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't ~",
+        "note": "Negative command form — telling someone not to wake up"
+      }
+    },
+    {
+      "korean": "넌 어때 날 믿니",
+      "english": "What about you — do you trust me?",
+      "words": [
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어때",
+          "english": "how about, what about",
+          "role": "expression"
+        },
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "믿니",
+          "english": "do you trust",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "꿈을 깨더라도 가져야겠어",
+      "english": "Even if it means breaking the dream, I have to have it",
+      "words": [
+        {
+          "korean": "꿈을",
+          "english": "the dream (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "깨더라도",
+          "english": "even if I break/wake from",
+          "role": "verb"
+        },
+        {
+          "korean": "가져야겠어",
+          "english": "I have to have it",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-더라도",
+        "meaning": "even if ~",
+        "note": "Expresses willingness to accept a consequence — 'even if the dream breaks, I still have to have what I want'"
+      }
+    }
+  ]
+}

@@ -26,3 +26,17 @@ Debugging knowledge captured during development. Format: `what broke | why | wha
 ## AI / Content Generation
 - AI agents refuse to reproduce Korean song lyrics | Copyright/safety filters block lyric reproduction in context files | Agents write analysis with placeholder `lines` fields, `merge_lyrics_into_context.py` injects Korean text from existing lyrics files
 - `generate_lesson_v6.py` quality gate catches bad lessons | Without validation, AI sometimes produces lessons with wrong screen counts or missing fields | `quality_gate()` checks screen count, required types, Korean text presence before saving
+- Song practice pipeline V1 pre-extracted lines then sent them to Claude individually | Split sentences (혹시...좋아하게 / 되버린걸까), wrong context-dependent translations (크게=largely vs big for eyes), no grammar notes, missed chorus hooks | V2 sends full lyrics + song_context, lets Claude pick 12-15 study units, join enjambed lines, and add grammar pattern notes
+- Always test API-generated content one-at-a-time first | Bulk generation bakes in the first prompt's quality level across all outputs — if the prompt is weak, you get 72 weak files | Run 1 song, audit line-by-line, iterate prompt, test 2 more, then bulk
+- Pure English lines slip through Korean song practice generation | Claude includes lines like "Now I don't know me, who are you?" as study units | Post-generation audit catches these — remove any line with 0 word chunks
+- Grammar objects sometimes have wrong field names | Claude returns `role` instead of `note` in grammar objects (~1 in 72 songs) | Audit script checks for missing required fields (pattern, meaning, note)
+- Song practice "1 word chunk" warnings are mostly benign | Mixed Korean/English lines like "설렌다, me likey" legitimately have only 1 Korean chunk | Validator warns but doesn't fail — correct behavior for bilingual pop songs
+
+## Practice Engine
+- Discrimination feedback needs distractor context to be useful | Showing just "Correct!" or "Wrong!" teaches nothing — learner needs to know WHY each option is right or wrong | Pass `VocabItem` metadata through distractors, generate per-option explanations at question build time
+- Fill-in-the-blank needs lines with 3+ word chunks | Lines with only 1-2 chunks don't have enough context to make the blank meaningful | Filter `songLines` to `words.length >= 3` before selecting
+- Grammar comparison needs pre-defined confusable pairs | Random grammar pairings aren't pedagogically useful — learners confuse specific pairs (-고 vs -지만, -아/어서 vs -고) | Hardcode `GRAMMAR_CONFUSABLES` array of pairs that are actually confused by learners
+- Listening questions need auto-play delay | If TTS fires instantly on render, it plays during the page transition animation and sounds broken | 300ms setTimeout before first auto-play
+- Wrong-answer re-exposure needs dedup by question ID | Without it, a re-exposure question could itself trigger another re-exposure, creating infinite question growth | Prefix re-exposure IDs with `re-` and skip re-insertion for questions already prefixed
+- Fill-in-blank distractors can match words in the same sentence | A word from the blanked line could also be a valid fill-in answer | Exclude all words present in `line.words` from the distractor pool
+- Song context enrichment in lesson practice | Vocab items without `songLine` from their lesson still benefit from showing a real song example | `findSongContext()` searches loaded `songLines` for any line containing the vocab word

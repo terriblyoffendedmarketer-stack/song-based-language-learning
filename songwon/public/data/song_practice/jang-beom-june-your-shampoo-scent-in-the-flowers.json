@@ -1,0 +1,385 @@
+{
+  "songId": "jang-beom-june-your-shampoo-scent-in-the-flowers",
+  "lines": [
+    {
+      "korean": "흔들리는 꽃들 속에서 네 샴푸향이 느껴지는 거야",
+      "english": "Among the swaying flowers, I catch the scent of your shampoo",
+      "words": [
+        {
+          "korean": "흔들리는",
+          "english": "swaying",
+          "role": "verb"
+        },
+        {
+          "korean": "꽃들 속에서",
+          "english": "among the flowers",
+          "role": "noun"
+        },
+        {
+          "korean": "네",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "샴푸향이",
+          "english": "shampoo scent",
+          "role": "noun"
+        },
+        {
+          "korean": "느껴지는 거야",
+          "english": "is felt / I can sense",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 거야",
+        "meaning": "it is that ~; casual explanatory ending",
+        "note": "Used here to explain what's happening in a matter-of-fact, personal way"
+      }
+    },
+    {
+      "korean": "스쳐 지나간 건가 뒤돌아보지만",
+      "english": "Did you just pass by? I turn around, but",
+      "words": [
+        {
+          "korean": "스쳐 지나간",
+          "english": "passed by",
+          "role": "verb"
+        },
+        {
+          "korean": "건가",
+          "english": "is it that? / I wonder if",
+          "role": "expression"
+        },
+        {
+          "korean": "뒤돌아보지만",
+          "english": "I turn around, but",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 건가",
+        "meaning": "I wonder if it is that ~",
+        "note": "Self-directed question expressing uncertainty about whether someone just passed by"
+      }
+    },
+    {
+      "korean": "그냥 사람들만 보이는 거야",
+      "english": "It's just strangers I see",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just",
+          "role": "adverb"
+        },
+        {
+          "korean": "사람들만",
+          "english": "only people / strangers",
+          "role": "noun"
+        },
+        {
+          "korean": "보이는 거야",
+          "english": "are visible / I see",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다가가는 집 근처에서 괜히 핸드폰만 만지는 거야",
+      "english": "Near the house I'm almost home to, I just fidget with my phone for no reason",
+      "words": [
+        {
+          "korean": "다가가는 집 근처에서",
+          "english": "near the house I'm approaching",
+          "role": "noun"
+        },
+        {
+          "korean": "괜히",
+          "english": "for no reason / pointlessly",
+          "role": "adverb"
+        },
+        {
+          "korean": "핸드폰만",
+          "english": "only my phone",
+          "role": "noun"
+        },
+        {
+          "korean": "만지는 거야",
+          "english": "I'm touching / fidgeting with",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "한 번 연락해 볼까 용기내 보지만",
+      "english": "Should I try calling once? I try to gather courage, but",
+      "words": [
+        {
+          "korean": "한 번",
+          "english": "once / one time",
+          "role": "adverb"
+        },
+        {
+          "korean": "연락해 볼까",
+          "english": "should I try contacting",
+          "role": "verb"
+        },
+        {
+          "korean": "용기내 보지만",
+          "english": "I try to gather courage, but",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 보지만",
+        "meaning": "I try to do X, but [fail]",
+        "note": "Shows repeated failed attempts to gather courage to call"
+      }
+    },
+    {
+      "korean": "그냥 내 마음만 아쉬운 거야",
+      "english": "It's just my own heart that ends up hurting",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 마음만",
+          "english": "only my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "아쉬운 거야",
+          "english": "feels regret / hurts",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "걷다가 보면 항상 이렇게 너를",
+      "english": "When I walk, I'm always like this, thinking of you",
+      "words": [
+        {
+          "korean": "걷다가 보면",
+          "english": "when I'm walking / as I walk",
+          "role": "verb"
+        },
+        {
+          "korean": "항상",
+          "english": "always",
+          "role": "adverb"
+        },
+        {
+          "korean": "이렇게",
+          "english": "like this",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다가 보면",
+        "meaning": "when doing ~; if you keep doing ~",
+        "note": "Describes a habitual action that leads to a certain state or realization"
+      }
+    },
+    {
+      "korean": "바라만 보던 너를",
+      "english": "You, whom I only ever watched",
+      "words": [
+        {
+          "korean": "바라만 보던",
+          "english": "only watched / just gazed at",
+          "role": "verb"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "past retrospective modifier for an ongoing past state",
+        "note": "Describes a continuous action in the past that the speaker recalls — 'the you I used to only watch'"
+      }
+    },
+    {
+      "korean": "기다린다고 말할까",
+      "english": "Should I say I've been waiting?",
+      "words": [
+        {
+          "korean": "기다린다고",
+          "english": "that I'm waiting / I've been waiting",
+          "role": "verb"
+        },
+        {
+          "korean": "말할까",
+          "english": "should I say",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(ㄴ/는)다고 말하다",
+        "meaning": "to say that ~",
+        "note": "Indirect quotation expressing what he's considering saying to the person"
+      }
+    },
+    {
+      "korean": "지금 집 앞에 계속 이렇게 너를 아쉬워 하다 너를 연락했었다 할까",
+      "english": "Right now, still like this in front of your house, should I say I called because I missed you?",
+      "words": [
+        {
+          "korean": "지금 집 앞에",
+          "english": "right now in front of your house",
+          "role": "noun"
+        },
+        {
+          "korean": "계속 이렇게",
+          "english": "still like this / continuously",
+          "role": "adverb"
+        },
+        {
+          "korean": "아쉬워 하다",
+          "english": "missing / feeling regret",
+          "role": "verb"
+        },
+        {
+          "korean": "연락했었다 할까",
+          "english": "should I say I called",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "진짜치는 꽃들 속에서 네 샴푸향만 보이는 거야",
+      "english": "Among the flowers now in bloom, I can only see your shampoo scent",
+      "words": [
+        {
+          "korean": "진짜치는 꽃들",
+          "english": "blooming flowers",
+          "role": "noun"
+        },
+        {
+          "korean": "속에서",
+          "english": "among / inside",
+          "role": "particle"
+        },
+        {
+          "korean": "네 샴푸향만",
+          "english": "only your shampoo scent",
+          "role": "noun"
+        },
+        {
+          "korean": "보이는 거야",
+          "english": "is visible / I can see",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그냥 내 마음만 바빠지는 거야",
+      "english": "It's just my heart getting busier, that's all",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 마음만",
+          "english": "only my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "바빠지는 거야",
+          "english": "gets busy / rushes",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어떤 계절이 너를 우연히라도 너를 마주치게 할까",
+      "english": "I hope some season brings you to me, even by coincidence, to run into you",
+      "words": [
+        {
+          "korean": "어떤 계절이",
+          "english": "what season / some season",
+          "role": "noun"
+        },
+        {
+          "korean": "우연히라도",
+          "english": "even by coincidence",
+          "role": "adverb"
+        },
+        {
+          "korean": "마주치게 할까",
+          "english": "will make me run into",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하다",
+        "meaning": "to make / cause something to happen",
+        "note": "Expresses hope that some season will cause them to encounter each other"
+      }
+    },
+    {
+      "korean": "난 이대로 아쉬워하다 너를 바라만 보던 너를",
+      "english": "I stay like this, missing you, just watching you, the you I only ever watched",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이대로",
+          "english": "like this / as it is",
+          "role": "adverb"
+        },
+        {
+          "korean": "아쉬워하다",
+          "english": "missing / feeling regret",
+          "role": "verb"
+        },
+        {
+          "korean": "바라만 보던 너를",
+          "english": "the you I only watched",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "기다리면서 아무말 못하고 그리워만 할까",
+      "english": "Waiting without being able to say anything, will I just end up missing you instead?",
+      "words": [
+        {
+          "korean": "기다리면서",
+          "english": "while waiting",
+          "role": "verb"
+        },
+        {
+          "korean": "아무말 못하고",
+          "english": "unable to say anything",
+          "role": "verb"
+        },
+        {
+          "korean": "그리워만 할까",
+          "english": "will I only miss you",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면서",
+        "meaning": "while doing ~; at the same time as ~",
+        "note": "Describes simultaneous actions — waiting while being unable to speak"
+      }
+    }
+  ]
+}

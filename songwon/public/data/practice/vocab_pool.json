@@ -1,0 +1,1256 @@
+[
+  {
+    "korean": "꿈",
+    "english": "dream",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit1-lesson1",
+    "unit": 1,
+    "lessonNumber": 1,
+    "songLine": {
+      "korean": "꿈을 꾸듯이 너를 만났어",
+      "english": "I met you as if in a dream",
+      "highlights": [
+        "꿈"
+      ]
+    }
+  },
+  {
+    "korean": "웃고 울다",
+    "english": "to laugh and cry",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson1",
+    "unit": 1,
+    "lessonNumber": 1,
+    "songLine": {
+      "korean": "오직 너를 웃게 하기 위한 코너",
+      "english": "A segment just to make you laugh",
+      "highlights": [
+        "웃"
+      ]
+    }
+  },
+  {
+    "korean": "사랑",
+    "english": "love",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit1-lesson1",
+    "unit": 1,
+    "lessonNumber": 1,
+    "songLine": {
+      "korean": "사랑하고 싶다",
+      "english": "I want to love",
+      "highlights": [
+        "사랑"
+      ]
+    }
+  },
+  {
+    "korean": "사랑하고 싶다",
+    "english": "to want to love",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson1",
+    "unit": 1,
+    "lessonNumber": 1,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "찾다",
+    "english": "to find / to look for",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit1-lesson2",
+    "unit": 1,
+    "lessonNumber": 2,
+    "songLine": {
+      "korean": "앞질러 가고 싶어 하지",
+      "english": "They want to get ahead",
+      "highlights": [
+        "싶"
+      ]
+    }
+  },
+  {
+    "korean": "찾고 싶다",
+    "english": "to want to find",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson2",
+    "unit": 1,
+    "lessonNumber": 2,
+    "songLine": {
+      "korean": "앞질러 가고 싶어 하지",
+      "english": "They want to get ahead",
+      "highlights": [
+        "고 싶"
+      ]
+    }
+  },
+  {
+    "korean": "사람",
+    "english": "person",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit1-lesson2",
+    "unit": 1,
+    "lessonNumber": 2,
+    "songLine": {
+      "korean": "저마다 삶을 향해",
+      "english": "Each person toward their life",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "말하고 싶다",
+    "english": "to want to say",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson2",
+    "unit": 1,
+    "lessonNumber": 2,
+    "songLine": {
+      "korean": "멈추지 않겠다고",
+      "english": "That I won't stop",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "기다리다",
+    "english": "to wait",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit1-lesson3",
+    "unit": 1,
+    "lessonNumber": 3,
+    "songLine": {
+      "korean": "기다린 네가 맞는지",
+      "english": "Whether you are the one I've been waiting for",
+      "highlights": [
+        "기다린"
+      ]
+    }
+  },
+  {
+    "korean": "기다리고 있다",
+    "english": "to be waiting",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson3",
+    "unit": 1,
+    "lessonNumber": 3,
+    "songLine": {
+      "korean": "기다린 네가 맞는지",
+      "english": "Whether you are the one I've been waiting for",
+      "highlights": [
+        "기다린"
+      ]
+    }
+  },
+  {
+    "korean": "지키다",
+    "english": "to protect / to keep",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit1-lesson3",
+    "unit": 1,
+    "lessonNumber": 3,
+    "songLine": {
+      "korean": "아직은 멀리에서 너를 지켜보고 싶어",
+      "english": "I still want to watch over you from afar",
+      "highlights": [
+        "지켜"
+      ]
+    }
+  },
+  {
+    "korean": "지키고 있다",
+    "english": "to be protecting",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson3",
+    "unit": 1,
+    "lessonNumber": 3,
+    "songLine": {
+      "korean": "아직은 멀리에서 너를 지켜보고 싶어",
+      "english": "I still want to watch over you from afar",
+      "highlights": [
+        "지켜"
+      ]
+    }
+  },
+  {
+    "korean": "괜찮다",
+    "english": "to be okay / to be fine",
+    "type": "word",
+    "partOfSpeech": "adjective",
+    "lessonId": "v5-unit1-lesson4",
+    "unit": 1,
+    "lessonNumber": 4,
+    "songLine": {
+      "korean": "괜찮으면 나를 만나줘요",
+      "english": "If it's okay, please meet me",
+      "highlights": [
+        "괜찮"
+      ]
+    }
+  },
+  {
+    "korean": "괜찮으면",
+    "english": "if it's okay",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson4",
+    "unit": 1,
+    "lessonNumber": 4,
+    "songLine": {
+      "korean": "괜찮으면 나를 만나줘요",
+      "english": "If it's okay, please meet me",
+      "highlights": [
+        "괜찮으면"
+      ]
+    }
+  },
+  {
+    "korean": "시간",
+    "english": "time",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit1-lesson4",
+    "unit": 1,
+    "lessonNumber": 4,
+    "songLine": {
+      "korean": "운명의 시간은 또 더디게 갔지",
+      "english": "The time of fate passed slowly",
+      "highlights": [
+        "시간"
+      ]
+    }
+  },
+  {
+    "korean": "시간이 되면",
+    "english": "when there's time / if you have time",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit1-lesson4",
+    "unit": 1,
+    "lessonNumber": 4,
+    "songLine": {
+      "korean": "시간이 되면 나를 찾아줘요",
+      "english": "When you have time, please come find me",
+      "highlights": [
+        "시간이 되면"
+      ]
+    }
+  },
+  {
+    "korean": "아프다",
+    "english": "to hurt / to be painful",
+    "type": "word",
+    "partOfSpeech": "adjective",
+    "lessonId": "v5-unit2-lesson5",
+    "unit": 2,
+    "lessonNumber": 5,
+    "songLine": {
+      "korean": "아프지만 기억해요",
+      "english": "It hurts but I remember",
+      "highlights": [
+        "아프"
+      ]
+    }
+  },
+  {
+    "korean": "아프지만",
+    "english": "it hurts but...",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson5",
+    "unit": 2,
+    "lessonNumber": 5,
+    "songLine": {
+      "korean": "아프지만 기억해요",
+      "english": "It hurts but I remember",
+      "highlights": [
+        "아프지만"
+      ]
+    }
+  },
+  {
+    "korean": "기억",
+    "english": "memory",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit2-lesson5",
+    "unit": 2,
+    "lessonNumber": 5,
+    "songLine": {
+      "korean": "남아있던 기억들이 떠올랐을 뿐이야",
+      "english": "The remaining memories just came to mind",
+      "highlights": [
+        "기억"
+      ]
+    }
+  },
+  {
+    "korean": "기억하지만",
+    "english": "I remember but...",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson5",
+    "unit": 2,
+    "lessonNumber": 5,
+    "songLine": {
+      "korean": "기억하지만 지나간 일이야",
+      "english": "I remember but it's the past",
+      "highlights": [
+        "기억하지만"
+      ]
+    }
+  },
+  {
+    "korean": "멈추다",
+    "english": "to stop",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit2-lesson6",
+    "unit": 2,
+    "lessonNumber": 6,
+    "songLine": {
+      "korean": "이 마음을 멈출 수 없어요",
+      "english": "I cannot stop this feeling",
+      "highlights": [
+        "멈출"
+      ]
+    }
+  },
+  {
+    "korean": "멈추지 못하다",
+    "english": "cannot stop",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson6",
+    "unit": 2,
+    "lessonNumber": 6,
+    "songLine": {
+      "korean": "이 마음을 멈추지 못해",
+      "english": "I cannot stop this feeling",
+      "highlights": [
+        "멈추지 못해"
+      ]
+    }
+  },
+  {
+    "korean": "잊다",
+    "english": "to forget",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit2-lesson6",
+    "unit": 2,
+    "lessonNumber": 6,
+    "songLine": {
+      "korean": "너를 잊을 수 없어",
+      "english": "I cannot forget you",
+      "highlights": [
+        "잊"
+      ]
+    }
+  },
+  {
+    "korean": "잊지 못하다",
+    "english": "cannot forget",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson6",
+    "unit": 2,
+    "lessonNumber": 6,
+    "songLine": {
+      "korean": "너를 잊지 못할 거야",
+      "english": "I won't be able to forget you",
+      "highlights": [
+        "잊지 못할"
+      ]
+    }
+  },
+  {
+    "korean": "변하다",
+    "english": "to change",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit2-lesson7",
+    "unit": 2,
+    "lessonNumber": 7,
+    "songLine": {
+      "korean": "내 마음은 변하지 않아요",
+      "english": "My heart does not change",
+      "highlights": [
+        "변하"
+      ]
+    }
+  },
+  {
+    "korean": "변하지 않다",
+    "english": "to not change",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson7",
+    "unit": 2,
+    "lessonNumber": 7,
+    "songLine": {
+      "korean": "내 마음은 변하지 않아요",
+      "english": "My heart does not change",
+      "highlights": [
+        "변하지 않"
+      ]
+    }
+  },
+  {
+    "korean": "끝",
+    "english": "end",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit2-lesson7",
+    "unit": 2,
+    "lessonNumber": 7,
+    "songLine": {
+      "korean": "이 꿈은 끝나지 않아",
+      "english": "This dream does not end",
+      "highlights": [
+        "끝"
+      ]
+    }
+  },
+  {
+    "korean": "끝나지 않다",
+    "english": "to not end",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson7",
+    "unit": 2,
+    "lessonNumber": 7,
+    "songLine": {
+      "korean": "이 꿈은 끝나지 않아",
+      "english": "This dream does not end",
+      "highlights": [
+        "끝나지 않"
+      ]
+    }
+  },
+  {
+    "korean": "보다",
+    "english": "to see / to watch",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit2-lesson8",
+    "unit": 2,
+    "lessonNumber": 8,
+    "songLine": {
+      "korean": "여전히 널 보고 있어",
+      "english": "I'm still looking at you",
+      "highlights": [
+        "보고"
+      ]
+    }
+  },
+  {
+    "korean": "봐서",
+    "english": "because I saw / having seen",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson8",
+    "unit": 2,
+    "lessonNumber": 8,
+    "songLine": {
+      "korean": "처음 너를 봤을 때부터 다르게",
+      "english": "From the first time I saw you, it was different",
+      "highlights": [
+        "봤을"
+      ]
+    }
+  },
+  {
+    "korean": "듣다",
+    "english": "to hear / to listen",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit2-lesson8",
+    "unit": 2,
+    "lessonNumber": 8,
+    "songLine": {
+      "korean": "또 나를 부르네 calling",
+      "english": "You're calling me again",
+      "highlights": [
+        "부르네"
+      ]
+    }
+  },
+  {
+    "korean": "들어서",
+    "english": "because I heard / having heard",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit2-lesson8",
+    "unit": 2,
+    "lessonNumber": 8,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "빛나다",
+    "english": "to shine",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson10",
+    "unit": 3,
+    "lessonNumber": 10,
+    "songLine": {
+      "korean": "이 밤 그날의 반딧불을",
+      "english": "The fireflies of that night",
+      "highlights": [
+        "반딧불"
+      ]
+    }
+  },
+  {
+    "korean": "빛날 것 같다",
+    "english": "it seems like it'll shine",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson10",
+    "unit": 3,
+    "lessonNumber": 10,
+    "songLine": {
+      "korean": "이 밤 그날의 반딧불을",
+      "english": "The fireflies of that night",
+      "highlights": [
+        "반딧불"
+      ]
+    }
+  },
+  {
+    "korean": "울다",
+    "english": "to cry",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson10",
+    "unit": 3,
+    "lessonNumber": 10,
+    "songLine": {
+      "korean": "웃고 울다",
+      "english": "to laugh and cry",
+      "highlights": [
+        "울"
+      ]
+    }
+  },
+  {
+    "korean": "울 것 같다",
+    "english": "I think I'll cry",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson10",
+    "unit": 3,
+    "lessonNumber": 10,
+    "songLine": {
+      "korean": "그대가 멀리 사라져 버릴 것 같아",
+      "english": "It seems like you'll disappear far away",
+      "highlights": [
+        "버릴 것 같아"
+      ]
+    }
+  },
+  {
+    "korean": "알다",
+    "english": "to know",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson11",
+    "unit": 3,
+    "lessonNumber": 11,
+    "songLine": {
+      "korean": "아니잖아 이건",
+      "english": "It's not (a dream), you know",
+      "highlights": [
+        "알"
+      ]
+    }
+  },
+  {
+    "korean": "알잖아",
+    "english": "you know (reminding)",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson11",
+    "unit": 3,
+    "lessonNumber": 11,
+    "songLine": {
+      "korean": "아니잖아 이건",
+      "english": "It's not (a dream), you know",
+      "highlights": [
+        "잖아"
+      ]
+    }
+  },
+  {
+    "korean": "남다",
+    "english": "to remain / to be left",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson11",
+    "unit": 3,
+    "lessonNumber": 11,
+    "songLine": {
+      "korean": "시간이 남잖아",
+      "english": "Time remains, you know",
+      "highlights": [
+        "남"
+      ]
+    }
+  },
+  {
+    "korean": "남잖아",
+    "english": "it remains, you know",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson11",
+    "unit": 3,
+    "lessonNumber": 11,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "걷다",
+    "english": "to walk",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson12",
+    "unit": 3,
+    "lessonNumber": 12,
+    "songLine": {
+      "korean": "너랑 맛있는 걸 먹으러 다닐 거야",
+      "english": "I'll go around eating delicious things with you",
+      "highlights": [
+        "다닐"
+      ]
+    }
+  },
+  {
+    "korean": "걷는데",
+    "english": "I'm walking, and...",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson12",
+    "unit": 3,
+    "lessonNumber": 12,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "비",
+    "english": "rain",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit3-lesson12",
+    "unit": 3,
+    "lessonNumber": 12,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "비가 오는데",
+    "english": "it's raining, but/and...",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson12",
+    "unit": 3,
+    "lessonNumber": 12,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "잡다",
+    "english": "to hold / to grab",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson9",
+    "unit": 3,
+    "lessonNumber": 9,
+    "songLine": {
+      "korean": "Hold on",
+      "english": "Hold on (잡아 줘)",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "잡아 줘",
+    "english": "hold onto (me) please",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson9",
+    "unit": 3,
+    "lessonNumber": 9,
+    "songLine": {
+      "korean": "Hold on",
+      "english": "Hold on",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "안다",
+    "english": "to hug / to hold",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit3-lesson9",
+    "unit": 3,
+    "lessonNumber": 9,
+    "songLine": {
+      "korean": "나를 안아줘",
+      "english": "Please hug me",
+      "highlights": [
+        "안아줘"
+      ]
+    }
+  },
+  {
+    "korean": "안아 줘",
+    "english": "hug (me) please",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit3-lesson9",
+    "unit": 3,
+    "lessonNumber": 9,
+    "songLine": {
+      "korean": "빛이 다 꺼진 여기 나를 안아줘",
+      "english": "Here where all the light has gone out, please hug me",
+      "highlights": [
+        "안아줘"
+      ]
+    }
+  },
+  {
+    "korean": "사라지다",
+    "english": "to disappear",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit4-lesson13",
+    "unit": 4,
+    "lessonNumber": 13,
+    "songLine": {
+      "korean": "내가 왔던 route 잊어버렸어",
+      "english": "I forgot the route I came from",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "사라져도",
+    "english": "even if (it) disappears",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson13",
+    "unit": 4,
+    "lessonNumber": 13,
+    "songLine": {
+      "korean": "이뤄지지 않는 꿈속에서",
+      "english": "In a dream that doesn't come true",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "잊다",
+    "english": "to forget",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit4-lesson13",
+    "unit": 4,
+    "lessonNumber": 13,
+    "songLine": {
+      "korean": "내가 왔던 route 잊어버렸어",
+      "english": "I forgot the route I came from",
+      "highlights": [
+        "잊어버렸어"
+      ]
+    }
+  },
+  {
+    "korean": "잊어도",
+    "english": "even if I forget",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson13",
+    "unit": 4,
+    "lessonNumber": 13,
+    "songLine": {
+      "korean": "내가 왔던 route 잊어버렸어",
+      "english": "I forgot the route I came from",
+      "highlights": [
+        "잊어버렸어"
+      ]
+    }
+  },
+  {
+    "korean": "멀어지다",
+    "english": "to grow distant",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit4-lesson14",
+    "unit": 4,
+    "lessonNumber": 14,
+    "songLine": {
+      "korean": "우리는 점점 멀어져 갔어",
+      "english": "We gradually grew more distant",
+      "highlights": [
+        "멀어져"
+      ]
+    }
+  },
+  {
+    "korean": "멀어지다",
+    "english": "to grow distant / drift apart",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson14",
+    "unit": 4,
+    "lessonNumber": 14,
+    "songLine": {
+      "korean": "우리는 점점 멀어져 갔어",
+      "english": "We gradually grew more distant",
+      "highlights": [
+        "멀어져"
+      ]
+    }
+  },
+  {
+    "korean": "슬프다",
+    "english": "to be sad",
+    "type": "word",
+    "partOfSpeech": "adjective",
+    "lessonId": "v5-unit4-lesson14",
+    "unit": 4,
+    "lessonNumber": 14,
+    "songLine": {
+      "korean": "슬픈 노래를 들으면 생각나",
+      "english": "When I hear sad songs, I think of you",
+      "highlights": [
+        "슬픈"
+      ]
+    }
+  },
+  {
+    "korean": "슬퍼지다",
+    "english": "to become sad",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson14",
+    "unit": 4,
+    "lessonNumber": 14,
+    "songLine": {
+      "korean": "생각하면 슬퍼져",
+      "english": "When I think about it, I become sad",
+      "highlights": [
+        "슬퍼져"
+      ]
+    }
+  },
+  {
+    "korean": "별",
+    "english": "star",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit4-lesson15",
+    "unit": 4,
+    "lessonNumber": 15,
+    "songLine": {
+      "korean": "별처럼 빛나는 너",
+      "english": "You who shine like a star",
+      "highlights": [
+        "별"
+      ]
+    }
+  },
+  {
+    "korean": "꿈처럼",
+    "english": "like a dream",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson15",
+    "unit": 4,
+    "lessonNumber": 15,
+    "songLine": {
+      "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+      "english": "Let it go like a dream that will fade when I open my eyes",
+      "highlights": [
+        "꿈처럼"
+      ]
+    }
+  },
+  {
+    "korean": "꽃",
+    "english": "flower",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit4-lesson15",
+    "unit": 4,
+    "lessonNumber": 15,
+    "songLine": {
+      "korean": "꽃처럼 예쁜 사람",
+      "english": "A person as pretty as a flower",
+      "highlights": [
+        "꽃"
+      ]
+    }
+  },
+  {
+    "korean": "별처럼",
+    "english": "like a star",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson15",
+    "unit": 4,
+    "lessonNumber": 15,
+    "songLine": {
+      "korean": "",
+      "english": "",
+      "highlights": []
+    }
+  },
+  {
+    "korean": "목소리",
+    "english": "voice",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit4-lesson16",
+    "unit": 4,
+    "lessonNumber": 16,
+    "songLine": {
+      "korean": "너의 목소리만 넘나 크게 들려",
+      "english": "Only your voice is heard so loudly",
+      "highlights": [
+        "목소리"
+      ]
+    }
+  },
+  {
+    "korean": "좋아하게 되다",
+    "english": "to end up liking",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson16",
+    "unit": 4,
+    "lessonNumber": 16,
+    "songLine": {
+      "korean": "혹시 내가 너를 좋아하게 되버린걸까",
+      "english": "Perhaps have I ended up liking you?",
+      "highlights": [
+        "좋아하게"
+      ]
+    }
+  },
+  {
+    "korean": "들리다",
+    "english": "to be heard",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit4-lesson16",
+    "unit": 4,
+    "lessonNumber": 16,
+    "songLine": {
+      "korean": "너의 목소리만 넘나 크게 들려",
+      "english": "Only your voice is heard so loudly",
+      "highlights": [
+        "들려"
+      ]
+    }
+  },
+  {
+    "korean": "들리게 되다",
+    "english": "to end up being heard",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit4-lesson16",
+    "unit": 4,
+    "lessonNumber": 16,
+    "songLine": {
+      "korean": "너의 목소리만 넘나 크게 들려",
+      "english": "Only your voice is heard so loudly",
+      "highlights": [
+        "들려"
+      ]
+    }
+  },
+  {
+    "korean": "버리다",
+    "english": "to throw away",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit5-lesson17",
+    "unit": 5,
+    "lessonNumber": 17,
+    "songLine": {
+      "korean": "나조차도 버린 나",
+      "english": "I who even abandoned myself",
+      "highlights": [
+        "버린"
+      ]
+    }
+  },
+  {
+    "korean": "잊어 버리다",
+    "english": "to forget completely",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson17",
+    "unit": 5,
+    "lessonNumber": 17,
+    "songLine": {
+      "korean": "내가 왔던 route 잊어버렸어",
+      "english": "I forgot the route I came from",
+      "highlights": [
+        "잊어버렸어"
+      ]
+    }
+  },
+  {
+    "korean": "지우다",
+    "english": "to erase / to delete",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit5-lesson17",
+    "unit": 5,
+    "lessonNumber": 17,
+    "songLine": {
+      "korean": "날 지워 너의 인형이 되려 해",
+      "english": "I erase myself to become your doll",
+      "highlights": [
+        "지워"
+      ]
+    }
+  },
+  {
+    "korean": "지워 버리다",
+    "english": "to erase completely",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson17",
+    "unit": 5,
+    "lessonNumber": 17,
+    "songLine": {
+      "korean": "날 지워 너의 인형이 되려 해",
+      "english": "I erase myself to become your doll",
+      "highlights": [
+        "지워"
+      ]
+    }
+  },
+  {
+    "korean": "시작하다",
+    "english": "to start / to begin",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit5-lesson18",
+    "unit": 5,
+    "lessonNumber": 18,
+    "songLine": {
+      "korean": "새로운 시작은 늘 설레게 하지",
+      "english": "A new start always makes you excited",
+      "highlights": [
+        "시작"
+      ]
+    }
+  },
+  {
+    "korean": "시작하기 전에",
+    "english": "before starting",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson18",
+    "unit": 5,
+    "lessonNumber": 18,
+    "songLine": {
+      "korean": "새로운 시작은 늘 설레게 하지",
+      "english": "A new start always makes you excited",
+      "highlights": [
+        "시작"
+      ]
+    }
+  },
+  {
+    "korean": "끝나다",
+    "english": "to end / to finish",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit5-lesson18",
+    "unit": 5,
+    "lessonNumber": 18,
+    "songLine": {
+      "korean": "내가 지쳐 쓰러질 때까진",
+      "english": "Until I collapse from exhaustion",
+      "highlights": [
+        "때까진"
+      ]
+    }
+  },
+  {
+    "korean": "끝나기 전에",
+    "english": "before it ends",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson18",
+    "unit": 5,
+    "lessonNumber": 18,
+    "songLine": {
+      "korean": "내가 지쳐 쓰러질 때까진",
+      "english": "Until I collapse from exhaustion",
+      "highlights": [
+        "때까진"
+      ]
+    }
+  },
+  {
+    "korean": "생각하다",
+    "english": "to think",
+    "type": "word",
+    "partOfSpeech": "verb",
+    "lessonId": "v5-unit5-lesson19",
+    "unit": 5,
+    "lessonNumber": 19,
+    "songLine": {
+      "korean": "생각이 나 말해보는 거야",
+      "english": "Thoughts come to mind, so I'm trying to say it",
+      "highlights": [
+        "생각"
+      ]
+    }
+  },
+  {
+    "korean": "웃다가도",
+    "english": "even while laughing",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson19",
+    "unit": 5,
+    "lessonNumber": 19,
+    "songLine": {
+      "korean": "웃다가도 울 것 같아요",
+      "english": "Even while laughing, I think I'll cry",
+      "highlights": [
+        "웃다가도"
+      ]
+    }
+  },
+  {
+    "korean": "혼자",
+    "english": "alone",
+    "type": "word",
+    "partOfSpeech": "noun/adverb",
+    "lessonId": "v5-unit5-lesson19",
+    "unit": 5,
+    "lessonNumber": 19,
+    "songLine": {
+      "korean": "혼자서 네 생각을 해요",
+      "english": "I think of you alone",
+      "highlights": [
+        "혼자"
+      ]
+    }
+  },
+  {
+    "korean": "생각하다가도",
+    "english": "even while thinking",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson19",
+    "unit": 5,
+    "lessonNumber": 19,
+    "songLine": {
+      "korean": "나를 먼저 생각해줬어",
+      "english": "You thought of me first",
+      "highlights": [
+        "생각해"
+      ]
+    }
+  },
+  {
+    "korean": "추억",
+    "english": "memory / nostalgia",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit5-lesson20",
+    "unit": 5,
+    "lessonNumber": 20,
+    "songLine": {
+      "korean": "추억이 되었을 거야",
+      "english": "it must have become a memory",
+      "highlights": [
+        "추억"
+      ]
+    }
+  },
+  {
+    "korean": "걷던 길",
+    "english": "the street we used to walk",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson20",
+    "unit": 5,
+    "lessonNumber": 20,
+    "songLine": {
+      "korean": "우리가 걷던 길",
+      "english": "the street we used to walk",
+      "highlights": [
+        "걷던 길"
+      ]
+    }
+  },
+  {
+    "korean": "향기",
+    "english": "scent / fragrance",
+    "type": "word",
+    "partOfSpeech": "noun",
+    "lessonId": "v5-unit5-lesson20",
+    "unit": 5,
+    "lessonNumber": 20,
+    "songLine": {
+      "korean": "좋아하던 향기",
+      "english": "the scent I used to like",
+      "highlights": [
+        "향기"
+      ]
+    }
+  },
+  {
+    "korean": "좋아하던 향기",
+    "english": "the scent I used to like",
+    "type": "phrase",
+    "partOfSpeech": "",
+    "lessonId": "v5-unit5-lesson20",
+    "unit": 5,
+    "lessonNumber": 20,
+    "songLine": {
+      "korean": "좋아하던 향기",
+      "english": "the scent I used to like",
+      "highlights": [
+        "좋아하던 향기"
+      ]
+    }
+  }
+]

@@ -1,0 +1,355 @@
+{
+  "songId": "moon-byul-absence",
+  "lines": [
+    {
+      "korean": "아무 뜻도 없이 무심하게 내뱉었지만",
+      "english": "I said it carelessly, without meaning anything by it",
+      "words": [
+        {
+          "korean": "아무 뜻도 없이",
+          "english": "without any meaning",
+          "role": "expression"
+        },
+        {
+          "korean": "무심하게",
+          "english": "carelessly / thoughtlessly",
+          "role": "adverb"
+        },
+        {
+          "korean": "내뱉었지만",
+          "english": "spat out / said, but",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지만",
+        "meaning": "but / although",
+        "note": "Connects two contrasting clauses — she said something without meaning it, but now realizes its deeper significance."
+      }
+    },
+    {
+      "korean": "이젠 나만 혼자 남겨두지 말란 뜻이야",
+      "english": "Now it means don't leave me here alone",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "나만 혼자",
+          "english": "me alone / only me by myself",
+          "role": "expression"
+        },
+        {
+          "korean": "남겨두지 말란",
+          "english": "don't leave behind",
+          "role": "verb"
+        },
+        {
+          "korean": "뜻이야",
+          "english": "it means / the meaning is",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말-",
+        "meaning": "don't do ~",
+        "note": "Negative imperative embedded in reported speech (-란) — expressing what she actually meant to say."
+      }
+    },
+    {
+      "korean": "내 생각을 설명할 수 없어",
+      "english": "I can't explain my own thoughts",
+      "words": [
+        {
+          "korean": "내 생각을",
+          "english": "my thoughts",
+          "role": "noun"
+        },
+        {
+          "korean": "설명할 수 없어",
+          "english": "can't explain",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없다",
+        "meaning": "cannot / unable to do ~",
+        "note": "Expresses inability — she's unable to articulate what she's feeling."
+      }
+    },
+    {
+      "korean": "혼란스러워 leave me alone",
+      "english": "I'm confused, leave me alone",
+      "words": [
+        {
+          "korean": "혼란스러워",
+          "english": "I'm confused / bewildered",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "비워낼 수 없는 미움도",
+      "english": "Even resentment I can't empty out",
+      "words": [
+        {
+          "korean": "비워낼 수 없는",
+          "english": "can't empty out",
+          "role": "verb"
+        },
+        {
+          "korean": "미움",
+          "english": "resentment / hatred",
+          "role": "noun"
+        },
+        {
+          "korean": "도",
+          "english": "even / also",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없는",
+        "meaning": "cannot ~ / unable to ~",
+        "note": "Modifying form of -(으)ㄹ 수 없다 that describes the noun 미움 — resentment that cannot be emptied out."
+      }
+    },
+    {
+      "korean": "내가 사랑했던 말들이 어느 순간 두려워져",
+      "english": "The words I used to love at some point become frightening",
+      "words": [
+        {
+          "korean": "내가 사랑했던",
+          "english": "that I loved / used to love",
+          "role": "verb"
+        },
+        {
+          "korean": "말들이",
+          "english": "words",
+          "role": "noun"
+        },
+        {
+          "korean": "어느 순간",
+          "english": "at some point",
+          "role": "expression"
+        },
+        {
+          "korean": "두려워져",
+          "english": "become frightening / scary",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지다",
+        "meaning": "to become ~",
+        "note": "Shows transformation — words that were once loved have turned into something that causes fear."
+      }
+    },
+    {
+      "korean": "내 마음을 밀어내",
+      "english": "It pushes my heart away",
+      "words": [
+        {
+          "korean": "내 마음을",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "밀어내",
+          "english": "pushes away / pushes out",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "나도 모르게 죽고 있나 봐",
+      "english": "I think, without realizing it, something in me is dying",
+      "words": [
+        {
+          "korean": "나도 모르게",
+          "english": "without realizing / unknowingly",
+          "role": "expression"
+        },
+        {
+          "korean": "죽고 있나 봐",
+          "english": "seems to be dying / I guess I'm dying",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-나 보다",
+        "meaning": "it seems / I suppose",
+        "note": "Expresses a tentative realization based on observation — she's quietly noticing something dying inside her without fully understanding it."
+      }
+    },
+    {
+      "korean": "네 마음이 필요해",
+      "english": "I need your heart",
+      "words": [
+        {
+          "korean": "네 마음이",
+          "english": "your heart",
+          "role": "noun"
+        },
+        {
+          "korean": "필요해",
+          "english": "need / necessary",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "하루 매 순간 네 몸을 안고 있어도",
+      "english": "Even holding your body every moment of every day",
+      "words": [
+        {
+          "korean": "하루 매 순간",
+          "english": "every moment of every day",
+          "role": "expression"
+        },
+        {
+          "korean": "네 몸을",
+          "english": "your body",
+          "role": "noun"
+        },
+        {
+          "korean": "안고 있어도",
+          "english": "even while holding",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if / although",
+        "note": "Sets up contrast — despite the physical closeness of holding someone, the emotional absence remains."
+      }
+    },
+    {
+      "korean": "네가 사라질 것 같아",
+      "english": "It feels like you're going to disappear",
+      "words": [
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "사라질",
+          "english": "will disappear / vanish",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems like / feels like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같다",
+        "meaning": "it seems like ~ / feels like ~",
+        "note": "Expresses subjective feeling or conjecture — the fear that the person will disappear emotionally even though they're physically present."
+      }
+    },
+    {
+      "korean": "채울 수 없는 부재에",
+      "english": "In an absence I can't fill",
+      "words": [
+        {
+          "korean": "채울 수 없는",
+          "english": "can't fill",
+          "role": "verb"
+        },
+        {
+          "korean": "부재에",
+          "english": "in absence",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "난 엉켜버린 삶을 살아가네",
+      "english": "I'm living a tangled-up life",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "엉켜버린",
+          "english": "tangled up / entangled",
+          "role": "verb"
+        },
+        {
+          "korean": "삶을",
+          "english": "life",
+          "role": "noun"
+        },
+        {
+          "korean": "살아가네",
+          "english": "am living / go on living",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to end up ~ing / to completely ~",
+        "note": "Emphasizes completion or regret — her life has become completely tangled, suggesting something irreversible."
+      }
+    },
+    {
+      "korean": "결국 모든 이별은 슬프기 마련이야",
+      "english": "In the end, every breakup is bound to be sad",
+      "words": [
+        {
+          "korean": "결국",
+          "english": "in the end / ultimately",
+          "role": "adverb"
+        },
+        {
+          "korean": "모든 이별은",
+          "english": "every breakup / separation",
+          "role": "noun"
+        },
+        {
+          "korean": "슬프기 마련이야",
+          "english": "is bound to be sad",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 마련이다",
+        "meaning": "is bound to / is only natural that",
+        "note": "Expresses inevitability or universal truth — it's natural and expected that all breakups cause sadness."
+      }
+    },
+    {
+      "korean": "내가 사라질 것 같아",
+      "english": "It feels like I'm going to disappear",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "사라질",
+          "english": "will disappear / vanish",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems like / feels like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같다",
+        "meaning": "it seems like ~ / feels like ~",
+        "note": "The subject shifts from 네가 to 내가 — the fear transforms from losing the other person to losing herself."
+      }
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "songId": "lim-jae-beum",
+  "lines": [
+    {
+      "korean": "아주 나쁜 소식이 많아 세상은 끝을 향해 간다",
+      "english": "There's so much terrible news, the world is heading toward its end",
+      "words": [
+        {
+          "korean": "아주 나쁜 소식",
+          "english": "very bad news / terrible news",
+          "role": "noun"
+        },
+        {
+          "korean": "많아",
+          "english": "there's a lot / is plentiful",
+          "role": "verb"
+        },
+        {
+          "korean": "세상은",
+          "english": "the world",
+          "role": "noun"
+        },
+        {
+          "korean": "끝을",
+          "english": "the end / its end",
+          "role": "noun"
+        },
+        {
+          "korean": "향해 간다",
+          "english": "heads toward / is going toward",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "을/를 향해",
+        "meaning": "toward, heading in the direction of",
+        "note": "Shows directional movement or orientation — here the world is moving 'toward its end'"
+      }
+    },
+    {
+      "korean": "내가 잠든 사이에도 지구 반대 편에 신음은 끝나지 않아",
+      "english": "Even while I'm sleeping, on the other side of the globe the suffering never stops",
+      "words": [
+        {
+          "korean": "내가 잠든 사이에도",
+          "english": "even while I sleep",
+          "role": "expression"
+        },
+        {
+          "korean": "지구 반대 편에",
+          "english": "on the other side of the earth",
+          "role": "noun"
+        },
+        {
+          "korean": "신음은",
+          "english": "the groaning / suffering",
+          "role": "noun"
+        },
+        {
+          "korean": "끝나지 않아",
+          "english": "doesn't end / never stops",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 사이에",
+        "meaning": "while/during the time that",
+        "note": "Describes something happening during the same period as another action — suffering continues during the time that the speaker sleeps"
+      }
+    },
+    {
+      "korean": "전쟁에 동맥이 끊긴 대지는 인간의 피를 뿜어내니까",
+      "english": "A land whose arteries were severed by war is bleeding out human blood",
+      "words": [
+        {
+          "korean": "전쟁에",
+          "english": "by war / in war",
+          "role": "noun"
+        },
+        {
+          "korean": "동맥이 끊긴",
+          "english": "whose arteries were cut / severed",
+          "role": "verb"
+        },
+        {
+          "korean": "대지는",
+          "english": "the land / the earth",
+          "role": "noun"
+        },
+        {
+          "korean": "인간의 피를",
+          "english": "human blood",
+          "role": "noun"
+        },
+        {
+          "korean": "뿜어내니까",
+          "english": "is bleeding out / is gushing out",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)니까",
+        "meaning": "because, since (providing reason)",
+        "note": "Gives a reason or explanation — used here to explain why the land of tears reeks of blood"
+      }
+    },
+    {
+      "korean": "허기진 배를 쥐고 난민촌을 헤매는 부녀자와 어린이들",
+      "english": "Women and children wandering refugee camps, clutching their starving bellies",
+      "words": [
+        {
+          "korean": "허기진 배를",
+          "english": "starving belly / hungry stomach",
+          "role": "noun"
+        },
+        {
+          "korean": "쥐고",
+          "english": "clutching / holding tight",
+          "role": "verb"
+        },
+        {
+          "korean": "난민촌을",
+          "english": "refugee camp",
+          "role": "noun"
+        },
+        {
+          "korean": "헤매는",
+          "english": "wandering / roaming lost",
+          "role": "verb"
+        },
+        {
+          "korean": "부녀자와 어린이들",
+          "english": "women and children",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고",
+        "meaning": "and (connecting actions)",
+        "note": "Connects two simultaneous actions — clutching their bellies while wandering the camps"
+      }
+    },
+    {
+      "korean": "좀 바쁜 우리에게는 그저 먼 곳의 이야기일 뿐",
+      "english": "For those of us too busy, it's just a story from somewhere far away",
+      "words": [
+        {
+          "korean": "좀 바쁜",
+          "english": "a bit busy / too busy",
+          "role": "adjective"
+        },
+        {
+          "korean": "우리에게는",
+          "english": "for us / to us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그저",
+          "english": "just / merely",
+          "role": "adverb"
+        },
+        {
+          "korean": "먼 곳의 이야기",
+          "english": "a story from a faraway place",
+          "role": "noun"
+        },
+        {
+          "korean": "일 뿐",
+          "english": "only / nothing more than",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 뿐",
+        "meaning": "nothing more than, only, just",
+        "note": "Minimizes or limits the significance — distant suffering is reduced to 'merely a story' for comfortable observers"
+      }
+    },
+    {
+      "korean": "세상은 살아가는 법보다는 남을 짓눌러 살아남는 법을 가르쳐",
+      "english": "The world teaches us how to survive by crushing others, not how to live",
+      "words": [
+        {
+          "korean": "세상은",
+          "english": "the world",
+          "role": "noun"
+        },
+        {
+          "korean": "살아가는 법보다는",
+          "english": "rather than how to live",
+          "role": "expression"
+        },
+        {
+          "korean": "남을 짓눌러",
+          "english": "crushing others / trampling on others",
+          "role": "verb"
+        },
+        {
+          "korean": "살아남는 법을",
+          "english": "how to survive",
+          "role": "noun"
+        },
+        {
+          "korean": "가르쳐",
+          "english": "teaches",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "A보다는 B",
+        "meaning": "B rather than A, B instead of A",
+        "note": "Contrasts two options with preference toward B — the world teaches survival (crushing others) rather than genuine living"
+      }
+    },
+    {
+      "korean": "대체 그 누구의 욕심일까 전쟁이 데려온 비참한 결과는",
+      "english": "Whose greed was it anyway, this tragic outcome that war has brought?",
+      "words": [
+        {
+          "korean": "대체",
+          "english": "exactly / just what (emphasis)",
+          "role": "adverb"
+        },
+        {
+          "korean": "그 누구의 욕심",
+          "english": "whose greed",
+          "role": "noun"
+        },
+        {
+          "korean": "일까",
+          "english": "could it be / I wonder",
+          "role": "verb"
+        },
+        {
+          "korean": "전쟁이 데려온",
+          "english": "that war brought",
+          "role": "verb"
+        },
+        {
+          "korean": "비참한 결과는",
+          "english": "tragic outcome / miserable result",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "I wonder, could it be",
+        "note": "Rhetorical question expressing speculation or doubt — questioning whose greed caused this"
+      }
+    },
+    {
+      "korean": "깊은 마음의 병 때문에 가슴에 문신보다 더 짙게 새겨진 멍이",
+      "english": "Because of deep mental illness, bruises etched into the heart darker than tattoos",
+      "words": [
+        {
+          "korean": "깊은 마음의 병",
+          "english": "deep mental illness / sickness of the soul",
+          "role": "noun"
+        },
+        {
+          "korean": "때문에",
+          "english": "because of",
+          "role": "particle"
+        },
+        {
+          "korean": "가슴에",
+          "english": "on the heart / in the chest",
+          "role": "noun"
+        },
+        {
+          "korean": "문신보다 더 짙게",
+          "english": "darker than tattoos / deeper than tattoos",
+          "role": "adverb"
+        },
+        {
+          "korean": "새겨진 멍이",
+          "english": "etched bruises / carved scars",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "A보다 더",
+        "meaning": "more than A, even more than A",
+        "note": "Comparative structure emphasizing degree — the psychological wounds are carved even deeper than permanent tattoos"
+      }
+    },
+    {
+      "korean": "젊은 여배우의 목을 매네 모든 사람들이 목이 매네",
+      "english": "A young actress hangs herself, everyone chokes up with grief",
+      "words": [
+        {
+          "korean": "젊은 여배우의",
+          "english": "young actress's",
+          "role": "noun"
+        },
+        {
+          "korean": "목을 매네",
+          "english": "hangs herself / commits hanging",
+          "role": "verb"
+        },
+        {
+          "korean": "모든 사람들이",
+          "english": "all people / everyone",
+          "role": "noun"
+        },
+        {
+          "korean": "목이 매네",
+          "english": "chokes up / gets choked with emotion",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "비극적인 슬픔은 쉽게 찾아왔다가 또 쉽게 사라지네",
+      "english": "Tragic sorrow comes easily and just as easily fades away",
+      "words": [
+        {
+          "korean": "비극적인 슬픔은",
+          "english": "tragic sadness",
+          "role": "noun"
+        },
+        {
+          "korean": "쉽게 찾아왔다가",
+          "english": "comes easily",
+          "role": "verb"
+        },
+        {
+          "korean": "또",
+          "english": "again / also",
+          "role": "adverb"
+        },
+        {
+          "korean": "쉽게 사라지네",
+          "english": "easily disappears / fades away",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았/었다가",
+        "meaning": "did A and then (changed to B)",
+        "note": "Indicates a state or action that changes or reverses — grief arrives but then disappears just as quickly, showing its fleeting nature"
+      }
+    },
+    {
+      "korean": "우린 갈팡질팡 우린 어디로 가는가",
+      "english": "We're lost and scattered, where are we even going?",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "갈팡질팡",
+          "english": "scattered / confused / wavering",
+          "role": "adverb"
+        },
+        {
+          "korean": "어디로",
+          "english": "where / to where",
+          "role": "adverb"
+        },
+        {
+          "korean": "가는가",
+          "english": "are we going",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내 가슴에 드리운 그늘을 피해 난 어디로 가는 걸까",
+      "english": "Running from the shadow cast over my heart, where am I going?",
+      "words": [
+        {
+          "korean": "내 가슴에",
+          "english": "on my heart / over my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "드리운 그늘을",
+          "english": "the shadow cast / draped shadow",
+          "role": "noun"
+        },
+        {
+          "korean": "피해",
+          "english": "avoiding / fleeing from",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어디로 가는 걸까",
+          "english": "where am I going / I wonder where I'm going",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "대지는 더 뜨거워져 우리가슴은 더 차가워져",
+      "english": "The earth grows hotter, our hearts grow colder",
+      "words": [
+        {
+          "korean": "대지는",
+          "english": "the earth / the land",
+          "role": "noun"
+        },
+        {
+          "korean": "더 뜨거워져",
+          "english": "grows hotter / gets hotter",
+          "role": "verb"
+        },
+        {
+          "korean": "우리가슴은",
+          "english": "our hearts",
+          "role": "noun"
+        },
+        {
+          "korean": "더 차가워져",
+          "english": "grows colder / gets colder",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지다",
+        "meaning": "becomes, grows into (change of state)",
+        "note": "Describes a gradual transformation — the planet heats up while human compassion freezes over, showing parallel but opposite changes"
+      }
+    },
+    {
+      "korean": "끝나지 않는 테러 땅을 메워 some people die",
+      "english": "Endless terror fills the land, some people die",
+      "words": [
+        {
+          "korean": "끝나지 않는",
+          "english": "endless / that doesn't end",
+          "role": "verb"
+        },
+        {
+          "korean": "테러",
+          "english": "terror / terrorism",
+          "role": "noun"
+        },
+        {
+          "korean": "땅을",
+          "english": "the land / the earth",
+          "role": "noun"
+        },
+        {
+          "korean": "메워",
+          "english": "fills up / covers",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않는",
+        "meaning": "doesn't ~ / that doesn't ~",
+        "note": "Negates a verb in attributive form — describes ongoing terror that shows no signs of stopping"
+      }
+    },
+    {
+      "korean": "우린 어디로 가는 걸까 왜 슬픔을 숨긴 채 사는 걸까",
+      "english": "Where are we going? Why are we living with our sadness hidden?",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어디로 가는 걸까",
+          "english": "where are we going / I wonder where we're going",
+          "role": "verb"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "슬픔을 숨긴 채",
+          "english": "with sadness hidden / keeping sadness concealed",
+          "role": "expression"
+        },
+        {
+          "korean": "사는 걸까",
+          "english": "are we living / do we live",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "in the state of, while keeping ~ as is",
+        "note": "Describes an unresolved state maintained throughout another action — living while keeping sorrow buried and unaddressed"
+      }
+    }
+  ]
+}

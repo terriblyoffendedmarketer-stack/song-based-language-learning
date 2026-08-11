@@ -1,0 +1,390 @@
+{
+  "songId": "10cm-phonecert",
+  "lines": [
+    {
+      "korean": "이건 세상에서 제일 비싼 단독 공연",
+      "english": "This is the most expensive solo concert in the world",
+      "words": [
+        {
+          "korean": "이건",
+          "english": "this is",
+          "role": "pronoun"
+        },
+        {
+          "korean": "세상에서",
+          "english": "in the world",
+          "role": "noun"
+        },
+        {
+          "korean": "제일 비싼",
+          "english": "most expensive",
+          "role": "adjective"
+        },
+        {
+          "korean": "단독 공연",
+          "english": "solo concert",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "가수는 나고 관객은 너 하나",
+      "english": "The singer is me and the one audience member is you",
+      "words": [
+        {
+          "korean": "가수는",
+          "english": "the singer",
+          "role": "noun"
+        },
+        {
+          "korean": "나고",
+          "english": "is me and",
+          "role": "verb"
+        },
+        {
+          "korean": "관객은",
+          "english": "the audience",
+          "role": "noun"
+        },
+        {
+          "korean": "너 하나",
+          "english": "only you / you alone",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "화려한 막이 이제 곧 올라가기 전에",
+      "english": "Before the glamorous curtain rises soon",
+      "words": [
+        {
+          "korean": "화려한",
+          "english": "glamorous",
+          "role": "adjective"
+        },
+        {
+          "korean": "막이",
+          "english": "curtain",
+          "role": "noun"
+        },
+        {
+          "korean": "이제 곧",
+          "english": "soon / before long",
+          "role": "adverb"
+        },
+        {
+          "korean": "올라가기 전에",
+          "english": "before it rises",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 전에",
+        "meaning": "before doing ~",
+        "note": "Used here to mark the timing — before the curtain rises, instructions need to be given."
+      }
+    },
+    {
+      "korean": "세상에서 제일 편한 옷을 갈아 입고",
+      "english": "Change into the most comfortable clothes in the world",
+      "words": [
+        {
+          "korean": "세상에서 제일",
+          "english": "the most in the world",
+          "role": "adverb"
+        },
+        {
+          "korean": "편한 옷을",
+          "english": "comfortable clothes",
+          "role": "noun"
+        },
+        {
+          "korean": "갈아 입고",
+          "english": "change into",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "제일 좋아하는 자리에 누워",
+      "english": "Lie down in your favorite spot",
+      "words": [
+        {
+          "korean": "제일 좋아하는",
+          "english": "favorite / most liked",
+          "role": "verb"
+        },
+        {
+          "korean": "자리에",
+          "english": "spot / place",
+          "role": "noun"
+        },
+        {
+          "korean": "누워",
+          "english": "lie down",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "배터리가 바닥나지 않게 조심하고",
+      "english": "Be careful so your battery doesn't run out",
+      "words": [
+        {
+          "korean": "배터리가",
+          "english": "battery",
+          "role": "noun"
+        },
+        {
+          "korean": "바닥나지 않게",
+          "english": "so it doesn't run out",
+          "role": "verb"
+        },
+        {
+          "korean": "조심하고",
+          "english": "be careful and",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않게",
+        "meaning": "so that ~ doesn't happen",
+        "note": "Expresses purpose or prevention — here, being careful in order to prevent the battery from running out."
+      }
+    },
+    {
+      "korean": "통화상태를 항상 유지해줘요",
+      "english": "Keep the call connected at all times",
+      "words": [
+        {
+          "korean": "통화상태를",
+          "english": "call connection / call status",
+          "role": "noun"
+        },
+        {
+          "korean": "항상",
+          "english": "always / at all times",
+          "role": "adverb"
+        },
+        {
+          "korean": "유지해줘요",
+          "english": "please maintain / keep",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "오직 너에게만 감동적인 노래",
+      "english": "A song that's moving only for you",
+      "words": [
+        {
+          "korean": "오직",
+          "english": "only / solely",
+          "role": "adverb"
+        },
+        {
+          "korean": "너에게만",
+          "english": "only for you",
+          "role": "expression"
+        },
+        {
+          "korean": "감동적인",
+          "english": "moving / touching",
+          "role": "adjective"
+        },
+        {
+          "korean": "노래",
+          "english": "song",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "오직 너를 웃게 하기 위한 코너",
+      "english": "A segment made only to make you laugh",
+      "words": [
+        {
+          "korean": "오직",
+          "english": "only",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를 웃게",
+          "english": "make you laugh",
+          "role": "verb"
+        },
+        {
+          "korean": "하기 위한",
+          "english": "for the purpose of / made to",
+          "role": "expression"
+        },
+        {
+          "korean": "코너",
+          "english": "segment / corner",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 위한",
+        "meaning": "for the purpose of ~",
+        "note": "Expresses intent or purpose — the segment exists in order to make the listener laugh."
+      }
+    },
+    {
+      "korean": "네가 너무 설레 잠 못 들게 만들 거야",
+      "english": "I'm going to make you so excited you can't sleep",
+      "words": [
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "너무 설레",
+          "english": "so excited / flutter with excitement",
+          "role": "verb"
+        },
+        {
+          "korean": "잠 못 들게",
+          "english": "can't fall asleep",
+          "role": "expression"
+        },
+        {
+          "korean": "만들 거야",
+          "english": "will make / going to make",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "기억 나니 우리 그 날 그 노래",
+      "english": "Do you remember, that day, that song of ours",
+      "words": [
+        {
+          "korean": "기억 나니",
+          "english": "do you remember",
+          "role": "verb"
+        },
+        {
+          "korean": "우리",
+          "english": "our / us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그 날",
+          "english": "that day",
+          "role": "noun"
+        },
+        {
+          "korean": "그 노래",
+          "english": "that song",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "내가 너무 진지해 보여도 웃지마",
+      "english": "Even if I look too serious, don't laugh",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "너무 진지해 보여도",
+          "english": "even if I look too serious",
+          "role": "expression"
+        },
+        {
+          "korean": "웃지마",
+          "english": "don't laugh",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if ~",
+        "note": "Expresses concession — acknowledging that he might look serious, but asking the listener not to laugh anyway."
+      }
+    },
+    {
+      "korean": "많이 연습한 부분을 너 때문에 틀리잖아",
+      "english": "I keep messing up the part I practiced a lot, because of you",
+      "words": [
+        {
+          "korean": "많이 연습한",
+          "english": "practiced a lot",
+          "role": "verb"
+        },
+        {
+          "korean": "부분을",
+          "english": "the part",
+          "role": "noun"
+        },
+        {
+          "korean": "너 때문에",
+          "english": "because of you",
+          "role": "expression"
+        },
+        {
+          "korean": "틀리잖아",
+          "english": "I'm messing up, you know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아",
+        "meaning": "you know / obviously",
+        "note": "Adds a tone of pointing out something the listener should already realize or be aware of — a casual, affectionate emphasis."
+      }
+    },
+    {
+      "korean": "이 공연은 거의 다 끝나 가고 있어",
+      "english": "This concert is almost completely over now",
+      "words": [
+        {
+          "korean": "이 공연은",
+          "english": "this concert",
+          "role": "noun"
+        },
+        {
+          "korean": "거의 다",
+          "english": "almost completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "끝나 가고 있어",
+          "english": "is ending / coming to an end",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 가다",
+        "meaning": "in the process of ~ing / gradually ~",
+        "note": "Describes an ongoing progression toward completion — the concert is in the process of ending."
+      }
+    },
+    {
+      "korean": "앵콜이야 크게 소리 질러줘",
+      "english": "It's the encore, shout out loud",
+      "words": [
+        {
+          "korean": "앵콜이야",
+          "english": "it's the encore",
+          "role": "noun"
+        },
+        {
+          "korean": "크게",
+          "english": "loudly / out loud",
+          "role": "adverb"
+        },
+        {
+          "korean": "소리 질러줘",
+          "english": "shout / cheer",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

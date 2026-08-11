@@ -1,0 +1,405 @@
+{
+  "songId": "iu-through-the-night",
+  "lines": [
+    {
+      "korean": "이 밤 그날의 반딧불을 당신의 창 가까이 보낼게요",
+      "english": "Tonight I'll send that day's firefly close to your window",
+      "words": [
+        {
+          "korean": "이 밤",
+          "english": "tonight/this night",
+          "role": "noun"
+        },
+        {
+          "korean": "그날의 반딧불을",
+          "english": "that day's firefly (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "당신의 창",
+          "english": "your window",
+          "role": "noun"
+        },
+        {
+          "korean": "가까이",
+          "english": "close to/near",
+          "role": "adverb"
+        },
+        {
+          "korean": "보낼게요",
+          "english": "I will send",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ게요",
+        "meaning": "I will ~ (promise/intention)",
+        "note": "보내다 (to send) + -ㄹ게요 expresses a gentle promise or commitment to do something for the listener"
+      }
+    },
+    {
+      "korean": "사랑한다는 말이에요",
+      "english": "It means 'I love you'",
+      "words": [
+        {
+          "korean": "사랑한다는",
+          "english": "that says 'I love you'",
+          "role": "verb"
+        },
+        {
+          "korean": "말",
+          "english": "words/what it means",
+          "role": "noun"
+        },
+        {
+          "korean": "이에요",
+          "english": "it is",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다는",
+        "meaning": "that ~, called ~",
+        "note": "Quotes or reports what something is called or means — here, the firefly 'is words that say I love you'"
+      }
+    },
+    {
+      "korean": "나 우리의 첫 입맞춤을 떠올려",
+      "english": "I recall our first kiss",
+      "words": [
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "우리의 첫 입맞춤을",
+          "english": "our first kiss (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "떠올려",
+          "english": "recall/remember",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그럼 언제든 눈을 감고 가장 먼 곳으로 가요",
+      "english": "Then whenever you like, close your eyes and go to the farthest place",
+      "words": [
+        {
+          "korean": "언제든",
+          "english": "whenever",
+          "role": "adverb"
+        },
+        {
+          "korean": "눈을 감고",
+          "english": "close your eyes",
+          "role": "verb"
+        },
+        {
+          "korean": "가장 먼 곳으로",
+          "english": "to the farthest place",
+          "role": "noun"
+        },
+        {
+          "korean": "가요",
+          "english": "go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고",
+        "meaning": "and (sequential actions)",
+        "note": "Connects two actions in sequence — first close your eyes, then go to that distant place"
+      }
+    },
+    {
+      "korean": "난 파도가 머물던 모래 위에 적힌 글씨처럼",
+      "english": "Like words written on sand where the waves used to rest",
+      "words": [
+        {
+          "korean": "파도가 머물던",
+          "english": "where waves used to rest",
+          "role": "verb"
+        },
+        {
+          "korean": "모래 위에",
+          "english": "on the sand",
+          "role": "noun"
+        },
+        {
+          "korean": "적힌 글씨",
+          "english": "written words",
+          "role": "noun"
+        },
+        {
+          "korean": "처럼",
+          "english": "like",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "used to ~ (past retrospective)",
+        "note": "Describes something that habitually happened in the past — the waves that used to rest on that sand, suggesting they no longer do"
+      }
+    },
+    {
+      "korean": "그대가 멀리 사라져 버릴 것 같아",
+      "english": "It feels like you'll disappear far away",
+      "words": [
+        {
+          "korean": "그대가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "멀리",
+          "english": "far away",
+          "role": "adverb"
+        },
+        {
+          "korean": "사라져 버릴",
+          "english": "will disappear completely",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems/feels like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같아",
+        "meaning": "it seems like ~ will happen",
+        "note": "Expresses a supposition or feeling about a future event — she feels like the person will vanish"
+      }
+    },
+    {
+      "korean": "늘 그리워 그리워",
+      "english": "I always miss you, miss you",
+      "words": [
+        {
+          "korean": "늘",
+          "english": "always",
+          "role": "adverb"
+        },
+        {
+          "korean": "그리워",
+          "english": "I miss (you)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "여기 내 마음속에",
+      "english": "Here inside my heart",
+      "words": [
+        {
+          "korean": "여기",
+          "english": "here",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내 마음속에",
+          "english": "inside my heart",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "모든 말을 다 꺼내어 줄 순 없지만",
+      "english": "I can't take out and give you every word, but",
+      "words": [
+        {
+          "korean": "모든 말을",
+          "english": "every word (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "다",
+          "english": "all/completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "꺼내어 줄",
+          "english": "take out and give",
+          "role": "verb"
+        },
+        {
+          "korean": "순 없지만",
+          "english": "can't, but",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)㄄ 순 없지만",
+        "meaning": "can't do ~, but",
+        "note": "수 (way/means) contracts to 순; expresses inability or impossibility followed by a contrast — she can't give all her words, but she offers what she can"
+      }
+    },
+    {
+      "korean": "어떻게 나에게 그대란 행운이 온 걸까",
+      "english": "How did such good fortune as you come to me?",
+      "words": [
+        {
+          "korean": "어떻게",
+          "english": "how",
+          "role": "adverb"
+        },
+        {
+          "korean": "나에게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그대란 행운이",
+          "english": "good fortune called you (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "온 걸까",
+          "english": "did it come?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 걸까",
+        "meaning": "I wonder if ~, did ~ happen?",
+        "note": "Past tense -(으)ㄴ + 걸까 creates a wondering/rhetorical question about something that happened"
+      }
+    },
+    {
+      "korean": "지금 우리 함께 있다면",
+      "english": "If we were together right now",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "now/right now",
+          "role": "noun"
+        },
+        {
+          "korean": "우리",
+          "english": "we/us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "함께",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "있다면",
+          "english": "if (we) were",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다면",
+        "meaning": "if ~ (hypothetical)",
+        "note": "Creates a hypothetical or contrary-to-fact condition — imagining a situation that isn't currently true"
+      }
+    },
+    {
+      "korean": "아 얼마나 좋을까요",
+      "english": "Ah, how good would that be?",
+      "words": [
+        {
+          "korean": "얼마나",
+          "english": "how much/how",
+          "role": "adverb"
+        },
+        {
+          "korean": "좋을까요",
+          "english": "would it be good?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까요",
+        "meaning": "I wonder if ~, would it ~?",
+        "note": "Future prospective + polite question ending, expressing wonder or speculation about a hypothetical situation"
+      }
+    },
+    {
+      "korean": "나의 일기장 안에",
+      "english": "Inside my diary",
+      "words": [
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "일기장",
+          "english": "diary",
+          "role": "noun"
+        },
+        {
+          "korean": "안에",
+          "english": "inside",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "이 밤 그날의 반딧불을 당신의 창 가까이 띄울게요",
+      "english": "Tonight I'll float that day's firefly close to your window",
+      "words": [
+        {
+          "korean": "이 밤",
+          "english": "tonight/this night",
+          "role": "noun"
+        },
+        {
+          "korean": "그날의 반딧불을",
+          "english": "that day's firefly (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "당신의 창",
+          "english": "your window",
+          "role": "noun"
+        },
+        {
+          "korean": "가까이",
+          "english": "close to",
+          "role": "adverb"
+        },
+        {
+          "korean": "띄울게요",
+          "english": "I will float/send up",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "좋은 꿈이길 바라요",
+      "english": "I hope you have good dreams",
+      "words": [
+        {
+          "korean": "좋은 꿈",
+          "english": "good dream(s)",
+          "role": "noun"
+        },
+        {
+          "korean": "이길",
+          "english": "that it will be",
+          "role": "verb"
+        },
+        {
+          "korean": "바라요",
+          "english": "I hope/wish",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-이길 바라다",
+        "meaning": "hope that ~ will be",
+        "note": "이다 (to be) + -길 (hope that) + 바라다 (wish) — expresses a hope about the nature or state of something"
+      }
+    }
+  ]
+}

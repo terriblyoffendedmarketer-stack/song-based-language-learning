@@ -1,0 +1,380 @@
+{
+  "songId": "nc-a-tikitik-jian-flashback",
+  "lines": [
+    {
+      "korean": "오늘도 새벽은 왔고",
+      "english": "Dawn came again today",
+      "words": [
+        {
+          "korean": "오늘도",
+          "english": "today too/again",
+          "role": "adverb"
+        },
+        {
+          "korean": "새벽은",
+          "english": "dawn",
+          "role": "noun"
+        },
+        {
+          "korean": "왔고",
+          "english": "came and",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고",
+        "meaning": "and (connecting clauses)",
+        "note": "Connects two actions or states that happen in sequence; here it sets up the contrast between dawn arriving and sleep not coming"
+      }
+    },
+    {
+      "korean": "기다렸던 잠 대신에",
+      "english": "Instead of the sleep I was waiting for",
+      "words": [
+        {
+          "korean": "기다렸던",
+          "english": "that I was waiting for",
+          "role": "verb"
+        },
+        {
+          "korean": "잠",
+          "english": "sleep",
+          "role": "noun"
+        },
+        {
+          "korean": "대신에",
+          "english": "instead of",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ/는/던",
+        "meaning": "modifying clause (past tense)",
+        "note": "기다렸던 modifies 잠, describing the sleep as something that was being waited for"
+      }
+    },
+    {
+      "korean": "끝맺지 못한 하루의 남은 생각이",
+      "english": "The leftover thoughts from a day that never wrapped up",
+      "words": [
+        {
+          "korean": "끝맺지 못한",
+          "english": "couldn't finish/wrap up",
+          "role": "verb"
+        },
+        {
+          "korean": "하루의",
+          "english": "of the day",
+          "role": "noun"
+        },
+        {
+          "korean": "남은",
+          "english": "remaining/leftover",
+          "role": "verb"
+        },
+        {
+          "korean": "생각이",
+          "english": "thoughts",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 못한",
+        "meaning": "couldn't/wasn't able to (modifying)",
+        "note": "Shows inability or failure to complete an action; here describes a day that couldn't reach proper closure"
+      }
+    },
+    {
+      "korean": "찾아와 말을 건넨다",
+      "english": "Come and start talking to me",
+      "words": [
+        {
+          "korean": "찾아와",
+          "english": "come visit",
+          "role": "verb"
+        },
+        {
+          "korean": "말을",
+          "english": "words/speech",
+          "role": "noun"
+        },
+        {
+          "korean": "건넨다",
+          "english": "offer/address",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "똑똑 생각이 똑똑",
+      "english": "Knock knock, thoughts go knock knock",
+      "words": [
+        {
+          "korean": "똑똑",
+          "english": "knock knock",
+          "role": "interjection"
+        },
+        {
+          "korean": "생각이",
+          "english": "thoughts",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "아까 네가 보냈던 메세지",
+      "english": "The message you sent earlier",
+      "words": [
+        {
+          "korean": "아까",
+          "english": "earlier/a while ago",
+          "role": "adverb"
+        },
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보냈던",
+          "english": "sent",
+          "role": "verb"
+        },
+        {
+          "korean": "메세지",
+          "english": "message",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "난 읽고도 왜 답장이 없었을까",
+      "english": "Why didn't I reply even after reading it",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "읽고도",
+          "english": "even after reading",
+          "role": "verb"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "답장이",
+          "english": "reply",
+          "role": "noun"
+        },
+        {
+          "korean": "없었을까",
+          "english": "wasn't there",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "I wonder/could it be",
+        "note": "Used for self-questioning or wondering aloud; expresses anxious internal questions with no clear answer"
+      }
+    },
+    {
+      "korean": "혹시 우연히 내 상처 건든건 아닐까",
+      "english": "Did I maybe accidentally touch a nerve of theirs",
+      "words": [
+        {
+          "korean": "혹시",
+          "english": "perhaps/maybe",
+          "role": "adverb"
+        },
+        {
+          "korean": "우연히",
+          "english": "accidentally/by chance",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 상처",
+          "english": "their sore spot",
+          "role": "noun"
+        },
+        {
+          "korean": "건든건 아닐까",
+          "english": "did I touch it",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ/는 게 아닐까",
+        "meaning": "isn't it possible that...",
+        "note": "A hedging pattern that softens an anxious worry into tentative self-doubt; 건든건 is contracted from 건드린 것은"
+      }
+    },
+    {
+      "korean": "내일도 우린 친할까",
+      "english": "Will we still be close tomorrow",
+      "words": [
+        {
+          "korean": "내일도",
+          "english": "tomorrow too",
+          "role": "adverb"
+        },
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "친할까",
+          "english": "will be close",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "물어볼 수 없는 마음",
+      "english": "A feeling I can't ask about",
+      "words": [
+        {
+          "korean": "물어볼 수 없는",
+          "english": "that can't be asked",
+          "role": "verb"
+        },
+        {
+          "korean": "마음",
+          "english": "feeling/heart",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없는",
+        "meaning": "cannot (modifying)",
+        "note": "Expresses inability; the song's core refrain that appears with different nouns (마음, 얘기, 하루) across verses"
+      }
+    },
+    {
+      "korean": "두 개의 머그잔 하난 누구일까",
+      "english": "Two mugs — whose is the other one",
+      "words": [
+        {
+          "korean": "두 개의",
+          "english": "two",
+          "role": "noun"
+        },
+        {
+          "korean": "머그잔",
+          "english": "mug",
+          "role": "noun"
+        },
+        {
+          "korean": "하난",
+          "english": "one (of them)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "누구일까",
+          "english": "whose is it/who is it",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "그냥 친구일까 아님 벌써 새 사람이",
+      "english": "Just a friend, or already someone new",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just",
+          "role": "adverb"
+        },
+        {
+          "korean": "친구일까",
+          "english": "is it a friend",
+          "role": "noun"
+        },
+        {
+          "korean": "아님",
+          "english": "or",
+          "role": "connector"
+        },
+        {
+          "korean": "벌써",
+          "english": "already",
+          "role": "adverb"
+        },
+        {
+          "korean": "새 사람이",
+          "english": "a new person",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "나도 널 궁금해할까",
+      "english": "Do you wonder about me too",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "you too",
+          "role": "pronoun"
+        },
+        {
+          "korean": "널",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "궁금해할까",
+          "english": "wonder about/be curious about",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "생각은 멈추질 못하고",
+      "english": "The thoughts won't stop",
+      "words": [
+        {
+          "korean": "생각은",
+          "english": "thoughts",
+          "role": "noun"
+        },
+        {
+          "korean": "멈추질 못하고",
+          "english": "can't stop",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-질 못하다",
+        "meaning": "cannot do (colloquial)",
+        "note": "Colloquial contraction of -지를 못하다; emphasizes inability, here showing thoughts that refuse to quiet down"
+      }
+    },
+    {
+      "korean": "놓아주면 갈게",
+      "english": "If you let go, I'll leave",
+      "words": [
+        {
+          "korean": "놓아주면",
+          "english": "if you let go/release",
+          "role": "verb"
+        },
+        {
+          "korean": "갈게",
+          "english": "I'll go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if/when",
+        "note": "Conditional pattern; the narrator addresses the thoughts, asking them to release their grip so they can finally sleep"
+      }
+    }
+  ]
+}

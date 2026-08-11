@@ -1,0 +1,395 @@
+{
+  "songId": "10cm-my-eyes",
+  "lines": [
+    {
+      "korean": "너의 목소리만 넘나 크게 들려",
+      "english": "Only your voice sounds so incredibly loud to me",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "목소리만",
+          "english": "only the voice",
+          "role": "noun"
+        },
+        {
+          "korean": "넘나",
+          "english": "incredibly, so (slang)",
+          "role": "adverb"
+        },
+        {
+          "korean": "크게",
+          "english": "loudly",
+          "role": "adverb"
+        },
+        {
+          "korean": "들려",
+          "english": "is heard, sounds",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다른건 아무것도 안들리고",
+      "english": "I can't hear anything else at all",
+      "words": [
+        {
+          "korean": "다른건",
+          "english": "other things",
+          "role": "noun"
+        },
+        {
+          "korean": "아무것도",
+          "english": "nothing, anything at all",
+          "role": "pronoun"
+        },
+        {
+          "korean": "안들리고",
+          "english": "can't hear / isn't audible",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너의 눈동자만 넘나 크게 보여",
+      "english": "Only your eyes look so incredibly big to me",
+      "words": [
+        {
+          "korean": "눈동자만",
+          "english": "only the eyes/pupils",
+          "role": "noun"
+        },
+        {
+          "korean": "넘나",
+          "english": "incredibly, so (slang)",
+          "role": "adverb"
+        },
+        {
+          "korean": "크게",
+          "english": "big, huge",
+          "role": "adverb"
+        },
+        {
+          "korean": "보여",
+          "english": "looks, appears",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아니 내가 정말 미친걸까",
+      "english": "Wait, am I actually going crazy?",
+      "words": [
+        {
+          "korean": "아니",
+          "english": "no wait, hold on",
+          "role": "interjection"
+        },
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "정말",
+          "english": "really, actually",
+          "role": "adverb"
+        },
+        {
+          "korean": "미친걸까",
+          "english": "am I crazy? / have I gone mad?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 걸까",
+        "meaning": "I wonder if..., could it be that...?",
+        "note": "Used for uncertain self-questioning; 미친 (crazy) + 걸까 creates a rhetorical question about one's own sanity"
+      }
+    },
+    {
+      "korean": "하루종일 너만 생각하다 보니",
+      "english": "After thinking about only you all day long",
+      "words": [
+        {
+          "korean": "하루종일",
+          "english": "all day long",
+          "role": "noun"
+        },
+        {
+          "korean": "너만",
+          "english": "only you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "생각하다 보니",
+          "english": "after thinking continuously",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다 보니",
+        "meaning": "as a result of continuously doing ~",
+        "note": "Shows that a state developed gradually through repeated action; here, constantly thinking led to feeling strange"
+      }
+    },
+    {
+      "korean": "머리가 이상해진 것 같아",
+      "english": "I feel like my head's gone weird",
+      "words": [
+        {
+          "korean": "머리가",
+          "english": "head/mind",
+          "role": "noun"
+        },
+        {
+          "korean": "이상해진",
+          "english": "became strange/weird",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems like, I feel like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 것 같아",
+        "meaning": "it seems like ~, I think ~",
+        "note": "Softens a statement to express uncertainty or subjective feeling; here used to describe the narrator's mental state"
+      }
+    },
+    {
+      "korean": "혹시 내가 너를 좋아하게 되버린걸까",
+      "english": "Could it be that I've ended up falling for you?",
+      "words": [
+        {
+          "korean": "혹시",
+          "english": "by any chance, maybe",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아하게",
+          "english": "to like, to fall for",
+          "role": "verb"
+        },
+        {
+          "korean": "되버린걸까",
+          "english": "have I ended up...?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 되다 + -아/어 버리다",
+        "meaning": "to end up ~ing (unintentionally/unfortunately)",
+        "note": "Combines 'come to be' with 'completely done'; suggests the feeling happened against his will or awareness"
+      }
+    },
+    {
+      "korean": "너는 자꾸 이랬다 저랬다가 나를 흔들고",
+      "english": "You keep going this way then that way, shaking me up",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "keep, repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "이랬다 저랬다가",
+          "english": "this way then that way, back and forth",
+          "role": "expression"
+        },
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "흔들고",
+          "english": "shake, sway",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "여기저기 왔다갔다 헷갈리게 만들고",
+      "english": "Going here and there, making me confused",
+      "words": [
+        {
+          "korean": "여기저기",
+          "english": "here and there, everywhere",
+          "role": "noun"
+        },
+        {
+          "korean": "왔다갔다",
+          "english": "coming and going, back and forth",
+          "role": "verb"
+        },
+        {
+          "korean": "헷갈리게",
+          "english": "confusingly, in a confusing way",
+          "role": "adverb"
+        },
+        {
+          "korean": "만들고",
+          "english": "make, cause to be",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 만들다",
+        "meaning": "to make someone/something ~",
+        "note": "Causative pattern; 헷갈리게 만들다 means 'to make [someone] confused'"
+      }
+    },
+    {
+      "korean": "자꾸만 보여 꿈속에서도",
+      "english": "I keep seeing you, even in my dreams",
+      "words": [
+        {
+          "korean": "자꾸만",
+          "english": "keep on, continuously",
+          "role": "adverb"
+        },
+        {
+          "korean": "보여",
+          "english": "see, is visible",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈속에서도",
+          "english": "even in dreams",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "억지로 피하려고 해도 보여",
+      "english": "Even when I try hard to avoid it, I still see you",
+      "words": [
+        {
+          "korean": "억지로",
+          "english": "forcefully, with effort",
+          "role": "adverb"
+        },
+        {
+          "korean": "피하려고 해도",
+          "english": "even if I try to avoid",
+          "role": "verb"
+        },
+        {
+          "korean": "보여",
+          "english": "see, is visible",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-려고 해도",
+        "meaning": "even if/when one tries to ~",
+        "note": "Expresses an attempt that fails or is ineffective; the narrator tries to avoid thinking about them but can't"
+      }
+    },
+    {
+      "korean": "어디든 있어 눈감아 봐도",
+      "english": "You're everywhere, even when I close my eyes",
+      "words": [
+        {
+          "korean": "어디든",
+          "english": "anywhere, everywhere",
+          "role": "noun"
+        },
+        {
+          "korean": "있어",
+          "english": "exist, are there",
+          "role": "verb"
+        },
+        {
+          "korean": "눈감아 봐도",
+          "english": "even if I close my eyes",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 보다 + -아/어도",
+        "meaning": "even if I try ~ing",
+        "note": "봐도 combines the exploratory 'try doing' with 'even if'; emphasizes that even the act of closing eyes doesn't help"
+      }
+    },
+    {
+      "korean": "네맘은 내눈에만 보여",
+      "english": "Your heart is visible only to my eyes",
+      "words": [
+        {
+          "korean": "네맘은",
+          "english": "your heart",
+          "role": "noun"
+        },
+        {
+          "korean": "내눈에만",
+          "english": "only to my eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "보여",
+          "english": "is visible, can be seen",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너는 자꾸 있는 듯 없는 듯이 숨으려 하고",
+      "english": "You keep trying to hide, as if you're there yet not there",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "keep, repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "있는 듯 없는 듯이",
+          "english": "as if there yet not there",
+          "role": "expression"
+        },
+        {
+          "korean": "숨으려 하고",
+          "english": "try to hide",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯",
+        "meaning": "as if ~, seemingly",
+        "note": "Creates a sense of ambiguity or uncertainty; 있는 듯 없는 듯 describes an elusive, unclear presence"
+      }
+    },
+    {
+      "korean": "나를 피해 이리저리 도망치려 해봐도",
+      "english": "Even when you try to run away from me, here and there",
+      "words": [
+        {
+          "korean": "나를 피해",
+          "english": "avoiding me",
+          "role": "verb"
+        },
+        {
+          "korean": "이리저리",
+          "english": "this way and that, here and there",
+          "role": "adverb"
+        },
+        {
+          "korean": "도망치려 해봐도",
+          "english": "even if you try to run away",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

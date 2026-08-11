@@ -1,0 +1,400 @@
+{
+  "songId": "jannabi-for-lovers-who-hesitate",
+  "lines": [
+    {
+      "korean": "나는 읽기 쉬운 마음이야",
+      "english": "I'm a heart that's easy to read",
+      "words": [
+        {
+          "korean": "나는",
+          "english": "I (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "읽기 쉬운",
+          "english": "easy to read",
+          "role": "adjective"
+        },
+        {
+          "korean": "마음",
+          "english": "heart/mind",
+          "role": "noun"
+        },
+        {
+          "korean": "이야",
+          "english": "am (casual declarative)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 쉬운",
+        "meaning": "easy to [verb]",
+        "note": "Verb stem + -기 쉬운 creates an adjective meaning something is easy to do; here 읽기 쉬운 = 'easy to read'."
+      }
+    },
+    {
+      "korean": "당신도 스윽 훑고 가셔요",
+      "english": "You can just skim through me and go",
+      "words": [
+        {
+          "korean": "당신도",
+          "english": "you too/also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "스윽",
+          "english": "smoothly, lightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "훑고",
+          "english": "skim through",
+          "role": "verb"
+        },
+        {
+          "korean": "가셔요",
+          "english": "go (polite)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 가다",
+        "meaning": "do [verb] and then go",
+        "note": "The -고 connects two actions in sequence; here 'skim through and then leave'."
+      }
+    },
+    {
+      "korean": "달랠 길 없는 외로운 마음 있지",
+      "english": "There's a lonely heart that can't be soothed",
+      "words": [
+        {
+          "korean": "달랠 길 없는",
+          "english": "no way to soothe",
+          "role": "adjective"
+        },
+        {
+          "korean": "외로운",
+          "english": "lonely",
+          "role": "adjective"
+        },
+        {
+          "korean": "마음",
+          "english": "heart",
+          "role": "noun"
+        },
+        {
+          "korean": "있지",
+          "english": "there is (casual)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 길 없다",
+        "meaning": "no way to [verb], can't possibly",
+        "note": "달래다 (to soothe) becomes 달랠 길 없는 meaning 'with no way to soothe it'."
+      }
+    },
+    {
+      "korean": "머물다 가셔요",
+      "english": "Stop by for a while",
+      "words": [
+        {
+          "korean": "머물다",
+          "english": "stay/linger",
+          "role": "verb"
+        },
+        {
+          "korean": "가셔요",
+          "english": "go (polite)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내게 긴 여운을 남겨줘요",
+      "english": "Leave a long afterglow in me",
+      "words": [
+        {
+          "korean": "내게",
+          "english": "to me/in me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "긴",
+          "english": "long",
+          "role": "adjective"
+        },
+        {
+          "korean": "여운을",
+          "english": "afterglow/lingering feeling",
+          "role": "noun"
+        },
+        {
+          "korean": "남겨줘요",
+          "english": "leave (for me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "do [verb] for someone",
+        "note": "남기다 (to leave) + -어 주다 becomes 남겨주다, meaning 'leave something for me/as a favor'."
+      }
+    },
+    {
+      "korean": "할 수 있다면 그럴 수만 있다면",
+      "english": "If I could, if only I could",
+      "words": [
+        {
+          "korean": "할 수 있다면",
+          "english": "if I can do",
+          "role": "expression"
+        },
+        {
+          "korean": "그럴 수만 있다면",
+          "english": "if only I could do that",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수만 있다면",
+        "meaning": "if only I could [verb]",
+        "note": "The -만 particle adds emphasis: 'if ONLY it were possible', expressing a wish or limitation."
+      }
+    },
+    {
+      "korean": "새하얀 빛으로 그댈 비춰 줄게요",
+      "english": "I'd light you up in pure white light",
+      "words": [
+        {
+          "korean": "새하얀",
+          "english": "pure white",
+          "role": "adjective"
+        },
+        {
+          "korean": "빛으로",
+          "english": "with light",
+          "role": "noun"
+        },
+        {
+          "korean": "그댈",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "비춰 줄게요",
+          "english": "will light up (for you)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그러다 밤이 찾아오면",
+      "english": "Then when night comes",
+      "words": [
+        {
+          "korean": "그러다",
+          "english": "while doing so/then",
+          "role": "connector"
+        },
+        {
+          "korean": "밤이",
+          "english": "night (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "찾아오면",
+          "english": "if/when it comes",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우리 둘만의 비밀을 새겨요",
+      "english": "Let's carve out a secret only the two of us know",
+      "words": [
+        {
+          "korean": "우리 둘만의",
+          "english": "only the two of us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "비밀을",
+          "english": "secret (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "새겨요",
+          "english": "carve/engrave",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "추억할 그 밤 위에 갈피를 꽂고선",
+      "english": "Placing a bookmark on that night we'll remember",
+      "words": [
+        {
+          "korean": "추억할",
+          "english": "will remember",
+          "role": "verb"
+        },
+        {
+          "korean": "그 밤 위에",
+          "english": "on that night",
+          "role": "noun"
+        },
+        {
+          "korean": "갈피를",
+          "english": "bookmark (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "꽂고선",
+          "english": "placing/inserting and then",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "나의 자라나는 마음을 못 본채 꺾어 버릴 순 없네",
+      "english": "I can't just pretend not to see my growing heart and crush it",
+      "words": [
+        {
+          "korean": "자라나는 마음을",
+          "english": "growing heart (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "못 본채",
+          "english": "pretending not to see",
+          "role": "expression"
+        },
+        {
+          "korean": "꺾어 버릴",
+          "english": "break/crush",
+          "role": "verb"
+        },
+        {
+          "korean": "순 없네",
+          "english": "can't (do)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수(가) 없다",
+        "meaning": "cannot [verb]",
+        "note": "순 is a contraction of 수는, expressing impossibility: 'there's no way I can do this'."
+      }
+    },
+    {
+      "korean": "미련 남길바엔 그리워 아픈 게 나아",
+      "english": "Rather than leaving regret, painful longing is better",
+      "words": [
+        {
+          "korean": "미련 남길바엔",
+          "english": "rather than leaving regret",
+          "role": "expression"
+        },
+        {
+          "korean": "그리워 아픈 게",
+          "english": "painful longing",
+          "role": "noun"
+        },
+        {
+          "korean": "나아",
+          "english": "is better",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 바엔",
+        "meaning": "rather than [verb], [Y is preferable]",
+        "note": "Used to compare two options and choose the lesser evil; here 'rather than leave lingering attachment, it's better to feel painful longing'."
+      }
+    },
+    {
+      "korean": "서둘러 안겨본 그 품은 따스할 테니",
+      "english": "The embrace I rushed into must be warm",
+      "words": [
+        {
+          "korean": "서둘러",
+          "english": "hurriedly/rushing",
+          "role": "adverb"
+        },
+        {
+          "korean": "안겨본",
+          "english": "tried being embraced",
+          "role": "verb"
+        },
+        {
+          "korean": "그 품은",
+          "english": "that embrace (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "따스할 테니",
+          "english": "must be warm (since)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 테니",
+        "meaning": "must be/will be [so], since",
+        "note": "Expresses confident assumption about the future or current state; here 'it must be warm, so...'."
+      }
+    },
+    {
+      "korean": "우린 서둘러 뒤돌지 말아요",
+      "english": "Let's not rush to turn our backs",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "서둘러",
+          "english": "hurriedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "뒤돌지",
+          "english": "turn back",
+          "role": "verb"
+        },
+        {
+          "korean": "말아요",
+          "english": "let's not",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그럼에도 내 사랑은 또 같은 꿈을 꾸고",
+      "english": "Even so, my love dreams the same dream again",
+      "words": [
+        {
+          "korean": "그럼에도",
+          "english": "even so/despite that",
+          "role": "connector"
+        },
+        {
+          "korean": "내 사랑은",
+          "english": "my love (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "또",
+          "english": "again/also",
+          "role": "adverb"
+        },
+        {
+          "korean": "같은 꿈을 꾸고",
+          "english": "dreams the same dream",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

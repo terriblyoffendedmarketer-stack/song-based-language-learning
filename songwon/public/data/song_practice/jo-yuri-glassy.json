@@ -1,0 +1,345 @@
+{
+  "songId": "jo-yuri-glassy",
+  "lines": [
+    {
+      "korean": "기분이 들떠 like a star",
+      "english": "I feel excited, like a star",
+      "words": [
+        {
+          "korean": "기분이",
+          "english": "mood / feeling (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "들떠",
+          "english": "excited / uplifted",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-이/가 들떠",
+        "meaning": "feeling is lifted/excited",
+        "note": "들뜨다 describes a buoyant, giddy feeling — the verb literally means 'to float up' emotionally"
+      }
+    },
+    {
+      "korean": "걸음에 시선이 쏟아져",
+      "english": "eyes pour onto my every step",
+      "words": [
+        {
+          "korean": "걸음에",
+          "english": "onto my steps / walking",
+          "role": "noun"
+        },
+        {
+          "korean": "시선이",
+          "english": "gazes / eyes (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "쏟아져",
+          "english": "pour out / cascade",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아닌척해도 살짝살짝",
+      "english": "even pretending not to notice, just a little, just a little",
+      "words": [
+        {
+          "korean": "아닌척해도",
+          "english": "even pretending not to",
+          "role": "expression"
+        },
+        {
+          "korean": "살짝살짝",
+          "english": "just a little / slightly (repeatedly)",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-척하다",
+        "meaning": "to pretend / act as if",
+        "note": "아닌척해도 = even though I pretend it's not (that I don't notice)"
+      }
+    },
+    {
+      "korean": "너 역시 나를 보잖아요, 힐끔, 힐끔",
+      "english": "you're looking at me too, aren't you, glancing, glancing",
+      "words": [
+        {
+          "korean": "너 역시",
+          "english": "you too / you also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보잖아요",
+          "english": "you're looking (aren't you)",
+          "role": "verb"
+        },
+        {
+          "korean": "힐끔, 힐끔",
+          "english": "glancing (repeatedly)",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아(요)",
+        "meaning": "you know / aren't you / isn't it",
+        "note": "Used to state something obvious or seek confirmation — 'you ARE looking at me, aren't you?'"
+      }
+    },
+    {
+      "korean": "여전히 난 어려워",
+      "english": "I'm still unsure",
+      "words": [
+        {
+          "korean": "여전히",
+          "english": "still / as before",
+          "role": "adverb"
+        },
+        {
+          "korean": "난",
+          "english": "I (contracted 나는)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어려워",
+          "english": "difficult / unsure",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "어디로 향하는지?",
+      "english": "where am I even headed?",
+      "words": [
+        {
+          "korean": "어디로",
+          "english": "to where",
+          "role": "adverb"
+        },
+        {
+          "korean": "향하는지",
+          "english": "am heading / where I'm going",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는지",
+        "meaning": "whether / where / what (embedded question)",
+        "note": "Turns a verb into an indirect question — wondering where she's heading"
+      }
+    },
+    {
+      "korean": "숨길 수 없어진 나의 맘을",
+      "english": "I can't hide it anymore, this heart of mine",
+      "words": [
+        {
+          "korean": "숨길 수 없어진",
+          "english": "can't hide anymore / became unable to hide",
+          "role": "verb"
+        },
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "맘을",
+          "english": "heart / feelings (object)",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 수 없어지다",
+        "meaning": "to become unable to do ~",
+        "note": "숨길 수 없다 = can't hide, -어지다 adds 'became' — it became impossible to hide"
+      }
+    },
+    {
+      "korean": "따라와 줘, glassy",
+      "english": "follow me, glassy",
+      "words": [
+        {
+          "korean": "따라와 줘",
+          "english": "follow me / come along (please)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줘",
+        "meaning": "please do ~ (for me)",
+        "note": "Casual request form — asking someone to follow her"
+      }
+    },
+    {
+      "korean": "모든 빛을 쏟아내는 eye-eye-eye-eyes",
+      "english": "eyes pouring out every kind of light",
+      "words": [
+        {
+          "korean": "모든",
+          "english": "all / every",
+          "role": "adjective"
+        },
+        {
+          "korean": "빛을",
+          "english": "light (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "쏟아내는",
+          "english": "pouring out",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "눈을 뜨면 한편의 영화 같은 떨림",
+      "english": "when I open my eyes, a trembling like something out of a movie",
+      "words": [
+        {
+          "korean": "눈을 뜨면",
+          "english": "when I open my eyes",
+          "role": "verb"
+        },
+        {
+          "korean": "한편의 영화",
+          "english": "a movie / one film",
+          "role": "noun"
+        },
+        {
+          "korean": "같은",
+          "english": "like / similar to",
+          "role": "adjective"
+        },
+        {
+          "korean": "떨림",
+          "english": "trembling / flutter",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면",
+        "meaning": "when / if",
+        "note": "Conditional — when she opens her eyes, she feels this cinematic trembling"
+      }
+    },
+    {
+      "korean": "너랑 나랑 someday, 시작해 my baby",
+      "english": "you and me, someday, it starts, my baby",
+      "words": [
+        {
+          "korean": "너랑 나랑",
+          "english": "you and me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "시작해",
+          "english": "it starts / let's start",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "망설이지 마, don't stop",
+      "english": "don't hesitate, don't stop",
+      "words": [
+        {
+          "korean": "망설이지 마",
+          "english": "don't hesitate",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't do ~",
+        "note": "Casual negative command — telling someone not to hesitate"
+      }
+    },
+    {
+      "korean": "기다릴 시간이 없거든",
+      "english": "there's no time to wait",
+      "words": [
+        {
+          "korean": "기다릴",
+          "english": "to wait",
+          "role": "verb"
+        },
+        {
+          "korean": "시간이",
+          "english": "time (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "없거든",
+          "english": "there isn't (because)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-거든",
+        "meaning": "because / you see",
+        "note": "Casual explanation — giving the reason why they shouldn't hesitate"
+      }
+    },
+    {
+      "korean": "머뭇거리면, 째깍째깍",
+      "english": "if you hold back, tick-tock, tick-tock",
+      "words": [
+        {
+          "korean": "머뭇거리면",
+          "english": "if you hesitate / hold back",
+          "role": "verb"
+        },
+        {
+          "korean": "째깍째깍",
+          "english": "tick-tock (sound of clock)",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면",
+        "meaning": "if / when",
+        "note": "Conditional warning — if you hesitate, time will keep ticking away"
+      }
+    },
+    {
+      "korean": "결국엔 또 엇갈릴 거야, 삐끗, 삐끗",
+      "english": "in the end we'll just miss each other again, slip, slip",
+      "words": [
+        {
+          "korean": "결국엔",
+          "english": "in the end / eventually",
+          "role": "adverb"
+        },
+        {
+          "korean": "또",
+          "english": "again / also",
+          "role": "adverb"
+        },
+        {
+          "korean": "엇갈릴 거야",
+          "english": "will miss each other / will cross paths wrongly",
+          "role": "verb"
+        },
+        {
+          "korean": "삐끗, 삐끗",
+          "english": "slip / stumble (sound)",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 거야",
+        "meaning": "will ~ / going to ~",
+        "note": "Casual future prediction — warning that they'll miss their chance"
+      }
+    }
+  ]
+}

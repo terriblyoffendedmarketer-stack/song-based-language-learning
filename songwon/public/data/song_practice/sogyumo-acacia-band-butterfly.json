@@ -1,0 +1,304 @@
+{
+  "songId": "sogyumo-acacia-band-butterfly",
+  "lines": [
+    {
+      "korean": "나즈막이 숨쉬고",
+      "english": "Breathing low and quiet",
+      "words": [
+        {
+          "korean": "나즈막이",
+          "english": "low and quiet, softly",
+          "role": "adverb"
+        },
+        {
+          "korean": "숨쉬고",
+          "english": "breathing (and)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "눈을 감으면",
+      "english": "When I close my eyes",
+      "words": [
+        {
+          "korean": "눈을",
+          "english": "eyes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "감으면",
+          "english": "if/when I close",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if/when",
+        "note": "Sets up the conditional trigger for the dream state — every time eyes close, the butterfly appears"
+      }
+    },
+    {
+      "korean": "너를 따라 오랜듯 넌 날아 오르고",
+      "english": "As if following you for a long time, you rise up flying",
+      "words": [
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "따라",
+          "english": "following",
+          "role": "verb"
+        },
+        {
+          "korean": "오랜듯",
+          "english": "as if for a long time",
+          "role": "expression"
+        },
+        {
+          "korean": "날아 오르고",
+          "english": "rise up flying",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ듯",
+        "meaning": "as if, as though",
+        "note": "Creates a sense of uncertainty or dreamlike quality — the narrator is following as if it's been happening for a long time"
+      }
+    },
+    {
+      "korean": "눈을 뜰 수 없어 금새",
+      "english": "I can't open my eyes, and soon",
+      "words": [
+        {
+          "korean": "눈을",
+          "english": "eyes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "뜰 수 없어",
+          "english": "can't open",
+          "role": "verb"
+        },
+        {
+          "korean": "금새",
+          "english": "soon, quickly",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없어",
+        "meaning": "cannot do, unable to",
+        "note": "Used here to express inability to open one's eyes — a physical manifestation of overwhelming emotion"
+      }
+    },
+    {
+      "korean": "난 잠들고 너의 날개 속에",
+      "english": "I fall asleep, and inside your wings",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잠들고",
+          "english": "fall asleep (and)",
+          "role": "verb"
+        },
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "날개 속에",
+          "english": "inside the wings",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "묻혀 잠들고",
+      "english": "I fall asleep, buried",
+      "words": [
+        {
+          "korean": "묻혀",
+          "english": "buried, covered",
+          "role": "verb"
+        },
+        {
+          "korean": "잠들고",
+          "english": "fall asleep (and)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "멀리 날려 보내고",
+      "english": "I send it flying far away",
+      "words": [
+        {
+          "korean": "멀리",
+          "english": "far away",
+          "role": "adverb"
+        },
+        {
+          "korean": "날려 보내고",
+          "english": "send flying (and)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 보내다",
+        "meaning": "to send away (by doing)",
+        "note": "Combines the action of flying with sending away — an effort to let go of something"
+      }
+    },
+    {
+      "korean": "눈을 감지만",
+      "english": "I close my eyes, but",
+      "words": [
+        {
+          "korean": "눈을",
+          "english": "eyes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "감지만",
+          "english": "close, but/although",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지만",
+        "meaning": "but, although",
+        "note": "Sets up the song's central contradiction — trying to let go but still feeling presence"
+      }
+    },
+    {
+      "korean": "아직 내곁 있는 듯넌 날아 오르고",
+      "english": "As if you're still right beside me, you rise flying",
+      "words": [
+        {
+          "korean": "아직",
+          "english": "still, yet",
+          "role": "adverb"
+        },
+        {
+          "korean": "내곁",
+          "english": "beside me, by my side",
+          "role": "noun"
+        },
+        {
+          "korean": "있는 듯",
+          "english": "as if existing/there",
+          "role": "expression"
+        },
+        {
+          "korean": "날아 오르고",
+          "english": "rise flying",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "잠을 깨고",
+      "english": "I wake up",
+      "words": [
+        {
+          "korean": "잠을",
+          "english": "sleep (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "깨고",
+          "english": "wake, break (and)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "날아가려해 애써",
+      "english": "I try hard to fly away",
+      "words": [
+        {
+          "korean": "날아가려해",
+          "english": "try to fly away",
+          "role": "verb"
+        },
+        {
+          "korean": "애써",
+          "english": "trying hard, making an effort",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)려 해",
+        "meaning": "try to, intend to",
+        "note": "Combined with 애써 (making an effort), this marks the one moment of conscious struggle in an otherwise passive, drifting song"
+      }
+    },
+    {
+      "korean": "눈떨고 널 보내",
+      "english": "Opening my eyes, I send you off",
+      "words": [
+        {
+          "korean": "눈떨고",
+          "english": "opening eyes (and)",
+          "role": "verb"
+        },
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보내",
+          "english": "send off",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다시 잠들어",
+      "english": "I fall asleep again",
+      "words": [
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "잠들어",
+          "english": "fall asleep",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너의 날개를 따라",
+      "english": "Following your wings",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "날개를",
+          "english": "wings (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "따라",
+          "english": "following",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

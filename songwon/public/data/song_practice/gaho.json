@@ -1,0 +1,375 @@
+{
+  "songId": "gaho",
+  "lines": [
+    {
+      "korean": "새로운 시작은 늘 설레게 하지",
+      "english": "A new beginning always makes your heart race",
+      "words": [
+        {
+          "korean": "새로운 시작은",
+          "english": "a new beginning",
+          "role": "noun"
+        },
+        {
+          "korean": "늘",
+          "english": "always",
+          "role": "adverb"
+        },
+        {
+          "korean": "설레게 하지",
+          "english": "makes [you] excited/nervous",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하다",
+        "meaning": "to make/cause someone to [verb]",
+        "note": "설레다 (to be excited/nervous) becomes 설레게 하다 (to make someone excited) — causative form"
+      }
+    },
+    {
+      "korean": "모든 걸 이겨낼 것처럼",
+      "english": "As if you could overcome everything",
+      "words": [
+        {
+          "korean": "모든 걸",
+          "english": "everything",
+          "role": "noun"
+        },
+        {
+          "korean": "이겨낼",
+          "english": "will overcome",
+          "role": "verb"
+        },
+        {
+          "korean": "것처럼",
+          "english": "as if",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것처럼",
+        "meaning": "as if [one will/would]",
+        "note": "Expresses a comparison to something that isn't necessarily true — here, feeling like you can overcome anything even though you might not"
+      }
+    },
+    {
+      "korean": "시간을 뒤쫓는 시계바늘처럼",
+      "english": "Like a clock hand chasing time",
+      "words": [
+        {
+          "korean": "시간을",
+          "english": "time",
+          "role": "noun"
+        },
+        {
+          "korean": "뒤쫓는",
+          "english": "chasing",
+          "role": "verb"
+        },
+        {
+          "korean": "시계바늘처럼",
+          "english": "like a clock hand",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like, as if",
+        "note": "Attached to 시계바늘 (clock hand) to create a metaphor for relentlessly moving forward"
+      }
+    },
+    {
+      "korean": "앞질러 가고 싶어 하지",
+      "english": "You want to run ahead of it",
+      "words": [
+        {
+          "korean": "앞질러",
+          "english": "overtaking, getting ahead",
+          "role": "verb"
+        },
+        {
+          "korean": "가고",
+          "english": "to go",
+          "role": "verb"
+        },
+        {
+          "korean": "싶어 하지",
+          "english": "want to",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "그어 놓은 선을 넘어",
+      "english": "Crossing the line that's been drawn",
+      "words": [
+        {
+          "korean": "그어 놓은",
+          "english": "that has been drawn",
+          "role": "verb"
+        },
+        {
+          "korean": "선을",
+          "english": "line",
+          "role": "noun"
+        },
+        {
+          "korean": "넘어",
+          "english": "crossing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 놓다",
+        "meaning": "to do something in advance/preparation",
+        "note": "그어 놓은 means 'that has been drawn (and left there)' — the line was set beforehand"
+      }
+    },
+    {
+      "korean": "내가 지쳐 쓰러질 때까진",
+      "english": "Until I collapse from exhaustion",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "지쳐",
+          "english": "exhausted",
+          "role": "verb"
+        },
+        {
+          "korean": "쓰러질",
+          "english": "will collapse",
+          "role": "verb"
+        },
+        {
+          "korean": "때까진",
+          "english": "until",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 때까지",
+        "meaning": "until [the time when]",
+        "note": "때까진 is the contracted form of 때까지는 — marking the endpoint of the action"
+      }
+    },
+    {
+      "korean": "지금 내겐 용기가 필요해",
+      "english": "Right now I need courage",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "내겐",
+          "english": "to me/for me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "용기가",
+          "english": "courage",
+          "role": "noun"
+        },
+        {
+          "korean": "필요해",
+          "english": "is needed",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "빛나지 않아도 내 꿈을 응원해",
+      "english": "Even if I don't shine, I'll cheer on my own dream",
+      "words": [
+        {
+          "korean": "빛나지 않아도",
+          "english": "even if [I] don't shine",
+          "role": "verb"
+        },
+        {
+          "korean": "내 꿈을",
+          "english": "my dream",
+          "role": "noun"
+        },
+        {
+          "korean": "응원해",
+          "english": "cheer on/support",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않아도",
+        "meaning": "even if [not]",
+        "note": "Expresses that the following action will happen regardless of this condition — even without shining, he'll support his dream"
+      }
+    },
+    {
+      "korean": "그 마지막을 가질 테니",
+      "english": "Because I'll have the last moment",
+      "words": [
+        {
+          "korean": "그 마지막을",
+          "english": "that final moment",
+          "role": "noun"
+        },
+        {
+          "korean": "가질 테니",
+          "english": "because [I] will have",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 테니까",
+        "meaning": "because [I] will/intend to",
+        "note": "States one's own intention as justification — stubborn determination grammar, using his decision as the reason"
+      }
+    },
+    {
+      "korean": "부러진 것처럼 한 발로 뛰어도",
+      "english": "Even if I run on one leg like it's broken",
+      "words": [
+        {
+          "korean": "부러진 것처럼",
+          "english": "as if broken",
+          "role": "expression"
+        },
+        {
+          "korean": "한 발로",
+          "english": "on one leg",
+          "role": "noun"
+        },
+        {
+          "korean": "뛰어도",
+          "english": "even if [I] run",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if, even though",
+        "note": "Despite the difficult condition (running on one leg), the following action will still happen"
+      }
+    },
+    {
+      "korean": "난 나의 길을 갈 테니까",
+      "english": "I'll go my own way",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나의 길을",
+          "english": "my own path",
+          "role": "noun"
+        },
+        {
+          "korean": "갈 테니까",
+          "english": "because [I] will go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 테니까",
+        "meaning": "because [I] will/intend to",
+        "note": "Again using stubborn intention as justification — this is the core pattern of the song's determination"
+      }
+    },
+    {
+      "korean": "멈추지 않겠다고",
+      "english": "That I won't stop",
+      "words": [
+        {
+          "korean": "멈추지 않겠다고",
+          "english": "that [I] will not stop",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않겠다",
+        "meaning": "will not [do]",
+        "note": "Strong negative intention — 않겠다 expresses determined refusal to do something"
+      }
+    },
+    {
+      "korean": "버티고 버텨",
+      "english": "Hold on, keep holding on",
+      "words": [
+        {
+          "korean": "버티고",
+          "english": "hold on and",
+          "role": "verb"
+        },
+        {
+          "korean": "버텨",
+          "english": "keep holding on",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 [repeat verb]",
+        "meaning": "emphasis through repetition",
+        "note": "버티다 repeated twice emphasizes continuous endurance — one of the most emotionally loaded verbs in Korean culture"
+      }
+    },
+    {
+      "korean": "내 꿈은 더 단단해질 테니",
+      "english": "My dream will become even stronger",
+      "words": [
+        {
+          "korean": "내 꿈은",
+          "english": "my dream",
+          "role": "noun"
+        },
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "단단해질 테니",
+          "english": "because [it] will become solid/strong",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 테니",
+        "meaning": "because [it] will",
+        "note": "단단하다 (solid/firm) + 지다 (to become) = will become stronger through endurance"
+      }
+    },
+    {
+      "korean": "다시는 나를 잃고 싶지 않아",
+      "english": "I never want to lose myself again",
+      "words": [
+        {
+          "korean": "다시는",
+          "english": "never again",
+          "role": "adverb"
+        },
+        {
+          "korean": "나를",
+          "english": "myself",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잃고 싶지 않아",
+          "english": "don't want to lose",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 싶지 않다",
+        "meaning": "don't want to [do]",
+        "note": "Negative desire form — 싶다 (want to) made negative with -지 않다"
+      }
+    }
+  ]
+}

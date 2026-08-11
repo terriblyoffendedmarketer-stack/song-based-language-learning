@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { loadSongIndex, type SongIndexEntry } from "@/lib/seed-loader";
 import { useTTS } from "@/hooks/useTTS";
 import { KrTip } from "@/components/ui/KrTip";
+import { loadPracticeStats } from "@/lib/practice-engine";
 
 interface PracticeLine {
   korean: string;
@@ -17,6 +18,7 @@ interface PracticeData {
     korean: string;
     english: string;
     words: { korean: string; english: string; role: string }[];
+    grammar?: { pattern: string; meaning: string; note: string };
   }[];
 }
 
@@ -63,6 +65,7 @@ export default function SongPracticePage({
   const [completedLines, setCompletedLines] = useState<number[]>([]);
   const [loading, setLoading] = useState(true);
   const [useFallback, setUseFallback] = useState(false);
+  const [knownVocab, setKnownVocab] = useState<Set<string>>(new Set());
 
   useEffect(() => {
     async function init() {
@@ -73,6 +76,16 @@ export default function SongPracticePage({
         return;
       }
       setSong(found);
+
+      // Load known vocab from practice stats
+      const practiceStats = loadPracticeStats();
+      const known = new Set<string>();
+      for (const [key, entry] of Object.entries(practiceStats.srs)) {
+        if (entry.mastery === "learning" || entry.mastery === "mastered") {
+          known.add(key);
+        }
+      }
+      setKnownVocab(known);
 
       // Try loading rich practice data
       try {
@@ -313,36 +326,64 @@ export default function SongPracticePage({
                     <KrTip en="Word breakdown">단어 분석</KrTip>
                   </p>
                   <div className="grid gap-2">
-                    {currentPractice.words.map((word, i) => (
-                      <button
-                        key={i}
-                        onClick={() => speak(word.korean)}
-                        className="flex items-center gap-3 bg-card border border-border rounded-lg px-4 py-3 text-left hover:border-accent/40 transition-colors"
-                      >
-                        <span className="kr font-bold text-sm">
-                          {word.korean}
-                        </span>
-                        <span className="text-xs text-muted flex-1">
-                          {word.english}
-                        </span>
-                        <span className="text-[9px] text-faint">
-                          {word.role}
-                        </span>
-                      </button>
-                    ))}
+                    {currentPractice.words.map((word, i) => {
+                      const isKnown = knownVocab.has(word.korean);
+                      return (
+                        <button
+                          key={i}
+                          onClick={() => speak(word.korean)}
+                          className={`flex items-center gap-3 bg-card border rounded-lg px-4 py-3 text-left hover:border-accent/40 transition-colors ${
+                            isKnown ? "border-green-500/30" : "border-border"
+                          }`}
+                        >
+                          <span className="kr font-bold text-sm">
+                            {word.korean}
+                          </span>
+                          <span className="text-xs text-muted flex-1">
+                            {word.english}
+                          </span>
+                          {isKnown && (
+                            <span className="text-[9px] text-green-500 font-semibold">learned</span>
+                          )}
+                          <span className="text-[9px] text-faint">
+                            {word.role}
+                          </span>
+                        </button>
+                      );
+                    })}
                   </div>
                 </div>
               )}
 
               {/* Translation */}
               {state === "translation" && (
-                <div className="bg-accent-light border border-accent/20 rounded-xl p-5 text-center">
-                  <p className="text-xs text-accent font-semibold mb-2">
-                    <KrTip en="Translation">번역</KrTip>
-                  </p>
-                  <p className="text-sm text-foreground">
-                    {currentPractice.english}
-                  </p>
+                <div className="space-y-3">
+                  <div className="bg-accent-light border border-accent/20 rounded-xl p-5 text-center">
+                    <p className="text-xs text-accent font-semibold mb-2">
+                      <KrTip en="Translation">번역</KrTip>
+                    </p>
+                    <p className="text-sm text-foreground">
+                      {currentPractice.english}
+                    </p>
+                  </div>
+
+                  {/* Grammar note */}
+                  {currentPractice.grammar && (
+                    <div className="bg-card border border-border rounded-xl p-4">
+                      <p className="text-[10px] uppercase tracking-wider text-faint font-semibold mb-2">
+                        <KrTip en="Grammar">문법</KrTip>
+                      </p>
+                      <p className="kr text-sm font-bold text-accent">
+                        {currentPractice.grammar.pattern}
+                      </p>
+                      <p className="text-xs text-muted mt-1">
+                        {currentPractice.grammar.meaning}
+                      </p>
+                      <p className="text-xs text-faint mt-1.5 italic">
+                        {currentPractice.grammar.note}
+                      </p>
+                    </div>
+                  )}
                 </div>
               )}
             </div>

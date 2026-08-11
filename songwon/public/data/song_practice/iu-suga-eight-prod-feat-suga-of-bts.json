@@ -1,0 +1,395 @@
+{
+  "songId": "iu-suga-eight-prod-feat-suga-of-bts",
+  "lines": [
+    {
+      "korean": "뭐 그대로야 난",
+      "english": "Well, I'm still the same",
+      "words": [
+        {
+          "korean": "뭐",
+          "english": "well",
+          "role": "interjection"
+        },
+        {
+          "korean": "그대로야",
+          "english": "still the same",
+          "role": "adjective"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "다 잃어버린 것 같아",
+      "english": "I feel like I've lost everything",
+      "words": [
+        {
+          "korean": "다",
+          "english": "everything",
+          "role": "adverb"
+        },
+        {
+          "korean": "잃어버린",
+          "english": "lost (completely)",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems/feels like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to do completely (often with regret or finality)",
+        "note": "잃어버린 adds a sense of irreversible loss, stronger than just 잃은"
+      }
+    },
+    {
+      "korean": "모든 게 맘대로 왔다가 인사도 없이 떠나",
+      "english": "Everything came and went as it pleased, without even saying goodbye",
+      "words": [
+        {
+          "korean": "모든 게",
+          "english": "everything",
+          "role": "noun"
+        },
+        {
+          "korean": "맘대로",
+          "english": "as it pleased",
+          "role": "adverb"
+        },
+        {
+          "korean": "왔다가",
+          "english": "came and then",
+          "role": "verb"
+        },
+        {
+          "korean": "인사도 없이",
+          "english": "without even a goodbye",
+          "role": "expression"
+        },
+        {
+          "korean": "떠나",
+          "english": "left",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-도 없이",
+        "meaning": "without even ~",
+        "note": "Emphasizes that something basic (like saying goodbye) didn't happen"
+      }
+    },
+    {
+      "korean": "이대로는 무엇도 사랑하고 싶지 않아",
+      "english": "I don't want to love anything, like this",
+      "words": [
+        {
+          "korean": "이대로는",
+          "english": "like this/in this state",
+          "role": "adverb"
+        },
+        {
+          "korean": "무엇도",
+          "english": "anything (at all)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "사랑하고 싶지 않아",
+          "english": "don't want to love",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다 해질 대로 해져버린 기억 속을 여행해",
+      "english": "I travel through memories that are worn completely thin",
+      "words": [
+        {
+          "korean": "해질 대로 해져버린",
+          "english": "worn out to the point of being worn out",
+          "role": "verb"
+        },
+        {
+          "korean": "기억 속을",
+          "english": "through memories",
+          "role": "noun"
+        },
+        {
+          "korean": "여행해",
+          "english": "travel",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ 대로 -",
+        "meaning": "to the extent/point of ~",
+        "note": "해질 대로 해져버린 means worn out to the maximum degree, emphasizing exhaustion"
+      }
+    },
+    {
+      "korean": "우리는 오렌지 태양 아래 그림자 없이 함께 춤을 춰",
+      "english": "Under an orange sun, we dance together without shadows",
+      "words": [
+        {
+          "korean": "오렌지 태양 아래",
+          "english": "under an orange sun",
+          "role": "noun"
+        },
+        {
+          "korean": "그림자 없이",
+          "english": "without shadows",
+          "role": "adverb"
+        },
+        {
+          "korean": "함께",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "춤을 춰",
+          "english": "dance",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "정해진 이별 따위는 없어",
+      "english": "There's no such thing as a scheduled goodbye",
+      "words": [
+        {
+          "korean": "정해진",
+          "english": "scheduled/predetermined",
+          "role": "verb"
+        },
+        {
+          "korean": "이별",
+          "english": "farewell/goodbye",
+          "role": "noun"
+        },
+        {
+          "korean": "따위는 없어",
+          "english": "there's no such thing as",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-따위는 없어",
+        "meaning": "there's no such thing as ~ (dismissive)",
+        "note": "따위 adds a contemptuous or dismissive tone, rejecting the very concept of a predetermined goodbye"
+      }
+    },
+    {
+      "korean": "아름다웠던 그 기억에서 만나",
+      "english": "We meet in that beautiful memory",
+      "words": [
+        {
+          "korean": "아름다웠던",
+          "english": "was beautiful",
+          "role": "adjective"
+        },
+        {
+          "korean": "그 기억에서",
+          "english": "in that memory",
+          "role": "noun"
+        },
+        {
+          "korean": "만나",
+          "english": "meet",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "섬 그래 여긴 섬 서로가 만든 작은 섬",
+      "english": "An island, yeah, this is an island, a small island we made for each other",
+      "words": [
+        {
+          "korean": "섬",
+          "english": "island",
+          "role": "noun"
+        },
+        {
+          "korean": "여긴",
+          "english": "this place",
+          "role": "pronoun"
+        },
+        {
+          "korean": "서로가",
+          "english": "each other/we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "만든",
+          "english": "made",
+          "role": "verb"
+        },
+        {
+          "korean": "작은 섬",
+          "english": "small island",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "영원이란 말은 모래성",
+      "english": "The word 'eternal' is a sandcastle",
+      "words": [
+        {
+          "korean": "영원이란",
+          "english": "the word 'eternal'/as for 'eternal'",
+          "role": "noun"
+        },
+        {
+          "korean": "말은",
+          "english": "the word",
+          "role": "noun"
+        },
+        {
+          "korean": "모래성",
+          "english": "sandcastle",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-이란",
+        "meaning": "as for/the thing called ~",
+        "note": "Used to define or single out a term for comment, here setting up the metaphor that 'forever' is just a sandcastle"
+      }
+    },
+    {
+      "korean": "작별은 마치 재난문자 같지",
+      "english": "A farewell feels like an emergency alert text",
+      "words": [
+        {
+          "korean": "작별은",
+          "english": "a farewell",
+          "role": "noun"
+        },
+        {
+          "korean": "마치",
+          "english": "just like",
+          "role": "adverb"
+        },
+        {
+          "korean": "재난문자",
+          "english": "emergency alert text",
+          "role": "noun"
+        },
+        {
+          "korean": "같지",
+          "english": "is like/seems like",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그리움과 같이 맞이하는 아침",
+      "english": "A morning greeted together with longing",
+      "words": [
+        {
+          "korean": "그리움과",
+          "english": "with longing",
+          "role": "noun"
+        },
+        {
+          "korean": "같이",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "맞이하는",
+          "english": "greeting/welcoming",
+          "role": "verb"
+        },
+        {
+          "korean": "아침",
+          "english": "morning",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "지나듯 날 위로하던 누구의 말대로 고작 한 뼘짜리 추억을 잊는 게 참 쉽지 않아",
+      "english": "Following the words of someone who once comforted me in passing, a memory that only lasted a handspan isn't so easy to forget",
+      "words": [
+        {
+          "korean": "지나듯",
+          "english": "in passing",
+          "role": "adverb"
+        },
+        {
+          "korean": "위로하던",
+          "english": "used to comfort",
+          "role": "verb"
+        },
+        {
+          "korean": "말대로",
+          "english": "according to the words",
+          "role": "expression"
+        },
+        {
+          "korean": "고작 한 뼘짜리",
+          "english": "only a handspan's worth",
+          "role": "expression"
+        },
+        {
+          "korean": "잊는 게 참 쉽지 않아",
+          "english": "not so easy to forget",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우리는 서로를 베고 누워 슬프지 않은 이야기를 나눠",
+      "english": "We lie down using each other as pillows and share stories that aren't sad",
+      "words": [
+        {
+          "korean": "서로를 베고",
+          "english": "using each other as a pillow",
+          "role": "verb"
+        },
+        {
+          "korean": "누워",
+          "english": "lie down",
+          "role": "verb"
+        },
+        {
+          "korean": "슬프지 않은",
+          "english": "not sad",
+          "role": "adjective"
+        },
+        {
+          "korean": "이야기를 나눠",
+          "english": "share stories",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "우울한 결말 따위는 없어",
+      "english": "There's no such thing as a depressing ending",
+      "words": [
+        {
+          "korean": "우울한",
+          "english": "depressing",
+          "role": "adjective"
+        },
+        {
+          "korean": "결말",
+          "english": "ending",
+          "role": "noun"
+        },
+        {
+          "korean": "따위는 없어",
+          "english": "there's no such thing as",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

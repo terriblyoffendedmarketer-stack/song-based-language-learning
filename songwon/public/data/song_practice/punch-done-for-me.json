@@ -1,0 +1,345 @@
+{
+  "songId": "punch-done-for-me",
+  "lines": [
+    {
+      "korean": "지울게 너에게 남겨줬던 추억까지도",
+      "english": "I'll erase it — even the memories I left with you",
+      "words": [
+        {
+          "korean": "지울게",
+          "english": "I'll erase",
+          "role": "verb"
+        },
+        {
+          "korean": "너에게",
+          "english": "to you",
+          "role": "expression"
+        },
+        {
+          "korean": "남겨줬던",
+          "english": "that I left behind",
+          "role": "verb"
+        },
+        {
+          "korean": "추억까지도",
+          "english": "even the memories",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ게",
+        "meaning": "I will (promise/commitment)",
+        "note": "Used here as a self-directed promise to erase everything, softer than a simple future tense"
+      }
+    },
+    {
+      "korean": "바랄게 너와의 기억도 남지 못하게",
+      "english": "I'll hope that even the memory of you doesn't remain",
+      "words": [
+        {
+          "korean": "바랄게",
+          "english": "I'll hope",
+          "role": "verb"
+        },
+        {
+          "korean": "너와의 기억도",
+          "english": "even the memory with you",
+          "role": "noun"
+        },
+        {
+          "korean": "남지 못하게",
+          "english": "so it can't remain",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 못하게",
+        "meaning": "so that [something] cannot happen",
+        "note": "Expresses a desired negative outcome — she wants the memories to be unable to stay"
+      }
+    },
+    {
+      "korean": "더는 다가갈 수 없어 네게",
+      "english": "I can't get any closer to you anymore",
+      "words": [
+        {
+          "korean": "더는",
+          "english": "anymore",
+          "role": "adverb"
+        },
+        {
+          "korean": "다가갈 수 없어",
+          "english": "can't approach",
+          "role": "verb"
+        },
+        {
+          "korean": "네게",
+          "english": "to you",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없다",
+        "meaning": "cannot do [something]",
+        "note": "Expresses impossibility — she's unable to get closer, whether by choice or circumstance"
+      }
+    },
+    {
+      "korean": "이런 마음이 너무 두려워",
+      "english": "This feeling is too frightening",
+      "words": [
+        {
+          "korean": "이런 마음이",
+          "english": "this feeling",
+          "role": "noun"
+        },
+        {
+          "korean": "너무",
+          "english": "too much",
+          "role": "adverb"
+        },
+        {
+          "korean": "두려워",
+          "english": "frightening/scary",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "너의 기억 모두 가져가 줘",
+      "english": "Take all your memories away",
+      "words": [
+        {
+          "korean": "너의 기억",
+          "english": "your memories",
+          "role": "noun"
+        },
+        {
+          "korean": "모두",
+          "english": "all",
+          "role": "adverb"
+        },
+        {
+          "korean": "가져가 줘",
+          "english": "take away (please)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줘",
+        "meaning": "please do [something] (for me)",
+        "note": "A direct, pleading request form used throughout the song to beg the ex to remove the pain"
+      }
+    },
+    {
+      "korean": "깨끗이 지워질 수 있을까",
+      "english": "Can it be cleanly erased",
+      "words": [
+        {
+          "korean": "깨끗이",
+          "english": "cleanly",
+          "role": "adverb"
+        },
+        {
+          "korean": "지워질 수 있을까",
+          "english": "can it be erased",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있을까",
+        "meaning": "I wonder if it can/I can...",
+        "note": "A self-doubting rhetorical question, not genuinely asking someone else but expressing internal uncertainty"
+      }
+    },
+    {
+      "korean": "널 벗어날 수 있을까",
+      "english": "Can I get free of you",
+      "words": [
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "벗어날 수 있을까",
+          "english": "can I escape/get free",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "사랑했던 기억도 다 비워낼 수 있을까",
+      "english": "Can even the memory of loving you be emptied out",
+      "words": [
+        {
+          "korean": "사랑했던 기억도",
+          "english": "even the memory of loving",
+          "role": "noun"
+        },
+        {
+          "korean": "다",
+          "english": "all/completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "비워낼 수 있을까",
+          "english": "can it be emptied out",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "미친 듯이 뛰어가 너 없는 곳에 가",
+      "english": "Run like crazy to a place without you",
+      "words": [
+        {
+          "korean": "미친 듯이",
+          "english": "like crazy",
+          "role": "adverb"
+        },
+        {
+          "korean": "뛰어가",
+          "english": "run",
+          "role": "verb"
+        },
+        {
+          "korean": "너 없는 곳에",
+          "english": "to a place without you",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-듯이",
+        "meaning": "as if / like",
+        "note": "미친 듯이 (like crazy) is a common expression for doing something with intense desperation"
+      }
+    },
+    {
+      "korean": "네가 내게 남겨줬던 기억은 가시가 됐고",
+      "english": "The memories you left with me became thorns",
+      "words": [
+        {
+          "korean": "네가 내게 남겨줬던",
+          "english": "that you left with me",
+          "role": "verb"
+        },
+        {
+          "korean": "기억은",
+          "english": "memories",
+          "role": "noun"
+        },
+        {
+          "korean": "가시가 됐고",
+          "english": "became thorns",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "떠날게 가질 수 없는 너란 걸 알고 있어",
+      "english": "I'll leave — I know you're someone I can't have",
+      "words": [
+        {
+          "korean": "떠날게",
+          "english": "I'll leave",
+          "role": "verb"
+        },
+        {
+          "korean": "가질 수 없는",
+          "english": "that I can't have",
+          "role": "verb"
+        },
+        {
+          "korean": "너란 걸",
+          "english": "that you are",
+          "role": "expression"
+        },
+        {
+          "korean": "알고 있어",
+          "english": "I know",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "나의 기억에서 떠나가줘",
+      "english": "Leave my memory",
+      "words": [
+        {
+          "korean": "나의 기억에서",
+          "english": "from my memory",
+          "role": "expression"
+        },
+        {
+          "korean": "떠나가줘",
+          "english": "leave (please)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그리워도 그립지는 않게",
+      "english": "So that even if I long for you, I won't feel the longing",
+      "words": [
+        {
+          "korean": "그리워도",
+          "english": "even if I miss/long for",
+          "role": "verb"
+        },
+        {
+          "korean": "그립지는 않게",
+          "english": "so that I won't miss",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if / even though",
+        "note": "Creates a nuanced paradox — the emotion may exist, but she wants it not to register as pain"
+      }
+    },
+    {
+      "korean": "너를 떠날 수밖에 멀어질 수밖에 없으니까",
+      "english": "Because I have no choice but to leave you, no choice but to grow distant",
+      "words": [
+        {
+          "korean": "떠날 수밖에",
+          "english": "no choice but to leave",
+          "role": "verb"
+        },
+        {
+          "korean": "멀어질 수밖에 없으니까",
+          "english": "no choice but to grow distant, because",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수밖에 없다",
+        "meaning": "have no choice but to",
+        "note": "Frames the painful decision as forced by circumstance rather than freely chosen, softening the guilt"
+      }
+    },
+    {
+      "korean": "이런 나를 제발 용서해줘",
+      "english": "Please forgive me for being like this",
+      "words": [
+        {
+          "korean": "이런 나를",
+          "english": "me being like this",
+          "role": "expression"
+        },
+        {
+          "korean": "제발",
+          "english": "please",
+          "role": "adverb"
+        },
+        {
+          "korean": "용서해줘",
+          "english": "forgive me",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

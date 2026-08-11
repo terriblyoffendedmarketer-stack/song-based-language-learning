@@ -143,6 +143,8 @@ function isLessonPassed(progress: V5UserProgress, lessonNumber: number): boolean
   return false;
 }
 
+const PRACTICE_SESSIONS_PER_SET = 2;
+
 export function isLessonUnlocked(progress: V5UserProgress, lessonNumber: number): boolean {
   if (isTesterMode()) return true;
   const set = Math.ceil(lessonNumber / LESSONS_PER_SET);
@@ -152,7 +154,50 @@ export function isLessonUnlocked(progress: V5UserProgress, lessonNumber: number)
   for (let n = prevSetStart; n <= prevSetEnd; n++) {
     if (!isLessonPassed(progress, n)) return false;
   }
+  const requiredSessions = (set - 1) * PRACTICE_SESSIONS_PER_SET;
+  if (requiredSessions > 0) {
+    const practiceStats = loadPracticeStatsForGating();
+    if (practiceStats.sessionsCompleted < requiredSessions) return false;
+  }
   return true;
+}
+
+function loadPracticeStatsForGating(): { sessionsCompleted: number } {
+  if (typeof window === "undefined") return { sessionsCompleted: 0 };
+  try {
+    const raw = localStorage.getItem("songwon-practice-stats");
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      return { sessionsCompleted: parsed.sessionsCompleted || 0 };
+    }
+  } catch {}
+  return { sessionsCompleted: 0 };
+}
+
+export function getUnlockRequirements(lessonNumber: number): {
+  lessonsNeeded: boolean;
+  practiceNeeded: number;
+  practiceCompleted: number;
+} {
+  const set = Math.ceil(lessonNumber / LESSONS_PER_SET);
+  if (set === 1) return { lessonsNeeded: false, practiceNeeded: 0, practiceCompleted: 0 };
+
+  const progress = loadV5Progress();
+  const prevSetStart = (set - 2) * LESSONS_PER_SET + 1;
+  const prevSetEnd = (set - 1) * LESSONS_PER_SET;
+  let allPassed = true;
+  for (let n = prevSetStart; n <= prevSetEnd; n++) {
+    if (!isLessonPassed(progress, n)) { allPassed = false; break; }
+  }
+
+  const requiredSessions = (set - 1) * PRACTICE_SESSIONS_PER_SET;
+  const practiceStats = loadPracticeStatsForGating();
+
+  return {
+    lessonsNeeded: !allPassed,
+    practiceNeeded: requiredSessions,
+    practiceCompleted: practiceStats.sessionsCompleted,
+  };
 }
 
 export interface InProgressState {

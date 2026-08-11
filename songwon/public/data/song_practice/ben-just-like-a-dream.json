@@ -1,0 +1,404 @@
+{
+  "songId": "ben-just-like-a-dream",
+  "lines": [
+    {
+      "korean": "나만 홀로 느낀 황홀함일까",
+      "english": "Was I the only one who felt that ecstasy?",
+      "words": [
+        {
+          "korean": "나만",
+          "english": "only I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "홀로",
+          "english": "alone",
+          "role": "adverb"
+        },
+        {
+          "korean": "느낀",
+          "english": "felt",
+          "role": "verb"
+        },
+        {
+          "korean": "황홀함",
+          "english": "ecstasy",
+          "role": "noun"
+        },
+        {
+          "korean": "일까",
+          "english": "I wonder if",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "I wonder if/whether",
+        "note": "Used to express uncertainty or rhetorical questions about something; here questioning if the feeling was one-sided."
+      }
+    },
+    {
+      "korean": "그저 바라보는 시선이 무거워",
+      "english": "The gaze I'm just watching from feels heavy",
+      "words": [
+        {
+          "korean": "그저",
+          "english": "just/merely",
+          "role": "adverb"
+        },
+        {
+          "korean": "바라보는",
+          "english": "watching",
+          "role": "verb"
+        },
+        {
+          "korean": "시선이",
+          "english": "gaze/look",
+          "role": "noun"
+        },
+        {
+          "korean": "무거워",
+          "english": "is heavy",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "맴도는 발걸음 여전히 네가 보고 싶어",
+      "english": "My steps keep circling back, I still miss you",
+      "words": [
+        {
+          "korean": "맴도는",
+          "english": "circling/hovering",
+          "role": "verb"
+        },
+        {
+          "korean": "발걸음",
+          "english": "steps/footsteps",
+          "role": "noun"
+        },
+        {
+          "korean": "여전히",
+          "english": "still",
+          "role": "adverb"
+        },
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보고 싶어",
+          "english": "miss/want to see",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "차가웠던 그 날",
+      "english": "that cold day",
+      "words": [
+        {
+          "korean": "차가웠던",
+          "english": "was cold",
+          "role": "adjective"
+        },
+        {
+          "korean": "그 날",
+          "english": "that day",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았/었던",
+        "meaning": "past descriptive form",
+        "note": "Describes a past state or condition; adds a reflective, nostalgic tone to the memory being recalled."
+      }
+    },
+    {
+      "korean": "자꾸 떨리는 내 가슴이 혼자 울까 봐",
+      "english": "afraid my trembling heart would end up crying alone",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "keeps/repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "떨리는",
+          "english": "trembling",
+          "role": "verb"
+        },
+        {
+          "korean": "내 가슴이",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "혼자",
+          "english": "alone",
+          "role": "adverb"
+        },
+        {
+          "korean": "울까 봐",
+          "english": "afraid it might cry",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까 봐",
+        "meaning": "worried/afraid that something might happen",
+        "note": "Expresses fear or concern about a potential outcome; here, the fear that the heart will cry alone."
+      }
+    },
+    {
+      "korean": "눈을 뜨면 희미해져 버릴 꿈처럼 놔줘",
+      "english": "if I open my eyes, let me go like a fading dream",
+      "words": [
+        {
+          "korean": "눈을 뜨면",
+          "english": "if I open my eyes",
+          "role": "expression"
+        },
+        {
+          "korean": "희미해져 버릴",
+          "english": "will fade away",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈처럼",
+          "english": "like a dream",
+          "role": "expression"
+        },
+        {
+          "korean": "놔줘",
+          "english": "let me go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to end up doing/completely do",
+        "note": "Indicates completion or finality, often with regret; here emphasizes the dream will completely fade away."
+      }
+    },
+    {
+      "korean": "그게 아니면 곁에 있어 줘",
+      "english": "if not that, then stay beside me",
+      "words": [
+        {
+          "korean": "그게 아니면",
+          "english": "if not that",
+          "role": "expression"
+        },
+        {
+          "korean": "곁에",
+          "english": "beside/next to",
+          "role": "noun"
+        },
+        {
+          "korean": "있어 줘",
+          "english": "stay/be there for me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "to do something for someone",
+        "note": "Casual request form asking someone to do something as a favor; here, a plea to stay by the speaker's side."
+      }
+    },
+    {
+      "korean": "무거워진 어깰 내게 보이며",
+      "english": "showing me your heavy shoulders",
+      "words": [
+        {
+          "korean": "무거워진",
+          "english": "became heavy",
+          "role": "adjective"
+        },
+        {
+          "korean": "어깰",
+          "english": "shoulders",
+          "role": "noun"
+        },
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보이며",
+          "english": "showing/while showing",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "미워하지도 못하게 막아선 너",
+      "english": "stopping me from even being able to resent you",
+      "words": [
+        {
+          "korean": "미워하지도",
+          "english": "even resent",
+          "role": "verb"
+        },
+        {
+          "korean": "못하게",
+          "english": "unable to/can't",
+          "role": "expression"
+        },
+        {
+          "korean": "막아선",
+          "english": "blocked/stopped",
+          "role": "verb"
+        },
+        {
+          "korean": "너",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지도 못하다",
+        "meaning": "can't even do",
+        "note": "Emphasizes inability to do even a basic action; here, can't even bring oneself to feel resentment."
+      }
+    },
+    {
+      "korean": "따갑게 스치는 새벽에 네가 보고 싶어",
+      "english": "in the stinging dawn, I miss you",
+      "words": [
+        {
+          "korean": "따갑게",
+          "english": "stingingly",
+          "role": "adverb"
+        },
+        {
+          "korean": "스치는",
+          "english": "brushing past/grazing",
+          "role": "verb"
+        },
+        {
+          "korean": "새벽에",
+          "english": "at dawn",
+          "role": "noun"
+        },
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보고 싶어",
+          "english": "miss",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "울어서 좋을 게 없는데",
+      "english": "there's nothing good about crying",
+      "words": [
+        {
+          "korean": "울어서",
+          "english": "from crying",
+          "role": "verb"
+        },
+        {
+          "korean": "좋을 게",
+          "english": "good thing",
+          "role": "expression"
+        },
+        {
+          "korean": "없는데",
+          "english": "there isn't/but",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 게 없다",
+        "meaning": "there's nothing to ~",
+        "note": "Expresses the absence of something worth doing or expecting; here, nothing good will come from crying."
+      }
+    },
+    {
+      "korean": "깊게 새긴 흔적이 서러워",
+      "english": "the mark carved deep in me feels so sad",
+      "words": [
+        {
+          "korean": "깊게",
+          "english": "deeply",
+          "role": "adverb"
+        },
+        {
+          "korean": "새긴",
+          "english": "carved/engraved",
+          "role": "verb"
+        },
+        {
+          "korean": "흔적이",
+          "english": "mark/trace",
+          "role": "noun"
+        },
+        {
+          "korean": "서러워",
+          "english": "feels sad/bitter",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "혹시 몰라 그대가 올까 봐",
+      "english": "just in case, in case you might come",
+      "words": [
+        {
+          "korean": "혹시 몰라",
+          "english": "just in case/you never know",
+          "role": "expression"
+        },
+        {
+          "korean": "그대가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "올까 봐",
+          "english": "in case [you] might come",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "자꾸 떨리는 내 어깨를 네가 볼까 봐",
+      "english": "afraid you might see my trembling shoulders",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "keeps",
+          "role": "adverb"
+        },
+        {
+          "korean": "떨리는",
+          "english": "trembling",
+          "role": "verb"
+        },
+        {
+          "korean": "내 어깨를",
+          "english": "my shoulders",
+          "role": "noun"
+        },
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "볼까 봐",
+          "english": "afraid [you] might see",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

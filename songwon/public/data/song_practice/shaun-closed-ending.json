@@ -1,0 +1,410 @@
+{
+  "songId": "shaun-closed-ending",
+  "lines": [
+    {
+      "korean": "마주 앉아 우리는 다른 곳을 바라보곤 해",
+      "english": "We sit facing each other and end up looking away",
+      "words": [
+        {
+          "korean": "마주 앉아",
+          "english": "sitting face to face",
+          "role": "verb"
+        },
+        {
+          "korean": "우리는",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다른 곳을",
+          "english": "different places",
+          "role": "noun"
+        },
+        {
+          "korean": "바라보곤 해",
+          "english": "end up looking at",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-곤 하다",
+        "meaning": "repeatedly do, habitually end up doing",
+        "note": "바라보곤 해 shows this is a recurring pattern in their relationship — they keep avoiding eye contact every time they meet"
+      }
+    },
+    {
+      "korean": "답을 모른 채 같은 얘기를 반복하게 돼",
+      "english": "Without knowing the answer, we end up repeating the same conversation",
+      "words": [
+        {
+          "korean": "답을 모른 채",
+          "english": "without knowing the answer",
+          "role": "expression"
+        },
+        {
+          "korean": "같은 얘기를",
+          "english": "the same talk/conversation",
+          "role": "noun"
+        },
+        {
+          "korean": "반복하게 돼",
+          "english": "end up repeating",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "in the state of, while remaining",
+        "note": "모른 채 emphasizes they stay stuck in a state of not knowing — the uncertainty never resolves"
+      }
+    },
+    {
+      "korean": "다시 써 내려가도 우리의 마지막 장은",
+      "english": "Even if we write it out again, our last chapter",
+      "words": [
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "써 내려가도",
+          "english": "even if we write it down",
+          "role": "verb"
+        },
+        {
+          "korean": "우리의",
+          "english": "our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "마지막 장은",
+          "english": "last chapter",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if, even though",
+        "note": "써 내려가도 concedes the action of rewriting but implies it won't change the outcome — the core grammar of futility in this song"
+      }
+    },
+    {
+      "korean": "필 수 없는 다잖은 ending",
+      "english": "An ending we can't stop, that's just how it is",
+      "words": [
+        {
+          "korean": "필 수 없는",
+          "english": "can't stop/prevent",
+          "role": "verb"
+        },
+        {
+          "korean": "다잖은",
+          "english": "it's just that, that's how it is",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없는",
+        "meaning": "cannot (do)",
+        "note": "필 수 없는 modifies 'ending' — describing an ending that cannot be stopped or changed, emphasizing inevitability"
+      }
+    },
+    {
+      "korean": "그때 그 순간들 꼭 꿈만 같아",
+      "english": "Those moments back then feel just like a dream",
+      "words": [
+        {
+          "korean": "그때 그 순간들",
+          "english": "those moments back then",
+          "role": "noun"
+        },
+        {
+          "korean": "꼭",
+          "english": "just, exactly",
+          "role": "adverb"
+        },
+        {
+          "korean": "꿈만 같아",
+          "english": "like a dream",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-만 같다",
+        "meaning": "just like, seems exactly like",
+        "note": "꿈만 같아 emphasizes how dreamlike and unreal the past feels now — 만 adds 'only/just' to intensify the comparison"
+      }
+    },
+    {
+      "korean": "바래지지 않은 우리의 시간",
+      "english": "Our time that hasn't faded",
+      "words": [
+        {
+          "korean": "바래지지 않은",
+          "english": "hasn't faded",
+          "role": "verb"
+        },
+        {
+          "korean": "우리의",
+          "english": "our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "시간",
+          "english": "time",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "수많은 계절의 흔적을 지나",
+      "english": "Passing through the traces of so many seasons",
+      "words": [
+        {
+          "korean": "수많은",
+          "english": "countless, so many",
+          "role": "adjective"
+        },
+        {
+          "korean": "계절의 흔적을",
+          "english": "traces of seasons",
+          "role": "noun"
+        },
+        {
+          "korean": "지나",
+          "english": "passing through",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "여기 남은 건 아련함만",
+      "english": "What's left here is only a wistful ache",
+      "words": [
+        {
+          "korean": "여기",
+          "english": "here",
+          "role": "adverb"
+        },
+        {
+          "korean": "남은 건",
+          "english": "what remains",
+          "role": "noun"
+        },
+        {
+          "korean": "아련함만",
+          "english": "only a wistful ache",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 건",
+        "meaning": "what is/was [verb]ed",
+        "note": "남은 건 is a contraction of 남은 것은 — 'the thing that remains' or 'what's left', commonly used to introduce what remains after everything else is gone"
+      }
+    },
+    {
+      "korean": "그 언젠가 한 번쯤 들어봤던 식상한 사랑의 마지막 같을 걸",
+      "english": "Something I probably heard somewhere before — a clichéd ending to a love story, I bet",
+      "words": [
+        {
+          "korean": "언젠가 한 번쯤",
+          "english": "sometime, once before",
+          "role": "expression"
+        },
+        {
+          "korean": "들어봤던",
+          "english": "had heard",
+          "role": "verb"
+        },
+        {
+          "korean": "식상한",
+          "english": "clichéd, stale",
+          "role": "adjective"
+        },
+        {
+          "korean": "사랑의 마지막",
+          "english": "ending of love",
+          "role": "noun"
+        },
+        {
+          "korean": "같을 걸",
+          "english": "I bet, probably",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 걸",
+        "meaning": "I guess/bet, probably",
+        "note": "같을 걸 expresses conjecture or regret — here it suggests 'it's probably like' or 'I bet it's', showing the narrator recognizes the cliché"
+      }
+    },
+    {
+      "korean": "잘 알면서도 끝내 덮지를 못해 너를",
+      "english": "Even knowing that well, I still can't finally close the book on you",
+      "words": [
+        {
+          "korean": "잘 알면서도",
+          "english": "even while knowing well",
+          "role": "expression"
+        },
+        {
+          "korean": "끝내",
+          "english": "finally, in the end",
+          "role": "adverb"
+        },
+        {
+          "korean": "덮지를 못해",
+          "english": "can't close",
+          "role": "verb"
+        },
+        {
+          "korean": "너를",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지를 못하다",
+        "meaning": "cannot do (emphatic)",
+        "note": "덮지를 못해 is a more emphatic form than 덮지 못해 — the 를 adds weight to the inability, stressing how stuck and unable to close things the narrator feels"
+      }
+    },
+    {
+      "korean": "나란히 걷던 길 혼자 걸으면",
+      "english": "When I walk alone on the path we used to walk side by side",
+      "words": [
+        {
+          "korean": "나란히 걷던",
+          "english": "used to walk side by side",
+          "role": "verb"
+        },
+        {
+          "korean": "길",
+          "english": "path, road",
+          "role": "noun"
+        },
+        {
+          "korean": "혼자 걸으면",
+          "english": "if/when I walk alone",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "멈춰버린 시계와 대답 없는 봄",
+      "english": "A stopped clock and a spring with no answer",
+      "words": [
+        {
+          "korean": "멈춰버린",
+          "english": "stopped, frozen",
+          "role": "verb"
+        },
+        {
+          "korean": "시계와",
+          "english": "clock and",
+          "role": "noun"
+        },
+        {
+          "korean": "대답 없는",
+          "english": "without answer",
+          "role": "adjective"
+        },
+        {
+          "korean": "봄",
+          "english": "spring",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "completely do, end up doing (with finality)",
+        "note": "멈춰버린 adds a sense of finality or irreversibility — the clock didn't just stop, it's completely stopped and won't start again"
+      }
+    },
+    {
+      "korean": "내 가슴을 스치는 오랜 기억",
+      "english": "Old memories brushing past my heart",
+      "words": [
+        {
+          "korean": "내 가슴을",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "스치는",
+          "english": "brushing past, grazing",
+          "role": "verb"
+        },
+        {
+          "korean": "오랜",
+          "english": "old, long-held",
+          "role": "adjective"
+        },
+        {
+          "korean": "기억",
+          "english": "memory",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "눈을 감아도 더욱 선명해지는 모습",
+      "english": "Your image that becomes even clearer when I close my eyes",
+      "words": [
+        {
+          "korean": "눈을 감아도",
+          "english": "even when I close my eyes",
+          "role": "verb"
+        },
+        {
+          "korean": "더욱",
+          "english": "even more",
+          "role": "adverb"
+        },
+        {
+          "korean": "선명해지는",
+          "english": "becoming clearer",
+          "role": "verb"
+        },
+        {
+          "korean": "모습",
+          "english": "image, appearance",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if, even though",
+        "note": "감아도 concedes the action of closing eyes — normally you'd expect something to disappear, but here it paradoxically becomes clearer"
+      }
+    },
+    {
+      "korean": "이젠 바꿀 수 없는 우리의 마지막 장은",
+      "english": "Now our last chapter that can't be changed",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now (at this point)",
+          "role": "adverb"
+        },
+        {
+          "korean": "바꿀 수 없는",
+          "english": "can't be changed",
+          "role": "verb"
+        },
+        {
+          "korean": "우리의",
+          "english": "our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "마지막 장은",
+          "english": "last chapter",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { href: "/", icon: "🏠", label: "홈", en: "Home", key: "home" },
   { href: "/browse", icon: "📚", label: "레슨", en: "Lessons", key: "browse" },
   { href: "/songs", icon: "🎵", label: "노래", en: "Songs", key: "songs" },
+  { href: "/practice", icon: "✏️", label: "연습", en: "Practice", key: "practice" },
   { href: "/progress", icon: "📊", label: "기록", en: "Progress", key: "progress" },
 ] as const;
 

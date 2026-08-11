@@ -1,0 +1,400 @@
+{
+  "songId": "ha-hyun-sang-lighthouse",
+  "lines": [
+    {
+      "korean": "아무리 울어도 울어지지 않는 날에",
+      "english": "On days when no matter how much I try to cry, the tears won't come",
+      "words": [
+        {
+          "korean": "아무리",
+          "english": "no matter how much",
+          "role": "adverb"
+        },
+        {
+          "korean": "울어도",
+          "english": "even if I cry",
+          "role": "verb"
+        },
+        {
+          "korean": "울어지지 않는",
+          "english": "crying doesn't happen",
+          "role": "verb"
+        },
+        {
+          "korean": "날에",
+          "english": "on the day",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "아무리 -아/어도",
+        "meaning": "no matter how much ~",
+        "note": "Shows that the action (crying) doesn't produce the expected result despite effort"
+      }
+    },
+    {
+      "korean": "조용히 파도가 말을 걸어오는 길에",
+      "english": "On the road where the waves quietly speak to me",
+      "words": [
+        {
+          "korean": "조용히",
+          "english": "quietly",
+          "role": "adverb"
+        },
+        {
+          "korean": "파도가",
+          "english": "the waves",
+          "role": "noun"
+        },
+        {
+          "korean": "말을 걸어오는",
+          "english": "speak to [me]",
+          "role": "expression"
+        },
+        {
+          "korean": "길에",
+          "english": "on the road/way",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "언제까지 머물 거냐는 누군가의 말은",
+      "english": "Someone's question of how long I'll stay",
+      "words": [
+        {
+          "korean": "언제까지",
+          "english": "until when / how long",
+          "role": "adverb"
+        },
+        {
+          "korean": "머물 거냐는",
+          "english": "will you stay (question form)",
+          "role": "verb"
+        },
+        {
+          "korean": "누군가의",
+          "english": "someone's",
+          "role": "pronoun"
+        },
+        {
+          "korean": "말은",
+          "english": "words/question",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "금방 돌아가겠다고 대답해보지만",
+      "english": "I answer that I'll head back soon, but",
+      "words": [
+        {
+          "korean": "금방",
+          "english": "right away / soon",
+          "role": "adverb"
+        },
+        {
+          "korean": "돌아가겠다고",
+          "english": "that I will go back",
+          "role": "verb"
+        },
+        {
+          "korean": "대답해보지만",
+          "english": "I try to answer, but",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "나만 또 제자리에 서성이며 남아 있는데",
+      "english": "Only I remain once again, pacing in the same spot",
+      "words": [
+        {
+          "korean": "나만",
+          "english": "only I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "또",
+          "english": "again / once more",
+          "role": "adverb"
+        },
+        {
+          "korean": "제자리에",
+          "english": "in the same place",
+          "role": "noun"
+        },
+        {
+          "korean": "서성이며",
+          "english": "pacing / wandering",
+          "role": "verb"
+        },
+        {
+          "korean": "남아 있는데",
+          "english": "remain / am left",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어느 새벽달이 지나가네",
+      "english": "Another dawn moon passes by",
+      "words": [
+        {
+          "korean": "어느",
+          "english": "another / some",
+          "role": "adjective"
+        },
+        {
+          "korean": "새벽달이",
+          "english": "dawn moon",
+          "role": "noun"
+        },
+        {
+          "korean": "지나가네",
+          "english": "passes by",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "난 오늘도 전하지 못한 말들이 있나",
+      "english": "Do I have words today too that I couldn't get across",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "오늘도",
+          "english": "today too / today as well",
+          "role": "adverb"
+        },
+        {
+          "korean": "전하지 못한",
+          "english": "couldn't convey",
+          "role": "verb"
+        },
+        {
+          "korean": "말들이",
+          "english": "words",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "파도에 소리쳐봐도 들리지 않으니",
+      "english": "Even when I shout at the waves, they don't hear me",
+      "words": [
+        {
+          "korean": "파도에",
+          "english": "at the waves",
+          "role": "noun"
+        },
+        {
+          "korean": "소리쳐봐도",
+          "english": "even if I try shouting",
+          "role": "verb"
+        },
+        {
+          "korean": "들리지 않으니",
+          "english": "it's not heard / they don't hear",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지다",
+        "meaning": "passive/involuntary form",
+        "note": "들리지 않다 shows that the hearing doesn't happen — the action is involuntary"
+      }
+    },
+    {
+      "korean": "그렇게 억지라도 웃어 보이는 건 내일이 있어서야",
+      "english": "The reason I force a smile even like that is because there's a tomorrow",
+      "words": [
+        {
+          "korean": "그렇게",
+          "english": "like that / in that way",
+          "role": "adverb"
+        },
+        {
+          "korean": "억지라도",
+          "english": "even if forced",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃어 보이는 건",
+          "english": "the reason I show a smile",
+          "role": "expression"
+        },
+        {
+          "korean": "내일이 있어서야",
+          "english": "is only because there's tomorrow",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서야",
+        "meaning": "it's only because of ~",
+        "note": "Indicates that 'tomorrow' is the sole reason the speaker can manage to smile"
+      }
+    },
+    {
+      "korean": "발걸음엔 그림자가 잔뜩 배어 있고",
+      "english": "My footsteps are soaked through with shadows",
+      "words": [
+        {
+          "korean": "발걸음엔",
+          "english": "in [my] footsteps",
+          "role": "noun"
+        },
+        {
+          "korean": "그림자가",
+          "english": "shadow",
+          "role": "noun"
+        },
+        {
+          "korean": "잔뜩",
+          "english": "a lot / fully",
+          "role": "adverb"
+        },
+        {
+          "korean": "배어 있고",
+          "english": "is soaked in / permeated",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "처음이 주는 떨림은 이젠 익숙해서",
+      "english": "The trembling that beginnings bring is now familiar",
+      "words": [
+        {
+          "korean": "처음이 주는",
+          "english": "that beginnings give",
+          "role": "expression"
+        },
+        {
+          "korean": "떨림은",
+          "english": "trembling / nervousness",
+          "role": "noun"
+        },
+        {
+          "korean": "이젠",
+          "english": "now / by now",
+          "role": "adverb"
+        },
+        {
+          "korean": "익숙해서",
+          "english": "is familiar",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "나를 좀 더 돌봐줘야겠어",
+      "english": "I need to take a little better care of myself",
+      "words": [
+        {
+          "korean": "나를",
+          "english": "myself",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좀 더",
+          "english": "a little more",
+          "role": "adverb"
+        },
+        {
+          "korean": "돌봐줘야겠어",
+          "english": "need to take care of",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "외로움도 저 바다에 날려버리겠어",
+      "english": "I'll throw the loneliness out into that sea too",
+      "words": [
+        {
+          "korean": "외로움도",
+          "english": "loneliness too",
+          "role": "noun"
+        },
+        {
+          "korean": "저 바다에",
+          "english": "into that sea",
+          "role": "noun"
+        },
+        {
+          "korean": "날려버리겠어",
+          "english": "will throw away",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아무리 도망쳐봐도 아침은 올 테니",
+      "english": "No matter how much I run away, morning will come anyway",
+      "words": [
+        {
+          "korean": "아무리",
+          "english": "no matter how much",
+          "role": "adverb"
+        },
+        {
+          "korean": "도망쳐봐도",
+          "english": "even if I try to run away",
+          "role": "verb"
+        },
+        {
+          "korean": "아침은",
+          "english": "morning",
+          "role": "noun"
+        },
+        {
+          "korean": "올 테니",
+          "english": "will come (so)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "아무리 -아/어도",
+        "meaning": "no matter how much ~",
+        "note": "Shows that running away won't prevent morning from arriving — the result happens regardless of effort"
+      }
+    },
+    {
+      "korean": "그렇게 너를 보며 웃어 보이는 건 등대가 빛나서야",
+      "english": "The reason I smile looking at you like that is because the lighthouse is shining",
+      "words": [
+        {
+          "korean": "그렇게",
+          "english": "like that",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를 보며",
+          "english": "looking at you",
+          "role": "verb"
+        },
+        {
+          "korean": "웃어 보이는 건",
+          "english": "the reason I show a smile",
+          "role": "expression"
+        },
+        {
+          "korean": "등대가 빛나서야",
+          "english": "is only because the lighthouse is shining",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서야",
+        "meaning": "it's only because of ~",
+        "note": "The lighthouse's light is the sole reason the speaker can smile — mirrors the earlier '내일이 있어서야' structure"
+      }
+    }
+  ]
+}

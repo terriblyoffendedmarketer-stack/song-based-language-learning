@@ -1,0 +1,390 @@
+{
+  "songId": "shin-in-ryu-undecided",
+  "lines": [
+    {
+      "korean": "천천히 오가는 대화 속에",
+      "english": "In a conversation that goes back and forth slowly",
+      "words": [
+        {
+          "korean": "천천히",
+          "english": "slowly",
+          "role": "adverb"
+        },
+        {
+          "korean": "오가는",
+          "english": "goes back and forth",
+          "role": "verb"
+        },
+        {
+          "korean": "대화",
+          "english": "conversation",
+          "role": "noun"
+        },
+        {
+          "korean": "속에",
+          "english": "inside/within",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "남는 단어는 몇 개 일까요",
+      "english": "How many words actually remain?",
+      "words": [
+        {
+          "korean": "남는",
+          "english": "remaining",
+          "role": "verb"
+        },
+        {
+          "korean": "단어는",
+          "english": "words (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "몇 개",
+          "english": "how many",
+          "role": "expression"
+        },
+        {
+          "korean": "일까요",
+          "english": "I wonder/is it",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까요",
+        "meaning": "I wonder ~ / could it be ~",
+        "note": "Creates a soft, reflective question rather than a direct inquiry — the speaker is musing aloud"
+      }
+    },
+    {
+      "korean": "구석진 자릴 앉아 커피를 마셔",
+      "english": "I sit in a corner seat, drinking coffee",
+      "words": [
+        {
+          "korean": "구석진 자릴",
+          "english": "corner seat (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "앉아",
+          "english": "sit",
+          "role": "verb"
+        },
+        {
+          "korean": "커피를",
+          "english": "coffee (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "마셔",
+          "english": "drink",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그대의 일부 식지 않도록",
+      "english": "So that a part of you doesn't go cold",
+      "words": [
+        {
+          "korean": "그대의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "일부",
+          "english": "a part",
+          "role": "noun"
+        },
+        {
+          "korean": "식지 않도록",
+          "english": "so that it doesn't cool down",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-도록",
+        "meaning": "so that ~ / in order to ~",
+        "note": "Expresses purpose or intent — here it frames a quiet protective action of keeping something warm"
+      }
+    },
+    {
+      "korean": "더 이상 내 얘기가 아니었던",
+      "english": "That wasn't really my story anymore",
+      "words": [
+        {
+          "korean": "더 이상",
+          "english": "anymore/any longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 얘기가",
+          "english": "my story (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "아니었던",
+          "english": "wasn't",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "황급히 쓰는 결말 끝에서",
+      "english": "At the end of a hastily written conclusion",
+      "words": [
+        {
+          "korean": "황급히",
+          "english": "hastily/hurriedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "쓰는",
+          "english": "written",
+          "role": "verb"
+        },
+        {
+          "korean": "결말",
+          "english": "conclusion/ending",
+          "role": "noun"
+        },
+        {
+          "korean": "끝에서",
+          "english": "at the end of",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "빼 먹은 구절이 또 생각이 나면",
+      "english": "If I remember a phrase that got left out",
+      "words": [
+        {
+          "korean": "빼 먹은",
+          "english": "left out/omitted",
+          "role": "verb"
+        },
+        {
+          "korean": "구절이",
+          "english": "phrase (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "또",
+          "english": "again/also",
+          "role": "adverb"
+        },
+        {
+          "korean": "생각이 나면",
+          "english": "if it comes to mind",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "그 다정을 어찌 지나칠까요",
+      "english": "How could I just pass by that warmth?",
+      "words": [
+        {
+          "korean": "그 다정을",
+          "english": "that warmth/tenderness (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "어찌",
+          "english": "how",
+          "role": "adverb"
+        },
+        {
+          "korean": "지나칠까요",
+          "english": "could I pass by",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "어찌 ~(으)ㄹ까요",
+        "meaning": "how could I ~ / how can I ~",
+        "note": "A rhetorical question expressing that something would be difficult or impossible to do"
+      }
+    },
+    {
+      "korean": "담담했던 저 하늘 끝으로 내게",
+      "english": "Toward that composed-looking sky, toward me",
+      "words": [
+        {
+          "korean": "담담했던",
+          "english": "was composed/calm",
+          "role": "adjective"
+        },
+        {
+          "korean": "저 하늘",
+          "english": "that sky",
+          "role": "noun"
+        },
+        {
+          "korean": "끝으로",
+          "english": "toward the end/edge",
+          "role": "particle"
+        },
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "왠지 비가 내릴 것 같죠",
+      "english": "Somehow it feels like rain is going to fall",
+      "words": [
+        {
+          "korean": "왠지",
+          "english": "somehow/for some reason",
+          "role": "adverb"
+        },
+        {
+          "korean": "비가",
+          "english": "rain (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "내릴",
+          "english": "will fall",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같죠",
+          "english": "it seems like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같다",
+        "meaning": "it seems like ~ / I think ~",
+        "note": "Expresses a gentle supposition or feeling about something that might happen"
+      }
+    },
+    {
+      "korean": "그대 노곤히 풀린 몸에 맡겨",
+      "english": "Entrusting myself to your tired, loosened body",
+      "words": [
+        {
+          "korean": "그대",
+          "english": "you/your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "노곤히 풀린",
+          "english": "tiredly loosened/relaxed",
+          "role": "adjective"
+        },
+        {
+          "korean": "몸에",
+          "english": "to the body",
+          "role": "noun"
+        },
+        {
+          "korean": "맡겨",
+          "english": "entrusting",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이내 슬프진 않겠구나",
+      "english": "I guess I won't be sad after all",
+      "words": [
+        {
+          "korean": "이내",
+          "english": "soon/before long",
+          "role": "adverb"
+        },
+        {
+          "korean": "슬프진 않겠구나",
+          "english": "I won't be sad, I suppose",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠구나",
+        "meaning": "I guess ~ / I suppose ~",
+        "note": "Expresses a realization or conclusion the speaker is arriving at, often self-directed — here, talking oneself into a feeling"
+      }
+    },
+    {
+      "korean": "기울인 새벽의 모습 속에",
+      "english": "In the tilted shape of dawn",
+      "words": [
+        {
+          "korean": "기울인",
+          "english": "tilted/leaning",
+          "role": "verb"
+        },
+        {
+          "korean": "새벽의",
+          "english": "of dawn",
+          "role": "noun"
+        },
+        {
+          "korean": "모습",
+          "english": "shape/appearance",
+          "role": "noun"
+        },
+        {
+          "korean": "속에",
+          "english": "inside/within",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "그곳에 존재했던 사랑의 말로",
+      "english": "With the words of love that once existed there",
+      "words": [
+        {
+          "korean": "그곳에",
+          "english": "there/in that place",
+          "role": "noun"
+        },
+        {
+          "korean": "존재했던",
+          "english": "existed",
+          "role": "verb"
+        },
+        {
+          "korean": "사랑의 말로",
+          "english": "with words of love",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "그대의 등장 해치지 않도록",
+      "english": "So as not to disrupt your entrance",
+      "words": [
+        {
+          "korean": "그대의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "등장",
+          "english": "entrance/appearance",
+          "role": "noun"
+        },
+        {
+          "korean": "해치지 않도록",
+          "english": "so as not to harm/disrupt",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않도록",
+        "meaning": "so as not to ~ / in order not to ~",
+        "note": "Negative purpose — expresses careful intention to avoid causing harm or disruption"
+      }
+    }
+  ]
+}

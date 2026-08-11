@@ -1,0 +1,390 @@
+{
+  "songId": "mamamoo-girl-crush",
+  "lines": [
+    {
+      "korean": "이따 거기서 봐 이번엔 장담해",
+      "english": "See you there later, I'm sure of it this time",
+      "words": [
+        {
+          "korean": "이따",
+          "english": "later",
+          "role": "adverb"
+        },
+        {
+          "korean": "거기서",
+          "english": "there",
+          "role": "noun"
+        },
+        {
+          "korean": "봐",
+          "english": "see",
+          "role": "verb"
+        },
+        {
+          "korean": "이번엔",
+          "english": "this time",
+          "role": "noun"
+        },
+        {
+          "korean": "장담해",
+          "english": "I'm sure/I guarantee",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "예감이 괜찮아 정말로 기대돼",
+      "english": "The feeling's good, I'm really looking forward to it",
+      "words": [
+        {
+          "korean": "예감이",
+          "english": "feeling/hunch",
+          "role": "noun"
+        },
+        {
+          "korean": "괜찮아",
+          "english": "good/fine",
+          "role": "adjective"
+        },
+        {
+          "korean": "정말로",
+          "english": "really",
+          "role": "adverb"
+        },
+        {
+          "korean": "기대돼",
+          "english": "looking forward to",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "눈꼬린 더 길게 콧대는 더 높게",
+      "english": "Eyeliner drawn longer, nose bridge higher",
+      "words": [
+        {
+          "korean": "눈꼬리",
+          "english": "eyeliner/outer corner of eye",
+          "role": "noun"
+        },
+        {
+          "korean": "더 길게",
+          "english": "longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "콧대는",
+          "english": "nose bridge",
+          "role": "noun"
+        },
+        {
+          "korean": "더 높게",
+          "english": "higher",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "화장이 진할수록 커져가는 자신감",
+      "english": "The more makeup I wear, the bigger my confidence gets",
+      "words": [
+        {
+          "korean": "화장이",
+          "english": "makeup",
+          "role": "noun"
+        },
+        {
+          "korean": "진할수록",
+          "english": "the more heavy/thick",
+          "role": "expression"
+        },
+        {
+          "korean": "커져가는",
+          "english": "getting bigger/growing",
+          "role": "verb"
+        },
+        {
+          "korean": "자신감",
+          "english": "confidence",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ수록",
+        "meaning": "the more X, the more Y",
+        "note": "Links two things that escalate together — here, heavier makeup directly increases confidence."
+      }
+    },
+    {
+      "korean": "근데 왜 my boyfriend 눈빛이 수상해",
+      "english": "But why is my boyfriend's look suspicious",
+      "words": [
+        {
+          "korean": "근데",
+          "english": "but/however",
+          "role": "connector"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "눈빛이",
+          "english": "look/gaze",
+          "role": "noun"
+        },
+        {
+          "korean": "수상해",
+          "english": "suspicious",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "지금 나를 의심해? 말도 안 돼",
+      "english": "Are you doubting me right now? No way",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "나를",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "의심해",
+          "english": "doubt/suspect",
+          "role": "verb"
+        },
+        {
+          "korean": "말도 안 돼",
+          "english": "no way/that's absurd",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "너 간당간당해",
+      "english": "You're hanging by a thread",
+      "words": [
+        {
+          "korean": "너",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "간당간당해",
+          "english": "hanging by a thread/on thin ice",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "갈대처럼 난 왔다갔다해",
+      "english": "I go back and forth like a reed",
+      "words": [
+        {
+          "korean": "갈대처럼",
+          "english": "like a reed",
+          "role": "noun"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "왔다갔다해",
+          "english": "go back and forth",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like/as",
+        "note": "Compares her indecisive behavior to a reed swaying in the wind — unstable and wavering."
+      }
+    },
+    {
+      "korean": "왜 또 쿨하지 못해",
+      "english": "Why can't you be cool about it again",
+      "words": [
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "또",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "쿨하지 못해",
+          "english": "can't be cool",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 못하다",
+        "meaning": "cannot/unable to do",
+        "note": "Expresses inability or failure to do something — here, inability to stay cool and relaxed."
+      }
+    },
+    {
+      "korean": "Red color lipstick 뒤태는 apple hip",
+      "english": "Red lipstick, my backside is apple-shaped",
+      "words": [
+        {
+          "korean": "뒤태는",
+          "english": "backside/back view",
+          "role": "noun"
+        },
+        {
+          "korean": "apple hip",
+          "english": "apple-shaped hips",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "Cash money 나도 충분히 벌어",
+      "english": "Cash money, I earn plenty myself",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "I too/I also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "충분히",
+          "english": "enough/plenty",
+          "role": "adverb"
+        },
+        {
+          "korean": "벌어",
+          "english": "earn/make money",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "요즘 나 잘나가 애교는 기본에",
+      "english": "These days I'm doing great, charm is just the basics",
+      "words": [
+        {
+          "korean": "요즘",
+          "english": "these days/lately",
+          "role": "adverb"
+        },
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잘나가",
+          "english": "doing well/successful",
+          "role": "verb"
+        },
+        {
+          "korean": "애교는",
+          "english": "charm/cuteness",
+          "role": "noun"
+        },
+        {
+          "korean": "기본에",
+          "english": "basics/fundamentals",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "나는 안 해 밀당 내 감정에 솔직하지",
+      "english": "I don't play push-pull, I'm honest about my feelings",
+      "words": [
+        {
+          "korean": "나는 안 해",
+          "english": "I don't do",
+          "role": "verb"
+        },
+        {
+          "korean": "밀당",
+          "english": "push-pull/dating games",
+          "role": "noun"
+        },
+        {
+          "korean": "내 감정에",
+          "english": "about my feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "솔직하지",
+          "english": "honest",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지",
+        "meaning": "informal declarative ending",
+        "note": "Softens the assertion into conversational confidence — 'you know, I'm honest' rather than a blunt statement."
+      }
+    },
+    {
+      "korean": "다른 여자들의 고민과는 좀 달라",
+      "english": "It's a bit different from other women's worries",
+      "words": [
+        {
+          "korean": "다른 여자들의",
+          "english": "other women's",
+          "role": "noun"
+        },
+        {
+          "korean": "고민과는",
+          "english": "worries/concerns",
+          "role": "noun"
+        },
+        {
+          "korean": "좀",
+          "english": "a bit",
+          "role": "adverb"
+        },
+        {
+          "korean": "달라",
+          "english": "different",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "남들 시선 의식 안 해",
+      "english": "I don't care about others' eyes",
+      "words": [
+        {
+          "korean": "남들",
+          "english": "others/other people",
+          "role": "noun"
+        },
+        {
+          "korean": "시선",
+          "english": "gaze/eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "의식",
+          "english": "consciousness/awareness",
+          "role": "noun"
+        },
+        {
+          "korean": "안 해",
+          "english": "don't do",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

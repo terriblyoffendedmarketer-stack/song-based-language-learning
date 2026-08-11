@@ -1,0 +1,375 @@
+{
+  "songId": "10cm-lean-on-my-shoulder",
+  "lines": [
+    {
+      "korean": "나의 두 눈에 보여지는 그 뒷모습이",
+      "english": "That figure I keep seeing, their back turned to me",
+      "words": [
+        {
+          "korean": "나의 두 눈에",
+          "english": "to my two eyes / in my eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "보여지는",
+          "english": "is being seen / that is shown",
+          "role": "verb"
+        },
+        {
+          "korean": "그 뒷모습이",
+          "english": "that back / that figure from behind",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-어지다",
+        "meaning": "passive voice marker",
+        "note": "보여지는 = 보이다 (to be visible) in passive form, emphasizing the involuntary nature of witnessing this sight"
+      }
+    },
+    {
+      "korean": "서글퍼지는 마음이라 눈물이 글썽여",
+      "english": "My heart feels so sorrowful that tears well up",
+      "words": [
+        {
+          "korean": "서글퍼지는",
+          "english": "becomes sorrowful / grows sad",
+          "role": "verb"
+        },
+        {
+          "korean": "마음이라",
+          "english": "because my heart / since it's a feeling",
+          "role": "noun"
+        },
+        {
+          "korean": "눈물이",
+          "english": "tears",
+          "role": "noun"
+        },
+        {
+          "korean": "글썽여",
+          "english": "well up / brim",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-이라",
+        "meaning": "because it is ~",
+        "note": "Indicates the reason for the following clause — the heart becoming sorrowful is the cause of the tears welling up"
+      }
+    },
+    {
+      "korean": "하루 또 하루 지나가면 더 멀어질까 봐",
+      "english": "Afraid that as one day after another passes, we'll grow further apart",
+      "words": [
+        {
+          "korean": "하루 또 하루",
+          "english": "day after day / one day after another",
+          "role": "noun"
+        },
+        {
+          "korean": "지나가면",
+          "english": "if/as (time) passes",
+          "role": "verb"
+        },
+        {
+          "korean": "더 멀어질까 봐",
+          "english": "afraid we'll grow more distant",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까 봐",
+        "meaning": "worried/afraid that ~ might happen",
+        "note": "Expresses anxiety about a future possibility — here, the fear that distance will increase over time"
+      }
+    },
+    {
+      "korean": "이렇게 또 불안한 마음만",
+      "english": "Just this anxious feeling, again",
+      "words": [
+        {
+          "korean": "이렇게 또",
+          "english": "like this again / once more",
+          "role": "adverb"
+        },
+        {
+          "korean": "불안한",
+          "english": "anxious / uneasy",
+          "role": "adjective"
+        },
+        {
+          "korean": "마음만",
+          "english": "only this feeling / just this heart",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "날 떠나가지 말아요",
+      "english": "Please don't leave me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "떠나가지 말아요",
+          "english": "please don't leave",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말아요",
+        "meaning": "please don't ~ / (gentle negative request)",
+        "note": "A polite, gentle way to ask someone not to do something — softer than a command, appropriate for a plea"
+      }
+    },
+    {
+      "korean": "가슴속으로 그댈 향해 외치는 말",
+      "english": "These are the words I'm shouting toward you, deep inside my chest",
+      "words": [
+        {
+          "korean": "가슴속으로",
+          "english": "deep inside my chest / in my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "그댈 향해",
+          "english": "toward you",
+          "role": "expression"
+        },
+        {
+          "korean": "외치는 말",
+          "english": "the words I'm shouting",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "그대 있는 곳 다시 사라지지 말아요",
+      "english": "Please don't disappear again from where you are",
+      "words": [
+        {
+          "korean": "그대 있는 곳",
+          "english": "the place where you are",
+          "role": "noun"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "사라지지 말아요",
+          "english": "please don't disappear",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "외로운 맘에 서러워도 울지 말아요",
+      "english": "Even if your lonely heart feels wronged and sad, please don't cry",
+      "words": [
+        {
+          "korean": "외로운 맘에",
+          "english": "with a lonely heart / because of loneliness",
+          "role": "noun"
+        },
+        {
+          "korean": "서러워도",
+          "english": "even if you feel wronged/sad",
+          "role": "adjective"
+        },
+        {
+          "korean": "울지 말아요",
+          "english": "please don't cry",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if/though ~",
+        "note": "Concessive expression — acknowledges the feeling of being wronged but still asks them not to cry"
+      }
+    },
+    {
+      "korean": "나의 어깨에 기대어요 그대 괜찮다면",
+      "english": "Lean on my shoulder, if that's alright with you",
+      "words": [
+        {
+          "korean": "나의 어깨에",
+          "english": "on my shoulder",
+          "role": "noun"
+        },
+        {
+          "korean": "기대어요",
+          "english": "lean on / rely on",
+          "role": "verb"
+        },
+        {
+          "korean": "그대",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "괜찮다면",
+          "english": "if it's okay / if you're comfortable with it",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다면",
+        "meaning": "if ~ (hypothetical condition)",
+        "note": "Makes the offer conditional on the other person's consent — respects their autonomy in accepting comfort"
+      }
+    },
+    {
+      "korean": "어떤 날에는 더 아프고 또 슬프겠지만",
+      "english": "Some days will hurt more and be sadder still",
+      "words": [
+        {
+          "korean": "어떤 날에는",
+          "english": "on some days / certain days",
+          "role": "noun"
+        },
+        {
+          "korean": "더 아프고",
+          "english": "hurt more / be more painful",
+          "role": "adjective"
+        },
+        {
+          "korean": "또 슬프겠지만",
+          "english": "and will be sad too, but",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠지만",
+        "meaning": "will probably ~ but",
+        "note": "Combines future presumption -겠- with concessive -지만, acknowledging future difficulty while setting up a contrast"
+      }
+    },
+    {
+      "korean": "내가 그대 곁에 있을게요",
+      "english": "I'll be right here beside you",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그대 곁에",
+          "english": "beside you / by your side",
+          "role": "noun"
+        },
+        {
+          "korean": "있을게요",
+          "english": "I will be / I'll stay",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ게요",
+        "meaning": "I will ~ (promise/commitment)",
+        "note": "Expresses the speaker's intention or promise — here, a commitment to remain by their side"
+      }
+    },
+    {
+      "korean": "지금은 아닐거에요 우리 헤어지는 건",
+      "english": "Now is not the time for us to part ways",
+      "words": [
+        {
+          "korean": "지금은",
+          "english": "now / at this time",
+          "role": "noun"
+        },
+        {
+          "korean": "아닐거에요",
+          "english": "it won't be / it's not",
+          "role": "verb"
+        },
+        {
+          "korean": "우리 헤어지는 건",
+          "english": "our parting / us separating",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 건",
+        "meaning": "the act of ~ing / (nominalizer + topic marker)",
+        "note": "헤어지는 것 contracted to 헤어지는 건, turning the verb into a noun phrase that's the topic of discussion"
+      }
+    },
+    {
+      "korean": "나의 품에 안겨줘요",
+      "english": "Let yourself be held in my arms",
+      "words": [
+        {
+          "korean": "나의 품에",
+          "english": "in my arms / in my embrace",
+          "role": "noun"
+        },
+        {
+          "korean": "안겨줘요",
+          "english": "let yourself be held / allow me to hold you",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "do (for someone) / allow",
+        "note": "안기다 (passive: to be held) + 주다 (give/do for) — asking them to give the gift of allowing themselves to be embraced"
+      }
+    },
+    {
+      "korean": "슬픈 날들이 지나가면 그때라면",
+      "english": "Once the sad days have passed, at that time",
+      "words": [
+        {
+          "korean": "슬픈 날들이",
+          "english": "sad days",
+          "role": "noun"
+        },
+        {
+          "korean": "지나가면",
+          "english": "if/once (time) passes",
+          "role": "verb"
+        },
+        {
+          "korean": "그때라면",
+          "english": "at that time / when that moment comes",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "온 세상을 다 줄게요 나 그대에게",
+      "english": "I'll give you the whole world, I will, to you",
+      "words": [
+        {
+          "korean": "온 세상을",
+          "english": "the whole world",
+          "role": "noun"
+        },
+        {
+          "korean": "다",
+          "english": "all / entirely",
+          "role": "adverb"
+        },
+        {
+          "korean": "줄게요",
+          "english": "I will give",
+          "role": "verb"
+        },
+        {
+          "korean": "나 그대에게",
+          "english": "I, to you",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "songId": "iu-blueming",
+  "lines": [
+    {
+      "korean": "'뭐해?'라는 두 글자에 '네가 보고 싶어' 나의 속마음을 담아",
+      "english": "In those two characters that say 'What are you doing?' I hide my real feelings: 'I miss you'",
+      "words": [
+        {
+          "korean": "두 글자",
+          "english": "two characters",
+          "role": "noun"
+        },
+        {
+          "korean": "네가 보고 싶어",
+          "english": "I miss you",
+          "role": "expression"
+        },
+        {
+          "korean": "속마음",
+          "english": "true feelings/inner thoughts",
+          "role": "noun"
+        },
+        {
+          "korean": "담아",
+          "english": "put in/hide/contain",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이모티콘 하나하나 속에 달라지는 내 미묘한 심리를 알까",
+      "english": "Does he know how my subtle feelings keep changing with each emoticon?",
+      "words": [
+        {
+          "korean": "하나하나",
+          "english": "each one/one by one",
+          "role": "adverb"
+        },
+        {
+          "korean": "달라지는",
+          "english": "changing/shifting",
+          "role": "verb"
+        },
+        {
+          "korean": "미묘한",
+          "english": "subtle/delicate",
+          "role": "adjective"
+        },
+        {
+          "korean": "심리",
+          "english": "psychology/feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "알까",
+          "english": "does [he] know?",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아니 바쁘지 않아",
+      "english": "No, I'm not busy",
+      "words": [
+        {
+          "korean": "아니",
+          "english": "no/not",
+          "role": "interjection"
+        },
+        {
+          "korean": "바쁘지 않아",
+          "english": "not busy",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않아",
+        "meaning": "not ~",
+        "note": "Casual negation form used here in a pre-emptive denial, answering a question before it's asked"
+      }
+    },
+    {
+      "korean": "잠들어 있지 않아",
+      "english": "I'm not asleep",
+      "words": [
+        {
+          "korean": "잠들어 있지 않아",
+          "english": "not sleeping/not asleep",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-어 있지 않아",
+        "meaning": "not in a state of ~",
+        "note": "Combines -어 있다 (to be in a state) with -지 않아 negation to deny being in the state of sleep"
+      }
+    },
+    {
+      "korean": "지금 다른 사람과 함께이지 않아",
+      "english": "I'm not with someone else right now",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "다른 사람",
+          "english": "another person/someone else",
+          "role": "noun"
+        },
+        {
+          "korean": "함께",
+          "english": "together/with",
+          "role": "adverb"
+        },
+        {
+          "korean": "이지 않아",
+          "english": "not",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "응, 나도 너를 생각 중",
+      "english": "Yeah, I'm thinking about you too",
+      "words": [
+        {
+          "korean": "응",
+          "english": "yeah",
+          "role": "interjection"
+        },
+        {
+          "korean": "나도",
+          "english": "me too/I also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "생각 중",
+          "english": "in the middle of thinking",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "엄지손가락으로 장미꽃을 피워",
+      "english": "With my thumb I make a rose blossom",
+      "words": [
+        {
+          "korean": "엄지손가락으로",
+          "english": "with [my] thumb",
+          "role": "noun"
+        },
+        {
+          "korean": "장미꽃을",
+          "english": "a rose",
+          "role": "noun"
+        },
+        {
+          "korean": "피워",
+          "english": "bloom/make blossom",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "향기에 취할 것 같아",
+      "english": "I think I'll get drunk on the scent",
+      "words": [
+        {
+          "korean": "향기에",
+          "english": "on the scent/fragrance",
+          "role": "noun"
+        },
+        {
+          "korean": "취할",
+          "english": "get drunk/intoxicated",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "I think/it seems like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같아",
+        "meaning": "I think it will ~/it seems like ~",
+        "note": "Softens a strong statement (getting drunk on scent) into a tentative guess or feeling"
+      }
+    },
+    {
+      "korean": "오직 둘만의 비밀의 정원",
+      "english": "Our own secret garden, just the two of us",
+      "words": [
+        {
+          "korean": "오직",
+          "english": "only/just",
+          "role": "adverb"
+        },
+        {
+          "korean": "둘만의",
+          "english": "just the two [of us]",
+          "role": "noun"
+        },
+        {
+          "korean": "비밀의",
+          "english": "secret",
+          "role": "noun"
+        },
+        {
+          "korean": "정원",
+          "english": "garden",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "말을 고르지 말아",
+      "english": "Don't pick and choose your words",
+      "words": [
+        {
+          "korean": "말을",
+          "english": "words",
+          "role": "noun"
+        },
+        {
+          "korean": "고르지 말아",
+          "english": "don't pick/choose",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말아",
+        "meaning": "don't ~",
+        "note": "Casual negative imperative telling him not to overthink his replies"
+      }
+    },
+    {
+      "korean": "조금 장난스러운 나의 은유에 네 해석이 궁금해",
+      "english": "I'm curious how you'll interpret my playful metaphor",
+      "words": [
+        {
+          "korean": "장난스러운",
+          "english": "playful/teasing",
+          "role": "adjective"
+        },
+        {
+          "korean": "은유",
+          "english": "metaphor",
+          "role": "noun"
+        },
+        {
+          "korean": "해석",
+          "english": "interpretation",
+          "role": "noun"
+        },
+        {
+          "korean": "궁금해",
+          "english": "curious/wondering",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "금세 터질 것 같아",
+      "english": "I feel like I'm about to burst",
+      "words": [
+        {
+          "korean": "금세",
+          "english": "soon/any moment",
+          "role": "adverb"
+        },
+        {
+          "korean": "터질",
+          "english": "burst/pop",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "I think/it feels like",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "호흡이 가빠져 어지러워",
+      "english": "My breathing gets short, I feel dizzy",
+      "words": [
+        {
+          "korean": "호흡이",
+          "english": "breathing",
+          "role": "noun"
+        },
+        {
+          "korean": "가빠져",
+          "english": "gets short/rapid",
+          "role": "verb"
+        },
+        {
+          "korean": "어지러워",
+          "english": "dizzy",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "띄어쓰기없이보낼게사랑인것같애",
+      "english": "I'll send it without spaces, I think this is love",
+      "words": [
+        {
+          "korean": "띄어쓰기없이",
+          "english": "without spacing",
+          "role": "adverb"
+        },
+        {
+          "korean": "보낼게",
+          "english": "I'll send",
+          "role": "verb"
+        },
+        {
+          "korean": "사랑인것같애",
+          "english": "I think this is love",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ게",
+        "meaning": "I will ~",
+        "note": "Casual promise or statement of intention, often implying 'I'll do this for you/us'"
+      }
+    },
+    {
+      "korean": "백만송이장미꽃을, 나랑피워볼래?",
+      "english": "A million roses — will you bloom them with me?",
+      "words": [
+        {
+          "korean": "백만송이",
+          "english": "a million stems",
+          "role": "noun"
+        },
+        {
+          "korean": "장미꽃을",
+          "english": "roses",
+          "role": "noun"
+        },
+        {
+          "korean": "나랑",
+          "english": "with me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "피워볼래",
+          "english": "will you bloom/try blooming",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ래?",
+        "meaning": "will you ~/do you want to ~?",
+        "note": "Casual question inviting someone to do something together, here asking him to share in the blooming metaphor"
+      }
+    }
+  ]
+}

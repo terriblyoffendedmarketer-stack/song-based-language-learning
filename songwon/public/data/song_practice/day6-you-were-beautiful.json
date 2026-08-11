@@ -1,0 +1,395 @@
+{
+  "songId": "day6-you-were-beautiful",
+  "lines": [
+    {
+      "korean": "지금 이 말이 우리가 다시 시작하자는 건 아냐",
+      "english": "What I'm saying right now isn't that we should start over again",
+      "words": [
+        {
+          "korean": "지금 이 말이",
+          "english": "what I'm saying right now",
+          "role": "noun"
+        },
+        {
+          "korean": "우리가",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다시 시작하자는",
+          "english": "that [we] should start again",
+          "role": "verb"
+        },
+        {
+          "korean": "건 아냐",
+          "english": "it's not that",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 건 아냐",
+        "meaning": "it's not that ~",
+        "note": "Used to preemptively clarify intent — here, making clear he's not trying to get back together"
+      }
+    },
+    {
+      "korean": "그저 너의 남아있던 기억들이 떠올랐을 뿐이야",
+      "english": "It's just that some memories of you that had been lingering suddenly came to mind",
+      "words": [
+        {
+          "korean": "그저",
+          "english": "just, merely",
+          "role": "adverb"
+        },
+        {
+          "korean": "남아있던 기억들이",
+          "english": "memories that had been remaining",
+          "role": "noun"
+        },
+        {
+          "korean": "떠올랐을",
+          "english": "floated up, came to mind",
+          "role": "verb"
+        },
+        {
+          "korean": "뿐이야",
+          "english": "that's all, nothing more",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을 뿐이야",
+        "meaning": "it's only that ~, that's all",
+        "note": "Minimizes the significance — emphasizing this is just a random memory, not a big declaration"
+      }
+    },
+    {
+      "korean": "정말 하루도 빠짐없이 사랑한다 말해줬었지",
+      "english": "Really, without missing a single day, you used to tell me you loved me",
+      "words": [
+        {
+          "korean": "정말",
+          "english": "really, truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "하루도 빠짐없이",
+          "english": "without missing a single day",
+          "role": "adverb"
+        },
+        {
+          "korean": "사랑한다",
+          "english": "I love you",
+          "role": "verb"
+        },
+        {
+          "korean": "말해줬었지",
+          "english": "you used to tell me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-도 빠짐없이",
+        "meaning": "without missing even ~",
+        "note": "Emphasizes perfect consistency — not even one day was missed"
+      }
+    },
+    {
+      "korean": "잠들기 전에 또 눈 뜨자마자 말해주던 너",
+      "english": "You, who used to say it before falling asleep and again right after opening your eyes",
+      "words": [
+        {
+          "korean": "잠들기 전에",
+          "english": "before falling asleep",
+          "role": "expression"
+        },
+        {
+          "korean": "눈 뜨자마자",
+          "english": "as soon as opening eyes",
+          "role": "expression"
+        },
+        {
+          "korean": "말해주던",
+          "english": "who used to tell me",
+          "role": "verb"
+        },
+        {
+          "korean": "너",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-자마자",
+        "meaning": "as soon as ~, immediately after ~",
+        "note": "Shows the action happened instantly — the moment her eyes opened, she said it"
+      }
+    },
+    {
+      "korean": "생각이 나 말해보는 거야",
+      "english": "I'm remembering it, so I'm just trying to say it out loud",
+      "words": [
+        {
+          "korean": "생각이 나",
+          "english": "it comes to mind, I remember",
+          "role": "verb"
+        },
+        {
+          "korean": "말해보는",
+          "english": "trying to say",
+          "role": "verb"
+        },
+        {
+          "korean": "거야",
+          "english": "it is that",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 보다",
+        "meaning": "to try doing ~",
+        "note": "Here it's 말해보는 — trying to speak it, testing the words out loud"
+      }
+    },
+    {
+      "korean": "예뻤어",
+      "english": "You were beautiful",
+      "words": [
+        {
+          "korean": "예뻤어",
+          "english": "was beautiful (past tense)",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-었어 (past tense)",
+        "meaning": "was ~ (past)",
+        "note": "The core of the entire song — using past tense to acknowledge beauty that existed, even though it's over now"
+      }
+    },
+    {
+      "korean": "날 바라봐 주던 그 눈빛",
+      "english": "The way you used to look at me, that gaze",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "바라봐 주던",
+          "english": "used to look at [for me]",
+          "role": "verb"
+        },
+        {
+          "korean": "그 눈빛",
+          "english": "that gaze, that look in your eyes",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "to do ~ for someone",
+        "note": "바라봐 주던 — she looked at him as a gift, an act of care"
+      }
+    },
+    {
+      "korean": "날 불러주던 그 목소리",
+      "english": "The voice that used to call my name",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "불러주던",
+          "english": "used to call [for me]",
+          "role": "verb"
+        },
+        {
+          "korean": "그 목소리",
+          "english": "that voice",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "그 모든 게 내겐 예뻤어",
+      "english": "All of that was beautiful to me",
+      "words": [
+        {
+          "korean": "그 모든 게",
+          "english": "all of that",
+          "role": "noun"
+        },
+        {
+          "korean": "내겐",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "예뻤어",
+          "english": "was beautiful",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "더 바랄게 없는듯한 느낌",
+      "english": "The feeling like there was nothing more I could wish for",
+      "words": [
+        {
+          "korean": "더 바랄게",
+          "english": "something more to wish for",
+          "role": "verb"
+        },
+        {
+          "korean": "없는듯한",
+          "english": "as if there isn't",
+          "role": "adjective"
+        },
+        {
+          "korean": "느낌",
+          "english": "feeling",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-듯한",
+        "meaning": "as if ~, seeming like ~",
+        "note": "Creates a comparison — the feeling was as if nothing more could be wanted"
+      }
+    },
+    {
+      "korean": "오직 너만이 주던 순간들",
+      "english": "The moments that only you could give me",
+      "words": [
+        {
+          "korean": "오직",
+          "english": "only",
+          "role": "adverb"
+        },
+        {
+          "korean": "너만이",
+          "english": "only you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "주던",
+          "english": "used to give",
+          "role": "verb"
+        },
+        {
+          "korean": "순간들",
+          "english": "moments",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "아직도 가끔 네 생각이 나",
+      "english": "Even now, sometimes I still think of you",
+      "words": [
+        {
+          "korean": "아직도",
+          "english": "even now, still",
+          "role": "adverb"
+        },
+        {
+          "korean": "가끔",
+          "english": "sometimes",
+          "role": "adverb"
+        },
+        {
+          "korean": "네 생각이 나",
+          "english": "thoughts of you come up",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어렵게 전화를 걸어볼까 생각이 들 때도 많지만",
+      "english": "I often think maybe I should try calling even though it's hard, but",
+      "words": [
+        {
+          "korean": "어렵게",
+          "english": "with difficulty, even though it's hard",
+          "role": "adverb"
+        },
+        {
+          "korean": "전화를 걸어볼까",
+          "english": "should I try calling",
+          "role": "verb"
+        },
+        {
+          "korean": "생각이 들 때도",
+          "english": "times when the thought comes",
+          "role": "expression"
+        },
+        {
+          "korean": "많지만",
+          "english": "are many, but",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "shall I ~? should I ~?",
+        "note": "Internal question — wondering to himself whether he should make the call"
+      }
+    },
+    {
+      "korean": "아무리 원해도 너는 이제 이미 끝나버린 지난날의 한편의 영화였었단 걸 난 알아",
+      "english": "No matter how much I want it, I know you're now already just a film from a past that's ended",
+      "words": [
+        {
+          "korean": "아무리 원해도",
+          "english": "no matter how much I want it",
+          "role": "expression"
+        },
+        {
+          "korean": "이미 끝나버린",
+          "english": "already ended",
+          "role": "verb"
+        },
+        {
+          "korean": "지난날의",
+          "english": "of past days",
+          "role": "noun"
+        },
+        {
+          "korean": "한편의 영화였었단 걸",
+          "english": "that it was a single film",
+          "role": "noun"
+        },
+        {
+          "korean": "난 알아",
+          "english": "I know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "아무리 -아/어도",
+        "meaning": "no matter how much ~",
+        "note": "Concedes reality — regardless of his wishes, he accepts what's true"
+      }
+    },
+    {
+      "korean": "잘 지내라던 그 목소리",
+      "english": "That voice that told me to take care",
+      "words": [
+        {
+          "korean": "잘 지내라던",
+          "english": "that said 'take care,' 'be well'",
+          "role": "verb"
+        },
+        {
+          "korean": "그 목소리",
+          "english": "that voice",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}

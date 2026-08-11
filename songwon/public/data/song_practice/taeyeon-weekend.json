@@ -1,0 +1,415 @@
+{
+  "songId": "taeyeon-weekend",
+  "lines": [
+    {
+      "korean": "그냥 이끌리는 대로 해도 괜찮으니까",
+      "english": "Because it's okay to just do whatever I'm drawn to",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just, simply",
+          "role": "adverb"
+        },
+        {
+          "korean": "이끌리는 대로",
+          "english": "as I'm drawn to, following my impulses",
+          "role": "expression"
+        },
+        {
+          "korean": "해도",
+          "english": "even if I do, to do",
+          "role": "verb"
+        },
+        {
+          "korean": "괜찮으니까",
+          "english": "because it's okay",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 대로",
+        "meaning": "as, according to, following",
+        "note": "Used here to express doing something exactly as one feels drawn to do it, without following a plan"
+      }
+    },
+    {
+      "korean": "나를 재촉하던 모닝콜 없이 일어나",
+      "english": "I wake up without the wake-up call that used to rush me",
+      "words": [
+        {
+          "korean": "나를",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "재촉하던",
+          "english": "that used to rush, that urged",
+          "role": "verb"
+        },
+        {
+          "korean": "모닝콜",
+          "english": "wake-up call, alarm",
+          "role": "noun"
+        },
+        {
+          "korean": "없이",
+          "english": "without",
+          "role": "particle"
+        },
+        {
+          "korean": "일어나",
+          "english": "wake up, get up",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "used to, past description",
+        "note": "Describes a past habitual action (the alarm that used to rush her every morning)"
+      }
+    },
+    {
+      "korean": "문득 시계를 보니 벌써 시간은 열두시",
+      "english": "I glance at the clock and it's already noon",
+      "words": [
+        {
+          "korean": "문득",
+          "english": "suddenly, glancing",
+          "role": "adverb"
+        },
+        {
+          "korean": "시계를 보니",
+          "english": "when I look at the clock",
+          "role": "verb"
+        },
+        {
+          "korean": "벌써",
+          "english": "already",
+          "role": "adverb"
+        },
+        {
+          "korean": "시간은",
+          "english": "the time",
+          "role": "noun"
+        },
+        {
+          "korean": "열두시",
+          "english": "twelve o'clock, noon",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-니",
+        "meaning": "when, and so",
+        "note": "Connects two clauses showing cause and effect or sequence — when she looks at the clock, she discovers it's already noon"
+      }
+    },
+    {
+      "korean": "그리곤 하품 한 번, 한껏 기지개도 켜고",
+      "english": "Then one yawn, and I stretch as much as I can",
+      "words": [
+        {
+          "korean": "그리곤",
+          "english": "and then",
+          "role": "connector"
+        },
+        {
+          "korean": "하품 한 번",
+          "english": "one yawn",
+          "role": "noun"
+        },
+        {
+          "korean": "한껏",
+          "english": "to the fullest, as much as possible",
+          "role": "adverb"
+        },
+        {
+          "korean": "기지개도 켜고",
+          "english": "stretch too",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "창문 너머 계절에 시선이 닿은 그 순간",
+      "english": "The moment my eyes land on the season outside the window",
+      "words": [
+        {
+          "korean": "창문 너머",
+          "english": "beyond the window, outside the window",
+          "role": "noun"
+        },
+        {
+          "korean": "계절에",
+          "english": "on the season",
+          "role": "noun"
+        },
+        {
+          "korean": "시선이",
+          "english": "gaze, eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "닿은",
+          "english": "reached, landed on",
+          "role": "verb"
+        },
+        {
+          "korean": "그 순간",
+          "english": "that moment",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "쏟아지는 햇살 내 맘을 두드려",
+      "english": "The pouring sunlight knocks on my heart",
+      "words": [
+        {
+          "korean": "쏟아지는",
+          "english": "pouring, flooding",
+          "role": "verb"
+        },
+        {
+          "korean": "햇살",
+          "english": "sunlight",
+          "role": "noun"
+        },
+        {
+          "korean": "내 맘을",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "두드려",
+          "english": "knocks, taps",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "떠나볼래 when the weekend comes",
+      "english": "I think I'll go when the weekend comes",
+      "words": [
+        {
+          "korean": "떠나볼래",
+          "english": "I think I'll try going, I'll go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 볼래",
+        "meaning": "I think I'll try to ~",
+        "note": "Expresses tentative, low-commitment intention — the speaker is casually suggesting they might go, matching the easygoing mood"
+      }
+    },
+    {
+      "korean": "가장 가까운 바다, 혼자만의 영화관",
+      "english": "The nearest sea, a movie theater just for myself",
+      "words": [
+        {
+          "korean": "가장 가까운",
+          "english": "nearest, closest",
+          "role": "adjective"
+        },
+        {
+          "korean": "바다",
+          "english": "sea, ocean",
+          "role": "noun"
+        },
+        {
+          "korean": "혼자만의",
+          "english": "just for myself, my own private",
+          "role": "expression"
+        },
+        {
+          "korean": "영화관",
+          "english": "movie theater",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "훌쩍 떠나보는 drive, 뚜벅 걸어도 좋아",
+      "english": "A drive I take on a whim, or walking is fine too",
+      "words": [
+        {
+          "korean": "훌쩍",
+          "english": "suddenly, on a whim",
+          "role": "adverb"
+        },
+        {
+          "korean": "떠나보는",
+          "english": "trying to leave, going",
+          "role": "verb"
+        },
+        {
+          "korean": "뚜벅",
+          "english": "step by step, plodding",
+          "role": "adverb"
+        },
+        {
+          "korean": "걸어도",
+          "english": "even if I walk, walking",
+          "role": "verb"
+        },
+        {
+          "korean": "좋아",
+          "english": "is good, is fine",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "뭐든 발길 닿는 대로 지금 떠나보려 해",
+      "english": "Wherever my feet take me, I'm going to leave right now",
+      "words": [
+        {
+          "korean": "뭐든",
+          "english": "whatever, anything",
+          "role": "pronoun"
+        },
+        {
+          "korean": "발길 닿는 대로",
+          "english": "wherever my feet take me",
+          "role": "expression"
+        },
+        {
+          "korean": "지금",
+          "english": "now, right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "떠나보려 해",
+          "english": "I'm going to try leaving",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)려 해",
+        "meaning": "intend to, be going to",
+        "note": "Expresses intention or plan to do something — she's planning to leave and go wherever her feet lead her"
+      }
+    },
+    {
+      "korean": "하루쯤 세상의 얘길 무시한 채",
+      "english": "Ignoring the world's noise for just one day",
+      "words": [
+        {
+          "korean": "하루쯤",
+          "english": "for about a day, for just one day",
+          "role": "noun"
+        },
+        {
+          "korean": "세상의 얘길",
+          "english": "the world's talk, the world's noise",
+          "role": "noun"
+        },
+        {
+          "korean": "무시한 채",
+          "english": "while ignoring, leaving ignored",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "while remaining in a state, without changing",
+        "note": "Describes staying in a chosen state on purpose — she's keeping the world's noise ignored, remaining in that state of ignoring it"
+      }
+    },
+    {
+      "korean": "내가 나의 하루를 조립해 보려 해",
+      "english": "I'm going to try assembling my own day myself",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나의 하루를",
+          "english": "my own day",
+          "role": "noun"
+        },
+        {
+          "korean": "조립해 보려 해",
+          "english": "going to try assembling",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "더는 no, no stress, 고민 안 할래",
+      "english": "No more stress, I won't worry anymore",
+      "words": [
+        {
+          "korean": "더는",
+          "english": "anymore, no longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "고민",
+          "english": "worry, concern",
+          "role": "noun"
+        },
+        {
+          "korean": "안 할래",
+          "english": "won't do, not going to",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아무 계획이 없어서 완벽한 plan",
+      "english": "A perfect plan because there's no plan at all",
+      "words": [
+        {
+          "korean": "아무 계획이",
+          "english": "any plan, no plan",
+          "role": "noun"
+        },
+        {
+          "korean": "없어서",
+          "english": "because there isn't",
+          "role": "verb"
+        },
+        {
+          "korean": "완벽한",
+          "english": "perfect",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서",
+        "meaning": "because, so",
+        "note": "Shows reason or cause — the plan is perfect precisely because there is no plan"
+      }
+    },
+    {
+      "korean": "맘에 들어오는 걸 더는 망설이긴 싫은 걸",
+      "english": "I don't want to hesitate anymore over things that appeal to me",
+      "words": [
+        {
+          "korean": "맘에 들어오는 걸",
+          "english": "things that appeal to me, things I like",
+          "role": "expression"
+        },
+        {
+          "korean": "더는",
+          "english": "anymore, no longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "망설이긴",
+          "english": "hesitating",
+          "role": "verb"
+        },
+        {
+          "korean": "싫은 걸",
+          "english": "I don't want to, I dislike",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

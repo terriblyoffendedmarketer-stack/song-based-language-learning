@@ -1,0 +1,390 @@
+{
+  "songId": "taeyeon-four-seasons",
+  "lines": [
+    {
+      "korean": "사계절이 와 그리고 또 떠나",
+      "english": "The four seasons come and then leave again",
+      "words": [
+        {
+          "korean": "사계절이",
+          "english": "the four seasons",
+          "role": "noun"
+        },
+        {
+          "korean": "와",
+          "english": "come",
+          "role": "verb"
+        },
+        {
+          "korean": "그리고",
+          "english": "and",
+          "role": "connector"
+        },
+        {
+          "korean": "또",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "떠나",
+          "english": "leave",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내 겨울을 주고 또 여름도 주었던",
+      "english": "who gave me my winter and also my summer",
+      "words": [
+        {
+          "korean": "내 겨울을",
+          "english": "my winter",
+          "role": "noun"
+        },
+        {
+          "korean": "주고",
+          "english": "gave",
+          "role": "verb"
+        },
+        {
+          "korean": "또",
+          "english": "also",
+          "role": "adverb"
+        },
+        {
+          "korean": "여름도",
+          "english": "summer too",
+          "role": "noun"
+        },
+        {
+          "korean": "주었던",
+          "english": "gave (past retrospective)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "used to be/do (no longer true)",
+        "note": "주었던 marks something that happened in the past but is no longer the case — they gave these things before, but not anymore"
+      }
+    },
+    {
+      "korean": "온 세상이던 널 보낼래",
+      "english": "I'm going to let you go, you who were my whole world",
+      "words": [
+        {
+          "korean": "온 세상이던",
+          "english": "who used to be my whole world",
+          "role": "noun"
+        },
+        {
+          "korean": "널",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보낼래",
+          "english": "I'm going to let go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "used to be (retrospective past)",
+        "note": "온 세상이던 — the grammar itself carries the loss: you WERE my whole world, but aren't anymore"
+      }
+    },
+    {
+      "korean": "정말 너를 사랑했을까",
+      "english": "Did I really love you?",
+      "words": [
+        {
+          "korean": "정말",
+          "english": "really",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "사랑했을까",
+          "english": "did I love",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을까",
+        "meaning": "I wonder if / did I really?",
+        "note": "A question directed at oneself expressing genuine uncertainty — the speaker doesn't know if what she felt was really love"
+      }
+    },
+    {
+      "korean": "언제야, 봄이던가",
+      "english": "When was it, was it spring?",
+      "words": [
+        {
+          "korean": "언제야",
+          "english": "when was it",
+          "role": "expression"
+        },
+        {
+          "korean": "봄이던가",
+          "english": "was it spring",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "맞아 그땐 한참 서로가",
+      "english": "Right, back then we really were",
+      "words": [
+        {
+          "korean": "맞아",
+          "english": "right",
+          "role": "expression"
+        },
+        {
+          "korean": "그땐",
+          "english": "back then",
+          "role": "noun"
+        },
+        {
+          "korean": "한참",
+          "english": "for a long time / really",
+          "role": "adverb"
+        },
+        {
+          "korean": "서로가",
+          "english": "each other",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "셰익스피어의 연극 같은 마지막이 될 사랑 마주한 듯",
+      "english": "like we'd found the love that would be our Shakespeare-play ending",
+      "words": [
+        {
+          "korean": "셰익스피어의 연극 같은",
+          "english": "like a Shakespeare play",
+          "role": "adjective"
+        },
+        {
+          "korean": "마지막이 될 사랑",
+          "english": "the love that would be our last",
+          "role": "noun"
+        },
+        {
+          "korean": "마주한 듯",
+          "english": "as if we'd encountered",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯",
+        "meaning": "as if / as though",
+        "note": "마주한 듯 — creates a dreamy, retrospective feeling, like looking back at how they felt at the time"
+      }
+    },
+    {
+      "korean": "둘밖에 안 보였나 봐",
+      "english": "I guess we only saw each other",
+      "words": [
+        {
+          "korean": "둘밖에",
+          "english": "only the two of us",
+          "role": "expression"
+        },
+        {
+          "korean": "안 보였나 봐",
+          "english": "I guess we couldn't see",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)나 봐",
+        "meaning": "I guess / it seems that",
+        "note": "Expresses retrospective realization — looking back, the speaker realizes they were so focused on each other they saw nothing else"
+      }
+    },
+    {
+      "korean": "다른 걸 좀 보고파",
+      "english": "I want to see other things now",
+      "words": [
+        {
+          "korean": "다른 걸",
+          "english": "other things",
+          "role": "noun"
+        },
+        {
+          "korean": "좀",
+          "english": "a bit / now",
+          "role": "adverb"
+        },
+        {
+          "korean": "보고파",
+          "english": "want to see",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "뜨겁고 차갑던 그 계절에",
+      "english": "In that season that was hot and cold",
+      "words": [
+        {
+          "korean": "뜨겁고",
+          "english": "hot and",
+          "role": "adjective"
+        },
+        {
+          "korean": "차갑던",
+          "english": "was cold",
+          "role": "adjective"
+        },
+        {
+          "korean": "그 계절에",
+          "english": "in that season",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "서로를 그리워했고 서로를 지겨워하지",
+      "english": "We missed each other and grew tired of each other",
+      "words": [
+        {
+          "korean": "서로를",
+          "english": "each other",
+          "role": "pronoun"
+        },
+        {
+          "korean": "그리워했고",
+          "english": "missed and",
+          "role": "verb"
+        },
+        {
+          "korean": "지겨워하지",
+          "english": "grew tired of",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그 긴 낮과 밤들이 낡아 녹슬기 전에",
+      "english": "Before those long days and nights grow old and rust",
+      "words": [
+        {
+          "korean": "그 긴 낮과 밤들이",
+          "english": "those long days and nights",
+          "role": "noun"
+        },
+        {
+          "korean": "낡아 녹슬기",
+          "english": "to grow old and rust",
+          "role": "verb"
+        },
+        {
+          "korean": "전에",
+          "english": "before",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 전에",
+        "meaning": "before ~ing",
+        "note": "녹슬기 전에 — creates urgency, suggesting they should act before their memories decay and corrode"
+      }
+    },
+    {
+      "korean": "우리 다시 반짝이자",
+      "english": "Let's shine again",
+      "words": [
+        {
+          "korean": "우리",
+          "english": "we / let's",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "반짝이자",
+          "english": "let's shine",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-자",
+        "meaning": "let's (do something)",
+        "note": "A propositive ending — she's suggesting one last attempt to recapture what they had"
+      }
+    },
+    {
+      "korean": "뒤돌아볼 때쯤엔 난 없어",
+      "english": "By the time you look back, I won't be there",
+      "words": [
+        {
+          "korean": "뒤돌아볼",
+          "english": "to look back",
+          "role": "verb"
+        },
+        {
+          "korean": "때쯤엔",
+          "english": "by the time",
+          "role": "expression"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "없어",
+          "english": "won't be there",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 때쯤",
+        "meaning": "around the time when / by the time",
+        "note": "뒤돌아볼 때쯤 — marks an approximate future time point, suggesting when you finally turn around, it'll be too late"
+      }
+    },
+    {
+      "korean": "우리 꽤 괜찮았어 그거면 된 거야",
+      "english": "We were pretty good, actually — that's enough",
+      "words": [
+        {
+          "korean": "우리",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "꽤 괜찮았어",
+          "english": "were pretty good",
+          "role": "adjective"
+        },
+        {
+          "korean": "그거면",
+          "english": "if that's it / that",
+          "role": "expression"
+        },
+        {
+          "korean": "된 거야",
+          "english": "is enough",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면 되다",
+        "meaning": "it's enough if / all you need is",
+        "note": "그거면 된 거야 — expresses acceptance and sufficiency: that much is enough, no need for more"
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "songId": "twice-likey",
+  "lines": [
+    {
+      "korean": "설렌다, me likey",
+      "english": "My heart's fluttering, me likey",
+      "words": [
+        {
+          "korean": "설렌다",
+          "english": "my heart flutters / I'm excited",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "자꾸 드러내고 싶지 자꾸만",
+      "english": "I keep wanting to show it off, again and again",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "repeatedly / keep doing",
+          "role": "adverb"
+        },
+        {
+          "korean": "드러내고 싶지",
+          "english": "want to show off / reveal",
+          "role": "verb"
+        },
+        {
+          "korean": "자꾸만",
+          "english": "again and again (emphatic)",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 싶다",
+        "meaning": "want to ~",
+        "note": "드러내다 (to reveal/show) + -고 싶다 expresses her desire to show herself off on social media"
+      }
+    },
+    {
+      "korean": "사소한 것 하나까지 전부다",
+      "english": "Every little thing, all of it",
+      "words": [
+        {
+          "korean": "사소한 것",
+          "english": "trivial thing / small thing",
+          "role": "noun"
+        },
+        {
+          "korean": "하나까지",
+          "english": "even one / down to each one",
+          "role": "expression"
+        },
+        {
+          "korean": "전부다",
+          "english": "all of it / everything",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "작은 화면 속에 내가 제일 예뻐 보이고파",
+      "english": "I want to look the prettiest inside that small screen",
+      "words": [
+        {
+          "korean": "작은 화면",
+          "english": "small screen",
+          "role": "noun"
+        },
+        {
+          "korean": "속에",
+          "english": "inside",
+          "role": "particle"
+        },
+        {
+          "korean": "제일 예뻐",
+          "english": "the prettiest",
+          "role": "adjective"
+        },
+        {
+          "korean": "보이고파",
+          "english": "want to look / appear",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고파",
+        "meaning": "want to ~ (colloquial form of -고 싶어)",
+        "note": "보이다 (to look/appear) + -고파 shows her desire to appear pretty in photos; casual/cute speech"
+      }
+    },
+    {
+      "korean": "아직은 감춰 이런 내 마음 꾹꾹",
+      "english": "But for now I press down and hide this feeling of mine",
+      "words": [
+        {
+          "korean": "아직은",
+          "english": "for now / still",
+          "role": "adverb"
+        },
+        {
+          "korean": "감춰",
+          "english": "hide",
+          "role": "verb"
+        },
+        {
+          "korean": "이런 내 마음",
+          "english": "this feeling of mine",
+          "role": "noun"
+        },
+        {
+          "korean": "꾹꾹",
+          "english": "pressing down firmly",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "매일 가슴 뛰게 해, 이건 네가 몰라야만 돼",
+      "english": "You make my heart race every day, but you can't know this",
+      "words": [
+        {
+          "korean": "매일",
+          "english": "every day",
+          "role": "noun"
+        },
+        {
+          "korean": "가슴 뛰게 해",
+          "english": "make [my] heart race",
+          "role": "verb"
+        },
+        {
+          "korean": "네가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "몰라야만 돼",
+          "english": "must not know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야만 하다",
+        "meaning": "must ~ / have to ~ (emphatic)",
+        "note": "몰라야만 돼 emphasizes that he absolutely must not know her feelings (at least not yet)"
+      }
+    },
+    {
+      "korean": "카메라에 담아볼까 예쁘게?",
+      "english": "Should I capture it prettily on camera?",
+      "words": [
+        {
+          "korean": "카메라에",
+          "english": "on camera",
+          "role": "noun"
+        },
+        {
+          "korean": "담아볼까",
+          "english": "should I capture / try capturing",
+          "role": "verb"
+        },
+        {
+          "korean": "예쁘게",
+          "english": "prettily / beautifully",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 볼까",
+        "meaning": "shall I try ~? / should I ~?",
+        "note": "담다 (to capture/contain) + -아 보다 (to try) + -ㄹ까 (shall I?) creates a self-questioning tone about taking a photo"
+      }
+    },
+    {
+      "korean": "이거 보면 웃어줘 그리고 꼭 눌러줘",
+      "english": "If you see this, smile, and make sure to press it",
+      "words": [
+        {
+          "korean": "이거 보면",
+          "english": "if you see this",
+          "role": "expression"
+        },
+        {
+          "korean": "웃어줘",
+          "english": "smile (for me)",
+          "role": "verb"
+        },
+        {
+          "korean": "꼭",
+          "english": "make sure / definitely",
+          "role": "adverb"
+        },
+        {
+          "korean": "눌러줘",
+          "english": "press (for me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "do ~ (for someone)",
+        "note": "웃어줘 and 눌러줘 both use -아/어 주다 to request he do these actions for her benefit"
+      }
+    },
+    {
+      "korean": "근데 좋아요란 말은 뻔해",
+      "english": "But the word 'like' is so predictable",
+      "words": [
+        {
+          "korean": "근데",
+          "english": "but / however",
+          "role": "connector"
+        },
+        {
+          "korean": "좋아요란 말은",
+          "english": "the word 'like'",
+          "role": "noun"
+        },
+        {
+          "korean": "뻔해",
+          "english": "is obvious / predictable / cliché",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)란",
+        "meaning": "called ~ / the thing called ~",
+        "note": "좋아요 (the social media 'like') + -란 (contraction of -라는) marks it as the topic being discussed"
+      }
+    },
+    {
+      "korean": "내 맘 표현하기엔 부족한데",
+      "english": "It's not enough to express my feelings",
+      "words": [
+        {
+          "korean": "내 맘",
+          "english": "my feelings / my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "표현하기엔",
+          "english": "for expressing / when it comes to expressing",
+          "role": "verb"
+        },
+        {
+          "korean": "부족한데",
+          "english": "is insufficient / not enough",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기에는 (-기엔)",
+        "meaning": "for the purpose of ~ing / when it comes to ~ing",
+        "note": "표현하다 (to express) + -기엔 (casual contraction) shows that 'likes' fall short for what she wants to convey"
+      }
+    },
+    {
+      "korean": "근데 좋아요 잠도 못 자도 지각하게 돼도 좋은걸",
+      "english": "But still, I like it, even if I can't sleep, even if I end up being late, it's fine",
+      "words": [
+        {
+          "korean": "잠도 못 자도",
+          "english": "even if I can't sleep",
+          "role": "expression"
+        },
+        {
+          "korean": "지각하게 돼도",
+          "english": "even if I end up being late",
+          "role": "verb"
+        },
+        {
+          "korean": "좋은걸",
+          "english": "it's good / it's fine",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if ~ / even though ~",
+        "note": "Multiple uses of -아/어도 stack up consequences (can't sleep, being late) that she's willing to accept because she likes the attention"
+      }
+    },
+    {
+      "korean": "그저 바라보고 있지",
+      "english": "I just keep watching",
+      "words": [
+        {
+          "korean": "그저",
+          "english": "just / merely",
+          "role": "adverb"
+        },
+        {
+          "korean": "바라보고 있지",
+          "english": "keep watching / am watching",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 있다",
+        "meaning": "to be ~ing (continuous action)",
+        "note": "바라보다 (to gaze at/watch) + -고 있다 shows she's continuously watching for his reaction"
+      }
+    },
+    {
+      "korean": "조금만 더 다가와요 내 맘 알아줘요",
+      "english": "Come a little closer, please, understand my feelings",
+      "words": [
+        {
+          "korean": "조금만 더",
+          "english": "just a little more",
+          "role": "adverb"
+        },
+        {
+          "korean": "다가와요",
+          "english": "come closer",
+          "role": "verb"
+        },
+        {
+          "korean": "내 맘",
+          "english": "my feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "알아줘요",
+          "english": "please understand (for me)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "더 이상 감추고만 싶지 않아",
+      "english": "I don't want to just keep hiding anymore",
+      "words": [
+        {
+          "korean": "더 이상",
+          "english": "anymore / any longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "감추고만",
+          "english": "just hide / only hide",
+          "role": "verb"
+        },
+        {
+          "korean": "싶지 않아",
+          "english": "don't want to",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고만 싶지 않다",
+        "meaning": "don't want to just keep ~ing",
+        "note": "감추다 (to hide) + -고만 (only/just) + 싶지 않다 (don't want to) — she's tired of only hiding her feelings"
+      }
+    },
+    {
+      "korean": "하루종일 기분이 왔다 갔다",
+      "english": "All day my mood goes back and forth",
+      "words": [
+        {
+          "korean": "하루종일",
+          "english": "all day",
+          "role": "noun"
+        },
+        {
+          "korean": "기분이",
+          "english": "mood / feeling (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "왔다 갔다",
+          "english": "comes and goes / back and forth",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았다/-었다 -아/어",
+        "meaning": "does ~ back and forth / repeatedly alternates",
+        "note": "오다 (come) and 가다 (go) in past tense then present creates the sense of mood swings throughout the day"
+      }
+    }
+  ]
+}

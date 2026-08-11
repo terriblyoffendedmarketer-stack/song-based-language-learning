@@ -1,0 +1,385 @@
+{
+  "songId": "iu-coin",
+  "lines": [
+    {
+      "korean": "과감할수록 신세계 on my table",
+      "english": "The bolder I am, the more it's a new world on my table",
+      "words": [
+        {
+          "korean": "과감할수록",
+          "english": "the more bold/daring",
+          "role": "expression"
+        },
+        {
+          "korean": "신세계",
+          "english": "new world",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ수록",
+        "meaning": "the more ~, the more...",
+        "note": "Attached to 과감하다 (to be bold) to show that as boldness increases, the result (new world) also increases proportionally."
+      }
+    },
+    {
+      "korean": "세상이 원래 불공평해",
+      "english": "The world was never fair to begin with",
+      "words": [
+        {
+          "korean": "세상이",
+          "english": "the world",
+          "role": "noun"
+        },
+        {
+          "korean": "원래",
+          "english": "originally/from the start",
+          "role": "adverb"
+        },
+        {
+          "korean": "불공평해",
+          "english": "is unfair",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "더럽게 재미있지",
+      "english": "So it's filthy fun",
+      "words": [
+        {
+          "korean": "더럽게",
+          "english": "filthily/damn",
+          "role": "adverb"
+        },
+        {
+          "korean": "재미있지",
+          "english": "it's fun/interesting",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "Baby 알잖아 내가 한 번 미치면 어디까지 가는지",
+      "english": "Baby, you know how far I go once I lose it",
+      "words": [
+        {
+          "korean": "알잖아",
+          "english": "you know",
+          "role": "verb"
+        },
+        {
+          "korean": "한 번",
+          "english": "once",
+          "role": "adverb"
+        },
+        {
+          "korean": "미치면",
+          "english": "if/when I go crazy",
+          "role": "verb"
+        },
+        {
+          "korean": "어디까지",
+          "english": "how far/to what extent",
+          "role": "adverb"
+        },
+        {
+          "korean": "가는지",
+          "english": "I go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖아",
+        "meaning": "you know/as you know",
+        "note": "Used with 알다 (to know) to remind someone of something they already know, creating a casual and familiar tone."
+      }
+    },
+    {
+      "korean": "마지막 게임이니만큼 후회 없는 실수를 저질러",
+      "english": "Since it's the last game, make mistakes you won't regret",
+      "words": [
+        {
+          "korean": "마지막",
+          "english": "last/final",
+          "role": "noun"
+        },
+        {
+          "korean": "게임이니만큼",
+          "english": "since it's a game",
+          "role": "expression"
+        },
+        {
+          "korean": "후회 없는",
+          "english": "without regret",
+          "role": "adjective"
+        },
+        {
+          "korean": "실수를",
+          "english": "mistake",
+          "role": "noun"
+        },
+        {
+          "korean": "저질러",
+          "english": "commit/make",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)니만큼",
+        "meaning": "since/as much as",
+        "note": "Connects the reason (last game) with the conclusion (make bold mistakes), emphasizing that the extent of the situation justifies the action."
+      }
+    },
+    {
+      "korean": "I can't die, I'm all-in",
+      "english": "I can't die, I'm all-in",
+      "words": [
+        {
+          "korean": "all-in",
+          "english": "betting everything",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "배운 적 없지 even no tutor",
+      "english": "Never learned it, even without a tutor",
+      "words": [
+        {
+          "korean": "배운 적 없지",
+          "english": "never learned",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 적 없다",
+        "meaning": "have never done ~",
+        "note": "Used to express that an action has never occurred in one's experience; 배우다 (to learn) becomes 배운 적 없다 (have never learned)."
+      }
+    },
+    {
+      "korean": "최악의 패를 가지고 싹 쓸어",
+      "english": "I sweep the pot holding the worst possible hand",
+      "words": [
+        {
+          "korean": "최악의",
+          "english": "the worst",
+          "role": "adjective"
+        },
+        {
+          "korean": "패를",
+          "english": "hand (cards)",
+          "role": "noun"
+        },
+        {
+          "korean": "가지고",
+          "english": "holding/with",
+          "role": "verb"
+        },
+        {
+          "korean": "싹 쓸어",
+          "english": "sweep everything",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "한 수 배우고 싶음 더 예의 있게 굴어",
+      "english": "If you want to learn a trick or two, be more polite",
+      "words": [
+        {
+          "korean": "한 수",
+          "english": "a move/trick",
+          "role": "noun"
+        },
+        {
+          "korean": "배우고 싶음",
+          "english": "if you want to learn",
+          "role": "expression"
+        },
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "예의 있게",
+          "english": "politely",
+          "role": "adverb"
+        },
+        {
+          "korean": "굴어",
+          "english": "behave/act",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "승리를 손에 꽉 잡아 말아 쥐어",
+      "english": "I grip victory tight in my hand, or maybe I fold it up",
+      "words": [
+        {
+          "korean": "승리를",
+          "english": "victory",
+          "role": "noun"
+        },
+        {
+          "korean": "손에",
+          "english": "in hand",
+          "role": "noun"
+        },
+        {
+          "korean": "꽉",
+          "english": "tightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "잡아",
+          "english": "grab/grip",
+          "role": "verb"
+        },
+        {
+          "korean": "말아 쥐어",
+          "english": "roll up and hold",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "매경기 살벌하게 난 목숨을 걸어 like a bullfight",
+      "english": "Every game is deadly serious, I bet my life like a bullfight",
+      "words": [
+        {
+          "korean": "매경기",
+          "english": "every game",
+          "role": "noun"
+        },
+        {
+          "korean": "살벌하게",
+          "english": "brutally/deadly serious",
+          "role": "adverb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "목숨을",
+          "english": "life",
+          "role": "noun"
+        },
+        {
+          "korean": "걸어",
+          "english": "bet/stake",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "Baby 알잖아 내가 지금 이 판에 도대체 뭘 거는지",
+      "english": "Baby, you know what on earth I'm betting on this table right now",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "now/right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "이 판에",
+          "english": "on this table/game",
+          "role": "noun"
+        },
+        {
+          "korean": "도대체",
+          "english": "on earth/just what",
+          "role": "adverb"
+        },
+        {
+          "korean": "뭘",
+          "english": "what",
+          "role": "pronoun"
+        },
+        {
+          "korean": "거는지",
+          "english": "I'm betting",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "마지막 betting이니만큼 엉망으로 테이블을 어질러",
+      "english": "Since it's the last bet, mess up the table completely",
+      "words": [
+        {
+          "korean": "마지막",
+          "english": "last/final",
+          "role": "noun"
+        },
+        {
+          "korean": "betting이니만큼",
+          "english": "since it's betting",
+          "role": "expression"
+        },
+        {
+          "korean": "엉망으로",
+          "english": "into a mess/completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "테이블을",
+          "english": "the table",
+          "role": "noun"
+        },
+        {
+          "korean": "어질러",
+          "english": "mess up/scatter",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "구걸하지 않는 눈빛",
+      "english": "A gaze that doesn't beg",
+      "words": [
+        {
+          "korean": "구걸하지 않는",
+          "english": "doesn't beg",
+          "role": "verb"
+        },
+        {
+          "korean": "눈빛",
+          "english": "gaze/look in the eyes",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "끝내줄게 그만 여기서",
+      "english": "I'll finish this, right here",
+      "words": [
+        {
+          "korean": "끝내줄게",
+          "english": "I'll finish it",
+          "role": "verb"
+        },
+        {
+          "korean": "그만",
+          "english": "stop/enough",
+          "role": "adverb"
+        },
+        {
+          "korean": "여기서",
+          "english": "here/at this place",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줄게",
+        "meaning": "I'll do ~ (for you)",
+        "note": "Combines -아/어 주다 (to do for someone) with -ㄹ게 (I will), creating a promise or declaration that the speaker will complete the action."
+      }
+    }
+  ]
+}

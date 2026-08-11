@@ -1,0 +1,400 @@
+{
+  "songId": "mamamoo-mr-ambiguous",
+  "lines": [
+    {
+      "korean": "실례지만 내게 뭐가 묻은 거니",
+      "english": "Excuse me, but is there something on me?",
+      "words": [
+        {
+          "korean": "실례지만",
+          "english": "excuse me, but",
+          "role": "expression"
+        },
+        {
+          "korean": "내게",
+          "english": "on me / to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "뭐가",
+          "english": "something (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "묻은 거니",
+          "english": "is stuck / is on",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-은 거니",
+        "meaning": "is it that ~? (casual, slightly theatrical question)",
+        "note": "묻다 (to stick/be on) + past tense -은 + 거 (thing/fact) + -니 casual question ending creates a soft, performative tone"
+      }
+    },
+    {
+      "korean": "니 눈빛에 내가 헷갈리잖니",
+      "english": "Your gaze is confusing me, isn't it?",
+      "words": [
+        {
+          "korean": "니 눈빛에",
+          "english": "by your gaze",
+          "role": "noun"
+        },
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "헷갈리잖니",
+          "english": "getting confused, aren't I",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖니",
+        "meaning": "isn't it? / aren't you? (seeking agreement)",
+        "note": "헷갈리다 (to be confused) + -잖니 softly accuses while asking for confirmation of an obvious fact"
+      }
+    },
+    {
+      "korean": "쳐다만 보지 말고 좀 더 다가와 봐",
+      "english": "Don't just stare, come a little closer",
+      "words": [
+        {
+          "korean": "쳐다만 보지 말고",
+          "english": "don't just stare",
+          "role": "verb"
+        },
+        {
+          "korean": "좀 더",
+          "english": "a little more",
+          "role": "adverb"
+        },
+        {
+          "korean": "다가와 봐",
+          "english": "try coming closer",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말고 -아/어 봐",
+        "meaning": "don't do X, try doing Y instead",
+        "note": "Redirects unwanted behavior (just staring) into desired action (coming closer); -아/어 봐 suggests trying something"
+      }
+    },
+    {
+      "korean": "뭐 지금 저한테 관심 있으세요?",
+      "english": "Wait, are you interested in me right now?",
+      "words": [
+        {
+          "korean": "뭐",
+          "english": "what / wait",
+          "role": "interjection"
+        },
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "저한테",
+          "english": "in me (polite)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "관심 있으세요",
+          "english": "are you interested (polite)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "니 덫에 걸린 난 애정결핍 여우",
+      "english": "Caught in your trap, I'm an affection-starved fox",
+      "words": [
+        {
+          "korean": "니 덫에",
+          "english": "in your trap",
+          "role": "noun"
+        },
+        {
+          "korean": "걸린",
+          "english": "caught / trapped",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "애정결핍",
+          "english": "affection-starved",
+          "role": "noun"
+        },
+        {
+          "korean": "여우",
+          "english": "fox",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "찔러보지만 말고 저질러봐",
+      "english": "Don't just poke around, go for it",
+      "words": [
+        {
+          "korean": "찔러보지만 말고",
+          "english": "don't just poke/test",
+          "role": "verb"
+        },
+        {
+          "korean": "저질러봐",
+          "english": "commit / go for it",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지만 말고",
+        "meaning": "don't just do X (do Y instead)",
+        "note": "찔러보다 (to poke/test cautiously) contrasted with 저지르다 (to commit/do something bold); uses same redirect pattern as earlier"
+      }
+    },
+    {
+      "korean": "아직 넌 왜 눈치를 못 챘니 넌",
+      "english": "Why haven't you noticed yet?",
+      "words": [
+        {
+          "korean": "아직",
+          "english": "still / yet",
+          "role": "adverb"
+        },
+        {
+          "korean": "넌",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "눈치를 못 챘니",
+          "english": "haven't noticed / caught on",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "눈치를 채다/못 채다",
+        "meaning": "to notice a hint/social cue / to fail to notice",
+        "note": "눈치 is awareness of social atmosphere; 못 챘니 accuses someone of missing obvious signals in a relationship context"
+      }
+    },
+    {
+      "korean": "날 헷갈리게 하지 마",
+      "english": "Stop confusing me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "헷갈리게 하지 마",
+          "english": "don't make confused / stop confusing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하지 마",
+        "meaning": "don't make someone do/feel ~",
+        "note": "헷갈리다 (to be confused) becomes causative with -게 하다; -지 마 adds prohibition"
+      }
+    },
+    {
+      "korean": "왜 자꾸 내 맘을 몰라주는 거니 왜",
+      "english": "Why do you keep not understanding my heart?",
+      "words": [
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "자꾸",
+          "english": "keep / repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 맘을",
+          "english": "my heart (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "몰라주는 거니",
+          "english": "not understanding",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "to do something for someone",
+        "note": "몰라주다 = not understand (for someone); the -주다 adds nuance of failing to give understanding that should be offered"
+      }
+    },
+    {
+      "korean": "날 갖고 놀려 하지 마",
+      "english": "Don't try to play games with me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "갖고 놀려 하지 마",
+          "english": "don't try to play with / toy with",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-려 하지 마",
+        "meaning": "don't try to ~",
+        "note": "갖고 놀다 (to play with/toy with) + -려 하다 (to try to) + -지 마 (prohibition); implies manipulative behavior"
+      }
+    },
+    {
+      "korean": "캔디를 문 듯한 달콤한 말투",
+      "english": "A sweet tone of voice like you're holding candy in your mouth",
+      "words": [
+        {
+          "korean": "캔디를 문 듯한",
+          "english": "as if holding candy",
+          "role": "expression"
+        },
+        {
+          "korean": "달콤한",
+          "english": "sweet",
+          "role": "adjective"
+        },
+        {
+          "korean": "말투",
+          "english": "tone of voice / way of speaking",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-은/ㄴ 듯한",
+        "meaning": "as if ~, like ~",
+        "note": "물다 (to bite/hold in mouth) + -ㄴ 듯한 creates a simile describing his sweet, affected way of speaking"
+      }
+    },
+    {
+      "korean": "양의 탈을 쓴 넌 꼬리치는 늑대",
+      "english": "You're a wolf wagging its tail, wearing a sheep's mask",
+      "words": [
+        {
+          "korean": "양의 탈을 쓴",
+          "english": "wearing a sheep's mask",
+          "role": "expression"
+        },
+        {
+          "korean": "넌",
+          "english": "you (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "꼬리치는",
+          "english": "wagging tail",
+          "role": "verb"
+        },
+        {
+          "korean": "늑대",
+          "english": "wolf",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "내숭떨지 말고 나를 가져봐",
+      "english": "Stop playing coy and just take me",
+      "words": [
+        {
+          "korean": "내숭떨지 말고",
+          "english": "don't act coy / pretend to be innocent",
+          "role": "verb"
+        },
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "가져봐",
+          "english": "try taking / just take",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "사람 간보지 말고 빨리 와요 내게로",
+      "english": "Stop testing me and hurry up and come to me",
+      "words": [
+        {
+          "korean": "사람 간보지 말고",
+          "english": "don't test a person / size someone up",
+          "role": "expression"
+        },
+        {
+          "korean": "빨리",
+          "english": "quickly / hurry",
+          "role": "adverb"
+        },
+        {
+          "korean": "와요",
+          "english": "come (polite)",
+          "role": "verb"
+        },
+        {
+          "korean": "내게로",
+          "english": "to me",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "아마도 나 말고 딴 여자 있는 것 같다고",
+      "english": "I'm thinking maybe you have another girl besides me",
+      "words": [
+        {
+          "korean": "아마도",
+          "english": "perhaps / probably",
+          "role": "adverb"
+        },
+        {
+          "korean": "나 말고",
+          "english": "besides me / other than me",
+          "role": "expression"
+        },
+        {
+          "korean": "딴 여자",
+          "english": "another girl",
+          "role": "noun"
+        },
+        {
+          "korean": "있는 것 같다고",
+          "english": "seems like there is / I think there is",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-은/는 것 같다",
+        "meaning": "it seems like ~, I think ~",
+        "note": "있다 + -는 것 같다 expresses suspicion; -고 ending quotes her own thought/complaint"
+      }
+    }
+  ]
+}

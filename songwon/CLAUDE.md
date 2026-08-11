@@ -2,10 +2,11 @@
 
 # Songwon (송원) — Korean Language Learning Through Songs
 
-## Status — V1 Complete, V2 Planning
+## Status — V2 In Progress
 
-**What's live**: 20 V5 lessons deployed on Vercel + Capacitor Android APK. Interleaved teach/test flow, Edge TTS audio, progress saving, daily reminders.
-**What's next**: V2 universal app — users plug in their Spotify playlist + API key → auto-generated lessons.
+**What's live**: 20 V5 lessons + song browser (72 songs) + song practice + vocab/grammar practice with SRS. Deployed on Vercel + Capacitor Android APK.
+**V2 done**: All phases complete — practice engine (SRS, mastery, gates), song practice pipeline, Spotify playlist, improved distractors, BottomNav, novel context questions, wrong-answer re-exposure, fill-in-blank dedup, song sentences in lesson practice, per-song progress, TTS for practice lines.
+**V2 remaining**: None — all roadmap items complete.
 **Deployed**: https://song-based-language-learning.vercel.app
 **Repo**: https://github.com/terriblyoffendedmarketer-stack/song-based-language-learning (private)
 
@@ -67,6 +68,8 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 9. Curriculum map → `curriculum_map.json` (5 levels)
 10. V5 lesson generation → `public/data/lessons_v5/*.json` (20 lessons)
 11. TTS cache → `pipeline/tts_cache/` (~4,691 MP3s)
+12. Song practice data → `public/data/song_practice/*.json` (72 files, 1,050 lines, via `generate_song_practice.py`)
+13. Song practice audit → `pipeline/audit_song_practice.py` (quantitative quality check)
 
 ### Key Pipeline Data
 - `pipeline/song_manifest.json` — unified index: 72 songs → MP3s → lyrics
@@ -97,6 +100,10 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 - `lib/notifications.ts` — cross-platform notification service
 - `components/BottomNav.tsx` — shared bottom navigation (Home, Lessons, Songs, Progress)
 - `components/ReminderSettings.tsx` — reminder toggle + time picker
+- `lib/practice-engine.ts` — SRS engine, session generation, mastery tracking, distractor selection
+- `app/practice/page.tsx` — vocab/grammar practice session UI (lobby, quiz, results)
+- `pipeline/generate_song_practice.py` — generates rich practice data for all 72 songs via Claude API
+- `pipeline/create_spotify_playlist.py` — creates Spotify playlist of all 72 study songs
 
 ## V2 Files
 - `V2_ROADMAP.md` — V2 roadmap (practice mode, song learning, quiz improvements)
@@ -105,6 +112,8 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 - `public/data/song_index.json` — 72-song index for song browser
 - `public/data/lyrics/*.txt` — raw lyrics files for song practice
 - `public/data/song_practice/*.json` — rich practice data (generated, per-song)
+- `public/data/practice/vocab_pool.json` — all 80 vocab items across 20 lessons
+- `public/data/practice/grammar_pool.json` — all 20 grammar points across 20 lessons
 
 ## How to Run
 1. `npm install` in `songwon/`

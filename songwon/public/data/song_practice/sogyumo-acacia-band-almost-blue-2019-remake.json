@@ -1,0 +1,162 @@
+{
+  "songId": "sogyumo-acacia-band-almost-blue-2019-remake",
+  "lines": [
+    {
+      "korean": "이 시간의 문을 닫으려네",
+      "english": "I'm about to close the door on this time",
+      "words": [
+        {
+          "korean": "이 시간의",
+          "english": "of this time",
+          "role": "noun"
+        },
+        {
+          "korean": "문을",
+          "english": "door (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "닫으려네",
+          "english": "am about to close",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)려네",
+        "meaning": "I'm about to ~, I'm going to ~",
+        "note": "Gentle, self-directed statement of intention with a quiet, self-narrating tone; combines -(으)려 (intention) with -네 (realization/observation ending)"
+      }
+    },
+    {
+      "korean": "남아있는 모든 소원을 줍네",
+      "english": "I gather up all the remaining wishes",
+      "words": [
+        {
+          "korean": "남아있는",
+          "english": "remaining, left over",
+          "role": "verb"
+        },
+        {
+          "korean": "모든",
+          "english": "all",
+          "role": "adjective"
+        },
+        {
+          "korean": "소원을",
+          "english": "wishes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "줍네",
+          "english": "gather up, pick up",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-네",
+        "meaning": "marks present-tense realization or observation",
+        "note": "Used here to give the song a quality of quiet self-observation, as if noticing what one is doing in the moment"
+      }
+    },
+    {
+      "korean": "이 만족의 가장 끝에 서네",
+      "english": "I stand at the very edge of this contentment",
+      "words": [
+        {
+          "korean": "이 만족의",
+          "english": "of this contentment",
+          "role": "noun"
+        },
+        {
+          "korean": "가장 끝에",
+          "english": "at the very edge/end",
+          "role": "noun"
+        },
+        {
+          "korean": "서네",
+          "english": "stand",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "보일수록 멈추지 않는",
+      "english": "the more it becomes visible, the more it doesn't stop",
+      "words": [
+        {
+          "korean": "보일수록",
+          "english": "the more it's visible",
+          "role": "verb"
+        },
+        {
+          "korean": "멈추지 않는",
+          "english": "doesn't stop",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ수록",
+        "meaning": "the more ~, the more...",
+        "note": "Links two states that intensify together — here, as the blue/mood becomes more visible, it persists more strongly rather than fading"
+      }
+    },
+    {
+      "korean": "그 blue blue blue",
+      "english": "that blue blue blue",
+      "words": [
+        {
+          "korean": "그",
+          "english": "that",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "이 시간의 끝에 태어나네",
+      "english": "something is born at the end of this time",
+      "words": [
+        {
+          "korean": "이 시간의",
+          "english": "of this time",
+          "role": "noun"
+        },
+        {
+          "korean": "끝에",
+          "english": "at the end",
+          "role": "noun"
+        },
+        {
+          "korean": "태어나네",
+          "english": "is born",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "울음의 삶은 보이지를 않네",
+      "english": "a life of crying is nowhere to be seen",
+      "words": [
+        {
+          "korean": "울음의",
+          "english": "of crying",
+          "role": "noun"
+        },
+        {
+          "korean": "삶은",
+          "english": "life (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "보이지를 않네",
+          "english": "is not seen",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지를 않다",
+        "meaning": "to not ~",
+        "note": "An emphatic negative form; 를 adds emphasis to the negation -지 않다, making it feel more definitive than a simple 보이지 않네"
+      }
+    }
+  ]
+}

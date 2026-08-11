@@ -1,0 +1,380 @@
+{
+  "songId": "leehi-1-2-3-4",
+  "lines": [
+    {
+      "korean": "넌 내게 말하듯 눈을 맞춰 hold up",
+      "english": "You look at me like you're about to say something, hold up",
+      "words": [
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "noun"
+        },
+        {
+          "korean": "말하듯",
+          "english": "as if speaking",
+          "role": "verb"
+        },
+        {
+          "korean": "눈을 맞춰",
+          "english": "make eye contact",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-듯",
+        "meaning": "as if ~, like ~",
+        "note": "Attaches to verb stems to create a comparison, here '말하듯' means 'as if about to speak'"
+      }
+    },
+    {
+      "korean": "옷엔 낯선 향이 배어서",
+      "english": "Your clothes carry an unfamiliar scent",
+      "words": [
+        {
+          "korean": "옷엔",
+          "english": "on the clothes",
+          "role": "noun"
+        },
+        {
+          "korean": "낯선",
+          "english": "unfamiliar, strange",
+          "role": "adjective"
+        },
+        {
+          "korean": "향이",
+          "english": "scent, fragrance",
+          "role": "noun"
+        },
+        {
+          "korean": "배어서",
+          "english": "soaked in, permeated",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이젠 내 향이 다 빠졌어",
+      "english": "By now my own scent has completely faded from them",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now, by now",
+          "role": "adverb"
+        },
+        {
+          "korean": "내 향이",
+          "english": "my scent",
+          "role": "noun"
+        },
+        {
+          "korean": "다",
+          "english": "completely, all",
+          "role": "adverb"
+        },
+        {
+          "korean": "빠졌어",
+          "english": "has faded, has come out",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "난 너와 하는 스킨십이 익숙한 듯 네 몸과 자연스레 섞이지",
+      "english": "Being physical with you feels strangely natural, like it's second nature",
+      "words": [
+        {
+          "korean": "스킨십이",
+          "english": "physical contact, skinship",
+          "role": "noun"
+        },
+        {
+          "korean": "익숙한 듯",
+          "english": "as if familiar",
+          "role": "expression"
+        },
+        {
+          "korean": "자연스레",
+          "english": "naturally",
+          "role": "adverb"
+        },
+        {
+          "korean": "섞이지",
+          "english": "mixes, blends",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "한 꺼풀씩 벗겨진 너와 내 맘",
+      "english": "Layer by layer, your guard and mine come undone",
+      "words": [
+        {
+          "korean": "한 꺼풀씩",
+          "english": "one layer at a time",
+          "role": "expression"
+        },
+        {
+          "korean": "벗겨진",
+          "english": "peeled off, stripped away",
+          "role": "verb"
+        },
+        {
+          "korean": "너와 내",
+          "english": "your and my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "맘",
+          "english": "heart, feelings",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-씩",
+        "meaning": "each, at a time, incrementally",
+        "note": "Attached to counters to indicate doing something incrementally, here '한 꺼풀씩' means 'one layer at a time'"
+      }
+    },
+    {
+      "korean": "하나둘씩 사라지는 중",
+      "english": "One by one, disappearing",
+      "words": [
+        {
+          "korean": "하나둘씩",
+          "english": "one by one, one at a time",
+          "role": "adverb"
+        },
+        {
+          "korean": "사라지는",
+          "english": "disappearing",
+          "role": "verb"
+        },
+        {
+          "korean": "중",
+          "english": "in the middle of",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 중",
+        "meaning": "in the middle of doing ~, currently ~ing",
+        "note": "Indicates an ongoing action or process, here the disappearing is already underway"
+      }
+    },
+    {
+      "korean": "어제 일은 지웠어 쭉",
+      "english": "I erased what happened yesterday, completely",
+      "words": [
+        {
+          "korean": "어제 일은",
+          "english": "yesterday's events",
+          "role": "noun"
+        },
+        {
+          "korean": "지웠어",
+          "english": "erased, deleted",
+          "role": "verb"
+        },
+        {
+          "korean": "쭉",
+          "english": "completely, entirely",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "하나둘씩 희미해져 쭉",
+      "english": "One by one, fading away",
+      "words": [
+        {
+          "korean": "하나둘씩",
+          "english": "one by one",
+          "role": "adverb"
+        },
+        {
+          "korean": "희미해져",
+          "english": "becoming faint, fading",
+          "role": "verb"
+        },
+        {
+          "korean": "쭉",
+          "english": "completely, all the way",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "그때 가서 울고불고 자꾸 눈물 짤 거면",
+      "english": "If you're going to end up crying and making a scene later",
+      "words": [
+        {
+          "korean": "그때 가서",
+          "english": "when that time comes, later",
+          "role": "expression"
+        },
+        {
+          "korean": "울고불고",
+          "english": "crying and fussing",
+          "role": "verb"
+        },
+        {
+          "korean": "자꾸",
+          "english": "repeatedly, keep",
+          "role": "adverb"
+        },
+        {
+          "korean": "짤 거면",
+          "english": "if you're going to",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 거면",
+        "meaning": "if you're going to ~",
+        "note": "Conditional expression combining future intention with 'if', used to set up a consequence"
+      }
+    },
+    {
+      "korean": "이제 그만 꺼져줘 Please 기회 줄 테니까",
+      "english": "Just get lost now, please, I'm giving you the chance",
+      "words": [
+        {
+          "korean": "이제 그만",
+          "english": "now, stop",
+          "role": "expression"
+        },
+        {
+          "korean": "꺼져줘",
+          "english": "get lost, leave",
+          "role": "verb"
+        },
+        {
+          "korean": "기회 줄 테니까",
+          "english": "because I'll give you a chance",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 테니까",
+        "meaning": "because I will ~, since I'm going to ~",
+        "note": "Expresses the speaker's intention as a reason or explanation for what came before"
+      }
+    },
+    {
+      "korean": "하나 둘 셋 넷 다섯 시간 지나면 난 사라질 테니까",
+      "english": "One two three four five hours pass and then I'll be gone",
+      "words": [
+        {
+          "korean": "시간 지나면",
+          "english": "when time passes",
+          "role": "expression"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "사라질 테니까",
+          "english": "will disappear, will be gone",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이제 그만 잊어줘",
+      "english": "Just forget me already",
+      "words": [
+        {
+          "korean": "이제 그만",
+          "english": "now, already",
+          "role": "expression"
+        },
+        {
+          "korean": "잊어줘",
+          "english": "forget (for me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줘",
+        "meaning": "do ~ (for me), please ~",
+        "note": "Casual command/request form, here used bluntly rather than as a gentle plea"
+      }
+    },
+    {
+      "korean": "사랑이라 포장 말고 눈치 챙겨 버려줘",
+      "english": "Don't package this as love, read the room and drop it",
+      "words": [
+        {
+          "korean": "사랑이라 포장 말고",
+          "english": "don't package it as love",
+          "role": "expression"
+        },
+        {
+          "korean": "눈치 챙겨",
+          "english": "read the room, catch a clue",
+          "role": "expression"
+        },
+        {
+          "korean": "버려줘",
+          "english": "throw it away, drop it",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "시간이 다 지나면 우리는 몰라",
+      "english": "Once the time passes, we won't know each other anymore",
+      "words": [
+        {
+          "korean": "시간이 다 지나면",
+          "english": "when all the time passes",
+          "role": "expression"
+        },
+        {
+          "korean": "우리는",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "몰라",
+          "english": "don't know",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이 기울어진 밤 지나",
+      "english": "Past this tilted night",
+      "words": [
+        {
+          "korean": "이",
+          "english": "this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "기울어진",
+          "english": "tilted, leaning",
+          "role": "verb"
+        },
+        {
+          "korean": "밤",
+          "english": "night",
+          "role": "noun"
+        },
+        {
+          "korean": "지나",
+          "english": "past, after",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

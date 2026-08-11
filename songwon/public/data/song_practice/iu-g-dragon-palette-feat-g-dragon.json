@@ -1,0 +1,410 @@
+{
+  "songId": "iu-g-dragon-palette-feat-g-dragon",
+  "lines": [
+    {
+      "korean": "이상하게도 요즘엔 그냥 쉬운 게 좋아",
+      "english": "Strangely enough, these days I just like things that are easy",
+      "words": [
+        {
+          "korean": "이상하게도",
+          "english": "strangely enough",
+          "role": "adverb"
+        },
+        {
+          "korean": "요즘엔",
+          "english": "these days",
+          "role": "noun"
+        },
+        {
+          "korean": "쉬운 게",
+          "english": "things that are easy",
+          "role": "expression"
+        },
+        {
+          "korean": "좋아",
+          "english": "like",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ 게",
+        "meaning": "a thing that is ~",
+        "note": "쉬운 (easy) + 게 (thing) creates a noun phrase meaning 'easy things' or 'what is easy'"
+      }
+    },
+    {
+      "korean": "여전히 코린 음악은 좋더라",
+      "english": "I still like corny music though",
+      "words": [
+        {
+          "korean": "여전히",
+          "english": "still",
+          "role": "adverb"
+        },
+        {
+          "korean": "코린",
+          "english": "corny",
+          "role": "adjective"
+        },
+        {
+          "korean": "음악은",
+          "english": "music",
+          "role": "noun"
+        },
+        {
+          "korean": "좋더라",
+          "english": "was/is good (I noticed)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-더라",
+        "meaning": "I noticed/recall that ~",
+        "note": "Retrospective observation marker — IU is reflecting on something she's realized about herself, not stating a new fact"
+      }
+    },
+    {
+      "korean": "Hot pink보다 진한 보라색을 더 좋아해",
+      "english": "I like deep purple more than hot pink",
+      "words": [
+        {
+          "korean": "보다",
+          "english": "more than",
+          "role": "particle"
+        },
+        {
+          "korean": "진한",
+          "english": "deep/dark",
+          "role": "adjective"
+        },
+        {
+          "korean": "보라색을",
+          "english": "purple",
+          "role": "noun"
+        },
+        {
+          "korean": "더 좋아해",
+          "english": "like more",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "날 좋아하는 거 알아",
+      "english": "I know that I like myself",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me/myself",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아하는 거",
+          "english": "the fact that [I] like",
+          "role": "expression"
+        },
+        {
+          "korean": "알아",
+          "english": "know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 거",
+        "meaning": "the fact that ~",
+        "note": "Nominalizes the verb phrase 좋아하다 (to like) into 'the fact of liking' — 날 좋아하는 거 becomes the object of 알아"
+      }
+    },
+    {
+      "korean": "이제 조금 알 것 같아 날",
+      "english": "I think I'm starting to understand myself a little now",
+      "words": [
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "조금",
+          "english": "a little",
+          "role": "adverb"
+        },
+        {
+          "korean": "알 것 같아",
+          "english": "I think I know",
+          "role": "expression"
+        },
+        {
+          "korean": "날",
+          "english": "me/myself",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같아",
+        "meaning": "I think/feel like ~",
+        "note": "A tentative expression of opinion — not 'I definitely know' but 'I think I'm starting to know' — softens the claim about self-understanding"
+      }
+    },
+    {
+      "korean": "긴 머리보다 반듯이 자른 단발이 좋아",
+      "english": "I like a neatly cut bob more than long hair",
+      "words": [
+        {
+          "korean": "긴 머리보다",
+          "english": "more than long hair",
+          "role": "expression"
+        },
+        {
+          "korean": "반듯이 자른",
+          "english": "neatly cut",
+          "role": "verb"
+        },
+        {
+          "korean": "단발이",
+          "english": "bob/short hair",
+          "role": "noun"
+        },
+        {
+          "korean": "좋아",
+          "english": "like",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "하긴 그래도 좋은 날 부를 땐 참 예뻤더라",
+      "english": "Then again, when I sang 'Good Day' I really was pretty",
+      "words": [
+        {
+          "korean": "하긴 그래도",
+          "english": "then again/even so",
+          "role": "connector"
+        },
+        {
+          "korean": "부를 땐",
+          "english": "when I sang",
+          "role": "verb"
+        },
+        {
+          "korean": "참",
+          "english": "really/truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "예뻤더라",
+          "english": "was pretty (I recall)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 땐",
+        "meaning": "when ~",
+        "note": "Contraction of -(으)ㄹ 때는 — 부를 때는 (when singing) becomes 부를 땐 in casual speech"
+      }
+    },
+    {
+      "korean": "오 왜 그럴까 조금 촌스러운 걸 좋아해?",
+      "english": "Oh, why is it that I like things a little old-fashioned?",
+      "words": [
+        {
+          "korean": "왜 그럴까",
+          "english": "why is it that",
+          "role": "expression"
+        },
+        {
+          "korean": "조금",
+          "english": "a little",
+          "role": "adverb"
+        },
+        {
+          "korean": "촌스러운 걸",
+          "english": "old-fashioned things",
+          "role": "expression"
+        },
+        {
+          "korean": "좋아해",
+          "english": "like",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "날 미워하는 거 알아",
+      "english": "I know that people dislike me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "미워하는 거",
+          "english": "the fact that [they] dislike",
+          "role": "expression"
+        },
+        {
+          "korean": "알아",
+          "english": "know",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어려서 모든 게 어려워",
+      "english": "When you're young, everything is difficult",
+      "words": [
+        {
+          "korean": "어려서",
+          "english": "when/because young",
+          "role": "verb"
+        },
+        {
+          "korean": "모든 게",
+          "english": "everything",
+          "role": "noun"
+        },
+        {
+          "korean": "어려워",
+          "english": "is difficult",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서",
+        "meaning": "because/when ~",
+        "note": "어리다 (to be young) + -어서 — can mean both 'because [one is] young' and 'when [one is] young' depending on context"
+      }
+    },
+    {
+      "korean": "지은아 오빠는 말이야 지금 막 서른인데",
+      "english": "Ji-eun, listen, oppa just turned thirty",
+      "words": [
+        {
+          "korean": "지은아",
+          "english": "Ji-eun (vocative)",
+          "role": "noun"
+        },
+        {
+          "korean": "오빠는 말이야",
+          "english": "oppa is saying",
+          "role": "expression"
+        },
+        {
+          "korean": "지금 막",
+          "english": "just now",
+          "role": "adverb"
+        },
+        {
+          "korean": "서른인데",
+          "english": "is thirty (but)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는데",
+        "meaning": "but/although",
+        "note": "Sets up a contrast or provides background context — 'I'm thirty, but [something unexpected follows]'"
+      }
+    },
+    {
+      "korean": "너보다 다섯 살 밖에 안 먹었는데",
+      "english": "Even though I'm only five years older than you",
+      "words": [
+        {
+          "korean": "너보다",
+          "english": "than you",
+          "role": "expression"
+        },
+        {
+          "korean": "다섯 살",
+          "english": "five years",
+          "role": "noun"
+        },
+        {
+          "korean": "밖에 안 먹었는데",
+          "english": "only (literally: ate only)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-밖에 안",
+        "meaning": "only, no more than",
+        "note": "밖에 must always pair with a negative verb — 먹었다 (ate/am older) becomes 안 먹었다 with 밖에 to mean 'only ate' or here 'am only older by'"
+      }
+    },
+    {
+      "korean": "애도 어른도 아닌 나이 때 그저 나일 때",
+      "english": "At that age when you're neither a kid nor an adult, just being yourself",
+      "words": [
+        {
+          "korean": "애도 어른도 아닌",
+          "english": "neither a kid nor an adult",
+          "role": "expression"
+        },
+        {
+          "korean": "나이 때",
+          "english": "at that age",
+          "role": "noun"
+        },
+        {
+          "korean": "그저 나일 때",
+          "english": "when you're just yourself",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-도 -도 아닌",
+        "meaning": "neither ~ nor ~",
+        "note": "애도 (kid too) 어른도 (adult too) 아닌 (not) — creates 'neither A nor B' structure"
+      }
+    },
+    {
+      "korean": "가장 찬란하게 빛이 나",
+      "english": "You shine the most brilliantly",
+      "words": [
+        {
+          "korean": "가장",
+          "english": "the most",
+          "role": "adverb"
+        },
+        {
+          "korean": "찬란하게",
+          "english": "brilliantly",
+          "role": "adverb"
+        },
+        {
+          "korean": "빛이 나",
+          "english": "shine/glow",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어둠이 드리워질 때도 겁내지 마",
+      "english": "Even when darkness falls over you, don't be afraid",
+      "words": [
+        {
+          "korean": "어둠이",
+          "english": "darkness",
+          "role": "noun"
+        },
+        {
+          "korean": "드리워질 때도",
+          "english": "even when it falls/covers",
+          "role": "expression"
+        },
+        {
+          "korean": "겁내지 마",
+          "english": "don't be afraid",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 때도",
+        "meaning": "even when ~",
+        "note": "때 (time/when) + 도 (also/even) — 드리워질 때도 means 'even at the time when [darkness] falls'"
+      }
+    }
+  ]
+}

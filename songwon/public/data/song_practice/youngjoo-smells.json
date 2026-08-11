@@ -1,0 +1,350 @@
+{
+  "songId": "youngjoo-smells",
+  "lines": [
+    {
+      "korean": "다투고 아프던 그날에 넌",
+      "english": "On that day when we fought and it hurt, you",
+      "words": [
+        {
+          "korean": "다투고",
+          "english": "fought and",
+          "role": "verb"
+        },
+        {
+          "korean": "아프던",
+          "english": "was painful/hurt",
+          "role": "verb"
+        },
+        {
+          "korean": "그날에",
+          "english": "on that day",
+          "role": "noun"
+        },
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "past descriptive: was/used to (with a sense of recollection)",
+        "note": "아프던 describes 'that day' as one that was painful, looking back on a specific past moment"
+      }
+    },
+    {
+      "korean": "화장실에 들어가 소릴 냈지",
+      "english": "went into the bathroom and made a sound",
+      "words": [
+        {
+          "korean": "화장실에",
+          "english": "into the bathroom",
+          "role": "noun"
+        },
+        {
+          "korean": "들어가",
+          "english": "went in/entered",
+          "role": "verb"
+        },
+        {
+          "korean": "소릴 냈지",
+          "english": "made a sound",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "모든 것이 좋았었는데 넌",
+      "english": "Everything used to be good, but you",
+      "words": [
+        {
+          "korean": "모든 것이",
+          "english": "everything",
+          "role": "noun"
+        },
+        {
+          "korean": "좋았었는데",
+          "english": "used to be good, but",
+          "role": "verb"
+        },
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-았었는데",
+        "meaning": "used to be/was (in the past), but",
+        "note": "Combines past tense -았었- (emphasizing a state that no longer exists) with -는데 (contrasting background information)"
+      }
+    },
+    {
+      "korean": "그날은 왜 그렇게 싫었는지",
+      "english": "why did you hate that day so much",
+      "words": [
+        {
+          "korean": "그날은",
+          "english": "that day (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "그렇게",
+          "english": "so much/like that",
+          "role": "adverb"
+        },
+        {
+          "korean": "싫었는지",
+          "english": "hated/disliked",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "냄새는 난다",
+      "english": "Yes, there's a smell",
+      "words": [
+        {
+          "korean": "냄새는",
+          "english": "smell/odor (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "난다",
+          "english": "there is/it smells",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "니 잘못이 아니다",
+      "english": "it's not your fault",
+      "words": [
+        {
+          "korean": "니",
+          "english": "your (informal)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잘못이",
+          "english": "fault/mistake",
+          "role": "noun"
+        },
+        {
+          "korean": "아니다",
+          "english": "is not",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "곧 사라질 냄샌데",
+      "english": "it's a smell that will disappear soon",
+      "words": [
+        {
+          "korean": "곧",
+          "english": "soon",
+          "role": "adverb"
+        },
+        {
+          "korean": "사라질",
+          "english": "will disappear",
+          "role": "verb"
+        },
+        {
+          "korean": "냄샌데",
+          "english": "smell, but/though",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 냄샌데",
+        "meaning": "future modifier + contracted -는데 (but/though)",
+        "note": "사라질 modifies 냄새, and 냄샌데 is a contraction of 냄새인데, giving background information with a gentle tone"
+      }
+    },
+    {
+      "korean": "마음의 상처를 줘서 미안해",
+      "english": "I'm sorry for hurting your feelings",
+      "words": [
+        {
+          "korean": "마음의 상처를",
+          "english": "hurt/wound to the heart",
+          "role": "noun"
+        },
+        {
+          "korean": "줘서",
+          "english": "for giving",
+          "role": "verb"
+        },
+        {
+          "korean": "미안해",
+          "english": "I'm sorry",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서 미안해",
+        "meaning": "sorry for ~ing",
+        "note": "A direct, common apology structure: verb stem + -아/어서 + 미안해 to apologize for a specific action"
+      }
+    },
+    {
+      "korean": "그럴 수 있다",
+      "english": "It can happen",
+      "words": [
+        {
+          "korean": "그럴 수 있다",
+          "english": "it's possible/it can happen",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있다",
+        "meaning": "can/be able to",
+        "note": "그럴 is a contraction of 그러할 (to be like that), expressing that such a thing is possible or acceptable"
+      }
+    },
+    {
+      "korean": "그때는 몰랐었다",
+      "english": "back then I didn't know",
+      "words": [
+        {
+          "korean": "그때는",
+          "english": "back then/at that time",
+          "role": "noun"
+        },
+        {
+          "korean": "몰랐었다",
+          "english": "didn't know",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그게 맘대로 되지 않는단걸",
+      "english": "that it's not something you can control",
+      "words": [
+        {
+          "korean": "그게",
+          "english": "that (thing)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "맘대로",
+          "english": "as one wants/at will",
+          "role": "adverb"
+        },
+        {
+          "korean": "되지 않는단걸",
+          "english": "doesn't work/the fact that it can't be done",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-단걸",
+        "meaning": "the fact that ~",
+        "note": "Contraction of -다는 것을, used in casual speech to express 'the fact that' or to conclude a realization"
+      }
+    },
+    {
+      "korean": "지나고 나서야 알았다",
+      "english": "I only understood after it had already passed",
+      "words": [
+        {
+          "korean": "지나고 나서야",
+          "english": "only after it passed",
+          "role": "verb"
+        },
+        {
+          "korean": "알았다",
+          "english": "understood/knew",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 나서야",
+        "meaning": "only after ~ing",
+        "note": "The particle 야 emphasizes the delayed timing: the realization came only after the moment had passed"
+      }
+    },
+    {
+      "korean": "사랑이 뭐 다 똑같지",
+      "english": "Love is all kind of the same, isn't it",
+      "words": [
+        {
+          "korean": "사랑이",
+          "english": "love",
+          "role": "noun"
+        },
+        {
+          "korean": "뭐",
+          "english": "well/you know",
+          "role": "interjection"
+        },
+        {
+          "korean": "다",
+          "english": "all",
+          "role": "adverb"
+        },
+        {
+          "korean": "똑같지",
+          "english": "the same, right?",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "좋은거 싫은거 다함께 해야지",
+      "english": "you have to go through the good and the bad together",
+      "words": [
+        {
+          "korean": "좋은거",
+          "english": "good things",
+          "role": "noun"
+        },
+        {
+          "korean": "싫은거",
+          "english": "bad things",
+          "role": "noun"
+        },
+        {
+          "korean": "다함께",
+          "english": "all together",
+          "role": "adverb"
+        },
+        {
+          "korean": "해야지",
+          "english": "have to do/must do",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야지",
+        "meaning": "must/should/have to (with gentle assertion)",
+        "note": "Expresses obligation or necessity with a tone of natural conclusion or gentle insistence"
+      }
+    },
+    {
+      "korean": "고통은 사라져",
+      "english": "The pain disappears",
+      "words": [
+        {
+          "korean": "고통은",
+          "english": "pain/suffering",
+          "role": "noun"
+        },
+        {
+          "korean": "사라져",
+          "english": "disappears/vanishes",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "songId": "bewhy-ok-prod-by-gray",
+  "lines": [
+    {
+      "korean": "자유가 결여되어 사는 삶이",
+      "english": "A life lived without freedom",
+      "words": [
+        {
+          "korean": "자유가",
+          "english": "freedom (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "결여되어",
+          "english": "lacking/being deprived of",
+          "role": "verb"
+        },
+        {
+          "korean": "사는",
+          "english": "living",
+          "role": "verb"
+        },
+        {
+          "korean": "삶이",
+          "english": "life (subject)",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-어/아 사는",
+        "meaning": "living in a state of ~",
+        "note": "결여되어 (being lacking) modifies how one lives, describing the condition of the life being lived"
+      }
+    },
+    {
+      "korean": "나의 어제를 지워갔네",
+      "english": "It erased my yesterday",
+      "words": [
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어제를",
+          "english": "yesterday (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "지워갔네",
+          "english": "erased/wiped away",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 가다",
+        "meaning": "to go on doing ~, gradually ~",
+        "note": "지워갔네 shows the action of erasing happened progressively over time"
+      }
+    },
+    {
+      "korean": "행복한척해야 멋진 사람이 되는 건 어찌 보면 유행이 됐어",
+      "english": "Pretending to be happy to become a cool person has become trendy in a way",
+      "words": [
+        {
+          "korean": "행복한척해야",
+          "english": "have to pretend to be happy",
+          "role": "verb"
+        },
+        {
+          "korean": "멋진 사람이",
+          "english": "cool/admirable person",
+          "role": "noun"
+        },
+        {
+          "korean": "되는 건",
+          "english": "becoming (thing)",
+          "role": "verb"
+        },
+        {
+          "korean": "어찌 보면",
+          "english": "in a way/from a certain perspective",
+          "role": "expression"
+        },
+        {
+          "korean": "유행이 됐어",
+          "english": "became a trend",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-척하다",
+        "meaning": "to pretend to ~, to act like ~",
+        "note": "행복한척하다 means pretending to be happy when you're not, a key theme in this song about fakeness"
+      }
+    },
+    {
+      "korean": "밝은척하는 거짓 내가 나아",
+      "english": "The fake me that acts cheerful is better",
+      "words": [
+        {
+          "korean": "밝은척하는",
+          "english": "pretending to be bright/cheerful",
+          "role": "verb"
+        },
+        {
+          "korean": "거짓",
+          "english": "fake/false",
+          "role": "noun"
+        },
+        {
+          "korean": "내가",
+          "english": "me (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나아",
+          "english": "is better",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "심장의 외침을 난 들키고 싶지 않지",
+      "english": "I don't want my heart's cry to be heard",
+      "words": [
+        {
+          "korean": "심장의 외침을",
+          "english": "heart's cry/scream (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "난",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "들키고 싶지 않지",
+          "english": "don't want to be caught/heard",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기고 싶지 않다",
+        "meaning": "don't want to be ~ed (passive)",
+        "note": "들키다 is the passive form of 들다 (to hear), meaning to be caught/discovered, combined with the desire pattern"
+      }
+    },
+    {
+      "korean": "숨이 있다고 사는 걸까",
+      "english": "Does having breath mean you're living?",
+      "words": [
+        {
+          "korean": "숨이 있다고",
+          "english": "just because breath exists",
+          "role": "verb"
+        },
+        {
+          "korean": "사는 걸까",
+          "english": "are you living?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다고 ~는 걸까",
+        "meaning": "just because ~, does it mean...?",
+        "note": "Questions whether one condition automatically means another is true — rhetorical questioning pattern"
+      }
+    },
+    {
+      "korean": "다르게 보기보단 틀렸다고만 해",
+      "english": "Rather than seeing it as different, they just say it's wrong",
+      "words": [
+        {
+          "korean": "다르게",
+          "english": "differently/as different",
+          "role": "adverb"
+        },
+        {
+          "korean": "보기보단",
+          "english": "rather than seeing",
+          "role": "verb"
+        },
+        {
+          "korean": "틀렸다고만",
+          "english": "only as wrong/mistaken",
+          "role": "verb"
+        },
+        {
+          "korean": "해",
+          "english": "say/do",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기보단",
+        "meaning": "rather than ~ing",
+        "note": "Contraction of -기보다는, used to contrast two options — seeing as different vs. judging as wrong"
+      }
+    },
+    {
+      "korean": "내가 세상 안에 있어도 외로울 땐 세상은 내 옆에 없었지",
+      "english": "Even when I'm in the world, when I'm lonely the world isn't beside me",
+      "words": [
+        {
+          "korean": "세상 안에 있어도",
+          "english": "even though I'm in the world",
+          "role": "expression"
+        },
+        {
+          "korean": "외로울 땐",
+          "english": "when I'm lonely",
+          "role": "adjective"
+        },
+        {
+          "korean": "세상은",
+          "english": "the world (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "내 옆에 없었지",
+          "english": "wasn't beside me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을 땐",
+        "meaning": "when ~, at times when ~",
+        "note": "Contraction of -을 때는, marking a specific temporal condition — the times when loneliness hits"
+      }
+    },
+    {
+      "korean": "OK OK OK 괜찮다 말해줘 내게",
+      "english": "OK OK OK, tell me it's alright",
+      "words": [
+        {
+          "korean": "괜찮다",
+          "english": "it's okay/alright",
+          "role": "adjective"
+        },
+        {
+          "korean": "말해줘",
+          "english": "tell me/say to me",
+          "role": "verb"
+        },
+        {
+          "korean": "내게",
+          "english": "to me",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "안 괜찮아도 거짓말이라도",
+      "english": "Even if it's not okay, even if it's a lie",
+      "words": [
+        {
+          "korean": "안 괜찮아도",
+          "english": "even if it's not okay",
+          "role": "adjective"
+        },
+        {
+          "korean": "거짓말이라도",
+          "english": "even if it's a lie",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)라도",
+        "meaning": "even if it's ~, at least ~",
+        "note": "Shows willingness to accept something less than ideal — willing to accept lies just to hear comforting words"
+      }
+    },
+    {
+      "korean": "외롭단 느낌이 철창 같은 생각을 낳고",
+      "english": "The feeling of loneliness gives birth to prison-like thoughts",
+      "words": [
+        {
+          "korean": "외롭단 느낌이",
+          "english": "the feeling of being lonely",
+          "role": "noun"
+        },
+        {
+          "korean": "철창 같은",
+          "english": "prison bar-like",
+          "role": "adjective"
+        },
+        {
+          "korean": "생각을",
+          "english": "thoughts (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "낳고",
+          "english": "gives birth to/produces",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "툭 까놓고 말해 자유를 줘",
+      "english": "Let me speak bluntly — give me freedom",
+      "words": [
+        {
+          "korean": "툭 까놓고",
+          "english": "bluntly/frankly speaking",
+          "role": "expression"
+        },
+        {
+          "korean": "말해",
+          "english": "say/speak",
+          "role": "verb"
+        },
+        {
+          "korean": "자유를 줘",
+          "english": "give me freedom",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "날개를 자르고 하늘을 나는 법",
+      "english": "The way to fly in the sky after cutting off wings",
+      "words": [
+        {
+          "korean": "날개를",
+          "english": "wings (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "자르고",
+          "english": "cut off and",
+          "role": "verb"
+        },
+        {
+          "korean": "하늘을 나는",
+          "english": "flying in the sky",
+          "role": "verb"
+        },
+        {
+          "korean": "법",
+          "english": "way/method",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "많은 것을 가져도 다 가진 게 아니지",
+      "english": "Even if you have a lot, it doesn't mean you have everything",
+      "words": [
+        {
+          "korean": "많은 것을 가져도",
+          "english": "even if you have many things",
+          "role": "verb"
+        },
+        {
+          "korean": "다",
+          "english": "all/everything",
+          "role": "adverb"
+        },
+        {
+          "korean": "가진 게 아니지",
+          "english": "it's not that you possess",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 게 아니다",
+        "meaning": "it's not that ~, it doesn't mean ~",
+        "note": "Negates the assumption that one thing implies another — having много ≠ having everything"
+      }
+    },
+    {
+      "korean": "꺼내줘 꺼내줘 나를 부디 여기서",
+      "english": "Get me out, get me out, please from here",
+      "words": [
+        {
+          "korean": "꺼내줘",
+          "english": "take me out/rescue me",
+          "role": "verb"
+        },
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "부디",
+          "english": "please/I beg you",
+          "role": "adverb"
+        },
+        {
+          "korean": "여기서",
+          "english": "from here",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}

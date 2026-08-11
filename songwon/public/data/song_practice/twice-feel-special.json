@@ -1,0 +1,389 @@
+{
+  "songId": "twice-feel-special",
+  "lines": [
+    {
+      "korean": "갑자기 혼자인 것만 같은 날",
+      "english": "Days when I suddenly feel like I'm all alone",
+      "words": [
+        {
+          "korean": "갑자기",
+          "english": "suddenly",
+          "role": "adverb"
+        },
+        {
+          "korean": "혼자인",
+          "english": "being alone",
+          "role": "adjective"
+        },
+        {
+          "korean": "것만 같은",
+          "english": "feel just like",
+          "role": "expression"
+        },
+        {
+          "korean": "날",
+          "english": "days",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-것만 같다",
+        "meaning": "feels just like, seems as if",
+        "note": "Softens a strong feeling into a perception rather than stating it as fact, used here to describe an emotional state"
+      }
+    },
+    {
+      "korean": "어딜 가도 내 자리가 아닌 것만 같고",
+      "english": "Wherever I go, it feels like it's not my place",
+      "words": [
+        {
+          "korean": "어딜 가도",
+          "english": "wherever I go",
+          "role": "expression"
+        },
+        {
+          "korean": "내 자리가",
+          "english": "my place",
+          "role": "noun"
+        },
+        {
+          "korean": "아닌 것만 같고",
+          "english": "feels like it's not",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아도/어도",
+        "meaning": "even if, no matter",
+        "note": "Combined with 어디 to create 'wherever I go' — the -도 emphasizes 'no matter where'"
+      }
+    },
+    {
+      "korean": "고갠 떨궈지는 날",
+      "english": "Days when my head just drops",
+      "words": [
+        {
+          "korean": "고갠",
+          "english": "head (contracted)",
+          "role": "noun"
+        },
+        {
+          "korean": "떨궈지는",
+          "english": "drops, falls",
+          "role": "verb"
+        },
+        {
+          "korean": "날",
+          "english": "days",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "얼마나 내가 소중한지 말해주는 너의 그 한마디에",
+      "english": "With that one sentence of yours telling me how precious I am",
+      "words": [
+        {
+          "korean": "얼마나",
+          "english": "how much",
+          "role": "adverb"
+        },
+        {
+          "korean": "소중한지",
+          "english": "precious",
+          "role": "adjective"
+        },
+        {
+          "korean": "말해주는",
+          "english": "telling me",
+          "role": "verb"
+        },
+        {
+          "korean": "한마디에",
+          "english": "with one sentence",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는지",
+        "meaning": "how, whether (indirect question)",
+        "note": "Used after 얼마나 to express 'how precious' as an embedded question within the sentence"
+      }
+    },
+    {
+      "korean": "초라한 nobody에서 다시 somebody 특별한 나로 변해",
+      "english": "I change from a shabby nobody back into somebody, into a special me",
+      "words": [
+        {
+          "korean": "초라한",
+          "english": "shabby, pitiful",
+          "role": "adjective"
+        },
+        {
+          "korean": "다시",
+          "english": "again, back",
+          "role": "adverb"
+        },
+        {
+          "korean": "특별한",
+          "english": "special",
+          "role": "adjective"
+        },
+        {
+          "korean": "나로",
+          "english": "into me",
+          "role": "noun"
+        },
+        {
+          "korean": "변해",
+          "english": "change, transform",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "세상이 아무리 날 주저앉혀도",
+      "english": "No matter how much the world knocks me down",
+      "words": [
+        {
+          "korean": "세상이",
+          "english": "the world",
+          "role": "noun"
+        },
+        {
+          "korean": "아무리",
+          "english": "no matter how much",
+          "role": "adverb"
+        },
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "주저앉혀도",
+          "english": "even if it knocks down",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "아무리 -아도/어도",
+        "meaning": "no matter how much ~",
+        "note": "Sets up a contrast that the second half of the sentence overturns — despite the world knocking you down, something else makes it okay"
+      }
+    },
+    {
+      "korean": "아프고 아픈 말들이 날 찔러도",
+      "english": "Even if painful words keep stabbing me",
+      "words": [
+        {
+          "korean": "아프고 아픈",
+          "english": "painful and painful",
+          "role": "adjective"
+        },
+        {
+          "korean": "말들이",
+          "english": "words",
+          "role": "noun"
+        },
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "찔러도",
+          "english": "even if they stab",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "네가 있어 난 다시 웃어",
+      "english": "Because you're here, I smile again",
+      "words": [
+        {
+          "korean": "네가",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "있어",
+          "english": "are here, exist",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I (contracted)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃어",
+          "english": "smile",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아무것도 아닌 존재 같다가도",
+      "english": "Even when I feel like I'm nothing at all",
+      "words": [
+        {
+          "korean": "아무것도 아닌",
+          "english": "nothing at all",
+          "role": "expression"
+        },
+        {
+          "korean": "존재",
+          "english": "existence, being",
+          "role": "noun"
+        },
+        {
+          "korean": "같다가도",
+          "english": "even when it seems like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다가도",
+        "meaning": "even when/while ~ing, despite ~ing",
+        "note": "Shows a state that exists despite being interrupted or contrasted by something else"
+      }
+    },
+    {
+      "korean": "사라져도 모를 사람 같다가도",
+      "english": "Even when I feel like someone who could disappear and no one would notice",
+      "words": [
+        {
+          "korean": "사라져도",
+          "english": "even if I disappear",
+          "role": "verb"
+        },
+        {
+          "korean": "모를",
+          "english": "wouldn't know",
+          "role": "verb"
+        },
+        {
+          "korean": "사람",
+          "english": "person",
+          "role": "noun"
+        },
+        {
+          "korean": "같다가도",
+          "english": "even when it seems like",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "날 부르는 네 목소리에",
+      "english": "At the sound of your voice calling my name",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "부르는",
+          "english": "calling",
+          "role": "verb"
+        },
+        {
+          "korean": "네",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "목소리에",
+          "english": "at the voice",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "자꾸 숨고만 싶어서",
+      "english": "Because I just keep wanting to hide",
+      "words": [
+        {
+          "korean": "자꾸",
+          "english": "keep, repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "숨고만",
+          "english": "only hide",
+          "role": "verb"
+        },
+        {
+          "korean": "싶어서",
+          "english": "because I want to",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "모든 게 의미를 잃은 듯이",
+      "english": "As if everything has lost meaning",
+      "words": [
+        {
+          "korean": "모든 게",
+          "english": "everything",
+          "role": "pronoun"
+        },
+        {
+          "korean": "의미를",
+          "english": "meaning",
+          "role": "noun"
+        },
+        {
+          "korean": "잃은",
+          "english": "lost",
+          "role": "verb"
+        },
+        {
+          "korean": "듯이",
+          "english": "as if",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-듯이",
+        "meaning": "as if, like",
+        "note": "Used to describe doing something in a manner that resembles something else, here creating a simile for an emotional state"
+      }
+    },
+    {
+      "korean": "구름이 쫙 낀 햇살 한 줌 없는 날",
+      "english": "On a day thick with clouds, without a single ray of sunlight",
+      "words": [
+        {
+          "korean": "구름이 쫙 낀",
+          "english": "thick with clouds",
+          "role": "expression"
+        },
+        {
+          "korean": "햇살",
+          "english": "sunlight, sunshine",
+          "role": "noun"
+        },
+        {
+          "korean": "한 줌",
+          "english": "a single handful",
+          "role": "expression"
+        },
+        {
+          "korean": "없는 날",
+          "english": "day without",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}

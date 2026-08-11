@@ -1,0 +1,442 @@
+{
+  "songId": "dreamcatcher-deja-vu",
+  "lines": [
+    {
+      "korean": "빛을 잃은 너의 두 눈동자여",
+      "english": "Your two eyes that have lost their light",
+      "words": [
+        {
+          "korean": "빛을",
+          "english": "light (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "잃은",
+          "english": "lost/that lost",
+          "role": "verb"
+        },
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "눈동자여",
+          "english": "pupils/eyes (O, poetic address)",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ",
+        "meaning": "past tense modifier turning verb into adjective",
+        "note": "잃은 modifies 눈동자 — 'eyes that lost' rather than just 'lost eyes', creating a descriptive clause"
+      }
+    },
+    {
+      "korean": "지난 모든 기억들을 지워 줘",
+      "english": "Erase all the memories that have passed",
+      "words": [
+        {
+          "korean": "지난",
+          "english": "past/that passed",
+          "role": "verb"
+        },
+        {
+          "korean": "모든 기억들을",
+          "english": "all the memories (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "지워 줘",
+          "english": "erase (for me)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "do something for someone",
+        "note": "지워 줘 adds a sense of pleading — not just 'erase' but 'please erase for me', making it more personal"
+      }
+    },
+    {
+      "korean": "짙어진 안개 사이로",
+      "english": "Through the thickening fog",
+      "words": [
+        {
+          "korean": "짙어진",
+          "english": "thickened/that became thick",
+          "role": "adjective"
+        },
+        {
+          "korean": "안개",
+          "english": "fog",
+          "role": "noun"
+        },
+        {
+          "korean": "사이로",
+          "english": "through/between",
+          "role": "particle"
+        }
+      ]
+    },
+    {
+      "korean": "시린 흔적만을 남긴 채",
+      "english": "Having left behind only cold traces",
+      "words": [
+        {
+          "korean": "시린",
+          "english": "cold/stinging",
+          "role": "adjective"
+        },
+        {
+          "korean": "흔적만을",
+          "english": "only traces (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "남긴 채",
+          "english": "in a state of having left",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "in the state of having done ~",
+        "note": "남긴 채 shows an ongoing state resulting from a past action — still in the condition of having left those traces behind"
+      }
+    },
+    {
+      "korean": "기억 끝을 잡아 봐도 끝내 오래 더 오래",
+      "english": "Even if I try to grasp the end of the memory, in the end, for so long, even longer",
+      "words": [
+        {
+          "korean": "기억 끝을",
+          "english": "the end of the memory (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "잡아 봐도",
+          "english": "even if I try to grasp",
+          "role": "verb"
+        },
+        {
+          "korean": "끝내",
+          "english": "in the end/finally",
+          "role": "adverb"
+        },
+        {
+          "korean": "오래",
+          "english": "for a long time",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 봐도",
+        "meaning": "even if one tries to ~",
+        "note": "잡아 봐도 combines the exploratory -아/어 보다 (try doing) with concessive -아/어도 (even if) — emphasizing futile effort"
+      }
+    },
+    {
+      "korean": "깊은 침묵에 잠들어",
+      "english": "Falling asleep in deep silence",
+      "words": [
+        {
+          "korean": "깊은",
+          "english": "deep",
+          "role": "adjective"
+        },
+        {
+          "korean": "침묵에",
+          "english": "in silence",
+          "role": "noun"
+        },
+        {
+          "korean": "잠들어",
+          "english": "fall asleep",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "모든 걸 버린 그날처럼",
+      "english": "Just like the day I threw everything away",
+      "words": [
+        {
+          "korean": "모든 걸",
+          "english": "everything (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "버린",
+          "english": "threw away/abandoned",
+          "role": "verb"
+        },
+        {
+          "korean": "그날",
+          "english": "that day",
+          "role": "noun"
+        },
+        {
+          "korean": "처럼",
+          "english": "like/as",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like/as/similar to",
+        "note": "그날처럼 draws a comparison to a specific past moment, making the present pain echo that earlier loss"
+      }
+    },
+    {
+      "korean": "매일 더 괴로워져",
+      "english": "Every day it becomes more painful",
+      "words": [
+        {
+          "korean": "매일",
+          "english": "every day",
+          "role": "noun"
+        },
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "괴로워져",
+          "english": "becomes painful",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지다",
+        "meaning": "to become ~",
+        "note": "괴로워지다 shows a progressive change of state — not just 'is painful' but 'is becoming more painful' over time"
+      }
+    },
+    {
+      "korean": "끝없이 눈앞에",
+      "english": "Endlessly before my eyes",
+      "words": [
+        {
+          "korean": "끝없이",
+          "english": "endlessly/without end",
+          "role": "adverb"
+        },
+        {
+          "korean": "눈앞에",
+          "english": "before the eyes/in front",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "난 이 숨결이 허락되는 날까지",
+      "english": "Until the day this breath is permitted to me",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이 숨결이",
+          "english": "this breath (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "허락되는",
+          "english": "is permitted",
+          "role": "verb"
+        },
+        {
+          "korean": "날까지",
+          "english": "until the day",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 날까지",
+        "meaning": "until the day that ~",
+        "note": "허락되는 날까지 frames life itself as conditional and temporary — 'as long as I'm still allowed to breathe'"
+      }
+    },
+    {
+      "korean": "다신 너를 놓을 수 없어",
+      "english": "I can never let you go again",
+      "words": [
+        {
+          "korean": "다신",
+          "english": "again/ever again",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "놓을 수 없어",
+          "english": "cannot let go",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 없다",
+        "meaning": "cannot do ~",
+        "note": "놓을 수 없어 expresses absolute inability — not 'I won't' but 'I can't', showing lack of control"
+      }
+    },
+    {
+      "korean": "우린 모든 순간 함께 할 테니",
+      "english": "Because we'll be together through every moment",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "모든 순간",
+          "english": "every moment",
+          "role": "noun"
+        },
+        {
+          "korean": "함께 할 테니",
+          "english": "will be together (because)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 테니",
+        "meaning": "because (I/we) will ~",
+        "note": "할 테니 expresses strong intention and provides reason — 'we will be together, so (don't leave)'"
+      }
+    },
+    {
+      "korean": "내 곁에서 더 멀어지지 마",
+      "english": "Don't drift any further from my side",
+      "words": [
+        {
+          "korean": "내 곁에서",
+          "english": "from my side",
+          "role": "noun"
+        },
+        {
+          "korean": "더",
+          "english": "more/further",
+          "role": "adverb"
+        },
+        {
+          "korean": "멀어지지 마",
+          "english": "don't become distant",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't do ~",
+        "note": "멀어지지 마 is a negative command — directly telling someone not to distance themselves"
+      }
+    },
+    {
+      "korean": "이 순간이 전부 거짓이길",
+      "english": "I hope this moment is all a lie",
+      "words": [
+        {
+          "korean": "이 순간이",
+          "english": "this moment (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "전부",
+          "english": "entirely/all",
+          "role": "adverb"
+        },
+        {
+          "korean": "거짓이길",
+          "english": "to be a lie (hoping)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-이길/-기를",
+        "meaning": "hoping that ~ / wishing that ~",
+        "note": "거짓이길 expresses a wish or hope that something is the case — not stating fact but expressing desperate hope"
+      }
+    },
+    {
+      "korean": "잠시 스쳐가는 착각이길",
+      "english": "I hope it's just a fleeting illusion",
+      "words": [
+        {
+          "korean": "잠시",
+          "english": "briefly/for a moment",
+          "role": "adverb"
+        },
+        {
+          "korean": "스쳐가는",
+          "english": "passing by/fleeting",
+          "role": "verb"
+        },
+        {
+          "korean": "착각이길",
+          "english": "to be an illusion (hoping)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "어둠 속 한 줄기 빛처럼",
+      "english": "Like a single ray of light in the darkness",
+      "words": [
+        {
+          "korean": "어둠 속",
+          "english": "in the darkness",
+          "role": "noun"
+        },
+        {
+          "korean": "한 줄기",
+          "english": "a single ray/strand",
+          "role": "noun"
+        },
+        {
+          "korean": "빛처럼",
+          "english": "like light",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like/as",
+        "note": "This is the pivotal simile marking salvation — the hand reaching through darkness is compared to light, shifting the song's tone from despair to hope"
+      }
+    },
+    {
+      "korean": "손잡아 준 너를 따라가",
+      "english": "I follow you, who took my hand",
+      "words": [
+        {
+          "korean": "손잡아 준",
+          "english": "who took my hand (for me)",
+          "role": "verb"
+        },
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "따라가",
+          "english": "follow",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 주다",
+        "meaning": "do something for someone",
+        "note": "손잡아 준 emphasizes the act of kindness — not just 'took my hand' but 'reached out and took my hand for me'"
+      }
+    }
+  ]
+}

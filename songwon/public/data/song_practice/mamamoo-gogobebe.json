@@ -1,0 +1,335 @@
+{
+  "songId": "mamamoo-gogobebe",
+  "lines": [
+    {
+      "korean": "폰은 저리 치워 끼는 좀 더 부려",
+      "english": "Put your phone away and show off a little more",
+      "words": [
+        {
+          "korean": "폰은",
+          "english": "phone (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "저리 치워",
+          "english": "put away / move aside",
+          "role": "verb"
+        },
+        {
+          "korean": "끼는",
+          "english": "charm / flair",
+          "role": "noun"
+        },
+        {
+          "korean": "좀 더",
+          "english": "a bit more",
+          "role": "adverb"
+        },
+        {
+          "korean": "부려",
+          "english": "show off / display",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "골치 아픈 건 던져",
+      "english": "Throw away the headaches",
+      "words": [
+        {
+          "korean": "골치 아픈",
+          "english": "headache-causing / annoying",
+          "role": "adjective"
+        },
+        {
+          "korean": "건",
+          "english": "thing (것은)",
+          "role": "noun"
+        },
+        {
+          "korean": "던져",
+          "english": "throw away",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "여기서 한 잔에 상처를 다 마셔",
+      "english": "Drink away all your hurt in one glass here",
+      "words": [
+        {
+          "korean": "여기서",
+          "english": "here / in this place",
+          "role": "noun"
+        },
+        {
+          "korean": "한 잔에",
+          "english": "in one glass",
+          "role": "noun"
+        },
+        {
+          "korean": "상처를",
+          "english": "hurt / wounds",
+          "role": "noun"
+        },
+        {
+          "korean": "다",
+          "english": "all / completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "마셔",
+          "english": "drink",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "착한 척은 그만둬",
+      "english": "Stop pretending to be good",
+      "words": [
+        {
+          "korean": "착한",
+          "english": "good / well-behaved",
+          "role": "adjective"
+        },
+        {
+          "korean": "척은",
+          "english": "pretending / acting like",
+          "role": "noun"
+        },
+        {
+          "korean": "그만둬",
+          "english": "stop / quit",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 척",
+        "meaning": "pretending to be ~",
+        "note": "착한 척 means 'pretending to be good' — the pattern creates a noun phrase that can take particles like 은"
+      }
+    },
+    {
+      "korean": "리듬에 몸을 맡겨",
+      "english": "Let your body go with the rhythm",
+      "words": [
+        {
+          "korean": "리듬에",
+          "english": "to the rhythm",
+          "role": "noun"
+        },
+        {
+          "korean": "몸을",
+          "english": "body",
+          "role": "noun"
+        },
+        {
+          "korean": "맡겨",
+          "english": "entrust / let go",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "뻔뻔하게 놀아",
+      "english": "Play shamelessly",
+      "words": [
+        {
+          "korean": "뻔뻔하게",
+          "english": "shamelessly / brazenly",
+          "role": "adverb"
+        },
+        {
+          "korean": "놀아",
+          "english": "play / have fun",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "하루 아침에 내가 변한 건 아냐",
+      "english": "It's not like I changed overnight",
+      "words": [
+        {
+          "korean": "하루 아침에",
+          "english": "overnight / in one morning",
+          "role": "expression"
+        },
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "변한 건",
+          "english": "the thing that changed",
+          "role": "verb"
+        },
+        {
+          "korean": "아냐",
+          "english": "is not",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ/는 건 아니다",
+        "meaning": "it's not that ~",
+        "note": "Used to deny or soften a statement — 변한 건 아냐 = 'it's not the case that I changed'"
+      }
+    },
+    {
+      "korean": "별거 아닌 거에 의미 갖지 마",
+      "english": "Don't read meaning into something that's nothing",
+      "words": [
+        {
+          "korean": "별거 아닌 거",
+          "english": "something that's nothing special",
+          "role": "noun"
+        },
+        {
+          "korean": "에",
+          "english": "in / into",
+          "role": "particle"
+        },
+        {
+          "korean": "의미",
+          "english": "meaning",
+          "role": "noun"
+        },
+        {
+          "korean": "갖지 마",
+          "english": "don't have / don't attach",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't do ~",
+        "note": "Negative imperative used to tell someone not to do something — 갖지 마 = 'don't have/hold'"
+      }
+    },
+    {
+      "korean": "괜찮지 않아도 괜찮아",
+      "english": "It's okay to not be okay",
+      "words": [
+        {
+          "korean": "괜찮지 않아도",
+          "english": "even if you're not okay",
+          "role": "expression"
+        },
+        {
+          "korean": "괜찮아",
+          "english": "it's okay",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도",
+        "meaning": "even if ~",
+        "note": "Used to show that something is acceptable despite a condition — 괜찮지 않아도 괜찮아 doubles the pattern for emphasis"
+      }
+    },
+    {
+      "korean": "뻔뻔하게 즐겨",
+      "english": "Enjoy it shamelessly",
+      "words": [
+        {
+          "korean": "뻔뻔하게",
+          "english": "shamelessly / brazenly",
+          "role": "adverb"
+        },
+        {
+          "korean": "즐겨",
+          "english": "enjoy",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "던져 버려 suit and tie",
+      "english": "Throw away the suit and tie",
+      "words": [
+        {
+          "korean": "던져 버려",
+          "english": "throw away completely",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "do ~ completely / get it over with",
+        "note": "Adds finality or emphasis — 던져 버려 suggests throwing away completely, not just setting aside"
+      }
+    },
+    {
+      "korean": "너와 나의 mix and match",
+      "english": "Your and my mix and match",
+      "words": [
+        {
+          "korean": "너와",
+          "english": "you and",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "빼지 말고 drunk, drunk",
+      "english": "Don't hold back, drunk drunk",
+      "words": [
+        {
+          "korean": "빼지 말고",
+          "english": "don't hold back / don't leave out",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말고",
+        "meaning": "don't do X (and do Y instead)",
+        "note": "Negative imperative that often implies a contrasting action — 빼지 말고 = 'don't hold back [and go for it]'"
+      }
+    },
+    {
+      "korean": "미친 듯이 즐겨",
+      "english": "Enjoy like crazy",
+      "words": [
+        {
+          "korean": "미친 듯이",
+          "english": "like crazy / as if mad",
+          "role": "adverb"
+        },
+        {
+          "korean": "즐겨",
+          "english": "enjoy",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯이",
+        "meaning": "as if ~ / like ~",
+        "note": "Creates an adverb meaning 'as if' — 미친 듯이 = 'as if crazy/mad'"
+      }
+    },
+    {
+      "korean": "필요 없어 wrong and right",
+      "english": "No need for wrong and right",
+      "words": [
+        {
+          "korean": "필요",
+          "english": "need / necessity",
+          "role": "noun"
+        },
+        {
+          "korean": "없어",
+          "english": "there isn't / don't have",
+          "role": "adjective"
+        }
+      ]
+    }
+  ]
+}

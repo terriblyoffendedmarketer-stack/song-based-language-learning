@@ -1,0 +1,435 @@
+{
+  "songId": "suga-dwechita",
+  "lines": [
+    {
+      "korean": "대취타 대취타 자 울려라 대취타",
+      "english": "Daechwita, daechwita, now let it ring, daechwita",
+      "words": [
+        {
+          "korean": "대취타",
+          "english": "daechwita (royal processional music)",
+          "role": "noun"
+        },
+        {
+          "korean": "자",
+          "english": "now, come on",
+          "role": "interjection"
+        },
+        {
+          "korean": "울려라",
+          "english": "let it ring, sound it",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)려라",
+        "meaning": "command form: 'let it ~', 'make it ~'",
+        "note": "울려라 uses the commanding form to order the music to sound — strong, authoritative tone"
+      }
+    },
+    {
+      "korean": "빛이나 빛이나 내 왕관이 빛이나",
+      "english": "It shines, it shines, my crown shines",
+      "words": [
+        {
+          "korean": "빛이나",
+          "english": "it shines, it's brilliant",
+          "role": "verb"
+        },
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "왕관이",
+          "english": "crown (subject)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "잊지마 잊지마 지난 날을 잊지마",
+      "english": "Don't forget, don't forget, don't forget the past",
+      "words": [
+        {
+          "korean": "잊지마",
+          "english": "don't forget",
+          "role": "verb"
+        },
+        {
+          "korean": "지난 날을",
+          "english": "the past days, bygone days (object)",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't ~, negative command",
+        "note": "잊지마 is the informal command telling someone not to forget — common in direct speech and lyrics"
+      }
+    },
+    {
+      "korean": "종놈 출신에 왕된 놈",
+      "english": "Born a servant, became a king",
+      "words": [
+        {
+          "korean": "종놈",
+          "english": "servant, slave (derogatory)",
+          "role": "noun"
+        },
+        {
+          "korean": "출신에",
+          "english": "from the origin of, by birth",
+          "role": "noun"
+        },
+        {
+          "korean": "왕된",
+          "english": "became king",
+          "role": "verb"
+        },
+        {
+          "korean": "놈",
+          "english": "guy, person (rough/blunt)",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ/된 + noun",
+        "meaning": "one who became ~",
+        "note": "왕된 놈 = 'a guy who became king' — using 된 (became) + 놈 (blunt word for 'person') creates a rough, proud self-description"
+      }
+    },
+    {
+      "korean": "개천 출신에 용된 몸",
+      "english": "Born from a stream, became a dragon",
+      "words": [
+        {
+          "korean": "개천",
+          "english": "stream, small waterway",
+          "role": "noun"
+        },
+        {
+          "korean": "출신에",
+          "english": "from the origin of",
+          "role": "noun"
+        },
+        {
+          "korean": "용된",
+          "english": "became a dragon",
+          "role": "verb"
+        },
+        {
+          "korean": "몸",
+          "english": "body, self",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "개천에서 용 난다 (idiom reference)",
+        "meaning": "'a dragon rises from a stream' — rags to riches",
+        "note": "Suga adapts the famous idiom 개천에서 용 난다 into 개천 출신에 용된 몸 to describe his own rise from poverty"
+      }
+    },
+    {
+      "korean": "그게 내가 곧 사는 법",
+      "english": "That's simply how I live",
+      "words": [
+        {
+          "korean": "그게",
+          "english": "that's",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "곧",
+          "english": "exactly, simply",
+          "role": "adverb"
+        },
+        {
+          "korean": "사는 법",
+          "english": "the way of living, how to live",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "미안 걱정은 말라고",
+      "english": "Sorry, but don't worry",
+      "words": [
+        {
+          "korean": "미안",
+          "english": "sorry",
+          "role": "interjection"
+        },
+        {
+          "korean": "걱정은",
+          "english": "worry, concern (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "말라고",
+          "english": "I'm telling you not to",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)라고",
+        "meaning": "indirect command: 'I'm telling you to ~'",
+        "note": "말라고 = 'don't do it' + '고' (quotation) — 'I'm telling you not to worry'"
+      }
+    },
+    {
+      "korean": "나도 잃을건 많다고",
+      "english": "I've got plenty to lose too",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "I too, even I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잃을건",
+          "english": "things to lose",
+          "role": "verb"
+        },
+        {
+          "korean": "많다고",
+          "english": "there are many (I'm saying)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것",
+        "meaning": "thing(s) that will/can ~",
+        "note": "잃을건 is short for 잃을 것은 — 'the things [I] will lose' — ㄹ modifies 것 to create a noun phrase"
+      }
+    },
+    {
+      "korean": "과건 뒤주에 가두고",
+      "english": "Lock the past in a rice chest",
+      "words": [
+        {
+          "korean": "과건",
+          "english": "the past",
+          "role": "noun"
+        },
+        {
+          "korean": "뒤주에",
+          "english": "in a rice chest",
+          "role": "noun"
+        },
+        {
+          "korean": "가두고",
+          "english": "lock up and",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "historical allusion (뒤주)",
+        "meaning": "reference to Crown Prince Sado's execution",
+        "note": "뒤주 (rice chest) references the Joseon-era tragedy where Prince Sado was locked in a chest to die — here it means 'bury painfully'"
+      }
+    },
+    {
+      "korean": "범으로 태어났지 적어도 너처럼 약하진 않지",
+      "english": "I was born a tiger — at least I'm not weak like you",
+      "words": [
+        {
+          "korean": "범으로",
+          "english": "as a tiger",
+          "role": "noun"
+        },
+        {
+          "korean": "태어났지",
+          "english": "was born",
+          "role": "verb"
+        },
+        {
+          "korean": "적어도",
+          "english": "at least",
+          "role": "adverb"
+        },
+        {
+          "korean": "너처럼",
+          "english": "like you",
+          "role": "expression"
+        },
+        {
+          "korean": "약하진 않지",
+          "english": "not weak",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지",
+        "meaning": "statement ending: casual assertion or agreement",
+        "note": "태어났지 and 않지 end statements with -지, giving a tone of 'you know it' or 'obviously' — confident, conversational"
+      }
+    },
+    {
+      "korean": "한탕해먹고 곧바로 난 전세기로 날아",
+      "english": "Made a fortune and flew straight off on a private jet",
+      "words": [
+        {
+          "korean": "한탕해먹고",
+          "english": "made a big score and",
+          "role": "verb"
+        },
+        {
+          "korean": "곧바로",
+          "english": "right away, straight",
+          "role": "adverb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "전세기로",
+          "english": "by private jet",
+          "role": "noun"
+        },
+        {
+          "korean": "날아",
+          "english": "fly",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "나를 담기엔 이 나란 아직 여전히 작아",
+      "english": "This country is still too small to contain me",
+      "words": [
+        {
+          "korean": "나를",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "담기엔",
+          "english": "to hold, to contain",
+          "role": "verb"
+        },
+        {
+          "korean": "이 나란",
+          "english": "this country (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "아직 여전히",
+          "english": "still, yet",
+          "role": "adverb"
+        },
+        {
+          "korean": "작아",
+          "english": "small, too small",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기엔",
+        "meaning": "in order to ~, for the purpose of ~ing",
+        "note": "담기엔 is short for 담기에는 — 'for the purpose of containing [me]' — emphasizes insufficiency"
+      }
+    },
+    {
+      "korean": "누가 시간은 금이래 내 시간은 더 비싼데",
+      "english": "Who says time is gold? My time is worth way more",
+      "words": [
+        {
+          "korean": "누가",
+          "english": "who",
+          "role": "pronoun"
+        },
+        {
+          "korean": "시간은 금이래",
+          "english": "they say time is gold",
+          "role": "expression"
+        },
+        {
+          "korean": "내 시간은",
+          "english": "my time (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "더 비싼데",
+          "english": "is more expensive, costs more",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(이)래",
+        "meaning": "they say ~, I heard that ~",
+        "note": "금이래 is informal reported speech — 'they say [time] is gold' — used here to dismiss a common saying"
+      }
+    },
+    {
+      "korean": "원하는 건 모두 가졌지 이제는 뭘 더 가져야만 만족이 될지",
+      "english": "I've got everything I wanted — now what more do I need to be satisfied?",
+      "words": [
+        {
+          "korean": "원하는 건",
+          "english": "the things I want",
+          "role": "verb"
+        },
+        {
+          "korean": "모두 가졌지",
+          "english": "I've got them all",
+          "role": "verb"
+        },
+        {
+          "korean": "이제는",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "뭘 더",
+          "english": "what more",
+          "role": "pronoun"
+        },
+        {
+          "korean": "가져야만",
+          "english": "must have, need to have",
+          "role": "verb"
+        },
+        {
+          "korean": "만족이 될지",
+          "english": "will I be satisfied",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야만",
+        "meaning": "must ~, only if ~",
+        "note": "가져야만 emphasizes necessity — 'only if I have' or 'I absolutely must have' — stronger than just -아야"
+      }
+    },
+    {
+      "korean": "I'm a king, I'm a boss 새겨놓아 내 이름",
+      "english": "I'm a king, I'm a boss — engrave my name",
+      "words": [
+        {
+          "korean": "새겨놓아",
+          "english": "engrave it, carve it",
+          "role": "verb"
+        },
+        {
+          "korean": "내 이름",
+          "english": "my name",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 놓다",
+        "meaning": "do something and leave it done (for later effect)",
+        "note": "새겨놓아 = 'engrave and leave it there' — implies permanence, not just a temporary action"
+      }
+    }
+  ]
+}

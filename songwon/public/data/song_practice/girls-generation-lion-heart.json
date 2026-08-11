@@ -1,0 +1,350 @@
+{
+  "songId": "girls-generation-lion-heart",
+  "lines": [
+    {
+      "korean": "너와 처음 만났을 때",
+      "english": "When I first met you",
+      "words": [
+        {
+          "korean": "너와",
+          "english": "with you",
+          "role": "noun"
+        },
+        {
+          "korean": "처음",
+          "english": "first time",
+          "role": "noun"
+        },
+        {
+          "korean": "만났을 때",
+          "english": "when (I) met",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 때",
+        "meaning": "when/at the time of",
+        "note": "Used with past tense 만났을 to mean 'when I met' — a common way to describe timing of past events"
+      }
+    },
+    {
+      "korean": "마치 사자처럼 맴돌아",
+      "english": "You circled around like a lion",
+      "words": [
+        {
+          "korean": "마치",
+          "english": "just like/as if",
+          "role": "adverb"
+        },
+        {
+          "korean": "사자처럼",
+          "english": "like a lion",
+          "role": "expression"
+        },
+        {
+          "korean": "맴돌아",
+          "english": "circle around",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "처럼",
+        "meaning": "like/as",
+        "note": "Attached to 사자 (lion) to create a simile — behaving like a lion"
+      }
+    },
+    {
+      "korean": "기회를 노려",
+      "english": "Watching for a chance",
+      "words": [
+        {
+          "korean": "기회를",
+          "english": "opportunity/chance",
+          "role": "noun"
+        },
+        {
+          "korean": "노려",
+          "english": "watch for/aim at",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "난 애가 타고 또 타",
+      "english": "I keep burning with anxiety",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "애가 타고",
+          "english": "burning with anxiety",
+          "role": "expression"
+        },
+        {
+          "korean": "또 타",
+          "english": "and burn again",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "애가 타다",
+        "meaning": "to be anxious/frustrated (lit. one's insides burn)",
+        "note": "An idiomatic expression for feeling impatient or worried — repeated 타고 또 타 emphasizes the ongoing anxiety"
+      }
+    },
+    {
+      "korean": "한 눈 파는 너",
+      "english": "You whose eyes wander elsewhere",
+      "words": [
+        {
+          "korean": "한 눈 파는",
+          "english": "letting one's eyes wander",
+          "role": "expression"
+        },
+        {
+          "korean": "너",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "한 눈 팔다",
+        "meaning": "to look elsewhere/be distracted (especially romantically)",
+        "note": "Idiomatic expression meaning to pay attention to other people while in a relationship"
+      }
+    },
+    {
+      "korean": "수백 번 밀어내야 했는데",
+      "english": "I should have pushed you away hundreds of times",
+      "words": [
+        {
+          "korean": "수백 번",
+          "english": "hundreds of times",
+          "role": "expression"
+        },
+        {
+          "korean": "밀어내야 했는데",
+          "english": "should have pushed away",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어야 했는데",
+        "meaning": "should have done (but didn't)",
+        "note": "Expresses regret about not doing something — here regretting not pushing him away"
+      }
+    },
+    {
+      "korean": "수천 번 널 떠나야 했는데",
+      "english": "I should have left you thousands of times",
+      "words": [
+        {
+          "korean": "수천 번",
+          "english": "thousands of times",
+          "role": "expression"
+        },
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "떠나야 했는데",
+          "english": "should have left",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "왜 맘이 자꾸 흔들리니?",
+      "english": "Why does my heart keep wavering?",
+      "words": [
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "맘이",
+          "english": "heart/feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "자꾸",
+          "english": "keep/repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "흔들리니",
+          "english": "waver/shake",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "난 여기 네 옆에 있잖니",
+      "english": "I'm right here beside you",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "여기",
+          "english": "here",
+          "role": "noun"
+        },
+        {
+          "korean": "네 옆에",
+          "english": "beside you",
+          "role": "expression"
+        },
+        {
+          "korean": "있잖니",
+          "english": "you know I'm (here)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-잖니",
+        "meaning": "you know/as you know",
+        "note": "Casual ending that reminds someone of an obvious fact — 'I'm here, as you well know'"
+      }
+    },
+    {
+      "korean": "정신 차려, lion heart",
+      "english": "Snap out of it, lion heart",
+      "words": [
+        {
+          "korean": "정신 차려",
+          "english": "snap out of it/get it together",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "정신 차리다",
+        "meaning": "to come to one's senses/wake up",
+        "note": "Command form used to tell someone to focus or stop being distracted"
+      }
+    },
+    {
+      "korean": "내 맘이 더는 식지 않게",
+      "english": "So my heart won't grow cold anymore",
+      "words": [
+        {
+          "korean": "내 맘이",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "더는",
+          "english": "any more/any longer",
+          "role": "adverb"
+        },
+        {
+          "korean": "식지 않게",
+          "english": "won't grow cold",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않게",
+        "meaning": "so that (it) won't ~",
+        "note": "Negative purpose clause — taking action to prevent the heart from cooling off"
+      }
+    },
+    {
+      "korean": "여기저기 뛰노는 너의 맘",
+      "english": "Your heart that runs wild everywhere",
+      "words": [
+        {
+          "korean": "여기저기",
+          "english": "here and there/everywhere",
+          "role": "adverb"
+        },
+        {
+          "korean": "뛰노는",
+          "english": "running around/playing around",
+          "role": "verb"
+        },
+        {
+          "korean": "너의 맘",
+          "english": "your heart",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "길들일래, lion heart",
+      "english": "I'm going to tame it, lion heart",
+      "words": [
+        {
+          "korean": "길들일래",
+          "english": "I'm going to tame",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ래",
+        "meaning": "I will/I'm going to (stating intention)",
+        "note": "Casual ending expressing the speaker's decision or plan — confident and unhesitating"
+      }
+    },
+    {
+      "korean": "넌 자유로운 영혼 여전해",
+      "english": "You're still a free spirit",
+      "words": [
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "자유로운",
+          "english": "free",
+          "role": "adjective"
+        },
+        {
+          "korean": "영혼",
+          "english": "soul/spirit",
+          "role": "noun"
+        },
+        {
+          "korean": "여전해",
+          "english": "still/as before",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "지금 네 옆에 난 안 보이니?",
+      "english": "Can't you see me right beside you now?",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "now",
+          "role": "noun"
+        },
+        {
+          "korean": "네 옆에",
+          "english": "beside you",
+          "role": "expression"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "안 보이니",
+          "english": "can't you see/aren't I visible",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

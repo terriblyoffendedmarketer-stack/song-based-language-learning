@@ -1,0 +1,425 @@
+{
+  "songId": "raiden-chanyeol-leehi-changmo-yours",
+  "lines": [
+    {
+      "korean": "무심한 관심만큼 아픈 게 있을까",
+      "english": "Is there anything more painful than indifferent attention?",
+      "words": [
+        {
+          "korean": "무심한",
+          "english": "indifferent, uncaring",
+          "role": "adjective"
+        },
+        {
+          "korean": "관심만큼",
+          "english": "as much as attention",
+          "role": "noun"
+        },
+        {
+          "korean": "아픈 게",
+          "english": "painful thing",
+          "role": "noun"
+        },
+        {
+          "korean": "있을까",
+          "english": "could there be?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "I wonder if...? / could it be...?",
+        "note": "Used here as a rhetorical question to express doubt that anything could be more painful"
+      }
+    },
+    {
+      "korean": "한 치 앞도 모른 채",
+      "english": "Not knowing even an inch ahead",
+      "words": [
+        {
+          "korean": "한 치",
+          "english": "one inch",
+          "role": "noun"
+        },
+        {
+          "korean": "앞도",
+          "english": "even ahead",
+          "role": "noun"
+        },
+        {
+          "korean": "모른 채",
+          "english": "while not knowing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 채",
+        "meaning": "while remaining in a state of...",
+        "note": "Describes an ongoing condition — being stuck in a state of not knowing what's ahead"
+      }
+    },
+    {
+      "korean": "다 어둠에 갇힌 것처럼 두 눈을 감고서",
+      "english": "As if everything is trapped in darkness, with both eyes closed",
+      "words": [
+        {
+          "korean": "다",
+          "english": "everything, all",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어둠에 갇힌 것처럼",
+          "english": "as if trapped in darkness",
+          "role": "expression"
+        },
+        {
+          "korean": "두 눈을",
+          "english": "both eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "감고서",
+          "english": "closing and...",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 것처럼",
+        "meaning": "as if... / like...",
+        "note": "Creates a simile comparing the situation to being trapped in darkness"
+      }
+    },
+    {
+      "korean": "나는 너를 잃어가",
+      "english": "I'm losing you",
+      "words": [
+        {
+          "korean": "나는",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "너를",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잃어가",
+          "english": "am losing (gradually)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 가다",
+        "meaning": "gradually doing something, in the process of",
+        "note": "Shows losing someone as a slow, ongoing process rather than a single moment"
+      }
+    },
+    {
+      "korean": "숨이 멎을 것 같은 이별 끝",
+      "english": "At the end of a breakup that feels like my breath will stop",
+      "words": [
+        {
+          "korean": "숨이 멎을 것 같은",
+          "english": "feeling like breath will stop",
+          "role": "expression"
+        },
+        {
+          "korean": "이별",
+          "english": "breakup, separation",
+          "role": "noun"
+        },
+        {
+          "korean": "끝",
+          "english": "end",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같은",
+        "meaning": "seems like it will... / feels like...",
+        "note": "Modifies the noun '이별 끝' to describe how the breakup feels — breathtaking"
+      }
+    },
+    {
+      "korean": "심장이 뛰는 듯해",
+      "english": "It feels like my heart is pounding",
+      "words": [
+        {
+          "korean": "심장이",
+          "english": "heart",
+          "role": "noun"
+        },
+        {
+          "korean": "뛰는 듯해",
+          "english": "seems to be pounding",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 듯하다",
+        "meaning": "seems like... / appears to...",
+        "note": "Expresses the speaker's perception that their heart is pounding"
+      }
+    },
+    {
+      "korean": "끝없는 어둠을 삼킨 듯이",
+      "english": "As if having swallowed endless darkness",
+      "words": [
+        {
+          "korean": "끝없는",
+          "english": "endless",
+          "role": "adjective"
+        },
+        {
+          "korean": "어둠을",
+          "english": "darkness",
+          "role": "noun"
+        },
+        {
+          "korean": "삼킨 듯이",
+          "english": "as if having swallowed",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯이",
+        "meaning": "as if... / as though...",
+        "note": "Creates a metaphor comparing emotional state to having consumed darkness"
+      }
+    },
+    {
+      "korean": "복잡한 마음이 비워지질 않아",
+      "english": "My complicated feelings won't empty out",
+      "words": [
+        {
+          "korean": "복잡한",
+          "english": "complicated, complex",
+          "role": "adjective"
+        },
+        {
+          "korean": "마음이",
+          "english": "heart, feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "비워지질 않아",
+          "english": "won't become empty",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지질 않다",
+        "meaning": "doesn't... / won't...",
+        "note": "Emphasizes that despite wanting to, the feelings refuse to empty — 질 adds emphasis to the negation"
+      }
+    },
+    {
+      "korean": "네 눈물은 내가 다 가져",
+      "english": "I'll take all your tears",
+      "words": [
+        {
+          "korean": "네",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "눈물은",
+          "english": "tears",
+          "role": "noun"
+        },
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다 가져",
+          "english": "take all of",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내 탄생은 널 위해 이루어진 게 아닐까",
+      "english": "Wasn't my birth itself made to happen for you?",
+      "words": [
+        {
+          "korean": "내 탄생은",
+          "english": "my birth",
+          "role": "noun"
+        },
+        {
+          "korean": "널 위해",
+          "english": "for you",
+          "role": "expression"
+        },
+        {
+          "korean": "이루어진 게",
+          "english": "that which was accomplished",
+          "role": "verb"
+        },
+        {
+          "korean": "아닐까",
+          "english": "isn't it? / could it be?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 게 아닐까",
+        "meaning": "isn't it that...? / could it be that...?",
+        "note": "Softens an extreme claim (fate arranged my birth for you) by phrasing it as a rhetorical question rather than a direct statement"
+      }
+    },
+    {
+      "korean": "그댈 좋아한다는 말 쉽게 나오지를 않아",
+      "english": "The words 'I like you' don't come out easily",
+      "words": [
+        {
+          "korean": "그댈",
+          "english": "you (formal/poetic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아한다는 말",
+          "english": "the words 'I like you'",
+          "role": "noun"
+        },
+        {
+          "korean": "쉽게",
+          "english": "easily",
+          "role": "adverb"
+        },
+        {
+          "korean": "나오지를 않아",
+          "english": "don't come out",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다는 말",
+        "meaning": "the words that say... / saying that...",
+        "note": "Turns a quoted statement into a noun phrase — 'the words that say I like you'"
+      }
+    },
+    {
+      "korean": "잊어지지 못할 꿈이면 달콤한 잠에서 절대로 안 깨",
+      "english": "If it's a dream I can't forget, I'll never wake from this sweet sleep",
+      "words": [
+        {
+          "korean": "잊어지지 못할",
+          "english": "can't be forgotten",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈이면",
+          "english": "if it's a dream",
+          "role": "noun"
+        },
+        {
+          "korean": "달콤한 잠에서",
+          "english": "from sweet sleep",
+          "role": "noun"
+        },
+        {
+          "korean": "절대로 안 깨",
+          "english": "absolutely won't wake",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if... / when...",
+        "note": "Sets up a conditional: if this is an unforgettable dream, then the speaker chooses not to wake"
+      }
+    },
+    {
+      "korean": "이 안에 꼭 숨긴 마음이 그 날엔 반드시 꺼내 달라 내게 말해",
+      "english": "Tell me to bring out the feelings I've hidden tightly inside, without fail, on that day",
+      "words": [
+        {
+          "korean": "이 안에",
+          "english": "inside this",
+          "role": "noun"
+        },
+        {
+          "korean": "꼭 숨긴",
+          "english": "tightly hidden",
+          "role": "verb"
+        },
+        {
+          "korean": "마음이",
+          "english": "feelings, heart",
+          "role": "noun"
+        },
+        {
+          "korean": "반드시",
+          "english": "without fail, surely",
+          "role": "adverb"
+        },
+        {
+          "korean": "꺼내 달라",
+          "english": "please take out",
+          "role": "verb"
+        },
+        {
+          "korean": "내게 말해",
+          "english": "tell me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 달라",
+        "meaning": "please do... for me / asking someone to do something",
+        "note": "A request form — asking the other person to tell them to reveal their hidden feelings"
+      }
+    },
+    {
+      "korean": "어색하게 마주본 너와 나",
+      "english": "You and I facing each other awkwardly",
+      "words": [
+        {
+          "korean": "어색하게",
+          "english": "awkwardly",
+          "role": "adverb"
+        },
+        {
+          "korean": "마주본",
+          "english": "facing each other",
+          "role": "verb"
+        },
+        {
+          "korean": "너와 나",
+          "english": "you and I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "낯설지만 익숙한 이 순간",
+      "english": "This moment that's unfamiliar yet familiar",
+      "words": [
+        {
+          "korean": "낯설지만",
+          "english": "unfamiliar but",
+          "role": "adjective"
+        },
+        {
+          "korean": "익숙한",
+          "english": "familiar",
+          "role": "adjective"
+        },
+        {
+          "korean": "이 순간",
+          "english": "this moment",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지만",
+        "meaning": "but... / although...",
+        "note": "Connects two contrasting adjectives to create a paradox — simultaneously strange and familiar"
+      }
+    }
+  ]
+}

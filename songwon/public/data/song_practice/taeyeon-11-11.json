@@ -1,0 +1,435 @@
+{
+  "songId": "taeyeon-11-11",
+  "lines": [
+    {
+      "korean": "오늘이 한 칸이 채 안 남은 그런 시간",
+      "english": "It's that time when there's barely one space left of today",
+      "words": [
+        {
+          "korean": "오늘",
+          "english": "today",
+          "role": "noun"
+        },
+        {
+          "korean": "한 칸",
+          "english": "one space/slot",
+          "role": "noun"
+        },
+        {
+          "korean": "채 안 남은",
+          "english": "not even left",
+          "role": "verb"
+        },
+        {
+          "korean": "그런 시간",
+          "english": "that kind of time",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "채 안",
+        "meaning": "not even; barely not",
+        "note": "Used with negative verbs to emphasize something hasn't even reached a certain amount or state"
+      }
+    },
+    {
+      "korean": "우리 소원을 빌었던 그 시간",
+      "english": "That time when we made wishes together",
+      "words": [
+        {
+          "korean": "우리",
+          "english": "we/our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "소원을",
+          "english": "wishes (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "빌었던",
+          "english": "used to make",
+          "role": "verb"
+        },
+        {
+          "korean": "그 시간",
+          "english": "that time",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-었던",
+        "meaning": "used to; past descriptive",
+        "note": "Recalls a past action or state, often with nostalgia or when that state no longer exists"
+      }
+    },
+    {
+      "korean": "별 게 다 널 떠오르게 하지",
+      "english": "Everything little thing makes me think of you",
+      "words": [
+        {
+          "korean": "별 게 다",
+          "english": "every little thing",
+          "role": "expression"
+        },
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "떠오르게 하지",
+          "english": "makes (me) think of",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 하다",
+        "meaning": "to make/cause someone to do something",
+        "note": "Here it means things cause her to remember/think of the person"
+      }
+    },
+    {
+      "korean": "니맘 끝자락처럼 차가운 바람",
+      "english": "A wind as cold as the edge of your heart",
+      "words": [
+        {
+          "korean": "니맘",
+          "english": "your heart",
+          "role": "noun"
+        },
+        {
+          "korean": "끝자락",
+          "english": "edge/end",
+          "role": "noun"
+        },
+        {
+          "korean": "처럼",
+          "english": "like/as",
+          "role": "particle"
+        },
+        {
+          "korean": "차가운",
+          "english": "cold",
+          "role": "adjective"
+        },
+        {
+          "korean": "바람",
+          "english": "wind",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "창을 열면 온통 네가 불어와",
+      "english": "When I open the window, you blow in from everywhere",
+      "words": [
+        {
+          "korean": "창을 열면",
+          "english": "when I open the window",
+          "role": "verb"
+        },
+        {
+          "korean": "온통",
+          "english": "all over/everywhere",
+          "role": "adverb"
+        },
+        {
+          "korean": "네가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "불어와",
+          "english": "blow in",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면",
+        "meaning": "when/if",
+        "note": "Conditional form expressing 'when' or 'if' an action occurs"
+      }
+    },
+    {
+      "korean": "이 시간이 전부 지나고 나면 이별이 끝나있을까?",
+      "english": "Once all this time passes, will the breakup be over?",
+      "words": [
+        {
+          "korean": "이 시간이 전부",
+          "english": "all this time",
+          "role": "noun"
+        },
+        {
+          "korean": "지나고 나면",
+          "english": "after it passes",
+          "role": "verb"
+        },
+        {
+          "korean": "이별이",
+          "english": "the breakup",
+          "role": "noun"
+        },
+        {
+          "korean": "끝나있을까",
+          "english": "will it be over?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 나면",
+        "meaning": "after doing; once something is done",
+        "note": "Expresses a completed action followed by another situation"
+      }
+    },
+    {
+      "korean": "모든 게 자릴 찾아서 떠나가고",
+      "english": "Everything finds its place and leaves",
+      "words": [
+        {
+          "korean": "모든 게",
+          "english": "everything",
+          "role": "noun"
+        },
+        {
+          "korean": "자릴 찾아서",
+          "english": "finding its place",
+          "role": "verb"
+        },
+        {
+          "korean": "떠나가고",
+          "english": "leaves/goes away",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아서/-어서",
+        "meaning": "and then; after doing",
+        "note": "Connects sequential actions: finding a place, then leaving"
+      }
+    },
+    {
+      "korean": "넌 내 모든 걸 갖고서 떠나도",
+      "english": "Even though you left taking everything of mine",
+      "words": [
+        {
+          "korean": "넌",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "내 모든 걸",
+          "english": "my everything",
+          "role": "noun"
+        },
+        {
+          "korean": "갖고서",
+          "english": "taking/having",
+          "role": "verb"
+        },
+        {
+          "korean": "떠나도",
+          "english": "even if you leave",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아도/-어도",
+        "meaning": "even if/though",
+        "note": "Expresses contrast: despite the person leaving with everything"
+      }
+    },
+    {
+      "korean": "내맘은 시계속의 두 바늘처럼 같은 곳을 두고 맴돌기만 해",
+      "english": "My heart just keeps circling the same place like two hands in a clock",
+      "words": [
+        {
+          "korean": "내맘은",
+          "english": "my heart",
+          "role": "noun"
+        },
+        {
+          "korean": "시계속의 두 바늘처럼",
+          "english": "like two hands in a clock",
+          "role": "expression"
+        },
+        {
+          "korean": "같은 곳을 두고",
+          "english": "around the same place",
+          "role": "verb"
+        },
+        {
+          "korean": "맴돌기만 해",
+          "english": "just keeps circling",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기만 하다",
+        "meaning": "only do; just keep doing",
+        "note": "Emphasizes repetitive action without change or progress"
+      }
+    },
+    {
+      "korean": "너에겐 다 잊혀져있었다면 내가 지워야지 뭐",
+      "english": "If you've already forgotten it all, then I should erase it too, I guess",
+      "words": [
+        {
+          "korean": "너에겐",
+          "english": "for you/to you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다 잊혀져있었다면",
+          "english": "if it's all been forgotten",
+          "role": "verb"
+        },
+        {
+          "korean": "내가 지워야지",
+          "english": "I should erase it",
+          "role": "verb"
+        },
+        {
+          "korean": "뭐",
+          "english": "I guess/well",
+          "role": "interjection"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아야지/-어야지",
+        "meaning": "should; ought to",
+        "note": "Expresses resolution or determination, often with a resigned tone when followed by 뭐"
+      }
+    },
+    {
+      "korean": "지나고 나면 별 거 아니겠지만",
+      "english": "Once it passes, it probably won't be a big deal, but",
+      "words": [
+        {
+          "korean": "지나고 나면",
+          "english": "once it passes",
+          "role": "verb"
+        },
+        {
+          "korean": "별 거 아니겠지만",
+          "english": "it won't be a big deal, but",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠지만",
+        "meaning": "probably/will, but",
+        "note": "Combines future conjecture (-겠-) with contrast (-지만), expressing likelihood followed by a contrasting sentiment"
+      }
+    },
+    {
+      "korean": "계절틈에 잠시 피는 낯선 꽃처럼",
+      "english": "Like an unfamiliar flower that briefly blooms between seasons",
+      "words": [
+        {
+          "korean": "계절틈에",
+          "english": "between seasons",
+          "role": "noun"
+        },
+        {
+          "korean": "잠시",
+          "english": "briefly/for a moment",
+          "role": "adverb"
+        },
+        {
+          "korean": "피는",
+          "english": "blooming",
+          "role": "verb"
+        },
+        {
+          "korean": "낯선 꽃처럼",
+          "english": "like an unfamiliar flower",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "하루틈에 걸려있는 새벽별처럼",
+      "english": "Like a morning star hanging in the gap of a day",
+      "words": [
+        {
+          "korean": "하루틈에",
+          "english": "in the gap of a day",
+          "role": "noun"
+        },
+        {
+          "korean": "걸려있는",
+          "english": "hanging/suspended",
+          "role": "verb"
+        },
+        {
+          "korean": "새벽별처럼",
+          "english": "like a morning star",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "이 모든 건 언젠가는 다 지나가고 말겠지",
+      "english": "All of this will eventually pass",
+      "words": [
+        {
+          "korean": "이 모든 건",
+          "english": "all of this",
+          "role": "noun"
+        },
+        {
+          "korean": "언젠가는",
+          "english": "someday/eventually",
+          "role": "adverb"
+        },
+        {
+          "korean": "다",
+          "english": "all/completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "지나가고 말겠지",
+          "english": "will end up passing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 말다",
+        "meaning": "end up doing; inevitably happen",
+        "note": "Expresses that something will eventually or inevitably happen, often with resignation"
+      }
+    },
+    {
+      "korean": "너의 이름 한 번쯤 부르는게 지금처럼 아프지 않을거야",
+      "english": "Calling your name once in a while won't hurt like it does now",
+      "words": [
+        {
+          "korean": "너의 이름",
+          "english": "your name",
+          "role": "noun"
+        },
+        {
+          "korean": "한 번쯤 부르는게",
+          "english": "calling once in a while",
+          "role": "verb"
+        },
+        {
+          "korean": "지금처럼",
+          "english": "like now",
+          "role": "adverb"
+        },
+        {
+          "korean": "아프지 않을거야",
+          "english": "won't hurt",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을 거야",
+        "meaning": "will; going to",
+        "note": "Expresses future intention or prediction with certainty"
+      }
+    }
+  ]
+}

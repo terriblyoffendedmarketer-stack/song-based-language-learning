@@ -1,0 +1,386 @@
+{
+  "songId": "mamamoo-hip",
+  "lines": [
+    {
+      "korean": "All I wanna be is 멋짐",
+      "english": "All I wanna be is cool",
+      "words": [
+        {
+          "korean": "멋짐",
+          "english": "coolness/being cool",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "내 마음대로 골라 kick it",
+      "english": "I pick as I please, kick it",
+      "words": [
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "마음대로",
+          "english": "as one pleases/freely",
+          "role": "adverb"
+        },
+        {
+          "korean": "골라",
+          "english": "choose/pick",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-대로",
+        "meaning": "as/according to",
+        "note": "마음대로 is a common expression meaning 'as one pleases' or 'at will', combining 마음 (mind/heart) with -대로 (according to)"
+      }
+    },
+    {
+      "korean": "머리 어깨 무릎 다 HIP 해",
+      "english": "Head, shoulders, knees, all HIP",
+      "words": [
+        {
+          "korean": "머리",
+          "english": "head",
+          "role": "noun"
+        },
+        {
+          "korean": "어깨",
+          "english": "shoulders",
+          "role": "noun"
+        },
+        {
+          "korean": "무릎",
+          "english": "knees",
+          "role": "noun"
+        },
+        {
+          "korean": "다",
+          "english": "all",
+          "role": "adverb"
+        },
+        {
+          "korean": "HIP 해",
+          "english": "is HIP",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "I love you 네가 뭐라든 간에",
+      "english": "I love you, whatever you say",
+      "words": [
+        {
+          "korean": "네가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "뭐라든",
+          "english": "whatever",
+          "role": "pronoun"
+        },
+        {
+          "korean": "간에",
+          "english": "regardless of",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-든 간에",
+        "meaning": "regardless of/whatever",
+        "note": "Used here to dismiss others' opinions - 'whatever you say, I don't care'"
+      }
+    },
+    {
+      "korean": "Respect you 네가 뭘 하든 간에",
+      "english": "Respect you, whatever you do",
+      "words": [
+        {
+          "korean": "네가",
+          "english": "you (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "뭘",
+          "english": "what",
+          "role": "pronoun"
+        },
+        {
+          "korean": "하든 간에",
+          "english": "whatever (you) do",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "늘 따끈따끈해 그 관심이 따끔따끔해",
+      "english": "Always piping hot, that attention stings",
+      "words": [
+        {
+          "korean": "늘",
+          "english": "always",
+          "role": "adverb"
+        },
+        {
+          "korean": "따끈따끈해",
+          "english": "is warm/hot (fresh)",
+          "role": "adjective"
+        },
+        {
+          "korean": "관심이",
+          "english": "attention (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "따끔따끔해",
+          "english": "stings/pricks",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이젠 모든 일이 가뿐해 veteran",
+      "english": "Now everything feels light, I'm a veteran",
+      "words": [
+        {
+          "korean": "이젠",
+          "english": "now/by now",
+          "role": "adverb"
+        },
+        {
+          "korean": "모든 일이",
+          "english": "everything/all things",
+          "role": "noun"
+        },
+        {
+          "korean": "가뿐해",
+          "english": "is light/easy",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "누구보다 빠른 걸음을 걸었네 비시즌",
+      "english": "Walked faster than anyone, even in the off-season",
+      "words": [
+        {
+          "korean": "누구보다",
+          "english": "more than anyone",
+          "role": "expression"
+        },
+        {
+          "korean": "빠른",
+          "english": "fast",
+          "role": "adjective"
+        },
+        {
+          "korean": "걸음을",
+          "english": "steps/pace",
+          "role": "noun"
+        },
+        {
+          "korean": "걸었네",
+          "english": "walked",
+          "role": "verb"
+        },
+        {
+          "korean": "비시즌",
+          "english": "off-season",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "삐삐삐 논란이 돼 my fashion",
+      "english": "Beep beep beep, it becomes controversy, my fashion",
+      "words": [
+        {
+          "korean": "논란이",
+          "english": "controversy/dispute",
+          "role": "noun"
+        },
+        {
+          "korean": "돼",
+          "english": "becomes",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "별로 신경 안 써 그저 action",
+      "english": "Don't really care, just action",
+      "words": [
+        {
+          "korean": "별로",
+          "english": "not really/not particularly",
+          "role": "adverb"
+        },
+        {
+          "korean": "신경 안 써",
+          "english": "don't care/pay attention",
+          "role": "verb"
+        },
+        {
+          "korean": "그저",
+          "english": "just/merely",
+          "role": "adverb"
+        }
+      ]
+    },
+    {
+      "korean": "날 자극한 여러분 감사",
+      "english": "Thanks to everyone who provoked me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "자극한",
+          "english": "provoked/stimulated",
+          "role": "verb"
+        },
+        {
+          "korean": "여러분",
+          "english": "everyone/you all",
+          "role": "noun"
+        },
+        {
+          "korean": "감사",
+          "english": "thanks/gratitude",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "덕분에 나의 멘탈은 단단해",
+      "english": "Thanks to you, my mental is solid",
+      "words": [
+        {
+          "korean": "덕분에",
+          "english": "thanks to",
+          "role": "expression"
+        },
+        {
+          "korean": "나의",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "멘탈은",
+          "english": "mental/mentality",
+          "role": "noun"
+        },
+        {
+          "korean": "단단해",
+          "english": "is solid/strong",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "덕분에",
+        "meaning": "thanks to",
+        "note": "Used sarcastically here - thanking haters for making her mentally stronger, crediting them for an outcome they didn't intend"
+      }
+    },
+    {
+      "korean": "난 다음 앨범 만들러 갈게",
+      "english": "I'm off to make my next album",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다음",
+          "english": "next",
+          "role": "noun"
+        },
+        {
+          "korean": "앨범",
+          "english": "album",
+          "role": "noun"
+        },
+        {
+          "korean": "만들러 갈게",
+          "english": "I'll go to make",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)러 가다",
+        "meaning": "to go in order to do",
+        "note": "Shows purpose of movement - going somewhere to do something; 만들러 = to make"
+      }
+    },
+    {
+      "korean": "코 묻은 티",
+      "english": "A shirt with snot on it",
+      "words": [
+        {
+          "korean": "코",
+          "english": "nose/snot",
+          "role": "noun"
+        },
+        {
+          "korean": "묻은",
+          "english": "smeared/stained",
+          "role": "verb"
+        },
+        {
+          "korean": "티",
+          "english": "t-shirt/shirt",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "난 상관없지",
+      "english": "I don't care",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "상관없지",
+          "english": "don't care/doesn't matter",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지",
+        "meaning": "assertive/casual statement",
+        "note": "The casual -지 ending sounds offhand and dismissive rather than defensive, like barely bothering to respond"
+      }
+    },
+    {
+      "korean": "내가 하면 HIP",
+      "english": "If I do it, it's HIP",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "하면",
+          "english": "if (I) do",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "내가 하면 X",
+        "meaning": "if I do it, it's X",
+        "note": "A common confident phrase pattern for reframing a criticized trait as a personal signature - 'when I do it, it becomes cool'"
+      }
+    }
+  ]
+}

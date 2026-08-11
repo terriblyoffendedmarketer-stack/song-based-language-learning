@@ -1,0 +1,380 @@
+{
+  "songId": "jaurim",
+  "lines": [
+    {
+      "korean": "바람에 날려 꽃이 지는 계절엔",
+      "english": "In the season when flowers scatter in the wind",
+      "words": [
+        {
+          "korean": "바람에",
+          "english": "in/by the wind",
+          "role": "noun"
+        },
+        {
+          "korean": "날려",
+          "english": "blown, scattered",
+          "role": "verb"
+        },
+        {
+          "korean": "꽃이",
+          "english": "flowers",
+          "role": "noun"
+        },
+        {
+          "korean": "지는",
+          "english": "falling, scattering",
+          "role": "verb"
+        },
+        {
+          "korean": "계절엔",
+          "english": "in the season",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "아직도 너의 손을 잡은 듯 그런 듯해",
+      "english": "It still feels like I'm holding your hand, sort of",
+      "words": [
+        {
+          "korean": "아직도",
+          "english": "still",
+          "role": "adverb"
+        },
+        {
+          "korean": "너의 손을",
+          "english": "your hand",
+          "role": "noun"
+        },
+        {
+          "korean": "잡은 듯",
+          "english": "as if holding",
+          "role": "expression"
+        },
+        {
+          "korean": "그런 듯해",
+          "english": "it feels that way",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯 그런 듯해",
+        "meaning": "it feels like ~, sort of",
+        "note": "Creates a soft, uncertain hedge suggesting blurry memory rather than clear recollection"
+      }
+    },
+    {
+      "korean": "그때는 아직 꽃이 아름다운 걸 지금처럼 사무치게 알지 못했어",
+      "english": "Back then I didn't know, the way I ache to know now, how beautiful the flowers were",
+      "words": [
+        {
+          "korean": "그때는",
+          "english": "back then",
+          "role": "noun"
+        },
+        {
+          "korean": "아름다운 걸",
+          "english": "that [they] were beautiful",
+          "role": "expression"
+        },
+        {
+          "korean": "지금처럼",
+          "english": "like now, the way I do now",
+          "role": "adverb"
+        },
+        {
+          "korean": "사무치게",
+          "english": "achingly, piercingly",
+          "role": "adverb"
+        },
+        {
+          "korean": "알지 못했어",
+          "english": "didn't know",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너의 향기가 바람에 실려 오네",
+      "english": "Your scent comes riding on the wind",
+      "words": [
+        {
+          "korean": "너의 향기가",
+          "english": "your scent",
+          "role": "noun"
+        },
+        {
+          "korean": "바람에",
+          "english": "on the wind",
+          "role": "noun"
+        },
+        {
+          "korean": "실려 오네",
+          "english": "comes carried, comes riding",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "영원할 줄 알았던 스물다섯, 스물하나",
+      "english": "Twenty-five, twenty-one — I thought it would last forever",
+      "words": [
+        {
+          "korean": "영원할",
+          "english": "would be eternal",
+          "role": "verb"
+        },
+        {
+          "korean": "줄 알았던",
+          "english": "thought/believed that",
+          "role": "expression"
+        },
+        {
+          "korean": "스물다섯",
+          "english": "twenty-five",
+          "role": "noun"
+        },
+        {
+          "korean": "스물하나",
+          "english": "twenty-one",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 줄 알았다",
+        "meaning": "I thought/believed that X would happen",
+        "note": "Used to express a past belief now proven false — she believed their youth would be eternal but it wasn't"
+      }
+    },
+    {
+      "korean": "그날의 바다는 퍽 다정했었지",
+      "english": "That day's sea was really gentle",
+      "words": [
+        {
+          "korean": "그날의",
+          "english": "that day's",
+          "role": "noun"
+        },
+        {
+          "korean": "바다는",
+          "english": "the sea",
+          "role": "noun"
+        },
+        {
+          "korean": "퍽",
+          "english": "quite, really",
+          "role": "adverb"
+        },
+        {
+          "korean": "다정했었지",
+          "english": "was gentle",
+          "role": "adjective"
+        }
+      ]
+    },
+    {
+      "korean": "아직도 나의 손에 잡힐 듯 그런 듯해",
+      "english": "It still feels like it's within reach of my hand, sort of",
+      "words": [
+        {
+          "korean": "아직도",
+          "english": "still",
+          "role": "adverb"
+        },
+        {
+          "korean": "나의 손에",
+          "english": "in my hand",
+          "role": "noun"
+        },
+        {
+          "korean": "잡힐 듯",
+          "english": "as if I could grasp it",
+          "role": "expression"
+        },
+        {
+          "korean": "그런 듯해",
+          "english": "it feels that way",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "부서지는 햇살 속에 너와 내가 있어",
+      "english": "You and I were there in the breaking sunlight",
+      "words": [
+        {
+          "korean": "부서지는",
+          "english": "breaking, shattering",
+          "role": "verb"
+        },
+        {
+          "korean": "햇살 속에",
+          "english": "in the sunlight",
+          "role": "noun"
+        },
+        {
+          "korean": "너와 내가",
+          "english": "you and I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "있어",
+          "english": "were there",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "가슴 시리도록 행복한 꿈을 꾸었지",
+      "english": "I dreamed a happiness so sharp it ached in my chest",
+      "words": [
+        {
+          "korean": "가슴 시리도록",
+          "english": "chest-achingly, so it stings in the chest",
+          "role": "adverb"
+        },
+        {
+          "korean": "행복한",
+          "english": "happy",
+          "role": "adjective"
+        },
+        {
+          "korean": "꿈을",
+          "english": "a dream",
+          "role": "noun"
+        },
+        {
+          "korean": "꾸었지",
+          "english": "dreamed",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-도록",
+        "meaning": "to the extent that, so much that",
+        "note": "Expresses an extreme degree — the happiness was so intense it caused physical aching in her chest"
+      }
+    },
+    {
+      "korean": "그날의 노래가 바람에 실려 오네",
+      "english": "That day's song comes riding on the wind",
+      "words": [
+        {
+          "korean": "그날의 노래가",
+          "english": "that day's song",
+          "role": "noun"
+        },
+        {
+          "korean": "바람에",
+          "english": "on the wind",
+          "role": "noun"
+        },
+        {
+          "korean": "실려 오네",
+          "english": "comes carried",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "지난 날의 너와 나",
+      "english": "You and I from those past days",
+      "words": [
+        {
+          "korean": "지난 날의",
+          "english": "of past days, from back then",
+          "role": "noun"
+        },
+        {
+          "korean": "너와 나",
+          "english": "you and I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "너의 목소리도 너의 눈동자도",
+      "english": "Your voice, your eyes",
+      "words": [
+        {
+          "korean": "너의 목소리도",
+          "english": "your voice too",
+          "role": "noun"
+        },
+        {
+          "korean": "너의 눈동자도",
+          "english": "your eyes too",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "애틋하던 너의 체온마저도",
+      "english": "Even your dear warmth",
+      "words": [
+        {
+          "korean": "애틋하던",
+          "english": "that was dear, precious",
+          "role": "adjective"
+        },
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "체온마저도",
+          "english": "warmth even, even your body heat",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "기억해내면 할수록 멀어져 가는데",
+      "english": "The more I try to remember, the further it drifts away",
+      "words": [
+        {
+          "korean": "기억해내면",
+          "english": "if/when I remember",
+          "role": "verb"
+        },
+        {
+          "korean": "할수록",
+          "english": "the more I do",
+          "role": "expression"
+        },
+        {
+          "korean": "멀어져 가는데",
+          "english": "it drifts further away",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면 -(으)ㄹ수록",
+        "meaning": "the more you do X, the more Y",
+        "note": "Shows an increasing correlation — the harder she tries to recall the memory, the more it slips away from her"
+      }
+    },
+    {
+      "korean": "흩어지는 널 붙잡을 수 없어",
+      "english": "I can't hold onto you as you scatter",
+      "words": [
+        {
+          "korean": "흩어지는",
+          "english": "scattering, dispersing",
+          "role": "verb"
+        },
+        {
+          "korean": "널",
+          "english": "you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "붙잡을 수 없어",
+          "english": "can't hold onto, can't grasp",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "songId": "heize-why",
+  "lines": [
+    {
+      "korean": "가르쳐줄래",
+      "english": "Will you teach me?",
+      "words": [
+        {
+          "korean": "가르쳐줄래",
+          "english": "will you teach me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ래",
+        "meaning": "will you ~? / do you want to ~?",
+        "note": "Casual way to ask someone if they'll do something or suggest doing something together"
+      }
+    },
+    {
+      "korean": "너의 방식",
+      "english": "Your way",
+      "words": [
+        {
+          "korean": "너의",
+          "english": "your",
+          "role": "pronoun"
+        },
+        {
+          "korean": "방식",
+          "english": "way/method",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "기다렸던 건",
+      "english": "What I was waiting for",
+      "words": [
+        {
+          "korean": "기다렸던",
+          "english": "was waiting for",
+          "role": "verb"
+        },
+        {
+          "korean": "건",
+          "english": "the thing (short for 것은)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-던",
+        "meaning": "was doing ~ (past continuing action)",
+        "note": "Used to describe an ongoing action or state in the past; here combined with 것 to make 'the thing I was waiting for'"
+      }
+    },
+    {
+      "korean": "아무 말 안 했던 건",
+      "english": "What your silence meant",
+      "words": [
+        {
+          "korean": "아무 말",
+          "english": "any words",
+          "role": "noun"
+        },
+        {
+          "korean": "안 했던",
+          "english": "didn't say",
+          "role": "verb"
+        },
+        {
+          "korean": "건",
+          "english": "the thing (short for 것은)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "시간을 끌고 있었던 건",
+      "english": "What stalling for time meant",
+      "words": [
+        {
+          "korean": "시간을",
+          "english": "time (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "끌고 있었던",
+          "english": "was dragging/stalling",
+          "role": "verb"
+        },
+        {
+          "korean": "건",
+          "english": "the thing (short for 것은)",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "난 바람이 하나 있지",
+      "english": "I have one wish",
+      "words": [
+        {
+          "korean": "난",
+          "english": "I (short for 나는)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "바람이",
+          "english": "wish/hope",
+          "role": "noun"
+        },
+        {
+          "korean": "하나",
+          "english": "one",
+          "role": "noun"
+        },
+        {
+          "korean": "있지",
+          "english": "have/exist",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "너를 위해서 존재하고 싶어",
+      "english": "I want to exist for you",
+      "words": [
+        {
+          "korean": "너를 위해서",
+          "english": "for you",
+          "role": "expression"
+        },
+        {
+          "korean": "존재하고 싶어",
+          "english": "want to exist",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 싶어",
+        "meaning": "want to ~",
+        "note": "Expresses desire or wish to do something; attached to verb stem 존재하다 (to exist)"
+      }
+    },
+    {
+      "korean": "얼마나 더 날 버려야 하는지",
+      "english": "How much more do I have to be abandoned by you",
+      "words": [
+        {
+          "korean": "얼마나 더",
+          "english": "how much more",
+          "role": "adverb"
+        },
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "버려야 하는지",
+          "english": "have to abandon",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아야 하는지",
+        "meaning": "how much one has to ~",
+        "note": "Combines obligation (-아야 하다) with indirect question marker (-는지) to express exhausted questioning about how much more must be endured"
+      }
+    },
+    {
+      "korean": "얼마나 더 가야 하는지",
+      "english": "How much further do I have to go",
+      "words": [
+        {
+          "korean": "얼마나 더",
+          "english": "how much more",
+          "role": "adverb"
+        },
+        {
+          "korean": "가야 하는지",
+          "english": "have to go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아야 하는지",
+        "meaning": "how much one has to ~",
+        "note": "Same exhausted questioning pattern as previous line, but with 가다 (to go) expressing emotional distance"
+      }
+    },
+    {
+      "korean": "당연히 잠도 안 오지",
+      "english": "Of course I can't sleep either",
+      "words": [
+        {
+          "korean": "당연히",
+          "english": "of course/naturally",
+          "role": "adverb"
+        },
+        {
+          "korean": "잠도",
+          "english": "sleep (even)",
+          "role": "noun"
+        },
+        {
+          "korean": "안 오지",
+          "english": "doesn't come",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "내가 이렇게 친절한 여자였는지 몰랐었는데",
+      "english": "I didn't know I could be this kind a woman",
+      "words": [
+        {
+          "korean": "내가",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이렇게",
+          "english": "this much/this",
+          "role": "adverb"
+        },
+        {
+          "korean": "친절한 여자",
+          "english": "kind woman",
+          "role": "noun"
+        },
+        {
+          "korean": "였는지",
+          "english": "whether I was",
+          "role": "verb"
+        },
+        {
+          "korean": "몰랐었는데",
+          "english": "didn't know (but)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다 너를 위해 참을 수 있어 난",
+      "english": "I can endure anything, all for you",
+      "words": [
+        {
+          "korean": "다",
+          "english": "all/everything",
+          "role": "adverb"
+        },
+        {
+          "korean": "너를 위해",
+          "english": "for you",
+          "role": "expression"
+        },
+        {
+          "korean": "참을 수 있어",
+          "english": "can endure",
+          "role": "verb"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 수 있어",
+        "meaning": "can/able to ~",
+        "note": "Expresses ability or possibility; here used for emotional endurance (참다 = to endure) rather than physical capability"
+      }
+    },
+    {
+      "korean": "멀어지지 마요",
+      "english": "Don't grow distant",
+      "words": [
+        {
+          "korean": "멀어지지",
+          "english": "become distant",
+          "role": "verb"
+        },
+        {
+          "korean": "마요",
+          "english": "don't (polite)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마요",
+        "meaning": "don't ~ (polite negative command)",
+        "note": "Polite way to tell someone not to do something; contrasts with casual -지 마 in the next line"
+      }
+    },
+    {
+      "korean": "멀어지지 마",
+      "english": "Don't drift away",
+      "words": [
+        {
+          "korean": "멀어지지",
+          "english": "become distant",
+          "role": "verb"
+        },
+        {
+          "korean": "마",
+          "english": "don't (casual)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마",
+        "meaning": "don't ~ (casual negative command)",
+        "note": "Casual/urgent version of -지 마요; the shift from polite to casual shows rising desperation"
+      }
+    },
+    {
+      "korean": "너를 울게 두지 않을 사람 나예요",
+      "english": "I'm the person who won't let you cry",
+      "words": [
+        {
+          "korean": "너를",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "울게 두지 않을",
+          "english": "won't let cry",
+          "role": "verb"
+        },
+        {
+          "korean": "사람",
+          "english": "person",
+          "role": "noun"
+        },
+        {
+          "korean": "나예요",
+          "english": "it's me",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게 두다",
+        "meaning": "let/allow someone to ~",
+        "note": "Combined with negative (않을) to mean 'won't let'; expresses the speaker's promise not to allow the person to suffer"
+      }
+    }
+  ]
+}

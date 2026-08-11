@@ -6,13 +6,20 @@ import { loadSongIndex, type SongIndex, type SongIndexEntry } from "@/lib/seed-l
 import { KrTip } from "@/components/ui/KrTip";
 import { BottomNav } from "@/components/BottomNav";
 
+type SongProgress = Record<string, { completedLines: number[] }>;
+
 export default function SongsPage() {
   const [index, setIndex] = useState<SongIndex | null>(null);
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState<"all" | "in-lessons" | "extra">("all");
+  const [progress, setProgress] = useState<SongProgress>({});
 
   useEffect(() => {
     loadSongIndex().then(setIndex).catch(() => {});
+    try {
+      const raw = localStorage.getItem("songwon-song-progress");
+      if (raw) setProgress(JSON.parse(raw));
+    } catch {}
   }, []);
 
   const filtered = useMemo(() => {
@@ -118,7 +125,7 @@ export default function SongsPage() {
               </p>
               <div className="space-y-2">
                 {songs.map((song) => (
-                  <SongCard key={song.id} song={song} />
+                  <SongCard key={song.id} song={song} linesLearned={progress[song.id]?.completedLines?.length ?? 0} />
                 ))}
               </div>
             </div>
@@ -133,14 +140,15 @@ export default function SongsPage() {
         </div>
       </main>
 
-      <BottomNav active="home" />
+      <BottomNav active="songs" />
     </div>
   );
 }
 
-function SongCard({ song }: { song: SongIndexEntry }) {
+function SongCard({ song, linesLearned }: { song: SongIndexEntry; linesLearned: number }) {
   const hasLessons = song.lessons && song.lessons.length > 0;
   const practiceLines = Math.min(song.uniqueKoreanLines, 15);
+  const pct = practiceLines > 0 ? Math.round((linesLearned / practiceLines) * 100) : 0;
 
   return (
     <Link
@@ -151,11 +159,22 @@ function SongCard({ song }: { song: SongIndexEntry }) {
         <div className="flex-1 min-w-0">
           <h3 className="font-bold text-sm truncate">{song.title}</h3>
           <p className="text-xs text-muted mt-0.5">{song.artist}</p>
+          {linesLearned > 0 && (
+            <div className="mt-2">
+              <div className="flex items-center justify-between mb-1">
+                <span className="text-[10px] text-accent font-semibold">{linesLearned}/{practiceLines} lines</span>
+                <span className="text-[10px] text-faint">{pct}%</span>
+              </div>
+              <div className="h-1 bg-border rounded-full overflow-hidden">
+                <div className="h-full bg-accent rounded-full transition-all" style={{ width: `${Math.min(pct, 100)}%` }} />
+              </div>
+            </div>
+          )}
         </div>
         <div className="flex flex-col items-end gap-1 flex-shrink-0">
-          <span className="text-xs text-faint">
-            ~{practiceLines} lines
-          </span>
+          {linesLearned === 0 && (
+            <span className="text-xs text-faint">~{practiceLines} lines</span>
+          )}
           {hasLessons && (
             <span className="text-[9px] bg-accent-light text-accent px-1.5 py-0.5 rounded-md font-semibold">
               L{song.lessons!.map((l) => l.lessonNumber).join(",")}

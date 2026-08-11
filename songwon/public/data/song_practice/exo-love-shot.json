@@ -1,0 +1,410 @@
+{
+  "songId": "exo-love-shot",
+  "lines": [
+    {
+      "korean": "차갑도록 서롤 겨눈 채",
+      "english": "Coldly aiming at each other",
+      "words": [
+        {
+          "korean": "차갑도록",
+          "english": "to the point of coldness",
+          "role": "adverb"
+        },
+        {
+          "korean": "서롤",
+          "english": "each other",
+          "role": "pronoun"
+        },
+        {
+          "korean": "겨눈",
+          "english": "aiming at",
+          "role": "verb"
+        },
+        {
+          "korean": "채",
+          "english": "while/in the state of",
+          "role": "particle"
+        }
+      ],
+      "grammar": {
+        "pattern": "-도록",
+        "meaning": "to the extent/degree that",
+        "note": "Used here with 차갑다 to express 'cold to the point where' — emphasizing how extremely cold the atmosphere is"
+      }
+    },
+    {
+      "korean": "날이 선 듯 그 목소리엔",
+      "english": "In that voice, sharp as a blade",
+      "words": [
+        {
+          "korean": "날이 선",
+          "english": "sharp/edged",
+          "role": "adjective"
+        },
+        {
+          "korean": "듯",
+          "english": "as if/like",
+          "role": "particle"
+        },
+        {
+          "korean": "그",
+          "english": "that",
+          "role": "adjective"
+        },
+        {
+          "korean": "목소리엔",
+          "english": "in the voice",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯",
+        "meaning": "as if/seeming like",
+        "note": "Creates a simile comparing the sharpness of the voice to a blade's edge, without stating it directly"
+      }
+    },
+    {
+      "korean": "숨막히는 것만 가득해",
+      "english": "It's filled with nothing but suffocation",
+      "words": [
+        {
+          "korean": "숨막히는",
+          "english": "suffocating",
+          "role": "adjective"
+        },
+        {
+          "korean": "것만",
+          "english": "only things/nothing but",
+          "role": "noun"
+        },
+        {
+          "korean": "가득해",
+          "english": "is full of",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "굳게 닫아버린 서로의 맘이 애써 외면하는 걸",
+      "english": "Hearts that have shut each other out, forcing themselves to look away",
+      "words": [
+        {
+          "korean": "굳게",
+          "english": "firmly/tightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "닫아버린",
+          "english": "shut closed (completely)",
+          "role": "verb"
+        },
+        {
+          "korean": "서로의",
+          "english": "each other's",
+          "role": "pronoun"
+        },
+        {
+          "korean": "맘이",
+          "english": "heart/feelings",
+          "role": "noun"
+        },
+        {
+          "korean": "애써",
+          "english": "trying hard/forcing",
+          "role": "adverb"
+        },
+        {
+          "korean": "외면하는 걸",
+          "english": "looking away/ignoring",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to do completely/finish doing",
+        "note": "닫아버린 emphasizes the finality and completeness of shutting their hearts — it's not just closed, it's firmly shut away"
+      }
+    },
+    {
+      "korean": "타들어가",
+      "english": "Burning up",
+      "words": [
+        {
+          "korean": "타들어가",
+          "english": "burning up/being consumed",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 가다",
+        "meaning": "progressively/gradually doing",
+        "note": "Shows the burning is an ongoing process that continues and intensifies over time"
+      }
+    },
+    {
+      "korean": "갈라질 듯 숨이 막혀와",
+      "english": "My breath catches as if it's about to crack apart",
+      "words": [
+        {
+          "korean": "갈라질 듯",
+          "english": "as if about to split/crack",
+          "role": "expression"
+        },
+        {
+          "korean": "숨이",
+          "english": "breath",
+          "role": "noun"
+        },
+        {
+          "korean": "막혀와",
+          "english": "is being blocked/catching",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 듯",
+        "meaning": "as if about to/seeming like it will",
+        "note": "Describes a feeling at the breaking point — about to crack but hasn't yet, creating tension"
+      }
+    },
+    {
+      "korean": "이 한 잔을 가득히 담아",
+      "english": "Filling this one glass to the brim",
+      "words": [
+        {
+          "korean": "이 한 잔을",
+          "english": "this one glass",
+          "role": "noun"
+        },
+        {
+          "korean": "가득히",
+          "english": "to the brim/fully",
+          "role": "adverb"
+        },
+        {
+          "korean": "담아",
+          "english": "filling/pouring into",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "넘칠 듯한 위태론 오늘 밤을 난",
+      "english": "Tonight feels so precarious, like it's about to overflow",
+      "words": [
+        {
+          "korean": "넘칠 듯한",
+          "english": "as if about to overflow",
+          "role": "expression"
+        },
+        {
+          "korean": "위태론",
+          "english": "precarious/dangerous",
+          "role": "adjective"
+        },
+        {
+          "korean": "오늘 밤을",
+          "english": "tonight",
+          "role": "noun"
+        },
+        {
+          "korean": "난",
+          "english": "I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "비틀려버린 love and hate",
+      "english": "Love twisted into love and hate",
+      "words": [
+        {
+          "korean": "비틀려버린",
+          "english": "twisted/distorted",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to end up doing/become completely",
+        "note": "비틀려버린 shows the love has been completely transformed into something twisted, a mix of love and hate"
+      }
+    },
+    {
+      "korean": "하얗게 물들여져 조금씩 바래어가",
+      "english": "Dyed white, fading little by little",
+      "words": [
+        {
+          "korean": "하얗게",
+          "english": "white/whitely",
+          "role": "adverb"
+        },
+        {
+          "korean": "물들여져",
+          "english": "being dyed/stained",
+          "role": "verb"
+        },
+        {
+          "korean": "조금씩",
+          "english": "little by little",
+          "role": "adverb"
+        },
+        {
+          "korean": "바래어가",
+          "english": "fading away",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 가다",
+        "meaning": "progressively changing",
+        "note": "바래어가 shows the memories are gradually fading over time, an ongoing process rather than instant"
+      }
+    },
+    {
+      "korean": "매일 더 깊어져",
+      "english": "Getting deeper every day",
+      "words": [
+        {
+          "korean": "매일",
+          "english": "every day",
+          "role": "noun"
+        },
+        {
+          "korean": "더",
+          "english": "more",
+          "role": "adverb"
+        },
+        {
+          "korean": "깊어져",
+          "english": "getting deeper",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "눈과 귀를 막고 억지로 헤매봐도 결국 정답은 love",
+      "english": "Even if I cover my eyes and ears and wander around forcing myself, in the end the answer is love",
+      "words": [
+        {
+          "korean": "눈과 귀를",
+          "english": "eyes and ears",
+          "role": "noun"
+        },
+        {
+          "korean": "막고",
+          "english": "covering/blocking",
+          "role": "verb"
+        },
+        {
+          "korean": "억지로",
+          "english": "forcibly/forcing oneself",
+          "role": "adverb"
+        },
+        {
+          "korean": "헤매봐도",
+          "english": "even if wandering",
+          "role": "verb"
+        },
+        {
+          "korean": "결국",
+          "english": "in the end/ultimately",
+          "role": "adverb"
+        },
+        {
+          "korean": "정답은",
+          "english": "the answer is",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 봐도",
+        "meaning": "even if one tries doing",
+        "note": "헤매봐도 shows that despite attempting to wander and avoid it, the conclusion remains the same"
+      }
+    },
+    {
+      "korean": "이제 다시 채워 들어보자 다",
+      "english": "Now let's fill it up again, all of it",
+      "words": [
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "다시",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "채워",
+          "english": "fill up",
+          "role": "verb"
+        },
+        {
+          "korean": "들어보자",
+          "english": "let's try to",
+          "role": "verb"
+        },
+        {
+          "korean": "다",
+          "english": "all/everything",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ/자",
+        "meaning": "let's do",
+        "note": "Propositional ending suggesting an action together — here, suggesting to refill the emptied glass of compassion"
+      }
+    },
+    {
+      "korean": "세상에 멈춰선 너와 난",
+      "english": "You and I, frozen in this world",
+      "words": [
+        {
+          "korean": "세상에",
+          "english": "in the world",
+          "role": "noun"
+        },
+        {
+          "korean": "멈춰선",
+          "english": "stopped/frozen",
+          "role": "verb"
+        },
+        {
+          "korean": "너와 난",
+          "english": "you and I",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "심장이 타 메마르다 갈라질 듯한",
+      "english": "My heart burns, dries up, as if about to crack",
+      "words": [
+        {
+          "korean": "심장이",
+          "english": "heart",
+          "role": "noun"
+        },
+        {
+          "korean": "타",
+          "english": "burns",
+          "role": "verb"
+        },
+        {
+          "korean": "메마르다",
+          "english": "dries up",
+          "role": "verb"
+        },
+        {
+          "korean": "갈라질 듯한",
+          "english": "as if about to crack",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

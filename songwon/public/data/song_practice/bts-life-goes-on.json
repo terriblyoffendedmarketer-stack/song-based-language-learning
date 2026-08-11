@@ -1,0 +1,340 @@
+{
+  "songId": "bts-life-goes-on",
+  "lines": [
+    {
+      "korean": "어느 날 세상이 멈췄어",
+      "english": "One day the world stopped",
+      "words": [
+        {
+          "korean": "어느 날",
+          "english": "one day",
+          "role": "noun"
+        },
+        {
+          "korean": "세상이",
+          "english": "the world",
+          "role": "noun"
+        },
+        {
+          "korean": "멈췄어",
+          "english": "stopped",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아무런 예고도 하나 없이",
+      "english": "Without any warning at all",
+      "words": [
+        {
+          "korean": "아무런",
+          "english": "any",
+          "role": "adjective"
+        },
+        {
+          "korean": "예고도",
+          "english": "warning even",
+          "role": "noun"
+        },
+        {
+          "korean": "하나 없이",
+          "english": "not one, without",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "봄은 기다림을 몰라서",
+      "english": "Spring doesn't know how to wait",
+      "words": [
+        {
+          "korean": "봄은",
+          "english": "spring",
+          "role": "noun"
+        },
+        {
+          "korean": "기다림을",
+          "english": "waiting",
+          "role": "noun"
+        },
+        {
+          "korean": "몰라서",
+          "english": "doesn't know, so",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어서",
+        "meaning": "because, so",
+        "note": "Shows reason or cause — spring came early because it doesn't understand the concept of waiting"
+      }
+    },
+    {
+      "korean": "눈치 없이 와버렸어",
+      "english": "It came without noticing",
+      "words": [
+        {
+          "korean": "눈치 없이",
+          "english": "without noticing/reading the room",
+          "role": "expression"
+        },
+        {
+          "korean": "와버렸어",
+          "english": "came (and did something regrettable)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 버리다",
+        "meaning": "to do something completely/regrettably",
+        "note": "와버렸어 suggests spring arrived despite the inappropriate timing, with a sense of 'it just went and did it'"
+      }
+    },
+    {
+      "korean": "발자국이 지워진 거리",
+      "english": "Streets where footprints have been erased",
+      "words": [
+        {
+          "korean": "발자국이",
+          "english": "footprints",
+          "role": "noun"
+        },
+        {
+          "korean": "지워진",
+          "english": "erased, wiped out",
+          "role": "verb"
+        },
+        {
+          "korean": "거리",
+          "english": "street",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "혼자 가네 시간이",
+      "english": "Time goes on alone",
+      "words": [
+        {
+          "korean": "혼자",
+          "english": "alone",
+          "role": "adverb"
+        },
+        {
+          "korean": "가네",
+          "english": "goes",
+          "role": "verb"
+        },
+        {
+          "korean": "시간이",
+          "english": "time",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "오늘도 비가 내릴 것 같아",
+      "english": "Today it feels like it'll rain again",
+      "words": [
+        {
+          "korean": "오늘도",
+          "english": "today too/again",
+          "role": "noun"
+        },
+        {
+          "korean": "비가",
+          "english": "rain",
+          "role": "noun"
+        },
+        {
+          "korean": "내릴",
+          "english": "will fall",
+          "role": "verb"
+        },
+        {
+          "korean": "것 같아",
+          "english": "it seems like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ 것 같아",
+        "meaning": "it seems like, I think",
+        "note": "Expresses a soft assumption or guess about the future — 'it feels like it will rain'"
+      }
+    },
+    {
+      "korean": "나 겨우 사람인가 봐",
+      "english": "I guess I'm just barely human",
+      "words": [
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "겨우",
+          "english": "barely, only just",
+          "role": "adverb"
+        },
+        {
+          "korean": "사람인가 봐",
+          "english": "I guess I'm human",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ가/나 봐",
+        "meaning": "it seems, I guess",
+        "note": "Expresses a realization or assumption based on observation — realizing one's human limitations"
+      }
+    },
+    {
+      "korean": "끝이 보이지 않아",
+      "english": "I can't see the end",
+      "words": [
+        {
+          "korean": "끝이",
+          "english": "end",
+          "role": "noun"
+        },
+        {
+          "korean": "보이지 않아",
+          "english": "can't be seen, isn't visible",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "잠시 두 눈을 감아",
+      "english": "Close your eyes for a moment",
+      "words": [
+        {
+          "korean": "잠시",
+          "english": "for a moment",
+          "role": "adverb"
+        },
+        {
+          "korean": "두 눈을",
+          "english": "two eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "감아",
+          "english": "close",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "하루가 돌아오겠지",
+      "english": "A day will probably come back around",
+      "words": [
+        {
+          "korean": "하루가",
+          "english": "a day",
+          "role": "noun"
+        },
+        {
+          "korean": "돌아오겠지",
+          "english": "will probably come back",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠지",
+        "meaning": "probably will, I suppose",
+        "note": "Soft future presumption — expresses hopeful expectation rather than certainty that normal days will return"
+      }
+    },
+    {
+      "korean": "아무 일도 없단 듯이",
+      "english": "As if nothing happened",
+      "words": [
+        {
+          "korean": "아무 일도",
+          "english": "nothing, no event",
+          "role": "noun"
+        },
+        {
+          "korean": "없단 듯이",
+          "english": "as if there isn't",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-단 듯이",
+        "meaning": "as if, as though",
+        "note": "Describes life resuming its rhythm as if the disruption never occurred — contracted form of 없다는 듯이"
+      }
+    },
+    {
+      "korean": "또 하루 더 날아가지",
+      "english": "One more day flies off",
+      "words": [
+        {
+          "korean": "또",
+          "english": "again, another",
+          "role": "adverb"
+        },
+        {
+          "korean": "하루 더",
+          "english": "one more day",
+          "role": "noun"
+        },
+        {
+          "korean": "날아가지",
+          "english": "flies away",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다행히도 우리 사이는 아직 여태 안 변했네",
+      "english": "Thankfully, the bond between us still hasn't changed, even now",
+      "words": [
+        {
+          "korean": "다행히도",
+          "english": "thankfully, fortunately",
+          "role": "adverb"
+        },
+        {
+          "korean": "우리 사이는",
+          "english": "between us, our relationship",
+          "role": "noun"
+        },
+        {
+          "korean": "아직 여태",
+          "english": "still, even now",
+          "role": "adverb"
+        },
+        {
+          "korean": "안 변했네",
+          "english": "hasn't changed",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "늘 하던 시작과 끝 '안녕'이란 말로",
+      "english": "With the words we always start and end with, 'hello'",
+      "words": [
+        {
+          "korean": "늘 하던",
+          "english": "always did/used to do",
+          "role": "verb"
+        },
+        {
+          "korean": "시작과 끝",
+          "english": "start and end",
+          "role": "noun"
+        },
+        {
+          "korean": "안녕이란 말로",
+          "english": "with the word 'hello/goodbye'",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}

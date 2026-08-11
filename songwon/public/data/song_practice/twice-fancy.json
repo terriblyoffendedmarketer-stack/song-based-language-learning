@@ -1,0 +1,365 @@
+{
+  "songId": "twice-fancy",
+  "lines": [
+    {
+      "korean": "지금 하늘 구름 색은 Tropical, yeah",
+      "english": "The color of the clouds in the sky right now is tropical, yeah",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "하늘 구름",
+          "english": "sky clouds",
+          "role": "noun"
+        },
+        {
+          "korean": "색은",
+          "english": "color (topic)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "저 태양 빨간빛 네 두 볼 같아",
+      "english": "That sun's red light looks like your two cheeks",
+      "words": [
+        {
+          "korean": "저 태양",
+          "english": "that sun",
+          "role": "noun"
+        },
+        {
+          "korean": "빨간빛",
+          "english": "red light",
+          "role": "noun"
+        },
+        {
+          "korean": "네 두 볼",
+          "english": "your two cheeks",
+          "role": "noun"
+        },
+        {
+          "korean": "같아",
+          "english": "looks like",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "따끔해 넌 장미 같아",
+      "english": "It stings, you're like a rose",
+      "words": [
+        {
+          "korean": "따끔해",
+          "english": "it stings",
+          "role": "verb"
+        },
+        {
+          "korean": "넌",
+          "english": "you (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "장미 같아",
+          "english": "like a rose",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-같아",
+        "meaning": "like/similar to",
+        "note": "Used to compare someone or something to another thing — here comparing the person to a rose that's beautiful but pricks."
+      }
+    },
+    {
+      "korean": "괜찮아 조금도 난 겁나지 않아",
+      "english": "It's fine, I'm not scared at all",
+      "words": [
+        {
+          "korean": "괜찮아",
+          "english": "it's fine",
+          "role": "adjective"
+        },
+        {
+          "korean": "조금도",
+          "english": "not at all",
+          "role": "adverb"
+        },
+        {
+          "korean": "난",
+          "english": "I (topic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "겁나지 않아",
+          "english": "not scared",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "더 세게 꼭 잡아 Take my hand",
+      "english": "Grip tighter, hold on tight, take my hand",
+      "words": [
+        {
+          "korean": "더 세게",
+          "english": "more strongly/tighter",
+          "role": "adverb"
+        },
+        {
+          "korean": "꼭",
+          "english": "firmly/tightly",
+          "role": "adverb"
+        },
+        {
+          "korean": "잡아",
+          "english": "hold/grab",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "달콤한 초콜릿 아이스크림처럼 녹아버리는 지금 내 기분",
+      "english": "Like sweet chocolate ice cream, my mood right now is melting away",
+      "words": [
+        {
+          "korean": "달콤한",
+          "english": "sweet",
+          "role": "adjective"
+        },
+        {
+          "korean": "초콜릿 아이스크림처럼",
+          "english": "like chocolate ice cream",
+          "role": "expression"
+        },
+        {
+          "korean": "녹아버리는",
+          "english": "melting away completely",
+          "role": "verb"
+        },
+        {
+          "korean": "지금 내 기분",
+          "english": "my mood right now",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like/as",
+        "note": "Used to make comparisons — here describing how the speaker's feelings are melting like ice cream."
+      }
+    },
+    {
+      "korean": "깜깜한 우주 속 가장 반짝이는 저 별",
+      "english": "In the pitch-dark universe, that star shining the brightest",
+      "words": [
+        {
+          "korean": "깜깜한",
+          "english": "pitch-dark",
+          "role": "adjective"
+        },
+        {
+          "korean": "우주 속",
+          "english": "in the universe",
+          "role": "noun"
+        },
+        {
+          "korean": "가장 반짝이는",
+          "english": "shining the brightest",
+          "role": "verb"
+        },
+        {
+          "korean": "저 별",
+          "english": "that star",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "거기 너 I fancy you",
+      "english": "You there, I fancy you",
+      "words": [
+        {
+          "korean": "거기",
+          "english": "there",
+          "role": "adverb"
+        },
+        {
+          "korean": "너",
+          "english": "you",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "아무나 원하지 않아",
+      "english": "I don't want just anyone",
+      "words": [
+        {
+          "korean": "아무나",
+          "english": "just anyone",
+          "role": "pronoun"
+        },
+        {
+          "korean": "원하지 않아",
+          "english": "don't want",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "꿈처럼 행복해도 돼",
+      "english": "It's okay to be happy like a dream",
+      "words": [
+        {
+          "korean": "꿈처럼",
+          "english": "like a dream",
+          "role": "expression"
+        },
+        {
+          "korean": "행복해도 돼",
+          "english": "it's okay to be happy",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어도 돼",
+        "meaning": "it's okay to ~",
+        "note": "Gives permission or reassurance — here telling herself it's fine to feel this happy even though it seems unreal."
+      }
+    },
+    {
+      "korean": "누가 먼저 좋아하면 어때",
+      "english": "What does it matter who likes who first?",
+      "words": [
+        {
+          "korean": "누가 먼저",
+          "english": "who first",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아하면",
+          "english": "if (someone) likes",
+          "role": "verb"
+        },
+        {
+          "korean": "어때",
+          "english": "so what/what does it matter",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면 어때",
+        "meaning": "so what if ~? / what does it matter if ~?",
+        "note": "A rhetorical question dismissing concern about something — here saying it doesn't matter who confessed feelings first."
+      }
+    },
+    {
+      "korean": "지금 너에게로 갈래",
+      "english": "I'm going to you right now",
+      "words": [
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "너에게로",
+          "english": "to you",
+          "role": "noun"
+        },
+        {
+          "korean": "갈래",
+          "english": "I'll go / I want to go",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "연기처럼 훅 사라질까",
+      "english": "Will it vanish suddenly like smoke?",
+      "words": [
+        {
+          "korean": "연기처럼",
+          "english": "like smoke",
+          "role": "expression"
+        },
+        {
+          "korean": "훅",
+          "english": "suddenly/whoosh",
+          "role": "adverb"
+        },
+        {
+          "korean": "사라질까",
+          "english": "will it disappear?",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄹ까",
+        "meaning": "I wonder if ~ / will it ~?",
+        "note": "Expresses uncertainty or worry about a future possibility — here wondering if this feeling will disappear."
+      }
+    },
+    {
+      "korean": "늘 가득히 담아 널 두 눈에 담아",
+      "english": "Always keeping you full, I hold you in my two eyes",
+      "words": [
+        {
+          "korean": "늘",
+          "english": "always",
+          "role": "adverb"
+        },
+        {
+          "korean": "가득히 담아",
+          "english": "fill up/keep full",
+          "role": "verb"
+        },
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "두 눈에 담아",
+          "english": "hold in my eyes",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "몰래 뒤에서 안아 널 놓지 않을래",
+      "english": "I'll hug you secretly from behind, I won't let you go",
+      "words": [
+        {
+          "korean": "몰래",
+          "english": "secretly",
+          "role": "adverb"
+        },
+        {
+          "korean": "뒤에서 안아",
+          "english": "hug from behind",
+          "role": "verb"
+        },
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "놓지 않을래",
+          "english": "I won't let go",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않을래",
+        "meaning": "I won't ~",
+        "note": "A gentle but firm declaration of intent — softer than -지 않겠어 but still expressing a clear decision not to do something."
+      }
+    }
+  ]
+}

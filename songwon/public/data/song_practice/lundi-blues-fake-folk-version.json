@@ -1,0 +1,360 @@
+{
+  "songId": "lundi-blues-fake-folk-version",
+  "lines": [
+    {
+      "korean": "늘어나는 번호들",
+      "english": "Phone numbers keep piling up",
+      "words": [
+        {
+          "korean": "늘어나는",
+          "english": "increasing/piling up",
+          "role": "verb"
+        },
+        {
+          "korean": "번호들",
+          "english": "numbers",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는",
+        "meaning": "present tense modifier for verbs",
+        "note": "늘어나다 (to increase) becomes 늘어나는 to modify the noun 번호들, describing an ongoing state"
+      }
+    },
+    {
+      "korean": "줄어드는 친구들",
+      "english": "Friends keep disappearing",
+      "words": [
+        {
+          "korean": "줄어드는",
+          "english": "decreasing/shrinking",
+          "role": "verb"
+        },
+        {
+          "korean": "친구들",
+          "english": "friends",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "울리지도 않는 폰폰폰",
+      "english": "A phone phone phone that doesn't even ring",
+      "words": [
+        {
+          "korean": "울리지도 않는",
+          "english": "doesn't even ring",
+          "role": "verb"
+        },
+        {
+          "korean": "폰폰폰",
+          "english": "phone phone phone",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지도 않다",
+        "meaning": "doesn't even ~",
+        "note": "Emphasizes that even the most basic expectation (the phone ringing) isn't met"
+      }
+    },
+    {
+      "korean": "줄어드는 잔고들",
+      "english": "Bank balances shrinking",
+      "words": [
+        {
+          "korean": "줄어드는",
+          "english": "shrinking/decreasing",
+          "role": "verb"
+        },
+        {
+          "korean": "잔고들",
+          "english": "balances (bank)",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "모이지도 않는 돈돈돈",
+      "english": "Money money money that won't even accumulate",
+      "words": [
+        {
+          "korean": "모이지도 않는",
+          "english": "doesn't even gather/accumulate",
+          "role": "verb"
+        },
+        {
+          "korean": "돈돈돈",
+          "english": "money money money",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지도 않다",
+        "meaning": "doesn't even ~",
+        "note": "Same pattern as before, emphasizing money won't even gather despite expectations"
+      }
+    },
+    {
+      "korean": "맘대로 되는게 하나도 없어 이 세상은",
+      "english": "Nothing goes the way I want it to — this world",
+      "words": [
+        {
+          "korean": "맘대로",
+          "english": "as one wants/freely",
+          "role": "adverb"
+        },
+        {
+          "korean": "되는게",
+          "english": "things that work out",
+          "role": "verb"
+        },
+        {
+          "korean": "하나도 없어",
+          "english": "not even one",
+          "role": "expression"
+        },
+        {
+          "korean": "이 세상은",
+          "english": "this world",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "하나도 없다",
+        "meaning": "not even one/nothing at all",
+        "note": "Combines 하나도 (not even one) with 없어 to express total absence"
+      }
+    },
+    {
+      "korean": "전부 거짓말이네",
+      "english": "Turns out it's all a lie",
+      "words": [
+        {
+          "korean": "전부",
+          "english": "all/everything",
+          "role": "noun"
+        },
+        {
+          "korean": "거짓말이네",
+          "english": "it's a lie",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-네",
+        "meaning": "marks a fresh realization",
+        "note": "Speaker is realizing in the moment that everything they believed was a lie, not stating a known fact"
+      }
+    },
+    {
+      "korean": "너네 다 연애 안한다매",
+      "english": "You all said you weren't dating anyone",
+      "words": [
+        {
+          "korean": "너네",
+          "english": "you all/you guys",
+          "role": "pronoun"
+        },
+        {
+          "korean": "다",
+          "english": "all",
+          "role": "adverb"
+        },
+        {
+          "korean": "연애",
+          "english": "dating/romance",
+          "role": "noun"
+        },
+        {
+          "korean": "안한다매",
+          "english": "said [you] weren't doing",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ다매/-는다매",
+        "meaning": "quoting someone back at them ('you said...')",
+        "note": "Casual form for throwing someone's words back at them with a hint of accusation — 'but you SAID you weren't dating'"
+      }
+    },
+    {
+      "korean": "근데 왜 나만 지키고 있는데",
+      "english": "So why am I the only one keeping it",
+      "words": [
+        {
+          "korean": "근데",
+          "english": "but/so",
+          "role": "connector"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "나만",
+          "english": "only I/just me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "지키고 있는데",
+          "english": "am keeping",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-고 있다",
+        "meaning": "ongoing action (am/is ~ing)",
+        "note": "Shows the speaker is currently and continuously keeping the promise while others aren't"
+      }
+    },
+    {
+      "korean": "이 바보같은 약속을",
+      "english": "This stupid promise",
+      "words": [
+        {
+          "korean": "이",
+          "english": "this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "바보같은",
+          "english": "stupid/foolish",
+          "role": "adjective"
+        },
+        {
+          "korean": "약속을",
+          "english": "promise (object)",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-같은",
+        "meaning": "like/similar to",
+        "note": "바보같은 literally means 'fool-like' but translates naturally as 'stupid' or 'foolish'"
+      }
+    },
+    {
+      "korean": "서른부터 시작이라매",
+      "english": "They said it starts at thirty",
+      "words": [
+        {
+          "korean": "서른부터",
+          "english": "from thirty/starting at thirty",
+          "role": "noun"
+        },
+        {
+          "korean": "시작이라매",
+          "english": "said it's the start",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-라매",
+        "meaning": "said that [something] is ~",
+        "note": "Another quoting-back pattern, used with nouns/copula — 'but you SAID thirty was the start'"
+      }
+    },
+    {
+      "korean": "시작은 커녕 준비도 못했는데",
+      "english": "Far from starting, I haven't even prepared",
+      "words": [
+        {
+          "korean": "시작은 커녕",
+          "english": "far from starting/let alone starting",
+          "role": "expression"
+        },
+        {
+          "korean": "준비도",
+          "english": "even preparation",
+          "role": "noun"
+        },
+        {
+          "korean": "못했는데",
+          "english": "couldn't do/haven't done",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-은/는 커녕",
+        "meaning": "far from ~/let alone ~",
+        "note": "Rejects a lesser claim to emphasize an even stronger point — not only hasn't it started, even preparation failed"
+      }
+    },
+    {
+      "korean": "모두가 나에게 어른이라 부르네",
+      "english": "And yet everyone calls me an adult",
+      "words": [
+        {
+          "korean": "모두가",
+          "english": "everyone",
+          "role": "pronoun"
+        },
+        {
+          "korean": "나에게",
+          "english": "to me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어른이라",
+          "english": "adult/as an adult",
+          "role": "noun"
+        },
+        {
+          "korean": "부르네",
+          "english": "calls",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-라고 부르다",
+        "meaning": "to call [someone/something] ~",
+        "note": "이라 is the shortened casual form of 이라고 before 부르다 (to call)"
+      }
+    },
+    {
+      "korean": "지나가는 내 리즈시절",
+      "english": "My prime years slipping away",
+      "words": [
+        {
+          "korean": "지나가는",
+          "english": "passing by/slipping away",
+          "role": "verb"
+        },
+        {
+          "korean": "내",
+          "english": "my",
+          "role": "pronoun"
+        },
+        {
+          "korean": "리즈시절",
+          "english": "prime years/peak era",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "돌아오지 않을 시간들",
+      "english": "Time that won't come back",
+      "words": [
+        {
+          "korean": "돌아오지 않을",
+          "english": "won't return/won't come back",
+          "role": "verb"
+        },
+        {
+          "korean": "시간들",
+          "english": "times",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않을",
+        "meaning": "will not ~",
+        "note": "Future negation modifying a noun — describes time that definitively will not return"
+      }
+    }
+  ]
+}

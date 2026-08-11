@@ -74,6 +74,23 @@ def extract_texts_from_corpus(corpus_path: str) -> set:
             texts.add(word.strip())
     return texts
 
+def extract_texts_from_song_practice(practice_dir: str) -> set:
+    texts = set()
+    for f in glob.glob(os.path.join(practice_dir, "*.json")):
+        try:
+            d = json.load(open(f))
+        except (json.JSONDecodeError, IOError):
+            continue
+        for line in d.get("lines", []):
+            korean = line.get("korean", "")
+            if has_korean(korean):
+                texts.add(korean.strip())
+            for word in line.get("words", []):
+                k = word.get("korean", "")
+                if has_korean(k):
+                    texts.add(k.strip())
+    return texts
+
 def extract_texts_from_lyrics(lyrics_dir: str) -> set:
     texts = set()
     for f in glob.glob(os.path.join(lyrics_dir, "*.txt")):
@@ -113,6 +130,7 @@ async def main():
     lessons_dir = os.path.join(base, "lessons")
     corpus_path = os.path.join(base, "corpus_analysis.json")
     lyrics_dir = os.path.join(base, "lyrics")
+    song_practice_dir = os.path.join(base, "..", "public", "data", "song_practice")
 
     print("Extracting Korean texts...")
     texts = set()
@@ -124,6 +142,9 @@ async def main():
     lyrics_texts = extract_texts_from_lyrics(lyrics_dir)
     texts |= lyrics_texts
     print(f"  From lyrics: {len(lyrics_texts)} (total: {len(texts)})")
+    practice_texts = extract_texts_from_song_practice(song_practice_dir)
+    texts |= practice_texts
+    print(f"  From song practice: {len(practice_texts)} (total: {len(texts)})")
 
     os.makedirs(CACHE_DIR, exist_ok=True)
 

@@ -1,0 +1,360 @@
+{
+  "songId": "red-velvet-psycho",
+  "lines": [
+    {
+      "korean": "널 어쩌면 좋을까?",
+      "english": "What am I supposed to do with you?",
+      "words": [
+        {
+          "korean": "널",
+          "english": "you (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "어쩌면",
+          "english": "how/what to do",
+          "role": "adverb"
+        },
+        {
+          "korean": "좋을까",
+          "english": "would be good (wondering)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면 좋을까",
+        "meaning": "what should I do / how would it be good",
+        "note": "Used to express wondering about the best course of action, often rhetorically"
+      }
+    },
+    {
+      "korean": "이런 맘은 또 첨이라",
+      "english": "This feeling is a first for me too",
+      "words": [
+        {
+          "korean": "이런 맘은",
+          "english": "this kind of feeling",
+          "role": "noun"
+        },
+        {
+          "korean": "또",
+          "english": "also/again",
+          "role": "adverb"
+        },
+        {
+          "korean": "첨이라",
+          "english": "is a first",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-이라",
+        "meaning": "casual ending stating a fact",
+        "note": "Contracted form of 처음이라, meaning 'it's a first time'; informal way to state something as fact"
+      }
+    },
+    {
+      "korean": "조절이 자꾸 잘 안돼",
+      "english": "I keep failing to control it",
+      "words": [
+        {
+          "korean": "조절이",
+          "english": "control (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "자꾸",
+          "english": "keep/repeatedly",
+          "role": "adverb"
+        },
+        {
+          "korean": "잘 안돼",
+          "english": "doesn't work well",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "잘 안 되다",
+        "meaning": "doesn't go well / fails to work",
+        "note": "Common pattern combining 잘 (well) with the negative 안 되다 to express inability or failure"
+      }
+    },
+    {
+      "korean": "그냥 내가 너무 좋아해",
+      "english": "I just like you too much",
+      "words": [
+        {
+          "korean": "그냥",
+          "english": "just/simply",
+          "role": "adverb"
+        },
+        {
+          "korean": "내가",
+          "english": "I (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "너무",
+          "english": "too much",
+          "role": "adverb"
+        },
+        {
+          "korean": "좋아해",
+          "english": "like",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "날 쥐락펴락해",
+      "english": "You toy with me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "쥐락펴락해",
+          "english": "toy with/control completely",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "쥐락펴락하다",
+        "meaning": "to have someone under one's control, to toy with",
+        "note": "Idiom literally meaning 'to grip and release'; describes having complete emotional control over someone"
+      }
+    },
+    {
+      "korean": "나도 마찬가지인걸",
+      "english": "But I'm exactly the same",
+      "words": [
+        {
+          "korean": "나도",
+          "english": "I too/also",
+          "role": "pronoun"
+        },
+        {
+          "korean": "마찬가지인걸",
+          "english": "am the same (you know)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ걸",
+        "meaning": "soft ending admitting or revealing something",
+        "note": "Casual ending that reveals information about oneself, often with a tone of admission or mild emphasis"
+      }
+    },
+    {
+      "korean": "우린 참 별나고 이상한 사이야",
+      "english": "We're a really strange, odd pair",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "참",
+          "english": "really/truly",
+          "role": "adverb"
+        },
+        {
+          "korean": "별나고 이상한",
+          "english": "strange and odd",
+          "role": "adjective"
+        },
+        {
+          "korean": "사이야",
+          "english": "relationship/pair",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "서로를 부서지게",
+      "english": "Breaking each other",
+      "words": [
+        {
+          "korean": "서로를",
+          "english": "each other (object)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "부서지게",
+          "english": "to the point of breaking",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-게",
+        "meaning": "to the extent that / in a way that",
+        "note": "Adverbial form showing the result or extent of an action; here emphasizing intensity"
+      }
+    },
+    {
+      "korean": "그리곤 또 껴안아",
+      "english": "And then hug again",
+      "words": [
+        {
+          "korean": "그리곤",
+          "english": "and then",
+          "role": "connector"
+        },
+        {
+          "korean": "또",
+          "english": "again",
+          "role": "adverb"
+        },
+        {
+          "korean": "껴안아",
+          "english": "hug/embrace",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "다시 안 볼 듯 싸우다가도",
+      "english": "Even after fighting like we'll never see each other again",
+      "words": [
+        {
+          "korean": "다시 안 볼 듯",
+          "english": "as if we won't see again",
+          "role": "expression"
+        },
+        {
+          "korean": "싸우다가도",
+          "english": "even while fighting",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-다가도",
+        "meaning": "even while/though doing ~",
+        "note": "Shows contrast between two actions; despite doing the first action, something else happens"
+      }
+    },
+    {
+      "korean": "이해가 안 간대",
+      "english": "They say it doesn't make sense",
+      "words": [
+        {
+          "korean": "이해가",
+          "english": "understanding (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "안 간대",
+          "english": "doesn't go, they say",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-대",
+        "meaning": "they say / I heard that",
+        "note": "Casual contraction of -다고 해, used to report what others say without directly endorsing it"
+      }
+    },
+    {
+      "korean": "서로 좋아 죽는 바보 바보",
+      "english": "Fools who are crazy in love with each other",
+      "words": [
+        {
+          "korean": "서로",
+          "english": "each other",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아 죽는",
+          "english": "crazy about/dying from liking",
+          "role": "expression"
+        },
+        {
+          "korean": "바보",
+          "english": "fool/idiot",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 죽다",
+        "meaning": "extremely/dying from ~",
+        "note": "Hyperbolic expression meaning to be extremely affected by something; 좋아 죽다 = crazy in love"
+      }
+    },
+    {
+      "korean": "너 없인 어지럽고 슬퍼져",
+      "english": "Without you I get dizzy and sad",
+      "words": [
+        {
+          "korean": "너 없인",
+          "english": "without you",
+          "role": "expression"
+        },
+        {
+          "korean": "어지럽고",
+          "english": "dizzy and",
+          "role": "adjective"
+        },
+        {
+          "korean": "슬퍼져",
+          "english": "become sad",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어지다",
+        "meaning": "to become ~",
+        "note": "Added to adjectives to show a change of state; 슬프다 becomes 슬퍼지다 (to become sad)"
+      }
+    },
+    {
+      "korean": "둘이 잘 만났대",
+      "english": "They say we're perfect together",
+      "words": [
+        {
+          "korean": "둘이",
+          "english": "the two of us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "잘 만났대",
+          "english": "met well, they say",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "잘 만나다",
+        "meaning": "to be well-matched / to have met the right person",
+        "note": "Idiomatic expression meaning two people are a good match for each other"
+      }
+    },
+    {
+      "korean": "우린 아름답고 참 슬픈 사이야",
+      "english": "We're a beautiful, truly sad pair",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "아름답고",
+          "english": "beautiful and",
+          "role": "adjective"
+        },
+        {
+          "korean": "참 슬픈",
+          "english": "truly sad",
+          "role": "adjective"
+        },
+        {
+          "korean": "사이야",
+          "english": "relationship/pair",
+          "role": "noun"
+        }
+      ]
+    }
+  ]
+}
