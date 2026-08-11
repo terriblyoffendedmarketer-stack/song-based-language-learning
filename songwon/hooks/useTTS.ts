@@ -3,6 +3,25 @@
 import { useCallback, useRef, useState } from "react";
 import { getTTSAudio, saveTTSAudio, deleteTTSAudio } from "@/lib/storage";
 
+let ttsLookup: Record<string, string> | null = null;
+let ttsLookupPromise: Promise<Record<string, string>> | null = null;
+
+async function loadLookup(): Promise<Record<string, string>> {
+  if (ttsLookup) return ttsLookup;
+  if (ttsLookupPromise) return ttsLookupPromise;
+  ttsLookupPromise = fetch("/tts/lookup.json")
+    .then((r) => r.json())
+    .then((data) => {
+      ttsLookup = data;
+      return data;
+    })
+    .catch(() => {
+      ttsLookup = {};
+      return {};
+    });
+  return ttsLookupPromise;
+}
+
 function cleanForTTS(text: string): string {
   return text
     .replace(/[_]{2,}/g, "")
@@ -15,35 +34,27 @@ function cleanForTTS(text: string): string {
 async function fetchTTSBlob(
   text: string,
   cleaned: string,
-  speed?: number
 ): Promise<Blob | null> {
-  const rate = speed && speed !== 1 ? `${speed >= 1 ? "+" : ""}${Math.round((speed - 1) * 100)}%` : undefined;
+  const lookup = await loadLookup();
 
-  // Edge TTS — serves from cache or generates on-demand
+  // Try cleaned text first, then original
+  const hash = lookup[cleaned] || lookup[text];
+  if (hash) {
+    try {
+      const res = await fetch(`/tts/${hash}.mp3`);
+      if (res.ok) return await res.blob();
+    } catch {}
+  }
+
+  // Fallback: try API route (works locally with Python)
   try {
     const res = await fetch("/api/tts-cached", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text: cleaned, rate }),
+      body: JSON.stringify({ text: cleaned }),
     });
     if (res.ok) return await res.blob();
-  } catch {
-    // continue
-  }
-
-  // Try original text if cleaning changed it
-  if (cleaned !== text) {
-    try {
-      const res = await fetch("/api/tts-cached", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ text, rate }),
-      });
-      if (res.ok) return await res.blob();
-    } catch {
-      // continue
-    }
-  }
+  } catch {}
 
   return null;
 }
@@ -52,7 +63,6 @@ export function useTTS() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [usedFallback, setUsedFallback] = useState(false);
   const lastTextRef = useRef<string>("");
-  const lastSpeedRef = useRef<number | undefined>(undefined);
 
   const playBlob = useCallback((blob: Blob) => {
     if (audioRef.current) {
@@ -74,14 +84,13 @@ export function useTTS() {
       if (!cleaned) return;
 
       lastTextRef.current = text;
-      lastSpeedRef.current = speed;
 
       const cacheKey = `${cleaned}__${speed ?? 0.9}`;
 
       let blob: Blob | null = (await getTTSAudio(cacheKey)) ?? null;
 
       if (!blob) {
-        blob = await fetchTTSBlob(text, cleaned, speed);
+        blob = await fetchTTSBlob(text, cleaned);
         if (blob) {
           await saveTTSAudio(cacheKey, blob);
         }
@@ -101,19 +110,15 @@ export function useTTS() {
 
   const retry = useCallback(async () => {
     const text = lastTextRef.current;
-    const speed = lastSpeedRef.current;
     if (!text.trim()) return;
 
     const cleaned = cleanForTTS(text);
     if (!cleaned) return;
 
-    const cacheKey = `${cleaned}__${speed ?? 0.9}`;
-
-    // Clear bad cached entry
+    const cacheKey = `${cleaned}__0.9`;
     await deleteTTSAudio(cacheKey);
 
-    // Fetch fresh
-    const blob = await fetchTTSBlob(text, cleaned, speed);
+    const blob = await fetchTTSBlob(text, cleaned);
     if (blob) {
       await saveTTSAudio(cacheKey, blob);
       setUsedFallback(false);

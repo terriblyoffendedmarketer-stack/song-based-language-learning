@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { loadSongIndex, type SongIndexEntry } from "@/lib/seed-loader";
 import { useTTS } from "@/hooks/useTTS";
 import { KrTip } from "@/components/ui/KrTip";
+import { AudioPlayer } from "@/components/audio/AudioPlayer";
 import { loadPracticeStats } from "@/lib/practice-engine";
 
 interface PracticeLine {
@@ -221,7 +222,9 @@ export default function SongPracticePage({
               <KrTip en="Song complete!">노래 완료!</KrTip>
             </p>
             <p className="text-sm text-muted mt-2">
-              You learned {totalLines} lines from {song.title}
+              <KrTip en={`You learned ${totalLines} lines from ${song.title}`}>
+                {song.title}에서 {totalLines}줄 배웠어요
+              </KrTip>
             </p>
           </div>
 
@@ -297,6 +300,13 @@ export default function SongPracticePage({
         </div>
       </header>
 
+      {/* Song audio player */}
+      <div className="px-4 pt-3">
+        <div className="max-w-lg mx-auto">
+          <AudioPlayer songName={`${song.artist} - ${song.title}`} />
+        </div>
+      </div>
+
       {/* Main content */}
       <main className="flex-1 flex flex-col items-center justify-center px-4 py-8">
         <div className="max-w-lg w-full space-y-8">
@@ -343,7 +353,7 @@ export default function SongPracticePage({
                             {word.english}
                           </span>
                           {isKnown && (
-                            <span className="text-[9px] text-green-500 font-semibold">learned</span>
+                            <span className="text-[9px] text-green-500 font-semibold">배움</span>
                           )}
                           <span className="text-[9px] text-faint">
                             {word.role}
@@ -393,10 +403,10 @@ export default function SongPracticePage({
           {useFallback && state !== "line" && (
             <div className="bg-card border border-border rounded-xl p-5 text-center page-enter">
               <p className="text-xs text-faint mb-2">
-                Practice data coming soon
+                <KrTip en="Practice data coming soon">연습 데이터 준비 중</KrTip>
               </p>
               <p className="text-sm text-muted">
-                Tap the line to hear it, then move to the next one
+                <KrTip en="Tap the line to hear it">가사를 탭하면 들을 수 있어요</KrTip>
               </p>
             </div>
           )}

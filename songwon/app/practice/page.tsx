@@ -6,11 +6,6 @@ import { useTTS } from "@/hooks/useTTS";
 import { KrTip } from "@/components/ui/KrTip";
 import { BottomNav } from "@/components/BottomNav";
 import {
-  loadV5Progress,
-  initTesterMode,
-  isTesterMode,
-} from "@/lib/v5-progress";
-import {
   type VocabItem,
   type GrammarItem,
   type SongPracticeLine,
@@ -48,8 +43,6 @@ export default function PracticePage() {
 
   useEffect(() => {
     async function init() {
-      initTesterMode();
-
       const [vocabRes, grammarRes] = await Promise.all([
         fetch("/data/practice/vocab_pool.json"),
         fetch("/data/practice/grammar_pool.json"),
@@ -59,23 +52,9 @@ export default function PracticePage() {
       setVocab(vocabData);
       setGrammar(grammarData);
 
-      const progress = loadV5Progress();
-      const completed: string[] = [];
-      for (const unit of progress.units) {
-        for (const lesson of unit.lessons) {
-          if (lesson.passed || lesson.attempts > 0) {
-            completed.push(lesson.lessonId);
-          }
-        }
-      }
-
-      if (isTesterMode()) {
-        const allLessons = vocabData.map((v) => v.lessonId);
-        const unique = [...new Set(allLessons)];
-        setCompletedLessons(unique);
-      } else {
-        setCompletedLessons(completed);
-      }
+      // Practice is always ungated — all vocab available
+      const allLessons = [...new Set(vocabData.map((v) => v.lessonId))];
+      setCompletedLessons(allLessons);
 
       setStats(loadPracticeStats());
 
@@ -194,7 +173,7 @@ export default function PracticePage() {
               <KrTip en="Practice">연습</KrTip>
             </h1>
             <p className="text-xs text-muted mt-1">
-              Review vocab & grammar from completed lessons
+              <KrTip en="Review vocab & grammar">배운 단어와 문법 복습</KrTip>
             </p>
           </div>
         </header>
@@ -209,7 +188,7 @@ export default function PracticePage() {
 
               {mastery.total === 0 ? (
                 <p className="text-sm text-muted">
-                  Complete a lesson first to unlock practice!
+                  <KrTip en="Complete a lesson first to unlock practice!">레슨을 먼저 완료하면 연습할 수 있어요!</KrTip>
                 </p>
               ) : (
                 <>
@@ -293,7 +272,7 @@ export default function PracticePage() {
 
             {!hasEnoughVocab && mastery.total > 0 && mastery.total < 4 && (
               <p className="text-xs text-muted text-center">
-                Need at least 4 vocab items for practice. Complete more lessons!
+                <KrTip en="Need at least 4 vocab items. Complete more lessons!">단어가 4개 이상 필요해요. 레슨을 더 완료하세요!</KrTip>
               </p>
             )}
           </div>
@@ -421,19 +400,19 @@ export default function PracticePage() {
               <div className="bg-card border border-border rounded-xl p-4 space-y-2.5 page-enter">
                 {selected !== null && q.options[selected].correct ? (
                   <div>
-                    <p className="text-xs font-semibold text-green-600 mb-1">Correct!</p>
+                    <p className="text-xs font-semibold text-green-600 mb-1"><KrTip en="Correct!">정답!</KrTip></p>
                     <p className="text-xs text-muted">{q.feedback.correctExplanation}</p>
                   </div>
                 ) : selected !== null ? (
                   <div className="space-y-2">
                     <div>
-                      <p className="text-xs font-semibold text-red-500 mb-1">Not quite</p>
+                      <p className="text-xs font-semibold text-red-500 mb-1"><KrTip en="Not quite">아쉬워요</KrTip></p>
                       <p className="text-xs text-muted">
                         {q.feedback.wrongExplanations[q.options[selected].text] || "That's a different word"}
                       </p>
                     </div>
                     <div className="border-t border-border pt-2">
-                      <p className="text-xs font-semibold text-green-600 mb-1">The answer</p>
+                      <p className="text-xs font-semibold text-green-600 mb-1"><KrTip en="The answer">정답은</KrTip></p>
                       <p className="text-xs text-muted">{q.feedback.correctExplanation}</p>
                     </div>
                   </div>
@@ -445,7 +424,7 @@ export default function PracticePage() {
             {sessionState === "feedback" && q.songContext && (
               <div className="bg-card border border-border rounded-xl p-4 text-center page-enter">
                 <p className="text-[10px] text-faint uppercase tracking-wider mb-2">
-                  from a song
+                  <KrTip en="from a song">노래에서</KrTip>
                 </p>
                 <button
                   onClick={() => speak(q.songContext!.korean)}
@@ -499,7 +478,7 @@ export default function PracticePage() {
               </p>
               <p className="text-3xl font-black">{accuracy}%</p>
               <p className="text-sm text-muted">
-                {sessionCorrect}/{sessionTotal} correct
+                {sessionCorrect}/{sessionTotal} <KrTip en="correct">정답</KrTip>
               </p>
             </div>
 
@@ -594,7 +573,7 @@ function ListeningPrompt({
       className="flex flex-col items-center gap-3 hover:text-accent transition-colors"
     >
       <span className="text-5xl">🔊</span>
-      <span className="text-xs text-muted">Tap to replay</span>
+      <span className="text-xs text-muted"><KrTip en="Tap to replay">다시 듣기</KrTip></span>
     </button>
   );
 }

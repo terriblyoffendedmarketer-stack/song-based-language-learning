@@ -70,7 +70,7 @@ export default function SongsPage() {
                 <KrTip en="Song Library">노래 도서관</KrTip>
               </h1>
               <p className="text-xs text-muted">
-                {index.totalSongs} songs · learn any song
+                {index.totalSongs}<KrTip en=" songs · learn any song">곡 · 자유롭게 배우기</KrTip>
               </p>
             </div>
             <Link
@@ -85,7 +85,7 @@ export default function SongsPage() {
             type="text"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search songs or artists..."
+            placeholder="노래 또는 아티스트 검색..."
             className="w-full px-4 py-2.5 rounded-xl border border-border bg-card text-sm placeholder:text-faint focus:outline-none focus:border-accent"
           />
 
@@ -134,7 +134,7 @@ export default function SongsPage() {
           {filtered.length === 0 && (
             <div className="text-center py-12">
               <div className="text-4xl mb-3">🔍</div>
-              <p className="text-sm text-muted">No songs found</p>
+              <p className="text-sm text-muted"><KrTip en="No songs found">검색 결과 없음</KrTip></p>
             </div>
           )}
         </div>

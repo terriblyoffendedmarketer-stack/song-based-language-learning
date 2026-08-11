@@ -106,10 +106,10 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-black tracking-tight">
-                Songwon Korean
+                <KrTip en="Songwon Korean">송원</KrTip>
               </h1>
               <p className="text-xs text-muted">
-                Learn Korean through songs
+                <KrTip en="Learn Korean through songs">노래로 배우는 한국어</KrTip>
               </p>
             </div>
             <div className="flex items-center gap-3">
@@ -139,7 +139,7 @@ export default function Home() {
               className="block bg-accent text-white rounded-2xl p-5 hover:bg-accent-hover transition-colors active:scale-[0.98] shadow-lg shadow-accent/20"
             >
               <p className="text-[10px] uppercase tracking-wider opacity-80">
-                {UNIT_LABELS[nextLesson.unit]} · Lesson {nextLesson.lessonNumber}
+                {UNIT_LABELS[nextLesson.unit]} · {nextLesson.lessonNumber}과
               </p>
               <p className="text-lg font-bold mt-1">{nextLesson.title}</p>
               <div className="flex items-center gap-2 mt-2">
@@ -153,7 +153,7 @@ export default function Home() {
               <div className="mt-3 flex items-center justify-between">
                 <span className="text-sm font-semibold"><KrTip en="Continue learning">계속 학습하기</KrTip> →</span>
                 <span className="text-xs opacity-60">
-                  {nextLesson.screenCount} screens
+                  {nextLesson.screenCount}화면
                 </span>
               </div>
             </Link>
@@ -164,7 +164,7 @@ export default function Home() {
                 <KrTip en="You completed all the lessons!">모든 레슨을 완료했어요!</KrTip>
               </p>
               <p className="text-sm text-muted mt-1">
-                All 20 lessons completed
+                <KrTip en="All 20 lessons completed">20개 레슨 모두 완료</KrTip>
               </p>
             </div>
           )}
@@ -273,7 +273,7 @@ export default function Home() {
                   <KrTip en="Practice">연습</KrTip>
                 </p>
                 <p className="text-xs text-muted mt-0.5">
-                  Review vocab & grammar with spaced repetition
+                  <KrTip en="Review vocab & grammar with spaced repetition">반복 학습으로 단어와 문법 복습</KrTip>
                 </p>
               </div>
               <span className="text-accent text-sm">→</span>
@@ -292,7 +292,7 @@ export default function Home() {
                   <KrTip en="Song Library">노래 도서관</KrTip>
                 </p>
                 <p className="text-xs text-muted mt-0.5">
-                  Learn any of 72 songs line-by-line — no lessons required
+                  <KrTip en="Learn any of 72 songs line-by-line">72곡을 한 줄씩 배우기</KrTip>
                 </p>
                 {songStats.songsStarted > 0 && (
                   <p className="text-xs text-accent mt-1 font-semibold">
@@ -325,23 +325,21 @@ export default function Home() {
           </div>
 
           {/* Spotify playlist */}
-          {spotifyUrl && (
-            <a
-              href={spotifyUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-3 bg-card border border-border rounded-xl p-4 hover:border-green-500/40 transition-colors active:scale-[0.98]"
-            >
-              <span className="text-2xl">🎧</span>
-              <div className="flex-1 min-w-0">
-                <p className="text-sm font-bold">
-                  <KrTip en="Listen on Spotify">Spotify에서 듣기</KrTip>
-                </p>
-                <p className="text-xs text-muted">All 72 study songs in one playlist</p>
-              </div>
-              <span className="text-green-500 text-sm font-semibold">↗</span>
-            </a>
-          )}
+          <a
+            href={spotifyUrl || "https://open.spotify.com/search/korean%20songs"}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-3 bg-card border border-border rounded-xl p-4 hover:border-green-500/40 transition-colors active:scale-[0.98]"
+          >
+            <span className="text-2xl">🎧</span>
+            <div className="flex-1 min-w-0">
+              <p className="text-sm font-bold">
+                <KrTip en="Listen on Spotify">Spotify에서 듣기</KrTip>
+              </p>
+              <p className="text-xs text-muted"><KrTip en="All 72 study songs in one playlist">72곡 학습 플레이리스트</KrTip></p>
+            </div>
+            <span className="text-green-500 text-sm font-semibold">↗</span>
+          </a>
 
           {/* Reminder + Android download */}
           <ReminderSettings />
@@ -353,8 +351,8 @@ export default function Home() {
           >
             <span className="text-2xl">📱</span>
             <div className="flex-1 min-w-0">
-              <p className="text-sm font-bold">Android App</p>
-              <p className="text-xs text-muted">Download APK (3.9 MB)</p>
+              <p className="text-sm font-bold"><KrTip en="Android App">안드로이드 앱</KrTip></p>
+              <p className="text-xs text-muted"><KrTip en="Download APK (3.9 MB)">APK 다운로드 (3.9 MB)</KrTip></p>
             </div>
             <span className="text-accent text-sm font-semibold">↓</span>
           </a>
