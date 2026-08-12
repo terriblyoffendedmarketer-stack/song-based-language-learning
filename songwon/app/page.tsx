@@ -325,10 +325,8 @@ export default function Home() {
           </div>
 
           {/* Spotify playlist */}
-          <a
-            href={spotifyUrl || "https://open.spotify.com/search/korean%20songs"}
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/spotify"
             className="flex items-center gap-3 bg-card border border-border rounded-xl p-4 hover:border-green-500/40 transition-colors active:scale-[0.98]"
           >
             <span className="text-2xl">🎧</span>
@@ -336,10 +334,10 @@ export default function Home() {
               <p className="text-sm font-bold">
                 <KrTip en="Listen on Spotify">Spotify에서 듣기</KrTip>
               </p>
-              <p className="text-xs text-muted"><KrTip en="All 72 study songs in one playlist">72곡 학습 플레이리스트</KrTip></p>
+              <p className="text-xs text-muted"><KrTip en="All 72 study songs on Spotify">72곡 학습 플레이리스트</KrTip></p>
             </div>
-            <span className="text-green-500 text-sm font-semibold">↗</span>
-          </a>
+            <span className="text-green-500 text-sm font-semibold">→</span>
+          </Link>
 
           {/* Reminder + Android download */}
           <ReminderSettings />

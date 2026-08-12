@@ -1331,8 +1331,8 @@ function DictionaryPopup({
         className="fixed inset-0 bg-black/20 z-40"
         onClick={onClose}
       />
-      <div className="fixed bottom-0 left-0 right-0 z-50 animate-slide-up">
-        <div className="max-w-lg mx-auto bg-card border-t border-border rounded-t-2xl p-5 shadow-xl space-y-3">
+      <div className="fixed inset-x-0 bottom-0 z-50 animate-slide-up max-h-[70vh] flex flex-col">
+        <div className="max-w-lg mx-auto w-full bg-card border-t border-border rounded-t-2xl p-5 pb-8 shadow-xl space-y-3 overflow-y-auto">
           <div className="flex items-start justify-between">
             <div>
               <button

@@ -79,11 +79,15 @@ def main():
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
         client_id=client_id,
         client_secret=client_secret,
-        redirect_uri="http://localhost:8888/callback",
+        redirect_uri="http://127.0.0.1:8888/callback",
         scope="playlist-modify-public",
         cache_path=str(PIPELINE_DIR / ".spotify_cache"),
+        open_browser=True,
     ))
 
+    print("If a browser didn't open, check your Spotify Developer Dashboard:")
+    print("  Add http://127.0.0.1:8888/callback as a Redirect URI")
+    print()
     user = sp.current_user()
     print(f"Logged in as: {user['display_name']} ({user['id']})")
 

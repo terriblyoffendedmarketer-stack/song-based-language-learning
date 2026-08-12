@@ -1,0 +1,655 @@
+{
+  "tracks": [
+    {
+      "artist": "BEN",
+      "title": "Just Like a Dream",
+      "spotifyId": "0J2ImJ3WaKokMQ6FGG7OOW",
+      "spotifyUri": "spotify:track:0J2ImJ3WaKokMQ6FGG7OOW",
+      "spotifyUrl": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273cb5f4f3bbc320202916039c9",
+      "previewUrl": null
+    },
+    {
+      "artist": "BIBI",
+      "title": "Very, Slowly",
+      "spotifyId": "7GkHIsnziYgk6j1lx2TK6H",
+      "spotifyUri": "spotify:track:7GkHIsnziYgk6j1lx2TK6H",
+      "spotifyUrl": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2732203ab1155ee6c579c257e55",
+      "previewUrl": null
+    },
+    {
+      "artist": "BOL4",
+      "title": "Love story",
+      "spotifyId": "6uEWYpv8HNAdbwHlqemG1F",
+      "spotifyUri": "spotify:track:6uEWYpv8HNAdbwHlqemG1F",
+      "spotifyUrl": "https://open.spotify.com/track/6uEWYpv8HNAdbwHlqemG1F",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27300f204ea6fac2c0129584107",
+      "previewUrl": null
+    },
+    {
+      "artist": "BOL4",
+      "title": "Seoul",
+      "spotifyId": "4b9LMCUaw55QajVRfrfPyS",
+      "spotifyUri": "spotify:track:4b9LMCUaw55QajVRfrfPyS",
+      "spotifyUrl": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27300f204ea6fac2c0129584107",
+      "previewUrl": null
+    },
+    {
+      "artist": "BOL4",
+      "title": "Some",
+      "spotifyId": "3jsYQw78lrxJA2ysnmOIf9",
+      "spotifyUri": "spotify:track:3jsYQw78lrxJA2ysnmOIf9",
+      "spotifyUrl": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2732cfb66b63fe85ccfff4109b1",
+      "previewUrl": null
+    },
+    {
+      "artist": "BTS",
+      "title": "FAKE LOVE",
+      "spotifyId": "6m1TWFMeon7ai9XLOzdbiR",
+      "spotifyUri": "spotify:track:6m1TWFMeon7ai9XLOzdbiR",
+      "spotifyUrl": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273a274bd961be8afb88d0d5c54",
+      "previewUrl": null
+    },
+    {
+      "artist": "BTS",
+      "title": "Life Goes On",
+      "spotifyId": "5FVbvttjEvQ8r2BgUcJgNg",
+      "spotifyUri": "spotify:track:5FVbvttjEvQ8r2BgUcJgNg",
+      "spotifyUrl": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5",
+      "previewUrl": null
+    },
+    {
+      "artist": "BTS",
+      "title": "Save Me",
+      "spotifyId": "7bxGcILuAjkZzaveU28ZJS",
+      "spotifyUri": "spotify:track:7bxGcILuAjkZzaveU28ZJS",
+      "spotifyUrl": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273cf5fcabbbae09fa45aa5116f",
+      "previewUrl": null
+    },
+    {
+      "artist": "BTS",
+      "title": "Mic Drop",
+      "spotifyId": "4gZGAVECoiutzp64KSHNjE",
+      "spotifyUri": "spotify:track:4gZGAVECoiutzp64KSHNjE",
+      "spotifyUrl": "https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27340f078d0a28bffb93e2e2c11",
+      "previewUrl": null
+    },
+    {
+      "artist": "Suga",
+      "title": "Dwechita",
+      "spotifyId": "4at8MHaxe5hFxcXiO2PPd4",
+      "spotifyUri": "spotify:track:4at8MHaxe5hFxcXiO2PPd4",
+      "spotifyUrl": "https://open.spotify.com/track/4at8MHaxe5hFxcXiO2PPd4",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273a6026aa38b62d9dfe40274d4",
+      "previewUrl": null
+    },
+    {
+      "artist": "BUMKEY",
+      "title": "Family",
+      "spotifyId": "4P4uhkOROHcHUlTNj9UGke",
+      "spotifyUri": "spotify:track:4P4uhkOROHcHUlTNj9UGke",
+      "spotifyUrl": "https://open.spotify.com/track/4P4uhkOROHcHUlTNj9UGke",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730bdc6742bce584b43dd85002",
+      "previewUrl": null
+    },
+    {
+      "artist": "BewhY",
+      "title": "OK (Prod. by GRAY)",
+      "spotifyId": "4JhmTcEhQHjATTLrITH9Ql",
+      "spotifyUri": "spotify:track:4JhmTcEhQHjATTLrITH9Ql",
+      "spotifyUrl": "https://open.spotify.com/track/4JhmTcEhQHjATTLrITH9Ql",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ab2b7e79e5d89472c7f188ad",
+      "previewUrl": null
+    },
+    {
+      "artist": "DAVICHI",
+      "title": "그대니까요",
+      "spotifyId": "6tVpPJbrXvKOuVaNzcuAIo",
+      "spotifyUri": "spotify:track:6tVpPJbrXvKOuVaNzcuAIo",
+      "spotifyUrl": "https://open.spotify.com/track/6tVpPJbrXvKOuVaNzcuAIo",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27351bfa25dac21a9c8b776f066",
+      "previewUrl": null
+    },
+    {
+      "artist": "DAY6",
+      "title": "Shoot Me",
+      "spotifyId": "3krRfDqZgrYwOPU99wowFh",
+      "spotifyUri": "spotify:track:3krRfDqZgrYwOPU99wowFh",
+      "spotifyUrl": "https://open.spotify.com/track/3krRfDqZgrYwOPU99wowFh",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2738ceb4baa1b4ed070cb4498ba",
+      "previewUrl": null
+    },
+    {
+      "artist": "DAY6",
+      "title": "You Were Beautiful",
+      "spotifyId": "3Pqp7yCHo6hbxMS0ZGc93N",
+      "spotifyUri": "spotify:track:3Pqp7yCHo6hbxMS0ZGc93N",
+      "spotifyUrl": "https://open.spotify.com/track/3Pqp7yCHo6hbxMS0ZGc93N",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27376f8bed347c0a289177085f0",
+      "previewUrl": null
+    },
+    {
+      "artist": "Dreamcatcher",
+      "title": "Deja Vu",
+      "spotifyId": "6AYEdM1tM0txlrzDlyH6MU",
+      "spotifyUri": "spotify:track:6AYEdM1tM0txlrzDlyH6MU",
+      "spotifyUrl": "https://open.spotify.com/track/6AYEdM1tM0txlrzDlyH6MU",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ccc3700257175e666de3126e",
+      "previewUrl": null
+    },
+    {
+      "artist": "EXO",
+      "title": "Love Shot",
+      "spotifyId": "0yB4jrSwN0bFtFRDR5vyMj",
+      "spotifyUri": "spotify:track:0yB4jrSwN0bFtFRDR5vyMj",
+      "spotifyUrl": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92",
+      "previewUrl": null
+    },
+    {
+      "artist": "Gaho",
+      "title": "시작",
+      "spotifyId": "6pWKruRKq1dhyUKa4rkhqX",
+      "spotifyUri": "spotify:track:6pWKruRKq1dhyUKa4rkhqX",
+      "spotifyUrl": "https://open.spotify.com/track/6pWKruRKq1dhyUKa4rkhqX",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2739c176966fec78dfc60d37fad",
+      "previewUrl": null
+    },
+    {
+      "artist": "Girls' Generation",
+      "title": "Lion Heart",
+      "spotifyId": "405SQUJdQut02dxtuQ0CZ3",
+      "spotifyUri": "spotify:track:405SQUJdQut02dxtuQ0CZ3",
+      "spotifyUrl": "https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e",
+      "previewUrl": null
+    },
+    {
+      "artist": "Ha Hyun Sang",
+      "title": "Lighthouse",
+      "spotifyId": "6NE7hAW6UFEJWhv2hP6z8X",
+      "spotifyUri": "spotify:track:6NE7hAW6UFEJWhv2hP6z8X",
+      "spotifyUrl": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273b48ee14df764cf20d4daed5b",
+      "previewUrl": null
+    },
+    {
+      "artist": "Heize",
+      "title": "Why",
+      "spotifyId": "1oEMCcw6M6aSVVDURlBFeu",
+      "spotifyUri": "spotify:track:1oEMCcw6M6aSVVDURlBFeu",
+      "spotifyUrl": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU",
+      "title": "Blueming",
+      "spotifyId": "4Dr2hJ3EnVh2Aaot6fRwDO",
+      "spotifyUri": "spotify:track:4Dr2hJ3EnVh2Aaot6fRwDO",
+      "spotifyUrl": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU",
+      "title": "Coin",
+      "spotifyId": "7CZRguMolNqIobnXxpV735",
+      "spotifyUri": "spotify:track:7CZRguMolNqIobnXxpV735",
+      "spotifyUrl": "https://open.spotify.com/track/7CZRguMolNqIobnXxpV735",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU",
+      "title": "Good day",
+      "spotifyId": "1SwZVVH9BnXtLRLi2cbFhw",
+      "spotifyUri": "spotify:track:1SwZVVH9BnXtLRLi2cbFhw",
+      "spotifyUrl": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU",
+      "title": "Through the Night(밤편지)",
+      "spotifyId": "3P3UA61WRQqwCXaoFOTENd",
+      "spotifyUri": "spotify:track:3P3UA61WRQqwCXaoFOTENd",
+      "spotifyUrl": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU",
+      "title": "Meaning of you",
+      "spotifyId": "3ucfniv4fLB3RPA6N9iLM2",
+      "spotifyUri": "spotify:track:3ucfniv4fLB3RPA6N9iLM2",
+      "spotifyUrl": "https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU, SUGA",
+      "title": "eight(Prod.&Feat. SUGA of BTS)",
+      "spotifyId": "0pYacDCZuRhcrwGUA5nTBe",
+      "spotifyUri": "spotify:track:0pYacDCZuRhcrwGUA5nTBe",
+      "spotifyUrl": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247",
+      "previewUrl": null
+    },
+    {
+      "artist": "JANNABI",
+      "title": "dreams, books, power and walls",
+      "spotifyId": "1deQhoZakgMT5fw0t9zliD",
+      "spotifyUri": "spotify:track:1deQhoZakgMT5fw0t9zliD",
+      "spotifyUrl": "https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273f694adfa02990eaca79fec1b",
+      "previewUrl": null
+    },
+    {
+      "artist": "JANNABI",
+      "title": "for lovers who hesitate",
+      "spotifyId": "5BqwC9kOBbqYkzdOKeXFFk",
+      "spotifyUri": "spotify:track:5BqwC9kOBbqYkzdOKeXFFk",
+      "spotifyUrl": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273f694adfa02990eaca79fec1b",
+      "previewUrl": null
+    },
+    {
+      "artist": "JAURIM",
+      "title": "스물다섯, 스물하나",
+      "spotifyId": "3DmDPYRQYdYE5gWf2DiKn2",
+      "spotifyUri": "spotify:track:3DmDPYRQYdYE5gWf2DiKn2",
+      "spotifyUrl": "https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2735857e9e10fe35213764e2f94",
+      "previewUrl": null
+    },
+    {
+      "artist": "JO YURI",
+      "title": "GLASSY",
+      "spotifyId": "6PFfx4sEBWPuFqFB0mgX1D",
+      "spotifyUri": "spotify:track:6PFfx4sEBWPuFqFB0mgX1D",
+      "spotifyUrl": "https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273351ac6effa17d7780a306d24",
+      "previewUrl": null
+    },
+    {
+      "artist": "Jang Beom June",
+      "title": "Your Shampoo Scent In The Flowers",
+      "spotifyId": "49jhaFKylisSzgaReEP2Jt",
+      "spotifyUri": "spotify:track:49jhaFKylisSzgaReEP2Jt",
+      "spotifyUrl": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27351c2dca2df814c291f0b7c6a",
+      "previewUrl": null
+    },
+    {
+      "artist": "Kim Yuna",
+      "title": "The Road",
+      "spotifyId": "2zRCXOKI6z6keb22TyJMb1",
+      "spotifyUri": "spotify:track:2zRCXOKI6z6keb22TyJMb1",
+      "spotifyUrl": "https://open.spotify.com/track/2zRCXOKI6z6keb22TyJMb1",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273827f6e87a67974c739ffdb92",
+      "previewUrl": null
+    },
+    {
+      "artist": "LEEHI",
+      "title": "1, 2, 3, 4",
+      "spotifyId": "1MMuD3VaVq7qqfvRgSrbRs",
+      "spotifyUri": "spotify:track:1MMuD3VaVq7qqfvRgSrbRs",
+      "spotifyUrl": "https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d",
+      "previewUrl": null
+    },
+    {
+      "artist": "LUCY",
+      "title": "I Got U",
+      "spotifyId": "5fZysUhDeq7jY5AJI8YNUE",
+      "spotifyUri": "spotify:track:5fZysUhDeq7jY5AJI8YNUE",
+      "spotifyUrl": "https://open.spotify.com/track/5fZysUhDeq7jY5AJI8YNUE",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ba13b7fccb989a52f3b3136d",
+      "previewUrl": null
+    },
+    {
+      "artist": "Lim Jae Beum",
+      "title": "낙인",
+      "spotifyId": "1H5lkV0ikc6UgAiHxNViIP",
+      "spotifyUri": "spotify:track:1H5lkV0ikc6UgAiHxNViIP",
+      "spotifyUrl": "https://open.spotify.com/track/1H5lkV0ikc6UgAiHxNViIP",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273b710c45ea3316e40b1af18ad",
+      "previewUrl": null
+    },
+    {
+      "artist": "Lundi Blues",
+      "title": "Fake - Folk Version",
+      "spotifyId": "7gW9uZtIzE09ZDT87neMpT",
+      "spotifyUri": "spotify:track:7gW9uZtIzE09ZDT87neMpT",
+      "spotifyUrl": "https://open.spotify.com/track/7gW9uZtIzE09ZDT87neMpT",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273672bbcaaa872a57295adfbfd",
+      "previewUrl": null
+    },
+    {
+      "artist": "Lyn",
+      "title": "Love Story",
+      "spotifyId": "59Jq02jMj7gInyclQePYs8",
+      "spotifyUri": "spotify:track:59Jq02jMj7gInyclQePYs8",
+      "spotifyUrl": "https://open.spotify.com/track/59Jq02jMj7gInyclQePYs8",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27393585d6a3d85d6090bb32dd8",
+      "previewUrl": null
+    },
+    {
+      "artist": "MAMAMOO",
+      "title": "Girl Crush",
+      "spotifyId": "5WGLxlhumdEqAyEgKbVmra",
+      "spotifyUri": "spotify:track:5WGLxlhumdEqAyEgKbVmra",
+      "spotifyUrl": "https://open.spotify.com/track/5WGLxlhumdEqAyEgKbVmra",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2733b87990278416fb13f1b135f",
+      "previewUrl": null
+    },
+    {
+      "artist": "MAMAMOO",
+      "title": "HIP",
+      "spotifyId": "24nK8tW7Pt3Inh2utttuoG",
+      "spotifyUri": "spotify:track:24nK8tW7Pt3Inh2utttuoG",
+      "spotifyUrl": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b",
+      "previewUrl": null
+    },
+    {
+      "artist": "MAMAMOO",
+      "title": "Mr-Ambiguous",
+      "spotifyId": "4VOZzJeoNhvvTaGTztogVt",
+      "spotifyUri": "spotify:track:4VOZzJeoNhvvTaGTztogVt",
+      "spotifyUrl": "https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1",
+      "previewUrl": null
+    },
+    {
+      "artist": "MAMAMOO",
+      "title": "gogobebe",
+      "spotifyId": "6E7jAJN2e3znSHyPCdQqx8",
+      "spotifyUri": "spotify:track:6E7jAJN2e3znSHyPCdQqx8",
+      "spotifyUrl": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08",
+      "previewUrl": null
+    },
+    {
+      "artist": "Moon Byul",
+      "title": "Absence",
+      "spotifyId": "1wj8oNg5fN2zltrUIJGjoN",
+      "spotifyUri": "spotify:track:1wj8oNg5fN2zltrUIJGjoN",
+      "spotifyUrl": "https://open.spotify.com/track/1wj8oNg5fN2zltrUIJGjoN",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ca83f024d1ea6df63274edeb",
+      "previewUrl": null
+    },
+    {
+      "artist": "NC.A, TIKITIK, 유준호, JIAN",
+      "title": "Flashback",
+      "spotifyId": "2FepbJr6icioTD6mZgEX6K",
+      "spotifyUri": "spotify:track:2FepbJr6icioTD6mZgEX6K",
+      "spotifyUrl": "https://open.spotify.com/track/2FepbJr6icioTD6mZgEX6K",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1794b0121fe2790f7f79b82",
+      "previewUrl": null
+    },
+    {
+      "artist": "Park Boram",
+      "title": "Hyehwadong (or Sangmundong)",
+      "spotifyId": "0OPtu3k4727xyRXVV5Yf6d",
+      "spotifyUri": "spotify:track:0OPtu3k4727xyRXVV5Yf6d",
+      "spotifyUrl": "https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27328b63f0c893544f5adc1efcc",
+      "previewUrl": null
+    },
+    {
+      "artist": "Punch",
+      "title": "Done For Me",
+      "spotifyId": "2wHXnLwvKZDNGUTxduk0mJ",
+      "spotifyUri": "spotify:track:2wHXnLwvKZDNGUTxduk0mJ",
+      "spotifyUrl": "https://open.spotify.com/track/2wHXnLwvKZDNGUTxduk0mJ",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273c2ac09335febb2fa2b8de6f3",
+      "previewUrl": null
+    },
+    {
+      "artist": "Raiden, CHANYEOL, LEEHI, CHANGMO",
+      "title": "Yours",
+      "spotifyId": "4KL3FJYexPrPuMdPagHPXp",
+      "spotifyUri": "spotify:track:4KL3FJYexPrPuMdPagHPXp",
+      "spotifyUrl": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2736c971ef3296c879c94128829",
+      "previewUrl": null
+    },
+    {
+      "artist": "Red Velvet",
+      "title": "Psycho",
+      "spotifyId": "3CYH422oy1cZNoo0GTG1TK",
+      "spotifyUri": "spotify:track:3CYH422oy1cZNoo0GTG1TK",
+      "spotifyUrl": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be",
+      "previewUrl": null
+    },
+    {
+      "artist": "SHAUN",
+      "title": "Closed Ending",
+      "spotifyId": "0VHpWpE5QaiBwF2rPdFbaa",
+      "spotifyUri": "spotify:track:0VHpWpE5QaiBwF2rPdFbaa",
+      "spotifyUrl": "https://open.spotify.com/track/0VHpWpE5QaiBwF2rPdFbaa",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ad364eab28862df117b7f40b",
+      "previewUrl": null
+    },
+    {
+      "artist": "SHAUN",
+      "title": "Way Back Home",
+      "spotifyId": "0I8oItfrq8SHNDKNMxNpqD",
+      "spotifyUri": "spotify:track:0I8oItfrq8SHNDKNMxNpqD",
+      "spotifyUrl": "https://open.spotify.com/track/0I8oItfrq8SHNDKNMxNpqD",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27326cad181e9b32c41953ddfa1",
+      "previewUrl": null
+    },
+    {
+      "artist": "SUNMI",
+      "title": "pporappippam",
+      "spotifyId": "7oQh96s9YemWG3A4zkIbrU",
+      "spotifyUri": "spotify:track:7oQh96s9YemWG3A4zkIbrU",
+      "spotifyUrl": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267",
+      "previewUrl": null
+    },
+    {
+      "artist": "Shin In Ryu",
+      "title": "Undecided",
+      "spotifyId": "6IdGaZrX3GwcOmJ1JIIUps",
+      "spotifyUri": "spotify:track:6IdGaZrX3GwcOmJ1JIIUps",
+      "spotifyUrl": "https://open.spotify.com/track/6IdGaZrX3GwcOmJ1JIIUps",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730f94f84a79637e2767c938a1",
+      "previewUrl": null
+    },
+    {
+      "artist": "Sogyumo Acacia Band",
+      "title": "Almost Blue (2019 Remake)",
+      "spotifyId": "0xFgp89BMTcXDAJ04aVR59",
+      "spotifyUri": "spotify:track:0xFgp89BMTcXDAJ04aVR59",
+      "spotifyUrl": "https://open.spotify.com/track/0xFgp89BMTcXDAJ04aVR59",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273cb89398d60d75ed83df8260e",
+      "previewUrl": null
+    },
+    {
+      "artist": "Sogyumo Acacia Band",
+      "title": "Butterfly",
+      "spotifyId": "78jV32rpW1jZpCsfW3JnAt",
+      "spotifyUri": "spotify:track:78jV32rpW1jZpCsfW3JnAt",
+      "spotifyUrl": "https://open.spotify.com/track/78jV32rpW1jZpCsfW3JnAt",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273c07b7cd3b4edbbc4d99913fb",
+      "previewUrl": null
+    },
+    {
+      "artist": "TAEYEON",
+      "title": "11:11",
+      "spotifyId": "67QGnT1Vdfuuy4HkLTUVjj",
+      "spotifyUri": "spotify:track:67QGnT1Vdfuuy4HkLTUVjj",
+      "spotifyUrl": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954",
+      "previewUrl": null
+    },
+    {
+      "artist": "TAEYEON",
+      "title": "Four Seasons",
+      "spotifyId": "4ytyLpIwUXbdFsNOvgNnmP",
+      "spotifyUri": "spotify:track:4ytyLpIwUXbdFsNOvgNnmP",
+      "spotifyUrl": "https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04",
+      "previewUrl": null
+    },
+    {
+      "artist": "TAEYEON",
+      "title": "Weekend",
+      "spotifyId": "6cqH1q7g5GeRVQVMK1Vc7f",
+      "spotifyUri": "spotify:track:6cqH1q7g5GeRVQVMK1Vc7f",
+      "spotifyUrl": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273f4eaffe012c3fc3b73a61bb2",
+      "previewUrl": null
+    },
+    {
+      "artist": "TWICE",
+      "title": "FANCY",
+      "spotifyId": "2IZ6fFOq5d8lT0CxLDcxKz",
+      "spotifyUri": "spotify:track:2IZ6fFOq5d8lT0CxLDcxKz",
+      "spotifyUrl": "https://open.spotify.com/track/2IZ6fFOq5d8lT0CxLDcxKz",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730a19a3bc8b5350c676d64bcf",
+      "previewUrl": null
+    },
+    {
+      "artist": "TWICE",
+      "title": "Feel Special",
+      "spotifyId": "2gN7FWVu7rq1MxJ7DGjhtb",
+      "spotifyUri": "spotify:track:2gN7FWVu7rq1MxJ7DGjhtb",
+      "spotifyUrl": "https://open.spotify.com/track/2gN7FWVu7rq1MxJ7DGjhtb",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273b473ceea0d97c5be6d80caf8",
+      "previewUrl": null
+    },
+    {
+      "artist": "TWICE",
+      "title": "Likey",
+      "spotifyId": "5UwxdcV6s0iE9v5f99tDMg",
+      "spotifyUri": "spotify:track:5UwxdcV6s0iE9v5f99tDMg",
+      "spotifyUrl": "https://open.spotify.com/track/5UwxdcV6s0iE9v5f99tDMg",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273247f8c542b296e9c60d429d6",
+      "previewUrl": null
+    },
+    {
+      "artist": "TWICE",
+      "title": "What is Love?",
+      "spotifyId": "7L81PqO3zKKPsfO7jfyvus",
+      "spotifyUri": "spotify:track:7L81PqO3zKKPsfO7jfyvus",
+      "spotifyUrl": "https://open.spotify.com/track/7L81PqO3zKKPsfO7jfyvus",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2734ddb095ce368de91b088f1ce",
+      "previewUrl": null
+    },
+    {
+      "artist": "YOUNGJOO",
+      "title": "Smells",
+      "spotifyId": "2hVMfsn5QcJplOiUQmuW0k",
+      "spotifyUri": "spotify:track:2hVMfsn5QcJplOiUQmuW0k",
+      "spotifyUrl": "https://open.spotify.com/track/2hVMfsn5QcJplOiUQmuW0k",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273672bbcaaa872a57295adfbfd",
+      "previewUrl": null
+    },
+    {
+      "artist": "IU, G-DRAGON",
+      "title": "Palette (feat. G-DRAGON)",
+      "spotifyId": "3y7ByLZ05tluscOTRgEJ9Y",
+      "spotifyUri": "spotify:track:3y7ByLZ05tluscOTRgEJ9Y",
+      "spotifyUrl": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e",
+      "previewUrl": null
+    },
+    {
+      "artist": "Punch",
+      "title": "Stay With Me",
+      "spotifyId": "1HYzRuWjmS9LXCkdVHi25K",
+      "spotifyUri": "spotify:track:1HYzRuWjmS9LXCkdVHi25K",
+      "spotifyUrl": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa",
+      "previewUrl": null
+    },
+    {
+      "artist": "10cm",
+      "title": "My Eyes",
+      "spotifyId": "0ndIZ2XvGtXV0PIbEAwoIv",
+      "spotifyUri": "spotify:track:0ndIZ2XvGtXV0PIbEAwoIv",
+      "spotifyUrl": "https://open.spotify.com/track/0ndIZ2XvGtXV0PIbEAwoIv",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ae076636e20888fb83bbc2b1",
+      "previewUrl": null
+    },
+    {
+      "artist": "10cm",
+      "title": "Phonecert",
+      "spotifyId": "5Sh2pJT3VWTvkQOXPAaRiC",
+      "spotifyUri": "spotify:track:5Sh2pJT3VWTvkQOXPAaRiC",
+      "spotifyUrl": "https://open.spotify.com/track/5Sh2pJT3VWTvkQOXPAaRiC",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273b6b49f0d0e5d33b707c041ef",
+      "previewUrl": null
+    },
+    {
+      "artist": "10cm",
+      "title": "Stalker",
+      "spotifyId": "5FWMv2Kor3Rl9MoM9Ei0vz",
+      "spotifyUri": "spotify:track:5FWMv2Kor3Rl9MoM9Ei0vz",
+      "spotifyUrl": "https://open.spotify.com/track/5FWMv2Kor3Rl9MoM9Ei0vz",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2736c38e41f13abf275a8cf066f",
+      "previewUrl": null
+    },
+    {
+      "artist": "10cm",
+      "title": "Lean On My Shoulder",
+      "spotifyId": "68WmNRyuRP0wecVz7wUJNX",
+      "spotifyUri": "spotify:track:68WmNRyuRP0wecVz7wUJNX",
+      "spotifyUrl": "https://open.spotify.com/track/68WmNRyuRP0wecVz7wUJNX",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2733e7f0e88ae681205907204c9",
+      "previewUrl": null
+    },
+    {
+      "artist": "Kpop Demon Hunters",
+      "title": "Golden",
+      "spotifyId": "5Cp75TUMrHF6c8xbhdligS",
+      "spotifyUri": "spotify:track:5Cp75TUMrHF6c8xbhdligS",
+      "spotifyUrl": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273333392a83a4514ae635ed982",
+      "previewUrl": null
+    },
+    {
+      "artist": "MOMOLAND",
+      "title": "BBoom BBoom",
+      "spotifyId": "3BPoSr2pO34Aan6alFfVto",
+      "spotifyUri": "spotify:track:3BPoSr2pO34Aan6alFfVto",
+      "spotifyUrl": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c",
+      "previewUrl": null
+    },
+    {
+      "artist": "IVE",
+      "title": "XOXZ",
+      "spotifyId": "2f79jWcTf2pxVxDLdxi1Lm",
+      "spotifyUri": "spotify:track:2f79jWcTf2pxVxDLdxi1Lm",
+      "spotifyUrl": "https://open.spotify.com/track/2f79jWcTf2pxVxDLdxi1Lm",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2738b705cc51c865303af749a0c",
+      "previewUrl": null
+    },
+    {
+      "artist": "IVE",
+      "title": "Baddie",
+      "spotifyId": "0XrDEv1Xe0ZQsS6AmPn04c",
+      "spotifyUri": "spotify:track:0XrDEv1Xe0ZQsS6AmPn04c",
+      "spotifyUrl": "https://open.spotify.com/track/0XrDEv1Xe0ZQsS6AmPn04c",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2733bbc6a71db1759c3b0053135",
+      "previewUrl": null
+    }
+  ],
+  "totalFound": 72,
+  "totalSongs": 72,
+  "notFound": []
+}
