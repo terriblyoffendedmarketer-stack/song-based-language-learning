@@ -757,7 +757,7 @@
   },
   {
     "type": "song-comprehension",
-    "prompt": "지금 이 말이jigeum i mari",
+    "prompt": "지금 이 말이",
     "promptTranslation": "무슨 뜻일까요?",
     "correct": "What I'm saying right now",
     "wrong": [
@@ -765,7 +765,7 @@
       "isn't that we should start over again",
       "it's just that"
     ],
-    "explanation": "지금 이 말이jigeum i mari = What I'm saying right now",
+    "explanation": "지금 이 말이 = What I'm saying right now",
     "lesson": "unit2-lesson5",
     "grammar": "-지만"
   },
@@ -801,13 +801,13 @@
     "type": "line-recall",
     "prompt": "What I'm saying right now",
     "promptTranslation": "어떤 가사일까요?",
-    "correct": "지금 이 말이jigeum i mari",
+    "correct": "지금 이 말이",
     "wrong": [
-      "시작하자는 건 아냐sijakajaneun geon anya",
-      "우리가 다시uriga dasi",
-      "그저 너의geujeo neoui"
+      "시작하자는 건 아냐",
+      "우리가 다시",
+      "그저 너의"
     ],
-    "explanation": "지금 이 말이jigeum i mari",
+    "explanation": "지금 이 말이",
     "lesson": "unit2-lesson5",
     "grammar": "-지만"
   },
@@ -845,7 +845,7 @@
     "promptTranslation": null,
     "correct": "but, although",
     "wrong": [
-      "but / however",
+      "because / so",
       "not at all",
       "always / every time"
     ],
@@ -1123,13 +1123,13 @@
     "type": "song-comprehension",
     "prompt": "설렌다, me likey",
     "promptTranslation": "무슨 뜻일까요?",
-    "correct": "I keep wanting to show it off, again and again",
+    "correct": "My heart flutters, me likey",
     "wrong": [
       "Everything sounds different",
       "every little thing, all of it",
       "I want to look the prettiest inside that small screen"
     ],
-    "explanation": "설렌다, me likey = I keep wanting to show it off, again and again",
+    "explanation": "설렌다, me likey = My heart flutters, me likey",
     "lesson": "unit2-lesson7",
     "grammar": "-지 않다"
   },
@@ -1163,7 +1163,7 @@
   },
   {
     "type": "line-recall",
-    "prompt": "I keep wanting to show it off, again and again",
+    "prompt": "My heart flutters, me likey",
     "promptTranslation": "어떤 가사일까요?",
     "correct": "설렌다, me likey",
     "wrong": [
@@ -1443,7 +1443,7 @@
   },
   {
     "type": "song-comprehension",
-    "prompt": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+    "prompt": "이 밤 그날의 반딧불을",
     "promptTranslation": "무슨 뜻일까요?",
     "correct": "Tonight, I'll send that day's firefly",
     "wrong": [
@@ -1451,7 +1451,7 @@
       "close to your window",
       "it means 'I love you'"
     ],
-    "explanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul = Tonight, I'll send that day's firefly",
+    "explanation": "이 밤 그날의 반딧불을 = Tonight, I'll send that day's firefly",
     "lesson": "unit3-lesson10",
     "grammar": "-(으)ㄹ 것 같다"
   },
@@ -1487,13 +1487,13 @@
     "type": "line-recall",
     "prompt": "Tonight, I'll send that day's firefly",
     "promptTranslation": "어떤 가사일까요?",
-    "correct": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+    "correct": "이 밤 그날의 반딧불을",
     "wrong": [
-      "사랑한다는 말이에요saranghandaneun marieyo",
-      "당신의 창 가까이 보낼게요dangsinui chang gakkai bonaelgeyo",
-      "나 우리의 첫 입맞춤을 떠올려na uriui cheot immatchumeul tteoollyeo"
+      "사랑한다는 말이에요",
+      "당신의 창 가까이 보낼게요",
+      "나 우리의 첫 입맞춤을 떠올려"
     ],
-    "explanation": "이 밤 그날의 반딧불을i bam geunarui banditbureul",
+    "explanation": "이 밤 그날의 반딧불을",
     "lesson": "unit3-lesson10",
     "grammar": "-(으)ㄹ 것 같다"
   },
@@ -1527,9 +1527,9 @@
   },
   {
     "type": "grammar-fill",
-    "prompt": "비가 올 것 ___.",
-    "promptTranslation": "I think it'll rain.",
-    "correct": "(으)ㄹ 것 같다",
+    "prompt": "비가 ___ 같아요.",
+    "promptTranslation": "I think it will rain.",
+    "correct": "올 것",
     "wrong": [
       "아서",
       "처럼",
@@ -1935,12 +1935,13 @@
     "type": "song-comprehension",
     "prompt": "조용히 잠든 방을 열어 기억을 꺼내 들어",
     "promptTranslation": "무슨 뜻일까요?",
-    "correct": "(direct English)",
+    "correct": "I open the quietly sleeping room and take out the memories",
     "wrong": [
       "I can hear other things too",
-      "Everything sounds different"
+      "Everything sounds different",
+      "before the glamorous curtain rises soon"
     ],
-    "explanation": "조용히 잠든 방을 열어 기억을 꺼내 들어 = (direct English)",
+    "explanation": "조용히 잠든 방을 열어 기억을 꺼내 들어 = I open the quietly sleeping room and take out the memories",
     "lesson": "unit3-lesson9",
     "grammar": "-아/어 줘"
   },
@@ -1974,7 +1975,7 @@
   },
   {
     "type": "line-recall",
-    "prompt": "(direct English)",
+    "prompt": "I open the quietly sleeping room and take out the memories",
     "promptTranslation": "어떤 가사일까요?",
     "correct": "조용히 잠든 방을 열어 기억을 꺼내 들어",
     "wrong": [
@@ -2092,7 +2093,7 @@
     "wrong": [
       "Everything sounds different",
       "pretend to be happy even when sad",
-      "if it was for you, I could"
+      "I pretended to be strong even when it hurt"
     ],
     "explanation": "널 위해서라면 난 = If it was for you, I could",
     "lesson": "unit4-lesson13",
@@ -2134,7 +2135,7 @@
     "wrong": [
       "아파도 강한 척 할 수가 있었어",
       "슬퍼도 기쁜 척 할 수가 있었어",
-      "..."
+      "너 없인 안 되는 나를 몰랐었지"
     ],
     "explanation": "널 위해서라면 난",
     "lesson": "unit4-lesson13",
@@ -3024,7 +3025,7 @@
   },
   {
     "type": "fill-blank-song",
-    "prompt": "___이 되었을 거야chueogi doe-eosseul geoya",
+    "prompt": "___이 되었을 거야",
     "promptTranslation": "노래를 완성하세요",
     "correct": "추억",
     "wrong": [
@@ -3032,7 +3033,7 @@
       "시간",
       "향기"
     ],
-    "explanation": "추억이 되었을 거야chueogi doe-eosseul geoya",
+    "explanation": "추억이 되었을 거야",
     "lesson": "unit5-lesson20",
     "grammar": "-던"
   },

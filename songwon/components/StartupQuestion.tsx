@@ -58,7 +58,7 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
         setOptions(shuffled);
         setLoading(false);
 
-        if (pick.q.type === "tap-meaning" || pick.q.type === "fill-blank") {
+        if (pick.q.type === "tap-meaning" || pick.q.type === "song-comprehension") {
           speak(pick.q.prompt);
         }
       })
@@ -72,7 +72,10 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
       if (selected !== null) return;
       setSelected(idx);
       if (options[idx].correct) {
-        speak(question?.prompt ?? "");
+        const full = question?.prompt.includes("___")
+          ? question.prompt.replace("___", question.correct)
+          : question?.prompt ?? "";
+        speak(full);
       }
     },
     [selected, options, speak, question]
@@ -88,7 +91,7 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
 
   const answered = selected !== null;
   const isCorrect = answered && options[selected].correct;
-  const isFillBlank = question.type === "fill-blank";
+  const hasBlank = question.type === "fill-blank" || question.type === "grammar-fill";
 
   return (
     <div className="fixed inset-0 bg-background z-50 flex flex-col">
@@ -102,7 +105,7 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
               {question.prompt}
             </p>
             <p className="text-sm text-muted">
-              {isFillBlank
+              {hasBlank
                 ? question.promptTranslation
                 : "무슨 뜻일까요?"}
             </p>
