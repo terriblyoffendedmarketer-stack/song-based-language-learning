@@ -58,7 +58,7 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
         setOptions(shuffled);
         setLoading(false);
 
-        if (pick.q.type === "tap-meaning" || pick.q.type === "fill-blank") {
+        if (pick.q.type === "tap-meaning" || pick.q.type === "song-comprehension") {
           speak(pick.q.prompt);
         }
       })
@@ -72,7 +72,10 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
       if (selected !== null) return;
       setSelected(idx);
       if (options[idx].correct) {
-        speak(question?.prompt ?? "");
+        const full = question?.prompt.includes("___")
+          ? question.prompt.replace("___", question.correct)
+          : question?.prompt ?? "";
+        speak(full);
       }
     },
     [selected, options, speak, question]
