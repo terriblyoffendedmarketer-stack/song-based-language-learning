@@ -91,7 +91,7 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
 
   const answered = selected !== null;
   const isCorrect = answered && options[selected].correct;
-  const isFillBlank = question.type === "fill-blank";
+  const hasBlank = question.type === "fill-blank" || question.type === "grammar-fill";
 
   return (
     <div className="fixed inset-0 bg-background z-50 flex flex-col">
@@ -105,7 +105,7 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
               {question.prompt}
             </p>
             <p className="text-sm text-muted">
-              {isFillBlank
+              {hasBlank
                 ? question.promptTranslation
                 : "무슨 뜻일까요?"}
             </p>
