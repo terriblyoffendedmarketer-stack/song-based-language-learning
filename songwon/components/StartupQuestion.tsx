@@ -58,7 +58,8 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
         setOptions(shuffled);
         setLoading(false);
 
-        if (pick.q.type === "tap-meaning" || pick.q.type === "song-comprehension") {
+        const hasKorean = /[가-힣]/.test(pick.q.prompt);
+        if ((pick.q.type === "tap-meaning" || pick.q.type === "song-comprehension") && hasKorean) {
           speak(pick.q.prompt);
         }
       })
