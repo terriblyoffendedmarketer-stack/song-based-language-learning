@@ -133,7 +133,7 @@ export default function V5LearnPage({
   return (
     <div className="flex-1 flex flex-col bg-background min-h-screen">
       {/* Progress bar */}
-      <div className="px-4 py-3 border-b border-border sticky top-0 bg-background z-10">
+      <div className="px-4 py-3 border-b border-border sticky bg-background z-10" style={{ top: "env(safe-area-inset-top, 0px)" }}>
         <div className="max-w-lg mx-auto flex items-center gap-3">
           <button
             onClick={() => { clearInProgress(); router.push("/"); }}

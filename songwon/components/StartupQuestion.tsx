@@ -98,16 +98,27 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
   const hasBlank = question.type === "fill-blank" || question.type === "grammar-fill";
 
   return (
-    <div className="fixed inset-0 bg-background z-50 flex flex-col">
+    <div className="fixed inset-0 bg-background z-50 flex flex-col" style={{ paddingTop: "env(safe-area-inset-top, 0px)", paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
       <div className="flex-1 flex flex-col items-center justify-center px-4">
         <div className="max-w-lg w-full space-y-6">
           <div className="text-center">
             <p className="text-[10px] uppercase tracking-wider text-muted mb-1">
               <KrTip en="Daily question">오늘의 문제</KrTip>
             </p>
-            <p className="kr text-3xl font-black text-accent mb-2">
-              {question.prompt}
-            </p>
+            <button
+              onClick={() => {
+                const promptKorean = /[가-힣]/.test(question.prompt);
+                const transKorean = question.promptTranslation && /[가-힣]/.test(question.promptTranslation);
+                if (promptKorean) {
+                  speak(question.prompt.replace(/_{2,}/g, "").replace(/\s{2,}/g, " ").trim());
+                } else if (transKorean) {
+                  speak(question.promptTranslation);
+                }
+              }}
+              className="kr text-3xl font-black text-accent mb-2 hover:opacity-80 transition-opacity"
+            >
+              {question.prompt} <span className="text-faint text-sm">🔊</span>
+            </button>
             <p className="text-sm text-muted">
               {hasBlank
                 ? question.promptTranslation
