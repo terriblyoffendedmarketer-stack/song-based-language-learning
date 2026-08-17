@@ -1215,6 +1215,13 @@ function LineBreakdownScreen({
 }) {
   const [selectedWord, setSelectedWord] = useState<V5DictionaryEntry | null>(null);
 
+  useEffect(() => {
+    if (lyricLine) {
+      const timer = setTimeout(() => speak(lyricLine), 300);
+      return () => clearTimeout(timer);
+    }
+  }, [lyricLine, speak]);
+
   const dictMap = new Map(dictionary.map((d) => [d.word, d]));
   const wordColorIndex = (word: string) => {
     const idx = dictionary.findIndex((d) => d.word === word);
@@ -1325,14 +1332,18 @@ function DictionaryPopup({
     speak(entry.word);
   }, [entry.word, speak]);
 
+  const romanization = entry.romanization || (entry as any).reading;
+  const definition = entry.definition || (entry as any).meaning;
+  const partOfSpeech = entry.partOfSpeech;
+
   return (
     <>
       <div
         className="fixed inset-0 bg-black/20 z-40"
         onClick={onClose}
       />
-      <div className="fixed inset-x-0 bottom-0 z-50 animate-slide-up max-h-[70vh] flex flex-col">
-        <div className="max-w-lg mx-auto w-full bg-card border-t border-border rounded-t-2xl p-5 pb-8 shadow-xl space-y-3 overflow-y-auto">
+      <div className="fixed inset-0 z-50 flex items-center justify-center px-4 pointer-events-none">
+        <div className="max-w-lg w-full bg-card border border-border rounded-2xl p-5 shadow-xl space-y-3 overflow-y-auto max-h-[70vh] pointer-events-auto">
           <div className="flex items-start justify-between">
             <div>
               <button
@@ -1341,7 +1352,7 @@ function DictionaryPopup({
               >
                 {entry.word} <span className="text-faint text-sm">🔊</span>
               </button>
-              <p className="text-xs text-faint">{entry.romanization}</p>
+              {romanization && <p className="text-xs text-faint">{romanization}</p>}
             </div>
             <button
               onClick={onClose}
@@ -1351,13 +1362,15 @@ function DictionaryPopup({
             </button>
           </div>
 
-          <div className="flex items-center gap-2">
-            <span className="text-[10px] uppercase tracking-wider font-bold text-accent bg-accent-light px-2 py-0.5 rounded">
-              {entry.partOfSpeech}
-            </span>
-          </div>
+          {partOfSpeech && (
+            <div className="flex items-center gap-2">
+              <span className="text-[10px] uppercase tracking-wider font-bold text-accent bg-accent-light px-2 py-0.5 rounded">
+                {partOfSpeech}
+              </span>
+            </div>
+          )}
 
-          <p className="text-sm font-semibold">{entry.definition}</p>
+          {definition && <p className="text-sm font-semibold">{definition}</p>}
 
           {entry.example && (
             <div className="bg-background border border-border rounded-lg p-3 space-y-1">

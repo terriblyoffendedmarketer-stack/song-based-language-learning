@@ -58,9 +58,12 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
         setOptions(shuffled);
         setLoading(false);
 
-        const hasKorean = /[가-힣]/.test(pick.q.prompt);
-        if ((pick.q.type === "tap-meaning" || pick.q.type === "song-comprehension") && hasKorean) {
-          speak(pick.q.prompt);
+        const promptKorean = /[가-힣]/.test(pick.q.prompt);
+        const transKorean = pick.q.promptTranslation && /[가-힣]/.test(pick.q.promptTranslation);
+        if (promptKorean) {
+          speak(pick.q.prompt.replace(/_{2,}/g, "").replace(/\s{2,}/g, " ").trim());
+        } else if (transKorean) {
+          speak(pick.q.promptTranslation);
         }
       })
       .catch(() => {
