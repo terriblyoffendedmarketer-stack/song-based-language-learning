@@ -57,19 +57,11 @@ export function StartupQuestion({ onDismiss }: { onDismiss: () => void }) {
         ].sort(() => Math.random() - 0.5);
         setOptions(shuffled);
         setLoading(false);
-
-        const promptKorean = /[가-힣]/.test(pick.q.prompt);
-        const transKorean = pick.q.promptTranslation && /[가-힣]/.test(pick.q.promptTranslation);
-        if (promptKorean) {
-          speak(pick.q.prompt.replace(/_{2,}/g, "").replace(/\s{2,}/g, " ").trim());
-        } else if (transKorean) {
-          speak(pick.q.promptTranslation);
-        }
       })
       .catch(() => {
         onDismiss();
       });
-  }, [onDismiss, speak]);
+  }, [onDismiss]);
 
   const handleSelect = useCallback(
     (idx: number) => {
