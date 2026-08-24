@@ -1325,6 +1325,30 @@
       "name": "Baddie",
       "_source": "user_added",
       "_selected": true
+    },
+    {
+      "artist": "SUNMI",
+      "name": "Full Moon",
+      "added_by": "manual",
+      "source": "user_request"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "Heart Burn",
+      "added_by": "manual",
+      "source": "user_request"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "Gashina",
+      "added_by": "manual",
+      "source": "user_request"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "TAIL",
+      "added_by": "manual",
+      "source": "user_request"
     }
   ],
   "added_manually": [
@@ -1334,5 +1358,5 @@
     "10cm - Stalker",
     "10cm - Lean On My Shoulder"
   ],
-  "total": 68
+  "total": 76
 }

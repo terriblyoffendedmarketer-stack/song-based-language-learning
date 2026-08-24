@@ -771,5 +771,49 @@
     "youtube_duration": "NA",
     "artist": "IVE",
     "name": "Baddie"
+  },
+  "SUNMI||Full Moon": {
+    "status": "ok",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - Full Moon.mp3",
+    "size_mb": 1.9,
+    "youtube_id": "CsY1pYioaVk",
+    "youtube_title": "Full Moon",
+    "youtube_url": "https://music.youtube.com/watch?v=CsY1pYioaVk",
+    "youtube_duration": "NA",
+    "artist": "SUNMI",
+    "name": "Full Moon"
+  },
+  "SUNMI||Heart Burn": {
+    "status": "ok",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - Heart Burn.mp3",
+    "size_mb": 6.0,
+    "youtube_id": "t7hmovsG_f0",
+    "youtube_title": "Heart Burn",
+    "youtube_url": "https://music.youtube.com/watch?v=t7hmovsG_f0",
+    "youtube_duration": "NA",
+    "artist": "SUNMI",
+    "name": "Heart Burn"
+  },
+  "SUNMI||Gashina": {
+    "status": "ok",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - Gashina.mp3",
+    "size_mb": 5.7,
+    "youtube_id": "FV003QMWhNM",
+    "youtube_title": "Gashina",
+    "youtube_url": "https://music.youtube.com/watch?v=FV003QMWhNM",
+    "youtube_duration": "NA",
+    "artist": "SUNMI",
+    "name": "Gashina"
+  },
+  "SUNMI||TAIL": {
+    "status": "ok",
+    "file": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - TAIL.mp3",
+    "size_mb": 6.1,
+    "youtube_id": "6_vDL6_aVm8",
+    "youtube_title": "TAIL",
+    "youtube_url": "https://music.youtube.com/watch?v=6_vDL6_aVm8",
+    "youtube_duration": "NA",
+    "artist": "SUNMI",
+    "name": "TAIL"
   }
 }

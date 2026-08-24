@@ -1,0 +1,375 @@
+{
+  "songId": "sunmi-full-moon",
+  "lines": [
+    {
+      "korean": "지금 당장 아무 말도 필요 없어",
+      "english": "Right now, we don't need any words",
+      "words": [
+        {
+          "korean": "지금 당장",
+          "english": "right now, immediately",
+          "role": "adverb"
+        },
+        {
+          "korean": "아무 말도",
+          "english": "any words (at all)",
+          "role": "noun"
+        },
+        {
+          "korean": "필요 없어",
+          "english": "don't need",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "아무 + noun + 도",
+        "meaning": "any/no ~ at all (with negative verb)",
+        "note": "아무 말도 with 없어 creates 'no words at all' - the 도 particle emphasizes the totality of negation"
+      }
+    },
+    {
+      "korean": "그대와 나의 눈빛이 말해주는걸",
+      "english": "Our eyes are telling us everything",
+      "words": [
+        {
+          "korean": "그대와 나의",
+          "english": "you and my, our",
+          "role": "pronoun"
+        },
+        {
+          "korean": "눈빛이",
+          "english": "eyes, gaze",
+          "role": "noun"
+        },
+        {
+          "korean": "말해주는걸",
+          "english": "are telling (us)",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어주는걸",
+        "meaning": "is/are doing (something for someone)",
+        "note": "주다 adds nuance of 'doing for us' and 걸 at the end softens the statement, implying 'you know'"
+      }
+    },
+    {
+      "korean": "촉촉이 젖은 내 입술에 살며시 다가와 입 맞춰줘",
+      "english": "Come close to my moistened lips and gently kiss me",
+      "words": [
+        {
+          "korean": "촉촉이 젖은",
+          "english": "moistened, wet",
+          "role": "adjective"
+        },
+        {
+          "korean": "입술에",
+          "english": "to (my) lips",
+          "role": "noun"
+        },
+        {
+          "korean": "살며시 다가와",
+          "english": "come close gently",
+          "role": "verb"
+        },
+        {
+          "korean": "입 맞춰줘",
+          "english": "kiss (me)",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "사랑한단 뻔한 그 한 마디가",
+      "english": "Those predictable words 'I love you'",
+      "words": [
+        {
+          "korean": "사랑한단",
+          "english": "saying 'I love you'",
+          "role": "verb"
+        },
+        {
+          "korean": "뻔한",
+          "english": "obvious, predictable",
+          "role": "adjective"
+        },
+        {
+          "korean": "한 마디가",
+          "english": "one phrase, those words",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ/는단",
+        "meaning": "the statement that ~, saying that ~",
+        "note": "사랑하다 becomes 사랑한단, a contraction of 사랑한다는, used when quoting or referring to a statement"
+      }
+    },
+    {
+      "korean": "특별하게 느껴지는 오늘 밤",
+      "english": "Feel so special tonight",
+      "words": [
+        {
+          "korean": "특별하게",
+          "english": "specially, in a special way",
+          "role": "adverb"
+        },
+        {
+          "korean": "느껴지는",
+          "english": "is felt, feels",
+          "role": "verb"
+        },
+        {
+          "korean": "오늘 밤",
+          "english": "tonight",
+          "role": "noun"
+        }
+      ]
+    },
+    {
+      "korean": "왜 이리 심장은 빨리 뛰는지",
+      "english": "Why is my heart beating so fast",
+      "words": [
+        {
+          "korean": "왜 이리",
+          "english": "why so (much)",
+          "role": "adverb"
+        },
+        {
+          "korean": "심장은",
+          "english": "heart (topic)",
+          "role": "noun"
+        },
+        {
+          "korean": "빨리 뛰는지",
+          "english": "beats quickly",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는지",
+        "meaning": "whether/why/how ~, I wonder ~",
+        "note": "Used for indirect questions or wondering - here expressing wondering why the heart beats so fast"
+      }
+    },
+    {
+      "korean": "자, 이제 시간이 됐어",
+      "english": "Now, it's time",
+      "words": [
+        {
+          "korean": "자",
+          "english": "now, come on",
+          "role": "interjection"
+        },
+        {
+          "korean": "이제",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "시간이 됐어",
+          "english": "it's time",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "그대여, 보름달이 뜨는 날, 날 보러 와요",
+      "english": "My dear, on the night the full moon rises, come see me",
+      "words": [
+        {
+          "korean": "그대여",
+          "english": "my dear, you (vocative)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "보름달이 뜨는 날",
+          "english": "the day the full moon rises",
+          "role": "noun"
+        },
+        {
+          "korean": "날 보러 와요",
+          "english": "come to see me",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-러 가다/오다",
+        "meaning": "go/come to (do something)",
+        "note": "보러 (from 보다 + -러) combined with 오다 means 'come in order to see'"
+      }
+    },
+    {
+      "korean": "이 밤이 가기 전에, 해 뜨기 전에 서둘러줘요",
+      "english": "Before this night ends, before the sun rises, please hurry",
+      "words": [
+        {
+          "korean": "이 밤이 가기 전에",
+          "english": "before this night goes",
+          "role": "expression"
+        },
+        {
+          "korean": "해 뜨기 전에",
+          "english": "before the sun rises",
+          "role": "expression"
+        },
+        {
+          "korean": "서둘러줘요",
+          "english": "please hurry",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 전에",
+        "meaning": "before doing ~",
+        "note": "Verb stem + -기 전에 expresses 'before [action]' - here used twice for emphasis"
+      }
+    },
+    {
+      "korean": "보름달을 조명 삼아",
+      "english": "Using the full moon as our light",
+      "words": [
+        {
+          "korean": "보름달을",
+          "english": "the full moon",
+          "role": "noun"
+        },
+        {
+          "korean": "조명",
+          "english": "lighting, illumination",
+          "role": "noun"
+        },
+        {
+          "korean": "삼아",
+          "english": "using as, making into",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을/를 ~ 삼아",
+        "meaning": "using/regarding ~ as",
+        "note": "삼다 means 'to make into' - this pattern expresses using something as/for something"
+      }
+    },
+    {
+      "korean": "사랑을 속삭이기 딱 좋은 밤",
+      "english": "A perfect night to whisper words of love",
+      "words": [
+        {
+          "korean": "사랑을 속삭이기",
+          "english": "to whisper love",
+          "role": "verb"
+        },
+        {
+          "korean": "딱",
+          "english": "exactly, perfectly",
+          "role": "adverb"
+        },
+        {
+          "korean": "좋은 밤",
+          "english": "good night",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기 (딱) 좋다",
+        "meaning": "(perfectly) good for doing ~",
+        "note": "Verb stem + -기 nominalizes the verb, and 좋다 means it's good/suitable for that action"
+      }
+    },
+    {
+      "korean": "서두르지 말고 하나도 빼놓지 말고",
+      "english": "Don't rush and don't leave anything out",
+      "words": [
+        {
+          "korean": "서두르지 말고",
+          "english": "don't rush",
+          "role": "verb"
+        },
+        {
+          "korean": "하나도",
+          "english": "anything at all, not even one thing",
+          "role": "adverb"
+        },
+        {
+          "korean": "빼놓지 말고",
+          "english": "don't leave out",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 말고",
+        "meaning": "don't do ~ and (instead)",
+        "note": "Negative imperative with 말고 connecting two commands - 'don't do this and don't do that'"
+      }
+    },
+    {
+      "korean": "우리만 생각하고 이 밤은 길다고",
+      "english": "Just think about us, this night is long",
+      "words": [
+        {
+          "korean": "우리만",
+          "english": "only us, just us",
+          "role": "pronoun"
+        },
+        {
+          "korean": "생각하고",
+          "english": "think about",
+          "role": "verb"
+        },
+        {
+          "korean": "이 밤은 길다고",
+          "english": "this night is long",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "오랫동안 기다려 왔던 꿈",
+      "english": "The dream I've been waiting for so long",
+      "words": [
+        {
+          "korean": "오랫동안",
+          "english": "for a long time",
+          "role": "adverb"
+        },
+        {
+          "korean": "기다려 왔던",
+          "english": "have been waiting for",
+          "role": "verb"
+        },
+        {
+          "korean": "꿈",
+          "english": "dream",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 오다",
+        "meaning": "have been doing ~ (continuing to present)",
+        "note": "기다리다 + 오다 shows the action has continued from past to present"
+      }
+    },
+    {
+      "korean": "빗속에 이 옷이 흠뻑 젖고",
+      "english": "Our clothes getting soaked in the rain",
+      "words": [
+        {
+          "korean": "빗속에",
+          "english": "in the rain",
+          "role": "noun"
+        },
+        {
+          "korean": "이 옷이",
+          "english": "these clothes",
+          "role": "noun"
+        },
+        {
+          "korean": "흠뻑 젖고",
+          "english": "getting soaked",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

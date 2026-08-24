@@ -4,7 +4,7 @@
 
 ## Status — V2 In Progress
 
-**What's live**: 20 V5 lessons + song browser (72 songs) + song practice + vocab/grammar practice with SRS. Deployed on Vercel + Capacitor Android APK.
+**What's live**: 20 V5 lessons + song browser (76 songs) + song practice + vocab/grammar practice with SRS. Deployed on Vercel + Capacitor Android APK.
 **V2 done**: All phases complete — practice engine (SRS, mastery, gates), song practice pipeline, Spotify playlist, improved distractors, BottomNav, novel context questions, wrong-answer re-exposure, fill-in-blank dedup, song sentences in lesson practice, per-song progress, TTS for practice lines.
 **V2 remaining**: None — all roadmap items complete.
 **Deployed**: https://song-based-language-learning.vercel.app
@@ -59,17 +59,18 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 ### Pipeline Steps (all complete)
 1. Spotify extraction → `playlist.spotdl` (495 tracks)
 2. Korean filtering → `korean_songs.json` (250 songs)
-3. Song selection → `selected_songs.json` (72 songs)
-4. YouTube Music download → `pipeline/audio/` (72 MP3s, gitignored)
-5. Lyrics fetching → `pipeline/lyrics/` (72 files)
+3. Song selection → `selected_songs.json` (76 songs)
+4. YouTube Music download → `pipeline/audio/` (76 MP3s, gitignored)
+5. Lyrics fetching → `pipeline/lyrics/` (76 files)
 6. Unified manifest → `song_manifest.json`
 7. Corpus analysis → `corpus_analysis.json` (1,127 vocab, 320 grammar patterns)
 8. Song context → `pipeline/song_context/*.json` (72 files)
 9. Curriculum map → `curriculum_map.json` (5 levels)
 10. V5 lesson generation → `public/data/lessons_v5/*.json` (20 lessons)
 11. TTS cache → `pipeline/tts_cache/` (~4,691 MP3s)
-12. Song practice data → `public/data/song_practice/*.json` (72 files, 1,050 lines, via `generate_song_practice.py`)
+12. Song practice data → `public/data/song_practice/*.json` (76 files, via `generate_song_practice.py`)
 13. Song practice audit → `pipeline/audit_song_practice.py` (quantitative quality check)
+14. **Add new songs** → `pipeline/add_songs.py` (full pipeline: lyrics → audio → data → practice → TTS). Use `/add-songs` skill.
 
 ### Key Pipeline Data
 - `pipeline/song_manifest.json` — unified index: 72 songs → MP3s → lyrics
@@ -128,6 +129,7 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 4. **Korean artist names**: Try Korean names when English fails (가호, 이하이, Agust D)
 5. **Genius API**: Skip URLs with "english-translation" or "romanized"
 6. **npm edge-tts 403**: Use Python `edge-tts` via subprocess, not npm package
+6b. **yt-dlp 403 on YouTube**: Always use `--cookies-from-browser chrome` flag — without it, most YT Music tracks return 403
 7. **AI refuses Korean lyrics**: Use placeholder fields + `merge_lyrics_into_context.py`
 8. **Colored vocab text is ugly**: Use subtle underlines (decoration-*-400/60), not colored text
 9. **Progress hardcoded to 0**: Save actual `currentIndex` and `answers`, not hardcoded values

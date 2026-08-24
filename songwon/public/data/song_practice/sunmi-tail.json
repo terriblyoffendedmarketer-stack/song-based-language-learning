@@ -1,0 +1,370 @@
+{
+  "songId": "sunmi-tail",
+  "lines": [
+    {
+      "korean": "날 똑바로 쳐다봐",
+      "english": "Look straight at me",
+      "words": [
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "똑바로",
+          "english": "straight, directly",
+          "role": "adverb"
+        },
+        {
+          "korean": "쳐다봐",
+          "english": "look at",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "처진 고개를 더 세워",
+      "english": "Lift up your lowered head even more",
+      "words": [
+        {
+          "korean": "처진",
+          "english": "lowered, drooping",
+          "role": "adjective"
+        },
+        {
+          "korean": "고개를",
+          "english": "head (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "더",
+          "english": "more, even more",
+          "role": "adverb"
+        },
+        {
+          "korean": "세워",
+          "english": "raise, lift up",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "온 신경이 곤두서",
+      "english": "All my nerves are on edge",
+      "words": [
+        {
+          "korean": "온",
+          "english": "all, entire",
+          "role": "adjective"
+        },
+        {
+          "korean": "신경이",
+          "english": "nerves (subject)",
+          "role": "noun"
+        },
+        {
+          "korean": "곤두서",
+          "english": "stand on edge, be tense",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "이건 아마도 널 할퀸 순간부터겠지",
+      "english": "This must be from the moment I scratched you",
+      "words": [
+        {
+          "korean": "이건",
+          "english": "this",
+          "role": "pronoun"
+        },
+        {
+          "korean": "아마도",
+          "english": "probably, must be",
+          "role": "adverb"
+        },
+        {
+          "korean": "할퀸",
+          "english": "scratched",
+          "role": "verb"
+        },
+        {
+          "korean": "순간부터겠지",
+          "english": "from the moment (probably)",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-겠지",
+        "meaning": "probably, I suppose",
+        "note": "Added to 순간부터 (from the moment) to express supposition about when something started"
+      }
+    },
+    {
+      "korean": "세상을 가진 것 마냥",
+      "english": "As if you own the world",
+      "words": [
+        {
+          "korean": "세상을",
+          "english": "the world (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "가진",
+          "english": "possess, own",
+          "role": "verb"
+        },
+        {
+          "korean": "것 마냥",
+          "english": "as if, like",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "것 마냥",
+        "meaning": "as if, like",
+        "note": "Used after a verb to express something is done as if a certain condition is true"
+      }
+    },
+    {
+      "korean": "뭐가 좋은데 그리 웃어대는데",
+      "english": "What's so good that you keep smiling like that",
+      "words": [
+        {
+          "korean": "뭐가",
+          "english": "what (subject)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋은데",
+          "english": "is good (but/that)",
+          "role": "adjective"
+        },
+        {
+          "korean": "그리",
+          "english": "so, like that",
+          "role": "adverb"
+        },
+        {
+          "korean": "웃어대는데",
+          "english": "keep smiling",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-어대다",
+        "meaning": "to keep doing, to do excessively",
+        "note": "웃다 (smile) + -어대다 emphasizes repeated or continuous smiling"
+      }
+    },
+    {
+      "korean": "딱 거기까지만",
+      "english": "Just up to there",
+      "words": [
+        {
+          "korean": "딱",
+          "english": "exactly, just",
+          "role": "adverb"
+        },
+        {
+          "korean": "거기까지만",
+          "english": "only up to there",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "니 입꼬리 올라가는 소리 여기까지 들려",
+      "english": "I can hear the sound of your lips curling up all the way here",
+      "words": [
+        {
+          "korean": "입꼬리",
+          "english": "corners of the mouth",
+          "role": "noun"
+        },
+        {
+          "korean": "올라가는",
+          "english": "going up, rising",
+          "role": "verb"
+        },
+        {
+          "korean": "소리",
+          "english": "sound",
+          "role": "noun"
+        },
+        {
+          "korean": "여기까지",
+          "english": "all the way here",
+          "role": "adverb"
+        },
+        {
+          "korean": "들려",
+          "english": "is heard, can hear",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "아쉬워하기엔 너무 빨라",
+      "english": "It's too early to feel regret",
+      "words": [
+        {
+          "korean": "아쉬워하기엔",
+          "english": "to feel regret",
+          "role": "verb"
+        },
+        {
+          "korean": "너무",
+          "english": "too",
+          "role": "adverb"
+        },
+        {
+          "korean": "빨라",
+          "english": "early, fast",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "-기엔",
+        "meaning": "for ~ing, to ~",
+        "note": "Contraction of -기에는, used to indicate that something is not suitable or appropriate for a certain action"
+      }
+    },
+    {
+      "korean": "그만 좀 물어 대",
+      "english": "Stop asking me questions already",
+      "words": [
+        {
+          "korean": "그만",
+          "english": "stop",
+          "role": "adverb"
+        },
+        {
+          "korean": "좀",
+          "english": "a bit, please",
+          "role": "adverb"
+        },
+        {
+          "korean": "물어 대",
+          "english": "keep asking",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "니 마지막 말에 꼬리치면 따다딱 거기까지만",
+      "english": "If I wag my tail at your last words, that's it, only up to there",
+      "words": [
+        {
+          "korean": "마지막 말에",
+          "english": "at the last words",
+          "role": "noun"
+        },
+        {
+          "korean": "꼬리치면",
+          "english": "if (I) wag my tail",
+          "role": "verb"
+        },
+        {
+          "korean": "따다딱",
+          "english": "just like that, precisely",
+          "role": "adverb"
+        },
+        {
+          "korean": "거기까지만",
+          "english": "only up to there",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-면",
+        "meaning": "if, when",
+        "note": "Conditional marker attached to 꼬리치다 (wag tail) to mean 'if I wag my tail'"
+      }
+    },
+    {
+      "korean": "우린 미친 듯이 사랑하고",
+      "english": "We love like crazy",
+      "words": [
+        {
+          "korean": "우린",
+          "english": "we",
+          "role": "pronoun"
+        },
+        {
+          "korean": "미친 듯이",
+          "english": "like crazy, crazily",
+          "role": "adverb"
+        },
+        {
+          "korean": "사랑하고",
+          "english": "love and",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄴ 듯이",
+        "meaning": "as if, like",
+        "note": "미치다 (go crazy) + -ㄴ 듯이 creates the expression 'like crazy' to describe intensity"
+      }
+    },
+    {
+      "korean": "미친 듯 입을 맞추고",
+      "english": "Kiss like crazy",
+      "words": [
+        {
+          "korean": "미친 듯",
+          "english": "like crazy",
+          "role": "adverb"
+        },
+        {
+          "korean": "입을 맞추고",
+          "english": "kiss and",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "미친 듯 머릴 흔들어",
+      "english": "Shake our heads like crazy",
+      "words": [
+        {
+          "korean": "미친 듯",
+          "english": "like crazy",
+          "role": "adverb"
+        },
+        {
+          "korean": "머릴",
+          "english": "head (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "흔들어",
+          "english": "shake",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "꼬리를 높이 세워",
+      "english": "Raise your tail up high",
+      "words": [
+        {
+          "korean": "꼬리를",
+          "english": "tail (object)",
+          "role": "noun"
+        },
+        {
+          "korean": "높이",
+          "english": "high, highly",
+          "role": "adverb"
+        },
+        {
+          "korean": "세워",
+          "english": "raise, stand up",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

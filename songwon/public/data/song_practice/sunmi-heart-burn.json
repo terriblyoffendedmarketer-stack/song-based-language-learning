@@ -1,0 +1,360 @@
+{
+  "songId": "sunmi-heart-burn",
+  "lines": [
+    {
+      "korean": "그대 아무런 말도 하지 마요",
+      "english": "Don't say anything to me",
+      "words": [
+        {
+          "korean": "그대",
+          "english": "you (formal/poetic)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "아무런 말도",
+          "english": "any words at all",
+          "role": "noun"
+        },
+        {
+          "korean": "하지 마요",
+          "english": "don't do/say",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 마요",
+        "meaning": "don't do ~",
+        "note": "Polite prohibition form used to gently ask someone not to do something"
+      }
+    },
+    {
+      "korean": "이 맘은 여전히 그대로예요",
+      "english": "My heart is still the same",
+      "words": [
+        {
+          "korean": "이 맘은",
+          "english": "this heart",
+          "role": "noun"
+        },
+        {
+          "korean": "여전히",
+          "english": "still, as before",
+          "role": "adverb"
+        },
+        {
+          "korean": "그대로예요",
+          "english": "remains the same",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "따가운 햇살 그 아래 우리",
+      "english": "Under the scorching sunlight, you and I",
+      "words": [
+        {
+          "korean": "따가운",
+          "english": "scorching, stinging",
+          "role": "adjective"
+        },
+        {
+          "korean": "햇살",
+          "english": "sunlight",
+          "role": "noun"
+        },
+        {
+          "korean": "그 아래",
+          "english": "under that",
+          "role": "expression"
+        },
+        {
+          "korean": "우리",
+          "english": "we, us",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "이 분위기 난 좋아요",
+      "english": "I like this atmosphere",
+      "words": [
+        {
+          "korean": "이 분위기",
+          "english": "this atmosphere",
+          "role": "noun"
+        },
+        {
+          "korean": "난",
+          "english": "I (casual)",
+          "role": "pronoun"
+        },
+        {
+          "korean": "좋아요",
+          "english": "like",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어떡해 나 숨이 가빠져요",
+      "english": "What should I do? I'm breathless",
+      "words": [
+        {
+          "korean": "어떡해",
+          "english": "what to do",
+          "role": "expression"
+        },
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "숨이",
+          "english": "breath",
+          "role": "noun"
+        },
+        {
+          "korean": "가빠져요",
+          "english": "becomes short/rapid",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그렇게 쳐다보면",
+      "english": "If you look at me like that",
+      "words": [
+        {
+          "korean": "그렇게",
+          "english": "like that, in that way",
+          "role": "adverb"
+        },
+        {
+          "korean": "쳐다보면",
+          "english": "if you stare/look",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)면",
+        "meaning": "if/when ~",
+        "note": "Conditional form expressing 'if you do this, then that happens'"
+      }
+    },
+    {
+      "korean": "열이 올라요",
+      "english": "I'm getting heated up",
+      "words": [
+        {
+          "korean": "열이",
+          "english": "fever, heat",
+          "role": "noun"
+        },
+        {
+          "korean": "올라요",
+          "english": "rises, goes up",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "뜨거워진 온도 탓일까요",
+      "english": "Is it because of the rising temperature?",
+      "words": [
+        {
+          "korean": "뜨거워진",
+          "english": "heated up, became hot",
+          "role": "adjective"
+        },
+        {
+          "korean": "온도",
+          "english": "temperature",
+          "role": "noun"
+        },
+        {
+          "korean": "탓일까요",
+          "english": "is it because of/the fault of",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-ㄹ/을까요",
+        "meaning": "I wonder if ~, could it be ~",
+        "note": "Expressing uncertainty or wondering about a possibility"
+      }
+    },
+    {
+      "korean": "약이 올라요",
+      "english": "I'm getting worked up",
+      "words": [
+        {
+          "korean": "약이",
+          "english": "irritation, provocation",
+          "role": "noun"
+        },
+        {
+          "korean": "올라요",
+          "english": "rises, goes up",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "한번쯤은 무너져줄게요",
+      "english": "I'll let myself fall apart just once",
+      "words": [
+        {
+          "korean": "한번쯤은",
+          "english": "at least once, about once",
+          "role": "adverb"
+        },
+        {
+          "korean": "무너져줄게요",
+          "english": "will collapse/fall apart for you",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 줄게요",
+        "meaning": "I'll do ~ (for you)",
+        "note": "Promise or commitment to do something, often with a sense of doing it for the other person's benefit"
+      }
+    },
+    {
+      "korean": "여름 밤 열긴 밤새 식지 않고",
+      "english": "Summer night fever doesn't cool down all night",
+      "words": [
+        {
+          "korean": "여름 밤",
+          "english": "summer night",
+          "role": "noun"
+        },
+        {
+          "korean": "열긴",
+          "english": "fever, heat",
+          "role": "noun"
+        },
+        {
+          "korean": "밤새",
+          "english": "all night long",
+          "role": "adverb"
+        },
+        {
+          "korean": "식지 않고",
+          "english": "doesn't cool down",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-지 않고",
+        "meaning": "without doing ~, not doing ~",
+        "note": "Negation pattern meaning something doesn't happen or continues without doing something"
+      }
+    },
+    {
+      "korean": "나는 자꾸 위험한 춤을 춰요",
+      "english": "I keep dancing dangerously",
+      "words": [
+        {
+          "korean": "나는",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "자꾸",
+          "english": "repeatedly, keep",
+          "role": "adverb"
+        },
+        {
+          "korean": "위험한",
+          "english": "dangerous",
+          "role": "adjective"
+        },
+        {
+          "korean": "춤을 춰요",
+          "english": "dance",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "어떡해 나 이제 못 참아요",
+      "english": "What should I do? I can't hold back anymore",
+      "words": [
+        {
+          "korean": "어떡해",
+          "english": "what to do",
+          "role": "expression"
+        },
+        {
+          "korean": "나",
+          "english": "I",
+          "role": "pronoun"
+        },
+        {
+          "korean": "이제",
+          "english": "now, anymore",
+          "role": "adverb"
+        },
+        {
+          "korean": "못 참아요",
+          "english": "can't endure/hold back",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "잔뜩 취한 듯한 기분",
+      "english": "Feeling like I'm completely drunk",
+      "words": [
+        {
+          "korean": "잔뜩",
+          "english": "fully, completely",
+          "role": "adverb"
+        },
+        {
+          "korean": "취한 듯한",
+          "english": "as if drunk",
+          "role": "expression"
+        },
+        {
+          "korean": "기분",
+          "english": "feeling, mood",
+          "role": "noun"
+        }
+      ],
+      "grammar": {
+        "pattern": "-(으)ㄴ 듯한",
+        "meaning": "as if ~, seems like ~",
+        "note": "Descriptive form expressing that something seems or appears to be a certain way"
+      }
+    },
+    {
+      "korean": "좀 더 높이 날 데려다 줘",
+      "english": "Take me higher",
+      "words": [
+        {
+          "korean": "좀 더",
+          "english": "a bit more",
+          "role": "adverb"
+        },
+        {
+          "korean": "높이",
+          "english": "high, higher",
+          "role": "adverb"
+        },
+        {
+          "korean": "날",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "데려다 줘",
+          "english": "take (me)",
+          "role": "verb"
+        }
+      ]
+    }
+  ]
+}

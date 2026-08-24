@@ -1,0 +1,390 @@
+{
+  "songId": "sunmi-gashina",
+  "lines": [
+    {
+      "korean": "너의 싸늘해진 그 눈빛이 나를 죽이는 거야",
+      "english": "Your cold gaze is killing me",
+      "words": [
+        {
+          "korean": "싸늘해진",
+          "english": "became cold",
+          "role": "adjective"
+        },
+        {
+          "korean": "눈빛이",
+          "english": "gaze/look in the eyes",
+          "role": "noun"
+        },
+        {
+          "korean": "나를",
+          "english": "me",
+          "role": "pronoun"
+        },
+        {
+          "korean": "죽이는 거야",
+          "english": "is killing",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-는 거야",
+        "meaning": "emphasizing a fact or explanation",
+        "note": "Used to explain or emphasize what is happening - 'it is that [subject] is killing me'"
+      }
+    },
+    {
+      "korean": "커지던 네 맘의 불씨 재만 남은 거야 왜",
+      "english": "The flame in your heart that was growing - why is only ash left?",
+      "words": [
+        {
+          "korean": "커지던",
+          "english": "was growing",
+          "role": "verb"
+        },
+        {
+          "korean": "불씨",
+          "english": "flame/spark",
+          "role": "noun"
+        },
+        {
+          "korean": "재만",
+          "english": "only ash",
+          "role": "noun"
+        },
+        {
+          "korean": "남은 거야",
+          "english": "is left/remains",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "시간이 약인가 봐",
+      "english": "I guess time is the medicine",
+      "words": [
+        {
+          "korean": "시간이",
+          "english": "time",
+          "role": "noun"
+        },
+        {
+          "korean": "약",
+          "english": "medicine",
+          "role": "noun"
+        },
+        {
+          "korean": "인가 봐",
+          "english": "I guess/seems like it is",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-나/인가 봐",
+        "meaning": "I guess/it seems that ~",
+        "note": "Used to express a supposition based on observation or evidence"
+      }
+    },
+    {
+      "korean": "어째 갈수록 나 약하잖아",
+      "english": "Why am I getting weaker as time goes by?",
+      "words": [
+        {
+          "korean": "어째",
+          "english": "why/how come",
+          "role": "adverb"
+        },
+        {
+          "korean": "갈수록",
+          "english": "as time goes by/increasingly",
+          "role": "expression"
+        },
+        {
+          "korean": "약하잖아",
+          "english": "I'm weak, you know",
+          "role": "adjective"
+        }
+      ],
+      "grammar": {
+        "pattern": "갈수록",
+        "meaning": "as ~ goes on/increasingly",
+        "note": "Expresses a trend that intensifies over time"
+      }
+    },
+    {
+      "korean": "좋아 이젠 너를 잊을 수 있게",
+      "english": "Fine, so I can forget you now",
+      "words": [
+        {
+          "korean": "좋아",
+          "english": "fine/good",
+          "role": "adjective"
+        },
+        {
+          "korean": "이젠",
+          "english": "now",
+          "role": "adverb"
+        },
+        {
+          "korean": "잊을 수 있게",
+          "english": "so I can forget",
+          "role": "expression"
+        }
+      ],
+      "grammar": {
+        "pattern": "-을 수 있게",
+        "meaning": "so that one can ~",
+        "note": "Expresses purpose or enabling condition - 'in order to be able to forget'"
+      }
+    },
+    {
+      "korean": "꽃같이 살래 나답게",
+      "english": "I'll live like a flower, true to myself",
+      "words": [
+        {
+          "korean": "꽃같이",
+          "english": "like a flower",
+          "role": "adverb"
+        },
+        {
+          "korean": "살래",
+          "english": "I will live",
+          "role": "verb"
+        },
+        {
+          "korean": "나답게",
+          "english": "like myself/true to myself",
+          "role": "adverb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-답게",
+        "meaning": "in a manner befitting ~",
+        "note": "Attached to nouns to mean 'in a way that is characteristic of' - here 'in a way true to myself'"
+      }
+    },
+    {
+      "korean": "나의 향길 원해 모두가",
+      "english": "Everyone wants my scent",
+      "words": [
+        {
+          "korean": "나의 향길",
+          "english": "my scent",
+          "role": "noun"
+        },
+        {
+          "korean": "원해",
+          "english": "want/desire",
+          "role": "verb"
+        },
+        {
+          "korean": "모두가",
+          "english": "everyone",
+          "role": "pronoun"
+        }
+      ]
+    },
+    {
+      "korean": "바보처럼 왜 너만 몰라",
+      "english": "Like a fool, why are you the only one who doesn't know?",
+      "words": [
+        {
+          "korean": "바보처럼",
+          "english": "like a fool",
+          "role": "adverb"
+        },
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "너만",
+          "english": "only you",
+          "role": "pronoun"
+        },
+        {
+          "korean": "몰라",
+          "english": "don't know",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-처럼",
+        "meaning": "like/as ~",
+        "note": "Used to make comparisons - 'acting like a fool'"
+      }
+    },
+    {
+      "korean": "정말 미친 거 아니야 넌",
+      "english": "You're really crazy, aren't you?",
+      "words": [
+        {
+          "korean": "정말",
+          "english": "really",
+          "role": "adverb"
+        },
+        {
+          "korean": "미친 거",
+          "english": "crazy thing/being crazy",
+          "role": "expression"
+        },
+        {
+          "korean": "아니야",
+          "english": "aren't you/isn't it",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-거 아니야",
+        "meaning": "aren't you ~/isn't it ~ (rhetorical)",
+        "note": "Rhetorical question expecting agreement - 'you ARE crazy, right?'"
+      }
+    },
+    {
+      "korean": "왜 예쁜 날 두고 가시나",
+      "english": "Why are you leaving pretty me behind?",
+      "words": [
+        {
+          "korean": "왜",
+          "english": "why",
+          "role": "adverb"
+        },
+        {
+          "korean": "예쁜 날",
+          "english": "pretty me",
+          "role": "noun"
+        },
+        {
+          "korean": "두고",
+          "english": "leaving behind",
+          "role": "verb"
+        },
+        {
+          "korean": "가시나",
+          "english": "are you going",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "그리 쉽게 떠나가시나",
+      "english": "Are you leaving so easily?",
+      "words": [
+        {
+          "korean": "그리",
+          "english": "so/that",
+          "role": "adverb"
+        },
+        {
+          "korean": "쉽게",
+          "english": "easily",
+          "role": "adverb"
+        },
+        {
+          "korean": "떠나가시나",
+          "english": "are you leaving",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "같이 가자고 약속해놓고",
+      "english": "After promising to go together",
+      "words": [
+        {
+          "korean": "같이",
+          "english": "together",
+          "role": "adverb"
+        },
+        {
+          "korean": "가자고",
+          "english": "let's go",
+          "role": "verb"
+        },
+        {
+          "korean": "약속해놓고",
+          "english": "after promising",
+          "role": "verb"
+        }
+      ],
+      "grammar": {
+        "pattern": "-아/어 놓고",
+        "meaning": "after doing ~ (but then...)",
+        "note": "Implies contradiction or unfulfilled expectation - 'you promised but then left anyway'"
+      }
+    },
+    {
+      "korean": "날카로운 날 보고 넌 고개 숙일 거야",
+      "english": "When you see the sharp me, you'll lower your head",
+      "words": [
+        {
+          "korean": "날카로운 날",
+          "english": "sharp me",
+          "role": "noun"
+        },
+        {
+          "korean": "보고",
+          "english": "seeing/when you see",
+          "role": "verb"
+        },
+        {
+          "korean": "고개 숙일 거야",
+          "english": "will lower your head",
+          "role": "expression"
+        }
+      ]
+    },
+    {
+      "korean": "가시 난 내 모습이 더 깊숙이 파고들 거야",
+      "english": "My thorny self will dig deeper into you",
+      "words": [
+        {
+          "korean": "가시 난",
+          "english": "thorny/with thorns",
+          "role": "adjective"
+        },
+        {
+          "korean": "내 모습이",
+          "english": "my appearance/self",
+          "role": "noun"
+        },
+        {
+          "korean": "깊숙이",
+          "english": "deeply",
+          "role": "adverb"
+        },
+        {
+          "korean": "파고들 거야",
+          "english": "will dig in",
+          "role": "verb"
+        }
+      ]
+    },
+    {
+      "korean": "정말 꺾인 건 지금 내가 아니야 바로 너야",
+      "english": "The one who's really broken right now isn't me, it's you",
+      "words": [
+        {
+          "korean": "꺾인 건",
+          "english": "the one who's broken",
+          "role": "expression"
+        },
+        {
+          "korean": "지금",
+          "english": "right now",
+          "role": "adverb"
+        },
+        {
+          "korean": "내가 아니야",
+          "english": "it's not me",
+          "role": "expression"
+        },
+        {
+          "korean": "바로 너야",
+          "english": "it's exactly you",
+          "role": "expression"
+        }
+      ]
+    }
+  ]
+}

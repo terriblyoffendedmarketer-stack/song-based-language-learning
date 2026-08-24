@@ -1,7 +1,7 @@
 {
-  "total": 72,
-  "mp3_count": 72,
-  "lyrics_count": 72,
+  "total": 76,
+  "mp3_count": 76,
+  "lyrics_count": 76,
   "songs": [
     {
       "artist": "BEN",
@@ -794,6 +794,50 @@
       "lyrics_ok": true,
       "lyrics_source": "lyrics.ovh",
       "youtube_id": "9Hfyg5BtfnI"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "Full Moon",
+      "safe_name": "SUNMI - Full Moon",
+      "mp3": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - Full Moon.mp3",
+      "mp3_ok": true,
+      "lyrics": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SUNMI - Full Moon.txt",
+      "lyrics_ok": true,
+      "lyrics_source": "lyrics.ovh",
+      "youtube_id": "CsY1pYioaVk"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "Heart Burn",
+      "safe_name": "SUNMI - Heart Burn",
+      "mp3": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - Heart Burn.mp3",
+      "mp3_ok": true,
+      "lyrics": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SUNMI - Heart Burn.txt",
+      "lyrics_ok": true,
+      "lyrics_source": "lyrics.ovh",
+      "youtube_id": "t7hmovsG_f0"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "Gashina",
+      "safe_name": "SUNMI - Gashina",
+      "mp3": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - Gashina.mp3",
+      "mp3_ok": true,
+      "lyrics": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SUNMI - Gashina.txt",
+      "lyrics_ok": true,
+      "lyrics_source": "lyrics.ovh",
+      "youtube_id": "FV003QMWhNM"
+    },
+    {
+      "artist": "SUNMI",
+      "name": "TAIL",
+      "safe_name": "SUNMI - TAIL",
+      "mp3": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/audio/SUNMI - TAIL.mp3",
+      "mp3_ok": true,
+      "lyrics": "/Users/apple/Documents/Claude Code/language learning through songs/songwon/pipeline/lyrics/SUNMI - TAIL.txt",
+      "lyrics_ok": true,
+      "lyrics_source": "lyrics.ovh",
+      "youtube_id": "6_vDL6_aVm8"
     }
   ]
 }

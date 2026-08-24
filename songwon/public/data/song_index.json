@@ -1,5 +1,5 @@
 {
-  "totalSongs": 72,
+  "totalSongs": 76,
   "songs": [
     {
       "id": "10cm-my-eyes",
@@ -866,6 +866,50 @@
       "totalLines": 33,
       "youtubeId": "W_TdN0CarpE",
       "lyricsFile": "YOUNGJOO - Smells.txt"
+    },
+    {
+      "id": "sunmi-full-moon",
+      "title": "Full Moon",
+      "artist": "SUNMI",
+      "koreanLines": 33,
+      "uniqueKoreanLines": 25,
+      "totalLines": 56,
+      "youtubeId": "CsY1pYioaVk",
+      "lyricsFile": "SUNMI - Full Moon.txt",
+      "lessons": []
+    },
+    {
+      "id": "sunmi-heart-burn",
+      "title": "Heart Burn",
+      "artist": "SUNMI",
+      "koreanLines": 38,
+      "uniqueKoreanLines": 25,
+      "totalLines": 38,
+      "youtubeId": "t7hmovsG_f0",
+      "lyricsFile": "SUNMI - Heart Burn.txt",
+      "lessons": []
+    },
+    {
+      "id": "sunmi-gashina",
+      "title": "Gashina",
+      "artist": "SUNMI",
+      "koreanLines": 48,
+      "uniqueKoreanLines": 32,
+      "totalLines": 53,
+      "youtubeId": "FV003QMWhNM",
+      "lyricsFile": "SUNMI - Gashina.txt",
+      "lessons": []
+    },
+    {
+      "id": "sunmi-tail",
+      "title": "TAIL",
+      "artist": "SUNMI",
+      "koreanLines": 57,
+      "uniqueKoreanLines": 29,
+      "totalLines": 65,
+      "youtubeId": "6_vDL6_aVm8",
+      "lyricsFile": "SUNMI - TAIL.txt",
+      "lessons": []
     }
   ]
 }
