@@ -52,6 +52,7 @@ SONG_INDEX_PATH = PROJECT_DIR / "public" / "data" / "song_index.json"
 LYRICS_DIR_PUBLIC = PROJECT_DIR / "public" / "data" / "lyrics"
 LYRICS_DIR_PIPELINE = PIPELINE_DIR / "lyrics"
 AUDIO_DIR = PIPELINE_DIR / "audio"
+AUDIO_DIR_PUBLIC = PROJECT_DIR / "public" / "audio"
 SELECTED_SONGS_PATH = PIPELINE_DIR / "selected_songs.json"
 DOWNLOAD_STATUS_PATH = PIPELINE_DIR / "download_status.json"
 MANIFEST_PATH = PIPELINE_DIR / "song_manifest.json"
@@ -236,9 +237,14 @@ def search_youtube_music(artist, title):
 def download_audio(video_id, safe_name):
     """Download audio from YouTube Music. Returns (path, size_mb) or (None, error)."""
     audio_path = AUDIO_DIR / f"{safe_name}.mp3"
+    public_path = AUDIO_DIR_PUBLIC / f"{safe_name}.mp3"
 
     if audio_path.exists():
         size_mb = round(audio_path.stat().st_size / (1024 * 1024), 1)
+        if not public_path.exists():
+            import shutil
+            AUDIO_DIR_PUBLIC.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(audio_path, public_path)
         return str(audio_path), size_mb
 
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
@@ -253,6 +259,9 @@ def download_audio(video_id, safe_name):
         )
         if audio_path.exists():
             size_mb = round(audio_path.stat().st_size / (1024 * 1024), 1)
+            import shutil
+            AUDIO_DIR_PUBLIC.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(audio_path, public_path)
             return str(audio_path), size_mb
         else:
             return None, result.stderr[:300]
