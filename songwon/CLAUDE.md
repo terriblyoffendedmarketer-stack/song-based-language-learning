@@ -130,9 +130,10 @@ Full docs: `pipeline/README.md`. All scripts have headers with usage + gotchas.
 5. **Genius API**: Skip URLs with "english-translation" or "romanized"
 6. **npm edge-tts 403**: Use Python `edge-tts` via subprocess, not npm package
 6b. **yt-dlp 403 on YouTube**: Always use `--cookies-from-browser chrome` flag — without it, most YT Music tracks return 403
-7. **AI refuses Korean lyrics**: Use placeholder fields + `merge_lyrics_into_context.py`
-8. **Colored vocab text is ugly**: Use subtle underlines (decoration-*-400/60), not colored text
-9. **Progress hardcoded to 0**: Save actual `currentIndex` and `answers`, not hardcoded values
+7. **Audio goes in `public/audio/`, NOT just `pipeline/audio/`**: The app serves audio via Howler.js from `public/audio/` (deployed to Vercel). `pipeline/audio/` is gitignored and only exists locally. Always copy MP3s to BOTH directories. `add_songs.py` handles this automatically.
+8. **AI refuses Korean lyrics**: Use placeholder fields + `merge_lyrics_into_context.py`
+9. **Colored vocab text is ugly**: Use subtle underlines (decoration-*-400/60), not colored text
+10. **Progress hardcoded to 0**: Save actual `currentIndex` and `answers`, not hardcoded values
 
 ## Style Rules
 - Korean serif font (`.kr` class) for Korean display text

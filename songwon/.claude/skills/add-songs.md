@@ -76,7 +76,7 @@ python3 pipeline/generate_song_practice.py --song SONG_ID
 ## Important notes
 
 - Songs are for the PRACTICE section only (not main lesson tree) unless explicitly asked to create curriculum lessons
-- The app serves audio from `pipeline/audio/` via the `/api/audio` route — MP3s must be there for playback
+- **Audio must go in `public/audio/`** — the app serves MP3s from there via Howler.js (static files deployed to Vercel). `pipeline/audio/` is gitignored and only exists locally. The `add_songs.py` script copies to both automatically.
 - TTS generation is incremental — `generate_tts.py` only creates clips for new Korean text
 - After adding songs, the dev server picks them up via hot reload — no rebuild needed
 - Song IDs are auto-generated as `artist-title` in lowercase kebab-case

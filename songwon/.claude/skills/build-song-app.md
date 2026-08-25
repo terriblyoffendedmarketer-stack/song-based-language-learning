@@ -58,7 +58,7 @@ For automated selection (no user input), select songs that:
 ## Phase 3: Acquire Content (scripts with AI fallbacks)
 
 **Input**: `selected_songs.json`
-**Output**: `pipeline/audio/*.mp3`, `pipeline/lyrics/*.txt`, `public/data/lyrics/*.txt`
+**Output**: `pipeline/audio/*.mp3` + `public/audio/*.mp3`, `pipeline/lyrics/*.txt`, `public/data/lyrics/*.txt`
 
 ### 3a. Download audio
 
@@ -66,7 +66,11 @@ For automated selection (no user input), select songs that:
 python3 pipeline/download_songs.py
 ```
 
-**Gotcha**: yt-dlp needs `--cookies-from-browser chrome` to avoid YouTube 403 errors. The script handles this. If downloads fail:
+**Gotchas**:
+- yt-dlp needs `--cookies-from-browser chrome` to avoid YouTube 403 errors. The script handles this.
+- **Audio must be in `public/audio/`** — the app serves MP3s from there via Howler.js (static files deployed to Vercel). `pipeline/audio/` is gitignored and only exists locally. Always copy to BOTH directories. `add_songs.py` handles this automatically; `download_songs.py` only writes to `pipeline/audio/`, so after running it you must also copy to `public/audio/`.
+
+If downloads fail:
 1. Check Chrome is installed and user has visited YouTube recently
 2. Try Safari cookies: modify the download_audio call to use `--cookies-from-browser safari`
 3. Search with Korean artist name variants (선미 instead of SUNMI, 아이유 instead of IU)
@@ -305,7 +309,7 @@ If this is a new app (not adding to Songwon):
 2. **Copy the engine**: The lesson engine (`app/learn/v5/`), song practice (`app/songs/[songId]/practice/`), and practice engine (`lib/practice-engine.ts`) are reusable
 3. **Data loading**: `lib/seed-loader.ts` pattern — load JSON from `public/data/`
 4. **TTS API**: `app/api/tts-cached/route.ts` — serves cached MP3s, generates on-demand
-5. **Audio API**: `app/api/audio/route.ts` — streams MP3s with range request support
+5. **Audio serving**: MP3s go in `public/audio/` — served as static files by Next.js / Vercel. The Howler.js player loads `/audio/{songName}.mp3`. There's also `app/api/audio/route.ts` as a fallback that reads from `pipeline/audio/` for local dev, but `public/audio/` is what actually works in production.
 
 ---
 
